@@ -1,0 +1,923 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#1f3a63">
+<title>Simulador Complexivo</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="mobile-web-app-capable" content="yes">
+<style>
+:root{--bg:#f3f5f9;--card:#fff;--ink:#141c28;--mut:#5d6879;--line:#dde3ec;--pri:#1f4e8c;--pri2:#e7effa;--ok:#17794a;--okb:#e5f4eb;--bad:#b0281f;--badb:#fbe8e6;--warn:#8a5a00;--warnb:#fff3d6;--hd:#1f3a63}
+@media (prefers-color-scheme:dark){:root{--bg:#0e131a;--card:#171f2b;--ink:#e7ecf3;--mut:#9aa5b6;--line:#2a3443;--pri:#86b4f0;--pri2:#1b2a3f;--ok:#62cf95;--okb:#12301f;--bad:#ff8f84;--badb:#3a1b19;--warn:#f1b84c;--warnb:#36290f;--hd:#111b2a}}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;-webkit-tap-highlight-color:transparent}
+body{padding-bottom:env(safe-area-inset-bottom)}
+button{font:inherit;color:inherit}
+.top{background:var(--hd);color:#fff;padding:18px 16px 16px;padding-top:calc(18px + env(safe-area-inset-top));position:sticky;top:0;z-index:5;display:flex;align-items:center;gap:12px}
+.top h1{margin:2px 0 0;font-size:22px;letter-spacing:-.01em}
+.kicker{font-size:11px;text-transform:uppercase;letter-spacing:.08em;opacity:.75}
+.top .mid{flex:1;min-width:0}
+.top .mid b{font-size:16px}
+.ic{background:rgba(255,255,255,.12);border:0;border-radius:10px;width:40px;height:40px;font-size:18px;color:#fff}
+.timer{font-variant-numeric:tabular-nums;font-weight:700;font-size:17px;background:rgba(255,255,255,.12);padding:8px 10px;border-radius:10px}
+.timer.low{background:#c0392b}
+.prog{height:4px;background:var(--line)}.prog i{display:block;height:100%;background:var(--pri);transition:width .2s}
+.wrap{max-width:720px;margin:0 auto;padding:16px 16px 110px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px;margin:0 0 14px}
+.card h3{margin:0 0 10px;font-size:16px}
+.warnc{background:var(--warnb);border-color:transparent}
+.warnc p{margin:4px 0 12px;color:var(--mut)}
+.tile{display:flex;flex-direction:column;align-items:flex-start;gap:4px;text-align:left;width:100%;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px;margin:0 0 12px;cursor:pointer}
+.tile.main{background:var(--pri);color:#fff;border:0;padding:20px}
+@media (prefers-color-scheme:dark){.tile.main{color:#0e131a}}
+.tile .tt{font-weight:700;font-size:17px}
+.tile .ds{font-size:13px;opacity:.8}
+.tile:disabled{opacity:.45}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}.grid2 .tile{margin:0}
+.btn{border:1px solid var(--line);background:var(--card);border-radius:12px;padding:12px 14px;font-weight:600;cursor:pointer;min-height:46px}
+.btn.pri{background:var(--pri);border-color:var(--pri);color:#fff}
+@media (prefers-color-scheme:dark){.btn.pri{color:#0e131a}}
+.btn:disabled{opacity:.4}
+.btn.flagon{background:var(--warnb);border-color:var(--warn);color:var(--warn)}
+.row{display:flex;gap:10px;flex-wrap:wrap}.row .btn{flex:1}
+.bar{position:fixed;left:0;right:0;bottom:0;background:var(--card);border-top:1px solid var(--line);padding:10px 12px;padding-bottom:calc(10px + env(safe-area-inset-bottom));display:flex;gap:8px;z-index:6}
+.bar .btn{flex:1}.bar .btn.sq{flex:0 0 52px;padding:0}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 12px}
+.chip{font-size:12px;background:var(--pri2);color:var(--pri);padding:5px 9px;border-radius:999px;font-weight:600}
+.stem{font-size:17px;line-height:1.5;margin:0 0 14px}
+.opt{display:flex;gap:12px;align-items:flex-start;width:100%;text-align:left;background:var(--bg);border:2px solid transparent;border-radius:12px;padding:12px;margin:0 0 10px;cursor:pointer;line-height:1.45;font-size:15.5px}
+.opt .lt{flex:0 0 28px;height:28px;border-radius:50%;background:var(--card);border:1px solid var(--line);display:grid;place-items:center;font-weight:700;font-size:14px}
+.opt.sel{border-color:var(--pri);background:var(--pri2)}.opt.sel .lt{background:var(--pri);color:#fff;border-color:var(--pri)}
+.opt.ok{border-color:var(--ok);background:var(--okb)}.opt.ok .lt{background:var(--ok);color:#fff;border-color:var(--ok)}
+.opt.bad{border-color:var(--bad);background:var(--badb)}.opt.bad .lt{background:var(--bad);color:#fff;border-color:var(--bad)}
+.opt:disabled{cursor:default;color:inherit}
+.verdict{font-weight:700;margin:0 0 10px}.verdict.ok{color:var(--ok)}.verdict.bad{color:var(--bad)}
+.why{border-left:3px solid var(--line);padding:2px 0 2px 10px;margin:0 0 10px;font-size:14.5px;line-height:1.5}
+.why.ok{border-color:var(--ok)}
+.why b{display:block;margin-bottom:2px}
+.meta{width:100%;border-collapse:collapse;font-size:13.5px;margin:6px 0 10px}
+.meta td{padding:6px 0;border-bottom:1px solid var(--line);vertical-align:top}.meta td:first-child{color:var(--mut);width:42%;padding-right:8px}
+.refs{font-size:13px;line-height:1.5;color:var(--mut)}.refs p{margin:0 0 6px;padding-left:1.4em;text-indent:-1.4em;word-break:break-word}
+h4{margin:14px 0 8px;font-size:14px;text-transform:uppercase;letter-spacing:.05em;color:var(--mut)}
+.dist .r{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:14px;margin:8px 0 3px}
+.track{height:8px;background:var(--line);border-radius:6px;overflow:hidden}.track i{display:block;height:100%;background:var(--pri);border-radius:6px}
+.track.g i{background:var(--ok)}.track.y i{background:var(--warn)}.track.rd i{background:var(--bad)}
+.score{text-align:center;padding:24px 16px}
+.score .big{font-size:56px;font-weight:800;letter-spacing:-.03em;line-height:1}
+.score .sub{color:var(--mut);margin-top:6px}
+.note{font-size:13px;color:var(--mut);text-align:center;margin:18px 0}
+.nums{display:grid;grid-template-columns:repeat(auto-fill,minmax(46px,1fr));gap:8px}
+.nums button{height:46px;border-radius:10px;border:1px solid var(--line);background:var(--card);font-weight:700}
+.nums .an{background:var(--pri2);border-color:var(--pri);color:var(--pri)}
+.nums .fl{background:var(--warnb);border-color:var(--warn);color:var(--warn)}
+.nums .cur{outline:3px solid var(--pri)}
+.nums .ok{background:var(--okb);border-color:var(--ok);color:var(--ok)}.nums .bad{background:var(--badb);border-color:var(--bad);color:var(--bad)}
+label.fld{display:block;font-weight:600;font-size:14px;margin:12px 0 6px}
+select,textarea,input[type=number]{width:100%;font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:12px}
+textarea{min-height:150px;font-family:ui-monospace,Menlo,monospace;font-size:12.5px}
+pre{white-space:pre-wrap;word-break:break-word;background:var(--bg);border-radius:10px;padding:12px;font-size:12px;line-height:1.45;overflow:auto}
+.chk{display:flex;gap:10px;align-items:center;padding:10px 0;border-bottom:1px solid var(--line);font-size:15px}
+.chk input{width:22px;height:22px}
+.hist{display:flex;justify-content:space-between;gap:10px;padding:10px 0;border-bottom:1px solid var(--line);font-size:14px}
+.hist:last-child{border:0}
+.pill{font-weight:800}
+.muted{color:var(--mut)}
+.seg{display:flex;gap:8px;margin:0 0 14px}.seg .btn{flex:1;padding:10px}.seg .btn.on{background:var(--pri2);border-color:var(--pri);color:var(--pri)}
+.sync{display:flex;align-items:center;gap:10px;font-size:13px;color:var(--mut);background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px;margin:0 0 14px}
+.sync .dot{flex:0 0 9px;height:9px;border-radius:50%;background:var(--mut)}
+.sync .dot.on{background:var(--ok)}.sync .dot.off{background:var(--warn)}.sync .dot.busy{background:var(--pri);animation:pl 1s infinite}
+@keyframes pl{50%{opacity:.3}}
+.sync span{flex:1}.sync button{border:0;background:none;color:var(--pri);font-weight:700;padding:4px}
+.toast{position:fixed;left:16px;right:16px;bottom:calc(84px + env(safe-area-inset-bottom));background:var(--ink);color:var(--bg);padding:14px 16px;border-radius:12px;font-weight:600;z-index:20;box-shadow:0 6px 24px rgba(0,0,0,.25);text-align:center}
+input[type=url]{width:100%;font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:12px}
+.pk{display:flex;justify-content:space-between;gap:8px;font-size:13.5px;padding:8px 0;border-bottom:1px solid var(--line)}.pk:last-child{border:0}
+</style>
+</head>
+<body>
+<div id="app"></div>
+<script>
+const BIB={
+CRE:"Asamblea Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449, 20 de octubre de 2008. https://www.asambleanacional.gob.ec/",
+LOGJCC:"Asamblea Nacional del Ecuador. (2009). Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional. Registro Oficial Segundo Suplemento 52, 22 de octubre de 2009. https://www.corteconstitucional.gob.ec/",
+COA:"Asamblea Nacional del Ecuador. (2017). Código Orgánico Administrativo. Registro Oficial Segundo Suplemento 31, 7 de julio de 2017. https://www.registroficial.gob.ec/",
+COIP:"Asamblea Nacional del Ecuador. (2014). Código Orgánico Integral Penal. Registro Oficial Suplemento 180, 10 de febrero de 2014. https://www.registroficial.gob.ec/",
+COGEP:"Asamblea Nacional del Ecuador. (2015). Código Orgánico General de Procesos. Registro Oficial Suplemento 506, 22 de mayo de 2015. https://www.funcionjudicial.gob.ec/",
+LAM:"Congreso Nacional del Ecuador. (2006). Ley de Arbitraje y Mediación (Codificación). Registro Oficial 417, 14 de diciembre de 2006. https://www.registroficial.gob.ec/",
+CC:"Congreso Nacional del Ecuador. (2005). Código Civil (Codificación). Registro Oficial Suplemento 46, 24 de junio de 2005. https://www.registroficial.gob.ec/",
+CONA:"Congreso Nacional del Ecuador. (2003). Código de la Niñez y Adolescencia. Registro Oficial 737, 3 de enero de 2003. https://www.registroficial.gob.ec/",
+CT:"Congreso Nacional del Ecuador. (2005). Código del Trabajo (Codificación). Registro Oficial Suplemento 167, 16 de diciembre de 2005. https://www.trabajo.gob.ec/",
+CTRIB:"Congreso Nacional del Ecuador. (2005). Código Tributario (Codificación). Registro Oficial Suplemento 38, 14 de junio de 2005. https://www.sri.gob.ec/",
+LC:"Congreso Nacional del Ecuador. (1999). Ley de Compañías (Codificación). Registro Oficial 312, 5 de noviembre de 1999. https://www.supercias.gob.ec/",
+LOEI:"Asamblea Nacional del Ecuador. (2020). Ley Orgánica de Emprendimiento e Innovación. Registro Oficial Suplemento 151, 28 de febrero de 2020. https://www.supercias.gob.ec/",
+CADH:"Organización de los Estados Americanos. (1969). Convención Americana sobre Derechos Humanos. https://www.oas.org/dil/esp/tratados_b-32_convencion_americana_sobre_derechos_humanos.htm",
+ALM:"Corte Interamericana de Derechos Humanos. (2006). Caso Almonacid Arellano y otros vs. Chile (Serie C No. 154). https://www.corteidh.or.cr/docs/casos/articulos/seriec_154_esp.pdf",
+SR:"Corte Interamericana de Derechos Humanos. (1997). Caso Suárez Rosero vs. Ecuador (Serie C No. 35). https://www.corteidh.or.cr/docs/casos/articulos/seriec_35_esp.pdf",
+CC1158:"Corte Constitucional del Ecuador. (2021). Sentencia No. 1158-17-EP/21 (garantía de motivación). https://www.corteconstitucional.gob.ec/",
+BUST:"Convención de Derecho Internacional Privado [Código de Bustamante]. (1928). La Habana. https://www.oas.org/juridico/spanish/tratados/a-31.html",
+HCCH:"Conferencia de La Haya de Derecho Internacional Privado. (1961). Convenio por el que se suprime el requisito de legalización de los documentos públicos extranjeros. https://www.hcch.net/es/instruments/conventions/full-text/?cid=41"
+};
+
+/* Cada ítem: la opción correcta es la primera (o[0]); la app baraja el orden al presentarlas. */
+const Q=[
+/* ===== ÁREA 1: Constitucional, DD. HH. y Administrativo ===== */
+{id:"A1-01",a:1,s:"Derecho Constitucional",t:"Acción extraordinaria de protección",ra:"Determina la garantía jurisdiccional y el término procedente frente a decisiones judiciales que vulneran derechos constitucionales.",d:"Aplicar",
+q:"Una sentencia de segunda instancia, ya ejecutoriada, se dictó sin que se permitiera a la parte demandada practicar su prueba de descargo. ¿Qué garantía procede y en qué término debe interponerse?",
+o:[["Acción extraordinaria de protección, dentro del término de veinte días desde la notificación de la decisión, presentada ante la judicatura que la dictó para su remisión a la Corte Constitucional.","Correcta. Procede contra sentencias y autos definitivos que vulneren derechos constitucionales (art. 94 CRE); el término es de veinte días (art. 60 LOGJCC) y se presenta ante la judicatura que dictó la decisión (art. 62 LOGJCC)."],
+["Acción de protección ante una jueza de primer nivel, sin término de caducidad.","Incorrecta. La acción de protección es improcedente contra providencias judiciales (art. 42 num. 6 LOGJCC)."],
+["Recurso de casación ante la Corte Nacional de Justicia, dentro de treinta días.","Incorrecta. La casación es un recurso extraordinario de legalidad, no una garantía jurisdiccional de derechos constitucionales."],
+["Acción de hábeas data ante la Corte Provincial, dentro de diez días.","Incorrecta. El hábeas data tutela el acceso y la rectificación de datos personales (art. 92 CRE), no el derecho a la defensa en un proceso."]],r:["CRE","LOGJCC"]},
+
+{id:"A1-02",a:1,s:"Derecho Constitucional",t:"Hábeas corpus",ra:"Identifica la garantía idónea frente a privaciones de libertad ilegales y sus plazos constitucionales.",d:"Aplicar",
+q:"Una persona es detenida por agentes policiales sin orden judicial ni flagrancia y permanece incomunicada. Su familia busca su liberación inmediata. ¿Qué garantía procede y en qué plazo debe realizarse la audiencia?",
+o:[["Hábeas corpus; la audiencia debe realizarse dentro de las veinticuatro horas siguientes a la presentación de la acción.","Correcta. El hábeas corpus busca recuperar la libertad de quien se halla privado de ella de forma ilegal, arbitraria o ilegítima, y la audiencia se convoca dentro de las 24 horas (art. 89 CRE)."],
+["Acción de protección; la audiencia debe realizarse dentro de los tres días siguientes.","Incorrecta. La acción de protección no procede cuando existe una garantía específica; la privación ilegal de libertad se tutela por hábeas corpus."],
+["Acción por incumplimiento, previo reclamo de cuarenta días a la autoridad.","Incorrecta. Esta acción garantiza la aplicación de normas y sentencias de organismos internacionales (art. 93 CRE)."],
+["Acción extraordinaria de protección ante la Corte Constitucional.","Incorrecta. Requiere una sentencia o auto definitivo que vulnere derechos (art. 94 CRE)."]],r:["CRE","LOGJCC"]},
+
+{id:"A1-03",a:1,s:"Derecho Constitucional",t:"Jerarquía normativa",ra:"Resuelve antinomias aplicando el orden jerárquico del artículo 425 de la Constitución.",d:"Analizar",
+q:"Un juez constata una contradicción entre una ley orgánica y un tratado internacional ratificado por el Ecuador en materia comercial (no relativo a derechos humanos). Según el artículo 425 de la Constitución, ¿qué norma prevalece?",
+o:[["El tratado internacional, que se ubica inmediatamente después de la Constitución y por encima de las leyes orgánicas.","Correcta. El art. 425 CRE ordena: Constitución; tratados y convenios internacionales; leyes orgánicas; leyes ordinarias, etc. Ante conflicto entre normas de distinta jerarquía se aplica la superior."],
+["La ley orgánica, por haber sido aprobada con mayoría absoluta de la Asamblea Nacional.","Incorrecta. La mayoría calificada del art. 133 CRE no coloca a la ley orgánica sobre los tratados."],
+["La norma posterior en el tiempo, sin importar su jerarquía.","Incorrecta. El criterio cronológico opera entre normas de igual jerarquía; entre distinta jerarquía rige el criterio jerárquico (art. 425 inc. 2 CRE)."],
+["Ninguna: el juez debe suspender la causa y consultar a la Asamblea Nacional.","Incorrecta. La consulta de constitucionalidad se eleva a la Corte Constitucional (art. 428 CRE), no a la Asamblea."]],r:["CRE"]},
+
+{id:"A1-04",a:1,s:"Derecho Constitucional",t:"Aplicación directa de los derechos",ra:"Aplica los principios de aplicación de los derechos del artículo 11 de la Constitución.",d:"Evaluar",
+q:"Una jueza niega tutelar un derecho reconocido en la Constitución argumentando que aún no se ha expedido la ley que lo desarrolle. Esta decisión:",
+o:[["Contraviene la Constitución, porque los derechos son de directa e inmediata aplicación y no puede alegarse falta de norma jurídica para justificar su violación o desconocimiento.","Correcta. Así lo dispone el art. 11 num. 3 CRE, reforzado por el art. 426 CRE sobre la aplicación directa de las normas constitucionales."],
+["Es válida, porque los derechos programáticos requieren desarrollo legislativo previo.","Incorrecta. La Constitución no condiciona la exigibilidad de los derechos a su desarrollo legal (art. 11 num. 3 CRE)."],
+["Es válida solo si el derecho no consta en instrumentos internacionales.","Incorrecta. La aplicación directa abarca por igual los derechos de la Constitución y de los instrumentos internacionales."],
+["Obliga a la jueza a remitir el caso a la Defensoría del Pueblo.","Incorrecta. No existe tal remisión; la jueza está obligada a resolver aplicando directamente la Constitución."]],r:["CRE"]},
+
+{id:"A1-05",a:1,s:"Derechos Humanos",t:"Control de convencionalidad",ra:"Reconoce el origen y alcance del control de convencionalidad en el Sistema Interamericano.",d:"Recordar",
+q:"La obligación de los jueces nacionales de verificar la compatibilidad de las normas internas con la Convención Americana, considerando también la interpretación de la Corte Interamericana, fue formulada expresamente en:",
+o:[["El caso Almonacid Arellano y otros vs. Chile (2006), bajo la denominación de control de convencionalidad.","Correcta. En este fallo la Corte IDH sostuvo que el Poder Judicial debe ejercer un control de convencionalidad entre las normas internas y la Convención Americana."],
+["El caso Marbury vs. Madison (1803), como control difuso de convencionalidad.","Incorrecta. Marbury es el precedente fundacional del control judicial de constitucionalidad en Estados Unidos, no del sistema interamericano."],
+["La jurisprudencia del Tribunal Europeo de Derechos Humanos, bajo la doctrina del margen de apreciación nacional.","Incorrecta. El margen de apreciación es una doctrina europea de deferencia a los Estados, distinta del control de convencionalidad."],
+["El caso Suárez Rosero vs. Ecuador (1997), como principio de subsidiariedad.","Incorrecta. Ese caso trató la detención incomunicada y la prisión preventiva prolongada."]],r:["ALM","CADH"]},
+
+{id:"A1-06",a:1,s:"Derechos Humanos",t:"Jurisprudencia interamericana sobre Ecuador",ra:"Identifica los hechos y derechos vulnerados en casos contenciosos contra el Ecuador.",d:"Comprender",
+q:"En el caso Suárez Rosero vs. Ecuador (1997), la Corte Interamericana declaró la responsabilidad internacional del Estado principalmente por:",
+o:[["La detención incomunicada y la prisión preventiva prolongada, así como una norma interna que excluía a los procesados por delitos de drogas de beneficios procesales.","Correcta. La Corte declaró violados los derechos a la integridad, libertad personal, garantías judiciales y protección judicial, además del deber de adecuar el derecho interno (arts. 5, 7, 8, 25 y 2 CADH)."],
+["La desaparición forzada de la víctima por agentes militares.","Incorrecta. En el caso no hubo desaparición forzada."],
+["La falta de consulta previa a una comunidad indígena.","Incorrecta. Esa temática corresponde al caso Pueblo Indígena Kichwa de Sarayaku vs. Ecuador (2012)."],
+["La destitución arbitraria de magistrados de altas cortes.","Incorrecta. Corresponde a otros casos, como Camba Campos y otros vs. Ecuador y Quintana Coello y otros vs. Ecuador (2013)."]],r:["SR","CADH"]},
+
+{id:"A1-07",a:1,s:"Derecho Constitucional",t:"Garantía de motivación",ra:"Evalúa la validez de resoluciones a la luz del estándar constitucional de motivación.",d:"Evaluar",
+q:"Una resolución judicial transcribe normas jurídicas pero no explica la pertinencia de su aplicación a los antecedentes de hecho. Según el artículo 76, numeral 7, literal l) de la Constitución, la resolución:",
+o:[["Se considera nula por falta de motivación, y las servidoras o servidores responsables serán sancionados.","Correcta. La norma exige enunciar las normas o principios y explicar su pertinencia a los hechos; la Corte Constitucional (Sentencia 1158-17-EP/21) exige una fundamentación normativa y fáctica suficiente."],
+["Es válida mientras la parte resolutiva sea clara y ejecutable.","Incorrecta. La claridad del decisorio no suple la ausencia de justificación."],
+["Solo puede corregirse mediante recurso de aclaración.","Incorrecta. La aclaración resuelve oscuridad del fallo; no subsana la falta de motivación."],
+["Es anulable únicamente si la parte afectada lo alega dentro de cuatro años.","Incorrecta. Confunde la garantía constitucional con el régimen civil de la nulidad relativa."]],r:["CRE","CC1158"]},
+
+{id:"A1-08",a:1,s:"Derecho Administrativo",t:"Acto administrativo",ra:"Distingue los requisitos de validez del acto administrativo de sus condiciones de eficacia.",d:"Recordar",
+q:"Según el Código Orgánico Administrativo, los requisitos de validez del acto administrativo son:",
+o:[["Competencia, objeto, voluntad, procedimiento y motivación.","Correcta. Son los requisitos enumerados en el art. 99 COA."],
+["Competencia, notificación, publicidad, ejecutoriedad y motivación.","Incorrecta. La notificación es condición de eficacia del acto (art. 101 COA), no de validez."],
+["Capacidad, consentimiento, objeto lícito y causa lícita.","Incorrecta. Son los requisitos civiles para obligarse (art. 1461 Código Civil)."],
+["Legalidad, oportunidad, proporcionalidad y gratuidad.","Incorrecta. Son principios de la actuación administrativa, no requisitos de validez."]],r:["COA"]},
+
+{id:"A1-09",a:1,s:"Derecho Administrativo",t:"Silencio administrativo",ra:"Aplica los efectos del silencio administrativo en el procedimiento administrativo.",d:"Aplicar",
+q:"Una ciudadana presenta una solicitud de permiso de funcionamiento ante un gobierno autónomo descentralizado y vence el término legal sin respuesta. Según el Código Orgánico Administrativo, por regla general:",
+o:[["Opera el silencio administrativo positivo: la petición se entiende aprobada y el acto presunto puede hacerse valer, salvo excepciones legales.","Correcta. El art. 207 COA fija un término de treinta días, vencido el cual la petición se entiende aprobada."],
+["Se entiende negada la petición y procede el recurso de apelación.","Incorrecta. El silencio negativo no es la regla general en el COA."],
+["La ciudadana debe esperar noventa días y presentar acción de protección.","Incorrecta. No existe ese plazo; la ley prevé el acto presunto favorable."],
+["La petición caduca y debe presentarse nuevamente.","Incorrecta. La inacción administrativa no hace caducar la petición del administrado."]],r:["COA"]},
+
+{id:"A1-10",a:1,s:"Derecho Administrativo",t:"Principio de legalidad",ra:"Evalúa actuaciones públicas a la luz del principio de legalidad.",d:"Evaluar",
+q:"Un director de una entidad pública impone a un servidor una sanción no prevista en ninguna norma, argumentando que la ley tampoco la prohíbe. Esta actuación:",
+o:[["Vulnera el principio de legalidad, porque las instituciones del Estado y sus servidores solo ejercen las competencias y facultades que les atribuyen la Constitución y la ley.","Correcta. Lo dispone el art. 226 CRE; además, nadie puede ser sancionado por conducta no tipificada como infracción (art. 76 num. 3 CRE)."],
+["Es válida por el principio de autonomía de la voluntad.","Incorrecta. La regla de que lo no prohibido está permitido rige para los particulares, no para el poder público."],
+["Es válida como ejercicio de discrecionalidad administrativa.","Incorrecta. La discrecionalidad requiere habilitación normativa previa y no permite crear sanciones."],
+["Es válida si la sanción se publica en el Registro Oficial.","Incorrecta. La publicación no suple la falta de competencia ni de tipificación legal."]],r:["CRE","COA"]},
+
+{id:"A1-11",a:1,s:"Derecho Constitucional",t:"Imprescriptibilidad",ra:"Identifica los delitos contra la administración pública con régimen constitucional especial.",d:"Recordar",
+q:"Según el artículo 233 de la Constitución, ¿qué delitos tienen acciones y penas imprescriptibles y permiten iniciar y continuar el juicio aun en ausencia de la persona acusada?",
+o:[["Peculado, cohecho, concusión y enriquecimiento ilícito.","Correcta. Es el catálogo del art. 233 CRE, referido a delitos contra la administración pública."],
+["Estafa, abuso de confianza, lavado de activos y defraudación tributaria.","Incorrecta. Ninguno integra el catálogo del art. 233 CRE."],
+["Genocidio, lesa humanidad, crímenes de guerra y desaparición forzada.","Incorrecta. Son imprescriptibles por el art. 80 CRE, pero no constituyen el catálogo del art. 233."],
+["Homicidio, asesinato, sicariato y secuestro.","Incorrecta. Estos delitos tienen el régimen ordinario de prescripción del COIP."]],r:["CRE"]},
+
+{id:"A1-12",a:1,s:"Derecho Administrativo",t:"Responsabilidad del Estado",ra:"Comprende la responsabilidad objetiva del Estado y el derecho de repetición.",d:"Comprender",
+q:"El Estado es condenado a reparar a una persona por error judicial imputable a un juez. Según el artículo 11, numeral 9 de la Constitución, el Estado:",
+o:[["Debe ejercer de forma inmediata el derecho de repetición contra las personas responsables del daño, sin perjuicio de sus responsabilidades civiles, penales y administrativas.","Correcta. El Estado responde frente a la víctima por error judicial, retardo injustificado o inadecuada administración de justicia, y luego repite contra los responsables."],
+["Queda exonerado si demuestra que el juez actuó sin dolo.","Incorrecta. La responsabilidad del Estado frente al afectado no depende del dolo del servidor."],
+["Solo repara si el juez es condenado penalmente antes.","Incorrecta. La reparación no está condicionada a una condena penal previa."],
+["Debe trasladar la obligación de pago directamente al juez.","Incorrecta. El Estado repara primero; la repetición es una acción posterior."]],r:["CRE"]},
+
+/* ===== ÁREA 2: Penal y Procesal Penal ===== */
+{id:"A2-01",a:2,s:"Derecho Penal (parte general)",t:"Infracción penal",ra:"Identifica los elementos dogmáticos de la infracción penal en el COIP.",d:"Recordar",
+q:"Según el Código Orgánico Integral Penal, la infracción penal es:",
+o:[["La conducta típica, antijurídica y culpable cuya sanción se encuentra prevista en el COIP.","Correcta. Es la definición del art. 18 COIP."],
+["Todo acto imputable sancionado por las leyes penales.","Incorrecta. Es una fórmula propia de la legislación derogada que omite los elementos dogmáticos del COIP."],
+["Toda conducta contraria al orden público, aunque no esté tipificada.","Incorrecta. Vulnera el principio de legalidad (art. 76 num. 3 CRE; art. 5 num. 1 COIP)."],
+["La conducta típica y punible, aunque no sea culpable.","Incorrecta. Sin culpabilidad no hay infracción penal (arts. 18 y 34 COIP)."]],r:["COIP","CRE"]},
+
+{id:"A2-02",a:2,s:"Derecho Penal (parte general)",t:"Clasificación de las infracciones",ra:"Distingue delitos y contravenciones según la pena.",d:"Comprender",
+q:"Según el COIP, las contravenciones se distinguen de los delitos porque:",
+o:[["Se sancionan con pena no privativa de libertad o privativa de libertad de hasta treinta días.","Correcta. Así lo establece el art. 19 COIP."],
+["Se sancionan con pena privativa de libertad de hasta un año.","Incorrecta. Una pena de más de treinta días corresponde a un delito."],
+["Son siempre conductas culposas.","Incorrecta. La distinción no se basa en el dolo o la culpa sino en la pena."],
+["Solo admiten ejercicio privado de la acción.","Incorrecta. El ejercicio privado se limita a los delitos del art. 415 COIP."]],r:["COIP"]},
+
+{id:"A2-03",a:2,s:"Derecho Penal (parte general)",t:"Legítima defensa",ra:"Aplica las causas de exclusión de la antijuridicidad a un caso concreto.",d:"Aplicar",
+q:"Andrés es atacado con un cuchillo por un desconocido; sin haberlo provocado, lo empuja con fuerza y el agresor se lesiona al caer. Según el COIP, la conducta de Andrés:",
+o:[["Carece de antijuridicidad por legítima defensa, al concurrir agresión actual e ilegítima, necesidad racional de la defensa y falta de provocación suficiente.","Correcta. Son los requisitos del art. 33 COIP; la legítima defensa excluye la antijuridicidad (art. 30 COIP)."],
+["Es típica y antijurídica, pero no culpable por miedo insuperable.","Incorrecta. La legítima defensa opera en la antijuridicidad, no en la culpabilidad."],
+["Es delictiva con atenuante, porque la defensa debe emplear el mismo medio que el agresor.","Incorrecta. La ley exige necesidad racional del medio, no identidad de medios."],
+["Es un estado de necesidad que solo protege bienes patrimoniales.","Incorrecta. El estado de necesidad (art. 32 COIP) no parte de una agresión ilegítima y no se limita a bienes patrimoniales."]],r:["COIP"]},
+
+{id:"A2-04",a:2,s:"Derecho Penal (parte general)",t:"Tentativa",ra:"Determina la pena aplicable a los delitos en grado de tentativa.",d:"Aplicar",
+q:"Mario dispara contra su vecino con intención de matarlo, pero no lo alcanza por la intervención de un tercero. En la tentativa, el COIP dispone que se imponga:",
+o:[["Una pena de un tercio a dos tercios de la que correspondería si el delito se hubiera consumado.","Correcta. Lo dispone el art. 39 COIP para actos idóneos que no logran consumarse por circunstancias ajenas a la voluntad del autor."],
+["La misma pena del delito consumado.","Incorrecta. La ley prevé una pena reducida para la tentativa."],
+["Ninguna pena, porque no se produjo resultado.","Incorrecta. La tentativa es punible en los delitos dolosos."],
+["Siempre la mitad de la pena del delito consumado.","Incorrecta. La ley fija un rango (de un tercio a dos tercios), no una fracción única."]],r:["COIP"]},
+
+{id:"A2-05",a:2,s:"Derecho Penal (parte general)",t:"Autoría y participación",ra:"Clasifica las formas de participación penal reconocidas en el COIP.",d:"Analizar",
+q:"Un adulto ordena a un adolescente de quince años sustraer un teléfono celular, valiéndose de su ascendencia sobre él. Según el COIP, el adulto responde como:",
+o:[["Autor mediato, por ordenar la comisión de la infracción valiéndose de otra persona, imputable o no.","Correcta. Es un supuesto de autoría mediata del art. 42 num. 2 COIP; el adolescente queda sujeto al régimen especial (art. 38 COIP)."],
+["Cómplice, porque no ejecutó materialmente el hecho.","Incorrecta. El cómplice coopera con actos secundarios (art. 43 COIP); aquí el adulto domina el hecho."],
+["Encubridor.","Incorrecta. El COIP solo reconoce como formas de participación la autoría y la complicidad (art. 41 COIP)."],
+["No responde, porque el ejecutor es inimputable.","Incorrecta. La inimputabilidad del ejecutor no excluye la responsabilidad del autor mediato."]],r:["COIP"]},
+
+{id:"A2-06",a:2,s:"Derecho Penal (parte general)",t:"Culpa",ra:"Diferencia el dolo, la preterintención y la culpa en casos concretos.",d:"Analizar",
+q:"Una médica, al no aplicar los protocolos exigibles, causa la muerte de un paciente sin intención de dañarlo. Según el COIP, su conducta es:",
+o:[["Culposa, porque infringió el deber objetivo de cuidado que personalmente le correspondía y produjo un resultado dañoso.","Correcta. Es la definición de culpa del art. 27 COIP; el art. 146 COIP tipifica el homicidio culposo por mala práctica profesional."],
+["Dolosa, porque toda muerte causada por un profesional se presume intencional.","Incorrecta. El dolo exige designio de causar daño (art. 26 COIP) y no se presume."],
+["Atípica, porque solo se sancionan las conductas dolosas.","Incorrecta. La culpa es punible cuando está tipificada como infracción (art. 27 COIP)."],
+["Preterintencional, porque quiso causar un resultado menor.","Incorrecta. La preterintención exige voluntad de causar un daño menor; aquí no hubo intención de dañar."]],r:["COIP"]},
+
+{id:"A2-07",a:2,s:"Derecho Penal (parte especial)",t:"Robo y hurto",ra:"Subsume hechos en los tipos de delitos contra la propiedad.",d:"Aplicar",
+q:"Durante la noche, Luis rompe la ventana de un vehículo estacionado, sin ocupantes, y se apodera de una computadora portátil. ¿Qué infracción comete según el COIP?",
+o:[["Robo, porque el apoderamiento se produjo con fuerza en las cosas.","Correcta. El art. 189 COIP sanciona el robo cometido con violencia, amenaza o fuerza en las cosas."],
+["Hurto, porque no hubo violencia contra las personas.","Incorrecta. El hurto (art. 196 COIP) supone apoderamiento sin violencia, amenaza ni fuerza en las cosas."],
+["Únicamente daño a bien ajeno.","Incorrecta. La rotura fue el medio para la sustracción, que es la conducta principal."],
+["Abigeato.","Incorrecta. El abigeato recae sobre ganado."]],r:["COIP"]},
+
+{id:"A2-08",a:2,s:"Derecho Procesal Penal",t:"Ejercicio de la acción penal",ra:"Distingue los delitos de ejercicio público y privado de la acción.",d:"Recordar",
+q:"¿Cuál de las siguientes infracciones es de ejercicio privado de la acción penal según el COIP?",
+o:[["Calumnia.","Correcta. Figura en el catálogo del art. 415 COIP junto con usurpación, estupro y ciertas lesiones de hasta treinta días."],
+["Estafa.","Incorrecta. Es de ejercicio público, a cargo de la Fiscalía."],
+["Lesiones de hasta treinta días producidas en un contexto de violencia contra la mujer o miembros del núcleo familiar.","Incorrecta. El art. 415 COIP excluye expresamente estos casos del ejercicio privado."],
+["Peculado.","Incorrecta. Es de ejercicio público y además imprescriptible (art. 233 CRE)."]],r:["COIP"]},
+
+{id:"A2-09",a:2,s:"Derecho Procesal Penal",t:"Prisión preventiva",ra:"Verifica los requisitos legales de la prisión preventiva.",d:"Comprender",
+q:"Para ordenar la prisión preventiva, el COIP exige, entre otros requisitos, que:",
+o:[["La infracción esté sancionada con pena privativa de libertad superior a un año y existan indicios de que las medidas no privativas de libertad son insuficientes.","Correcta. Son requisitos del art. 534 COIP, junto con los elementos de convicción sobre el delito y la participación."],
+["La infracción esté sancionada con pena superior a cinco años.","Incorrecta. El umbral legal es una pena superior a un año."],
+["La persona procesada tenga antecedentes penales.","Incorrecta. No es un requisito legal."],
+["La Fiscalía la solicite por la alarma social que causó el hecho.","Incorrecta. La alarma social no es criterio legal; la prisión preventiva es excepcional (art. 77 num. 1 CRE)."]],r:["COIP","CRE"]},
+
+{id:"A2-10",a:2,s:"Derecho Procesal Penal",t:"Caducidad de la prisión preventiva",ra:"Aplica los plazos constitucionales y legales de caducidad de la prisión preventiva.",d:"Aplicar",
+q:"Una persona procesada por un delito sancionado con pena de hasta cinco años permanece siete meses en prisión preventiva sin sentencia, sin dilaciones atribuibles a ella. ¿Qué ocurre?",
+o:[["La prisión preventiva caducó al exceder seis meses y la persona debe recuperar su libertad.","Correcta. Lo disponen el art. 77 num. 9 CRE y el art. 541 COIP (seis meses para delitos de hasta cinco años)."],
+["No ha caducado, porque el plazo es de un año.","Incorrecta. El plazo de un año aplica a delitos sancionados con más de cinco años."],
+["No caduca mientras el proceso siga activo.","Incorrecta. La caducidad es una garantía constitucional."],
+["Se convierte automáticamente en arresto domiciliario.","Incorrecta. La ley no prevé esa conversión automática."]],r:["CRE","COIP"]},
+
+{id:"A2-11",a:2,s:"Derecho Procesal Penal",t:"Etapas del proceso",ra:"Identifica la estructura del procedimiento penal ordinario.",d:"Recordar",
+q:"Según el COIP, el procedimiento penal ordinario se desarrolla en las siguientes etapas:",
+o:[["Instrucción; evaluación y preparatoria de juicio; y juicio.","Correcta. Son las tres etapas del art. 589 COIP."],
+["Investigación previa, instrucción y juicio.","Incorrecta. La investigación previa es una fase preprocesal (art. 580 COIP), no una etapa."],
+["Indagación, instrucción fiscal, etapa intermedia y plenario.","Incorrecta. Es una estructura propia del Código de Procedimiento Penal derogado."],
+["Instrucción, juicio e impugnación.","Incorrecta. La impugnación no es una etapa del procedimiento ordinario."]],r:["COIP"]},
+
+{id:"A2-12",a:2,s:"Derecho Procesal Penal",t:"Flagrancia",ra:"Aplica los plazos de la audiencia de calificación de flagrancia.",d:"Recordar",
+q:"Una persona es aprehendida en delito flagrante. ¿En qué plazo debe realizarse la audiencia de calificación de flagrancia?",
+o:[["Dentro de las veinticuatro horas siguientes a la aprehensión.","Correcta. Lo disponen el art. 77 num. 1 CRE y el art. 529 COIP."],
+["Dentro de cuarenta y ocho horas.","Incorrecta. Excede el plazo constitucional."],
+["Dentro de setenta y dos horas.","Incorrecta. Excede el plazo constitucional."],
+["Dentro de ocho días.","Incorrecta. Excede ampliamente el plazo constitucional."]],r:["CRE","COIP"]},
+
+{id:"A2-13",a:2,s:"Derecho Procesal Penal",t:"Procedimiento abreviado",ra:"Determina la procedencia de los procedimientos especiales del COIP.",d:"Analizar",
+q:"En un proceso por un delito cuya pena máxima es de siete años, la defensa evalúa el procedimiento abreviado. Según el COIP:",
+o:[["Procede en infracciones con pena máxima de hasta diez años, con consentimiento expreso de la persona procesada que admite el hecho, y la propuesta puede presentarse desde la formulación de cargos hasta la audiencia preparatoria de juicio.","Correcta. Son las reglas del art. 635 COIP."],
+["Solo procede en delitos flagrantes de hasta cinco años.","Incorrecta. Confunde el abreviado con el procedimiento directo (art. 640 COIP)."],
+["Permite al juez imponer una pena mayor a la sugerida por la Fiscalía.","Incorrecta. La pena no puede ser superior a la sugerida por la Fiscalía."],
+["Procede sin aceptación de la persona procesada si la Fiscalía tiene prueba suficiente.","Incorrecta. El consentimiento libre y la admisión del hecho son indispensables."]],r:["COIP"]},
+
+{id:"A2-14",a:2,s:"Derecho Procesal Penal",t:"Recurso de casación",ra:"Determina la naturaleza y límites del recurso de casación penal.",d:"Evaluar",
+q:"La defensa interpone casación pidiendo a la Corte Nacional que vuelva a valorar los testimonios practicados en juicio. ¿Es procedente?",
+o:[["No, porque la casación procede por violación de la ley en la sentencia y no se admiten pedidos tendientes a volver a valorar la prueba.","Correcta. Así lo dispone el art. 656 COIP."],
+["Sí, porque la casación es una tercera instancia.","Incorrecta. La casación es un recurso extraordinario de derecho, no una instancia."],
+["Sí, si los testimonios fueron contradictorios.","Incorrecta. La contradicción en la prueba no habilita su revaloración en casación."],
+["Solo si lo autoriza el tribunal de juicio.","Incorrecta. No existe tal autorización."]],r:["COIP"]},
+
+{id:"A2-15",a:2,s:"Derecho Procesal Penal",t:"Prueba ilícita",ra:"Aplica el principio de exclusión probatoria.",d:"Evaluar",
+q:"La Fiscalía pretende introducir en juicio una grabación de comunicaciones privadas del procesado obtenida sin autorización judicial. Según la Constitución y el COIP:",
+o:[["Carece de validez y eficacia probatoria por haberse obtenido con violación de la Constitución o la ley, y debe excluirse.","Correcta. Lo disponen el art. 76 num. 4 CRE y el principio de exclusión del art. 454 num. 6 COIP."],
+["Es válida si demuestra la verdad de los hechos.","Incorrecta. La búsqueda de la verdad no legitima la prueba obtenida con violación de derechos."],
+["Es válida si se somete a cadena de custodia.","Incorrecta. La cadena de custodia asegura la integridad del elemento, no subsana su ilicitud de origen."],
+["Su admisión depende de que la defensa no la objete.","Incorrecta. La exclusión de la prueba ilícita no depende de la objeción de las partes."]],r:["CRE","COIP"]},
+
+/* ===== ÁREA 3: Procesal y Métodos Alternativos ===== */
+{id:"A3-01",a:3,s:"Derecho Procesal (COGEP)",t:"Procedimiento monitorio",ra:"Selecciona la vía procesal idónea según la naturaleza de la pretensión.",d:"Aplicar",
+q:"Un carpintero reclama USD 3.000 por muebles entregados. La deuda es determinada, líquida, exigible y de plazo vencido, pero solo tiene una factura no aceptada y correos del cliente, sin título ejecutivo. ¿Qué procedimiento del COGEP es idóneo?",
+o:[["El procedimiento monitorio.","Correcta. Procede para deudas dinerarias líquidas, exigibles y de plazo vencido que no excedan de cincuenta salarios básicos unificados y carezcan de título ejecutivo (art. 356 COGEP)."],
+["El procedimiento ejecutivo.","Incorrecta. Requiere un título ejecutivo (art. 347 COGEP)."],
+["El procedimiento sumario.","Incorrecta. No es la vía prevista para el cobro de deudas dinerarias en estas condiciones."],
+["El procedimiento ordinario obligatorio por superar USD 2.000.","Incorrecta. No existe esa regla de cuantía; el monitorio es la vía específica."]],r:["COGEP"]},
+
+{id:"A3-02",a:3,s:"Derecho Procesal (COGEP)",t:"Títulos ejecutivos y de ejecución",ra:"Distingue títulos ejecutivos de títulos de ejecución.",d:"Comprender",
+q:"¿Cuál de los siguientes documentos es un título ejecutivo, y no un título de ejecución, según el COGEP?",
+o:[["Un pagaré a la orden.","Correcta. Figura entre los títulos ejecutivos del art. 347 COGEP, que se tramitan en procedimiento ejecutivo."],
+["Una sentencia ejecutoriada.","Incorrecta. Es título de ejecución (art. 363 COGEP)."],
+["Un acta de mediación.","Incorrecta. Es título de ejecución (art. 363 COGEP)."],
+["Un laudo arbitral.","Incorrecta. Es título de ejecución (art. 363 COGEP)."]],r:["COGEP"]},
+
+{id:"A3-03",a:3,s:"Derecho Procesal (COGEP)",t:"Carga de la prueba",ra:"Aplica las reglas de distribución de la carga probatoria.",d:"Aplicar",
+q:"En un proceso civil, la demandada contesta negando de forma simple y absoluta los hechos de la demanda. Según el COGEP, ¿a quién corresponde probar?",
+o:[["A la parte actora, que debe probar los hechos que propuso afirmativamente y que fueron negados; la demandada no está obligada a producir pruebas.","Correcta. Es la regla del art. 169 COGEP."],
+["Siempre a la parte demandada.","Incorrecta. Invierte la regla general sin base legal."],
+["Al juzgador, de oficio.","Incorrecta. La prueba de oficio es excepcional (art. 168 COGEP) y no sustituye la carga de las partes."],
+["A ambas partes por igual en todos los casos.","Incorrecta. La ley distribuye la carga según la posición de las partes."]],r:["COGEP"]},
+
+{id:"A3-04",a:3,s:"Derecho Procesal (COGEP)",t:"Inasistencia a audiencias",ra:"Determina los efectos procesales de la inasistencia a audiencias.",d:"Recordar",
+q:"La parte actora no comparece, sin justificación, a la audiencia preliminar de un procedimiento ordinario. ¿Cuál es la consecuencia según el COGEP?",
+o:[["Su inasistencia se entiende como abandono.","Correcta. Lo dispone el art. 87 num. 1 COGEP."],
+["Se suspende la audiencia y se convoca nuevamente.","Incorrecta. La ley asigna un efecto directo a la inasistencia injustificada."],
+["El proceso continúa en rebeldía del actor.","Incorrecta. La continuación en rebeldía es la consecuencia prevista para la parte demandada (art. 87 num. 2 COGEP)."],
+["Se acepta automáticamente la reconvención.","Incorrecta. No existe esa consecuencia automática."]],r:["COGEP"]},
+
+{id:"A3-05",a:3,s:"Derecho Procesal (COGEP)",t:"Abandono",ra:"Aplica los requisitos y plazos del abandono del proceso.",d:"Recordar",
+q:"Todas las partes de un proceso civil han dejado de impulsarlo. Según el COGEP, el abandono se declara cuando la inactividad alcanza:",
+o:[["El término de ochenta días.","Correcta. Lo dispone el art. 245 COGEP; no procede en las causas exceptuadas por el art. 247."],
+["El plazo de seis meses.","Incorrecta. No es el tiempo previsto en el COGEP."],
+["El término de treinta días.","Incorrecta. Es inferior al previsto en la ley."],
+["El plazo de un año.","Incorrecta. No es el tiempo previsto en el COGEP."]],r:["COGEP"]},
+
+{id:"A3-06",a:3,s:"Derecho Procesal (COGEP)",t:"Contestación a la demanda",ra:"Identifica los términos procesales del procedimiento ordinario.",d:"Recordar",
+q:"En un procedimiento ordinario, ¿de qué término dispone la parte demandada para contestar la demanda según el COGEP?",
+o:[["Treinta días desde la citación.","Correcta. Lo dispone el art. 291 COGEP."],
+["Quince días desde la citación.","Incorrecta. Es el término del procedimiento sumario (art. 333 COGEP)."],
+["Diez días desde la calificación de la demanda.","Incorrecta. No corresponde a la contestación en el ordinario."],
+["Sesenta días desde la citación.","Incorrecta. Excede el término legal."]],r:["COGEP"]},
+
+{id:"A3-07",a:3,s:"Derecho Procesal (COGEP)",t:"Recurso de casación",ra:"Aplica los requisitos de forma y tiempo del recurso de casación civil.",d:"Aplicar",
+q:"Contra una sentencia de segunda instancia en un proceso de conocimiento civil, la parte vencida desea interponer casación. Según el COGEP, debe hacerlo:",
+o:[["Por escrito, dentro del término de treinta días posteriores a la ejecutoria de la sentencia o del auto que niegue o acepte su aclaración o ampliación.","Correcta. Es la regla del art. 266 COGEP."],
+["Oralmente en la audiencia de segunda instancia.","Incorrecta. La casación se interpone por escrito."],
+["Dentro del término de diez días.","Incorrecta. No es el término de la casación."],
+["Ante la Corte Constitucional, dentro de veinte días.","Incorrecta. Confunde la casación con la acción extraordinaria de protección."]],r:["COGEP"]},
+
+{id:"A3-08",a:3,s:"Métodos Alternativos",t:"Nulidad del laudo arbitral",ra:"Identifica los medios de impugnación del laudo arbitral.",d:"Aplicar",
+q:"Una parte considera que el laudo arbitral resolvió materias no sometidas al arbitraje. Según la Ley de Arbitraje y Mediación, puede:",
+o:[["Interponer acción de nulidad dentro del término de diez días desde la ejecutoria del laudo, ante el tribunal arbitral, que la remite a la Presidencia de la Corte Provincial.","Correcta. Es una de las causales y el trámite del art. 31 de la Ley de Arbitraje y Mediación."],
+["Apelar el laudo ante la Corte Provincial.","Incorrecta. Los laudos solo admiten aclaración o ampliación (art. 30 LAM)."],
+["Interponer recurso de casación.","Incorrecta. La casación no procede contra laudos arbitrales."],
+["Presentar acción de protección como vía ordinaria de impugnación.","Incorrecta. La acción de protección no sustituye los mecanismos legales de impugnación del laudo."]],r:["LAM"]},
+
+{id:"A3-09",a:3,s:"Métodos Alternativos",t:"Acta de mediación",ra:"Comprende los efectos jurídicos del acta de mediación.",d:"Comprender",
+q:"Dos socios suscriben en un centro de mediación un acta con acuerdo total. Si uno incumple, según la Ley de Arbitraje y Mediación:",
+o:[["El acta tiene efecto de sentencia ejecutoriada y cosa juzgada, y se ejecuta por la vía de apremio, sin admitir excepciones salvo las originadas con posterioridad a su suscripción.","Correcta. Lo dispone el art. 47 LAM; el COGEP la reconoce como título de ejecución (art. 363)."],
+["Debe iniciarse un juicio ordinario para reconocerla.","Incorrecta. El acta se ejecuta directamente."],
+["El acta solo vale como documento privado.","Incorrecta. La ley le confiere efecto de sentencia ejecutoriada."],
+["Debe homologarse ante la Corte Constitucional.","Incorrecta. No existe tal requisito."]],r:["LAM","COGEP"]},
+
+{id:"A3-10",a:3,s:"Métodos Alternativos",t:"Arbitraje y Estado",ra:"Aplica las reglas constitucionales del arbitraje en la contratación pública.",d:"Aplicar",
+q:"Una empresa contratista y una entidad pública desean pactar arbitraje en un contrato de contratación pública. Según la Constitución:",
+o:[["Procede el arbitraje en derecho, previo pronunciamiento favorable de la Procuraduría General del Estado.","Correcta. Así lo dispone el art. 190 inc. 2 CRE."],
+["Procede libremente el arbitraje en equidad.","Incorrecta. En contratación pública la Constitución exige arbitraje en derecho."],
+["El arbitraje está prohibido cuando interviene el Estado.","Incorrecta. La Constitución lo permite con requisitos."],
+["Solo procede con autorización de la Corte Constitucional.","Incorrecta. La autorización corresponde a la Procuraduría General del Estado."]],r:["CRE","LAM"]},
+
+/* ===== ÁREA 4: Civil (cuatro componentes) ===== */
+{id:"A4-01",a:4,s:"Personas y Familia",t:"Existencia legal de la persona",ra:"Identifica el inicio de la existencia legal de la persona natural.",d:"Recordar",
+q:"Según el Código Civil, la existencia legal de una persona principia:",
+o:[["Al nacer, esto es, al separarse completamente de su madre.","Correcta. Es la regla del art. 60 del Código Civil."],
+["Desde la concepción, para todos los efectos patrimoniales.","Incorrecta. El que está por nacer es protegido (art. 61 CC; art. 45 CRE), pero sus derechos patrimoniales quedan en suspenso hasta el nacimiento."],
+["Al inscribirse en el Registro Civil.","Incorrecta. La inscripción prueba, pero no constituye la existencia legal."],
+["A las veinticuatro horas de vida, si el nacido es viable.","Incorrecta. El criterio de viabilidad no rige en el Código Civil ecuatoriano."]],r:["CC","CRE"]},
+
+{id:"A4-02",a:4,s:"Personas y Familia",t:"Unión de hecho",ra:"Comprende el reconocimiento constitucional de la unión de hecho.",d:"Comprender",
+q:"Carla y Diego, ambos libres de vínculo matrimonial, mantienen una unión estable y monogámica y forman un hogar de hecho. Según la Constitución:",
+o:[["Su unión genera los mismos derechos y obligaciones que tienen las familias constituidas mediante matrimonio, en el lapso y bajo las condiciones que señale la ley.","Correcta. Lo dispone el art. 68 CRE; el Código Civil la regula a partir del art. 222."],
+["Solo genera derechos patrimoniales si luego contraen matrimonio.","Incorrecta. La unión de hecho produce efectos propios."],
+["No genera sociedad de bienes.","Incorrecta. El art. 68 CRE reconoce la sociedad de bienes."],
+["Solo se reconoce si tienen hijos en común.","Incorrecta. La existencia de hijos no es requisito."]],r:["CRE","CC"]},
+
+{id:"A4-03",a:4,s:"Personas y Familia",t:"Derecho de alimentos",ra:"Aplica los titulares del derecho de alimentos en la legislación de niñez y adolescencia.",d:"Aplicar",
+q:"Un joven de veinte años cursa estudios universitarios y carece de recursos propios suficientes. Según el Código de la Niñez y Adolescencia:",
+o:[["Conserva el derecho de alimentos hasta los veintiún años si demuestra que cursa estudios que le impiden o dificultan dedicarse a una actividad productiva y carece de recursos propios suficientes.","Correcta. Es uno de los supuestos de titularidad del derecho de alimentos del Título V, Libro II del CONA."],
+["Pierde el derecho al cumplir dieciocho años, sin excepción.","Incorrecta. La ley prevé la extensión hasta los veintiún años por estudios."],
+["Conserva el derecho indefinidamente mientras estudie.","Incorrecta. La extensión por estudios tiene un límite de edad."],
+["Solo lo conserva si tiene una discapacidad.","Incorrecta. La discapacidad es un supuesto distinto, que no está sujeto a ese límite de edad."]],r:["CONA"]},
+
+{id:"A4-04",a:4,s:"Bienes",t:"Título y modo",ra:"Distingue título y modo en la adquisición del dominio.",d:"Comprender",
+q:"La compraventa de un inmueble, celebrada por escritura pública, constituye en la teoría del título y el modo:",
+o:[["El título, y no el modo; el dominio se adquiere por la tradición, uno de los modos enumerados por el Código Civil.","Correcta. Los modos son ocupación, accesión, tradición, sucesión por causa de muerte y prescripción (art. 603 CC); la compraventa solo genera obligaciones."],
+["Por sí sola, un modo de adquirir el dominio.","Incorrecta. La compraventa es un contrato que genera obligaciones, no un modo."],
+["Una forma de ocupación.","Incorrecta. La ocupación recae sobre cosas sin dueño."],
+["Una forma de accesión.","Incorrecta. La accesión opera por lo que produce o se junta a una cosa."]],r:["CC"]},
+
+{id:"A4-05",a:4,s:"Bienes",t:"Tradición de inmuebles",ra:"Aplica las reglas de la tradición de bienes raíces.",d:"Aplicar",
+q:"Rosa firmó la escritura de compraventa de una casa y pagó el precio, pero la escritura no ha sido inscrita en el Registro de la Propiedad. Rosa:",
+o:[["Aún no adquiere el dominio, porque la tradición de bienes raíces se efectúa por la inscripción del título en el Registro de la Propiedad.","Correcta. Lo dispone el art. 702 del Código Civil."],
+["Es propietaria desde la firma de la escritura.","Incorrecta. La escritura es el título; falta el modo."],
+["Es propietaria desde el pago del precio.","Incorrecta. El pago extingue su obligación, pero no transfiere el dominio."],
+["Es propietaria desde la entrega material de la casa.","Incorrecta. La entrega material no sustituye la inscripción en los inmuebles."]],r:["CC"]},
+
+{id:"A4-06",a:4,s:"Bienes",t:"Posesión y mera tenencia",ra:"Distingue posesión y mera tenencia para efectos de la prescripción.",d:"Analizar",
+q:"Un arrendatario que ocupa un departamento desde hace quince años pretende demandar la prescripción adquisitiva de dominio. Su pretensión:",
+o:[["No prospera, porque es mero tenedor: reconoce dominio ajeno y carece del ánimo de señor y dueño que exige la posesión.","Correcta. La posesión exige ánimo de señor y dueño (art. 715 CC) y la mera tenencia no habilita la prescripción (art. 729 CC)."],
+["Prospera, por haber superado quince años.","Incorrecta. El tiempo no basta sin posesión."],
+["Prospera si pagó puntualmente los cánones.","Incorrecta. El pago de cánones confirma que reconoce dominio ajeno."],
+["Prospera como prescripción ordinaria a los cinco años.","Incorrecta. La ordinaria exige posesión regular, que el arrendatario no tiene."]],r:["CC"]},
+
+{id:"A4-07",a:4,s:"Bienes",t:"Prescripción adquisitiva",ra:"Aplica los plazos de la prescripción adquisitiva de dominio.",d:"Recordar",
+q:"Una persona posee un inmueble con ánimo de señor y dueño, de forma pública, pacífica e ininterrumpida, pero sin justo título. ¿Qué tiempo exige el Código Civil para adquirirlo por prescripción extraordinaria?",
+o:[["Quince años.","Correcta. Lo dispone el art. 2411 del Código Civil."],
+["Cinco años.","Incorrecta. Es el plazo de la prescripción ordinaria de inmuebles (art. 2408 CC), que exige posesión regular."],
+["Tres años.","Incorrecta. Es el plazo de la prescripción ordinaria de muebles."],
+["Diez años.","Incorrecta. No corresponde a la prescripción adquisitiva extraordinaria."]],r:["CC"]},
+
+{id:"A4-08",a:4,s:"Obligaciones y Contratos",t:"Requisitos del acto jurídico",ra:"Identifica los requisitos de validez para obligarse.",d:"Recordar",
+q:"Para que una persona se obligue a otra por un acto o declaración de voluntad, el Código Civil exige:",
+o:[["Que sea legalmente capaz, que consienta sin vicios, que recaiga sobre un objeto lícito y que tenga una causa lícita.","Correcta. Es el art. 1461 del Código Civil."],
+["Capacidad, consentimiento, objeto lícito y forma escrita.","Incorrecta. La forma escrita no es requisito general."],
+["Capacidad, consentimiento, precio y tradición.","Incorrecta. Mezcla elementos de la compraventa con el modo de adquirir."],
+["Competencia, objeto, voluntad y motivación.","Incorrecta. Son requisitos del acto administrativo (art. 99 COA)."]],r:["CC"]},
+
+{id:"A4-09",a:4,s:"Obligaciones y Contratos",t:"Vicios del consentimiento",ra:"Identifica los vicios del consentimiento.",d:"Recordar",
+q:"Según el Código Civil, los vicios de que puede adolecer el consentimiento son:",
+o:[["Error, fuerza y dolo.","Correcta. Es el art. 1467 del Código Civil."],
+["Error, fuerza, dolo y lesión enorme.","Incorrecta. La lesión enorme opera en ciertos contratos, como la compraventa de inmuebles, pero no figura entre los vicios del consentimiento."],
+["Simulación, fraude y error.","Incorrecta. La simulación y el fraude son figuras distintas."],
+["Incapacidad, error y violencia.","Incorrecta. La incapacidad afecta la capacidad, no el consentimiento."]],r:["CC"]},
+
+{id:"A4-10",a:4,s:"Obligaciones y Contratos",t:"Condición resolutoria tácita",ra:"Aplica los remedios frente al incumplimiento contractual.",d:"Aplicar",
+q:"En una compraventa, el comprador no paga el precio en la fecha pactada. El vendedor, que sí cumplió, puede según el Código Civil:",
+o:[["Pedir a su arbitrio la resolución o el cumplimiento del contrato, con indemnización de perjuicios.","Correcta. Es la condición resolutoria tácita del art. 1505 del Código Civil."],
+["Solo pedir el cumplimiento forzoso.","Incorrecta. La ley le permite elegir entre resolución y cumplimiento."],
+["Declarar unilateralmente resuelto el contrato, sin intervención judicial.","Incorrecta. La resolución por condición resolutoria tácita requiere declaración judicial."],
+["Solo pedir indemnización, sin resolución.","Incorrecta. La indemnización es accesoria a la resolución o al cumplimiento."]],r:["CC"]},
+
+{id:"A4-11",a:4,s:"Obligaciones y Contratos",t:"Excepción de contrato no cumplido",ra:"Aplica la mora en los contratos bilaterales.",d:"Analizar",
+q:"En un contrato bilateral, A demanda a B por falta de pago, pero A tampoco entregó la mercadería que debía entregar primero. B puede oponer:",
+o:[["La excepción de contrato no cumplido, pues ningún contratante está en mora mientras el otro no cumpla o no se allane a cumplir.","Correcta. Lo dispone el art. 1568 del Código Civil."],
+["La prescripción extintiva.","Incorrecta. Nada indica que haya transcurrido el plazo de prescripción."],
+["La nulidad absoluta del contrato.","Incorrecta. El incumplimiento no es causa de nulidad."],
+["La novación de la obligación.","Incorrecta. No hay sustitución de una obligación por otra."]],r:["CC"]},
+
+{id:"A4-12",a:4,s:"Obligaciones y Contratos",t:"Nulidad absoluta",ra:"Distingue los efectos de la nulidad absoluta y relativa.",d:"Evaluar",
+q:"Un contrato adolece de objeto ilícito. ¿Cuál afirmación es correcta?",
+o:[["La nulidad es absoluta: el juez puede y debe declararla aun sin petición de parte cuando aparece de manifiesto, y no se sanea por ratificación ni por un lapso que no pase de quince años.","Correcta. Así lo disponen los arts. 1698 y 1699 del Código Civil."],
+["Es nulidad relativa que se sanea en cuatro años.","Incorrecta. El objeto ilícito produce nulidad absoluta."],
+["Las partes pueden ratificarlo por escritura pública.","Incorrecta. La nulidad absoluta no se sanea por ratificación."],
+["Solo puede alegarla quien celebró el contrato sabiendo el vicio.","Incorrecta. Precisamente esa persona está impedida de alegarla."]],r:["CC"]},
+
+{id:"A4-13",a:4,s:"Sucesiones",t:"Órdenes de sucesión intestada",ra:"Aplica los órdenes de sucesión intestada.",d:"Aplicar",
+q:"Juan fallece sin testamento. Le sobreviven su cónyuge, dos hijos y su madre. Según el Código Civil:",
+o:[["Los hijos excluyen a los demás herederos, sin perjuicio de la porción conyugal de la cónyuge; la madre no hereda.","Correcta. Es el primer orden de sucesión (art. 1023 del Código Civil)."],
+["La herencia se divide por partes iguales entre cónyuge, hijos y madre.","Incorrecta. Ignora la exclusión del primer orden."],
+["La madre y la cónyuge heredan cada una la mitad.","Incorrecta. Esa división corresponde al orden de ascendientes y cónyuge, cuando no hay descendientes."],
+["Hereda el Estado.","Incorrecta. El Estado solo sucede a falta de los demás órdenes."]],r:["CC"]},
+
+{id:"A4-14",a:4,s:"Sucesiones",t:"Testamento",ra:"Comprende la naturaleza jurídica del testamento.",d:"Comprender",
+q:"Según el Código Civil, la característica esencial del testamento es que:",
+o:[["Es revocable mientras viva el testador, aunque en él se declare lo contrario.","Correcta. El art. 1037 CC lo define como acto más o menos solemne en que se conserva la facultad de revocar sus disposiciones."],
+["Puede otorgarse conjuntamente por dos o más personas.","Incorrecta. El testamento es un acto de una sola persona."],
+["Es irrevocable una vez otorgado ante notario.","Incorrecta. La solemnidad no le quita su revocabilidad."],
+["Produce efectos desde su otorgamiento.","Incorrecta. Sus disposiciones surten efecto después de la muerte del testador."]],r:["CC"]},
+
+{id:"A4-15",a:4,s:"Sucesiones",t:"Derecho de representación",ra:"Aplica el derecho de representación en la sucesión intestada.",d:"Analizar",
+q:"Pedro fallece sin testamento. Tenía tres hijos, pero uno de ellos, Luis, murió antes que él dejando dos hijos. ¿Cómo se distribuye la herencia?",
+o:[["En tres partes: una para cada hijo vivo y la tercera para los dos nietos, que heredan por representación, por estirpe, la parte de Luis.","Correcta. La representación permite a los descendientes ocupar el lugar del padre premuerto (arts. 1024 y siguientes del Código Civil)."],
+["En cuatro partes iguales, por cabeza.","Incorrecta. Quienes heredan por representación lo hacen por estirpe."],
+["Solo entre los dos hijos vivos.","Incorrecta. Desconoce la representación."],
+["Los nietos heredan solo si Luis dejó testamento.","Incorrecta. La representación opera por ley en la sucesión intestada."]],r:["CC"]},
+
+{id:"A4-16",a:4,s:"Sucesiones",t:"Partición",ra:"Aplica las reglas sobre la indivisión hereditaria.",d:"Aplicar",
+q:"Tres hermanos heredan un inmueble en común. Uno solicita la partición, pero los otros se niegan alegando que deben esperar diez años. Según el Código Civil:",
+o:[["Ningún coasignatario está obligado a permanecer en la indivisión; la partición puede pedirse siempre, salvo pacto de indivisión, que no puede exceder de cinco años.","Correcta. Es la regla del art. 1338 del Código Civil."],
+["Deben esperar diez años desde la apertura de la sucesión.","Incorrecta. No existe ese plazo."],
+["La partición requiere unanimidad de los herederos.","Incorrecta. Cualquier coasignatario puede pedirla."],
+["Solo el juez puede disponerla de oficio.","Incorrecta. La partición se pide a instancia de los coasignatarios."]],r:["CC"]},
+
+/* ===== ÁREA 5: Int. Privado, Mercantil, Tributario y Laboral ===== */
+{id:"A5-01",a:5,s:"Laboral",t:"Despido intempestivo",ra:"Calcula la indemnización por despido intempestivo.",d:"Aplicar",
+q:"Un trabajador con cinco años de servicio es despedido intempestivamente. Según el artículo 188 del Código del Trabajo, la indemnización por despido equivale a:",
+o:[["Un mes de remuneración por cada año de servicio, es decir, cinco meses, sin perjuicio de los demás rubros que correspondan.","Correcta. Para más de tres años de servicio corresponde un mes por año, sin exceder de veinticinco meses (art. 188 CT)."],
+["Tres meses de remuneración.","Incorrecta. Es el monto para quien tiene hasta tres años de servicio."],
+["Veinticinco meses de remuneración.","Incorrecta. Es el tope máximo de la indemnización."],
+["El veinticinco por ciento de la última remuneración por cada año.","Incorrecta. Es la bonificación por desahucio (art. 185 CT), distinta de la indemnización."]],r:["CT"]},
+
+{id:"A5-02",a:5,s:"Laboral",t:"Período de prueba",ra:"Identifica los límites del período de prueba.",d:"Recordar",
+q:"En el primer contrato de trabajo por tiempo indefinido, el período de prueba según el Código del Trabajo:",
+o:[["Tiene una duración máxima de noventa días.","Correcta. Lo dispone el art. 15 del Código del Trabajo."],
+["Puede durar hasta un año.","Incorrecta. Excede el máximo legal."],
+["Dura seis meses y es renovable.","Incorrecta. Excede el máximo legal y no es renovable."],
+["Puede pactarse nuevamente cada vez que se renueve el contrato con el mismo trabajador.","Incorrecta. La ley no permite un nuevo período de prueba con el mismo trabajador."]],r:["CT"]},
+
+{id:"A5-03",a:5,s:"Laboral",t:"Prescripción laboral",ra:"Aplica los plazos de prescripción de las acciones laborales.",d:"Recordar",
+q:"Un extrabajador quiere reclamar haberes impagos. Según el Código del Trabajo, las acciones provenientes de actos o contratos de trabajo prescriben en:",
+o:[["Tres años, contados desde la terminación de la relación laboral.","Correcta. Lo dispone el art. 635 del Código del Trabajo."],
+["Un año.","Incorrecta. No es la regla general."],
+["Cinco años.","Incorrecta. No es la regla laboral."],
+["Son imprescriptibles.","Incorrecta. Los derechos son irrenunciables, pero las acciones prescriben."]],r:["CT"]},
+
+{id:"A5-04",a:5,s:"Laboral",t:"Irrenunciabilidad",ra:"Aplica los principios constitucionales del derecho al trabajo.",d:"Evaluar",
+q:"Un contrato de trabajo incluye una cláusula por la que el trabajador renuncia a la decimotercera remuneración a cambio de un sueldo mensual mayor. Esa cláusula:",
+o:[["Es nula, porque los derechos del trabajador son irrenunciables e intangibles.","Correcta. Lo disponen el art. 326 num. 2 CRE y el art. 4 del Código del Trabajo; otra cosa es recibir el beneficio de forma mensualizada, que no implica renuncia."],
+["Es válida por autonomía de la voluntad.","Incorrecta. La autonomía de la voluntad está limitada por normas de orden público laboral."],
+["Es válida si se celebra ante notario.","Incorrecta. La forma no convalida la renuncia."],
+["Es válida si el trabajador es profesional.","Incorrecta. La irrenunciabilidad protege a todo trabajador."]],r:["CRE","CT"]},
+
+{id:"A5-05",a:5,s:"Mercantil",t:"Sociedad por acciones simplificada",ra:"Selecciona la forma societaria adecuada a un emprendimiento.",d:"Aplicar",
+q:"Una emprendedora desea constituir sola una sociedad, con responsabilidad limitada y mediante un trámite simplificado. Conforme a la Ley de Compañías, reformada por la Ley Orgánica de Emprendimiento e Innovación, la figura idónea es:",
+o:[["La sociedad por acciones simplificada (SAS), que puede constituirse por una o varias personas mediante documento privado, con responsabilidad limitada a sus aportes.","Correcta. Es la figura incorporada por la Ley Orgánica de Emprendimiento e Innovación (2020)."],
+["La compañía en nombre colectivo.","Incorrecta. Sus socios responden solidaria e ilimitadamente."],
+["La compañía en comandita simple.","Incorrecta. Requiere al menos un socio de responsabilidad ilimitada."],
+["La compañía de economía mixta.","Incorrecta. Requiere participación del sector público."]],r:["LC","LOEI"]},
+
+{id:"A5-06",a:5,s:"Mercantil",t:"Responsabilidad por fraude societario",ra:"Aplica la responsabilidad personal por fraudes cometidos a nombre de compañías.",d:"Analizar",
+q:"Los administradores de una compañía la utilizan para defraudar a acreedores. Según el artículo 17 de la Ley de Compañías:",
+o:[["Por los fraudes, abusos o vías de hecho cometidos a nombre de la compañía responden personal y solidariamente quienes los ordenaron o ejecutaron, quienes obtuvieron provecho y los tenedores de los bienes para su restitución.","Correcta. Es el régimen del art. 17 de la Ley de Compañías."],
+["Solo responde la compañía, por su personalidad jurídica separada.","Incorrecta. La ley permite alcanzar a los responsables personales."],
+["Los socios responden ilimitadamente en todos los casos.","Incorrecta. La responsabilidad se imputa a quienes intervinieron o se beneficiaron."],
+["Solo la Superintendencia de Compañías puede reclamar.","Incorrecta. Los perjudicados pueden ejercer sus acciones."]],r:["LC"]},
+
+{id:"A5-07",a:5,s:"Tributario",t:"Reserva de ley tributaria",ra:"Evalúa la validez de normas tributarias según la reserva de ley.",d:"Evaluar",
+q:"El Presidente de la República crea un nuevo impuesto mediante decreto ejecutivo. Según la Constitución, este decreto:",
+o:[["Es inconstitucional, porque solo por iniciativa de la Función Ejecutiva y mediante ley sancionada por la Asamblea Nacional se pueden establecer, modificar, exonerar o extinguir impuestos.","Correcta. Es la reserva de ley del art. 301 CRE."],
+["Es válido si el Servicio de Rentas Internas lo reglamenta.","Incorrecta. La reglamentación no suple la falta de ley."],
+["Es válido durante un estado de excepción.","Incorrecta. En estado de excepción se puede anticipar la recaudación de tributos (art. 165 CRE), no crear impuestos."],
+["Es válido porque los tributos pueden crearse por acto normativo.","Incorrecta. Solo las tasas y contribuciones se crean por acto normativo de órgano competente; los impuestos requieren ley."]],r:["CRE","CTRIB"]},
+
+{id:"A5-08",a:5,s:"Tributario",t:"Prescripción de la acción de cobro",ra:"Aplica los plazos de prescripción tributaria.",d:"Aplicar",
+q:"Un contribuyente presentó oportunamente su declaración, pero no pagó el impuesto. Según el Código Tributario, la acción de cobro prescribe en:",
+o:[["Cinco años desde la fecha en que la obligación fue exigible.","Correcta. Es la regla del art. 55 del Código Tributario."],
+["Siete años.","Incorrecta. Ese plazo aplica cuando no se presentó la declaración."],
+["Tres años.","Incorrecta. Confunde la prescripción del cobro con la caducidad de la facultad determinadora (art. 94 CTrib)."],
+["Nunca, porque los tributos son imprescriptibles.","Incorrecta. La acción de cobro prescribe."]],r:["CTRIB"]},
+
+{id:"A5-09",a:5,s:"Tributario",t:"Extinción de la obligación tributaria",ra:"Identifica los modos de extinción de la obligación tributaria.",d:"Recordar",
+q:"¿Cuál de los siguientes NO es un modo de extinción de la obligación tributaria previsto en el Código Tributario?",
+o:[["La novación.","Correcta (no es modo tributario). El art. 37 CTrib enumera la solución o pago, la compensación, la confusión, la remisión y la prescripción de la acción de cobro."],
+["La compensación.","Incorrecta. Sí es modo de extinción (art. 37 CTrib)."],
+["La remisión.","Incorrecta. Sí es modo de extinción; requiere ley (art. 37 CTrib)."],
+["La confusión.","Incorrecta. Sí es modo de extinción (art. 37 CTrib)."]],r:["CTRIB"]},
+
+{id:"A5-10",a:5,s:"Internacional Privado",t:"Ley aplicable a los bienes",ra:"Aplica los factores de conexión del Derecho Internacional Privado.",d:"Aplicar",
+q:"Un ciudadano extranjero domiciliado en España es propietario de un inmueble ubicado en Quito. ¿Qué ley rige ese bien?",
+o:[["La ley ecuatoriana, porque los bienes situados en el Ecuador están sujetos a sus leyes aunque sus dueños sean extranjeros y residan en otra nación.","Correcta. Es el criterio lex rei sitae del Título Preliminar del Código Civil, coincidente con el Código de Bustamante (art. 105)."],
+["La española, por el domicilio del propietario.","Incorrecta. El domicilio no rige el estatuto real de los inmuebles."],
+["La que elijan libremente las partes.","Incorrecta. El régimen de los bienes es de orden público territorial."],
+["La de la nacionalidad del propietario, según el Código de Bustamante.","Incorrecta. El Código de Bustamante también somete los bienes a la ley de su situación."]],r:["CC","BUST"]},
+
+{id:"A5-11",a:5,s:"Internacional Privado",t:"Homologación de sentencias extranjeras",ra:"Determina la autoridad competente para homologar decisiones extranjeras.",d:"Recordar",
+q:"Una sentencia de divorcio dictada en Italia debe surtir efectos en el Ecuador. Según el COGEP, la homologación corresponde a:",
+o:[["La sala especializada de la Corte Provincial de Justicia del domicilio de la persona contra quien se pretende hacer valer.","Correcta. Es la regla de los arts. 102 a 104 del COGEP."],
+["La Corte Nacional de Justicia.","Incorrecta. No es la autoridad competente según el COGEP."],
+["Una jueza de familia de primer nivel, sin homologación previa.","Incorrecta. La homologación es requisito previo para su eficacia."],
+["El Ministerio de Relaciones Exteriores.","Incorrecta. La homologación es un acto jurisdiccional."]],r:["COGEP"]},
+
+{id:"A5-12",a:5,s:"Internacional Privado",t:"Apostilla",ra:"Identifica el régimen de validez de documentos públicos extranjeros.",d:"Comprender",
+q:"Un título universitario emitido en Colombia debe presentarse ante una autoridad ecuatoriana. Ambos Estados son parte del Convenio de La Haya de 1961. ¿Qué formalidad sustituye la cadena de legalizaciones consulares?",
+o:[["La apostilla emitida por la autoridad competente del Estado de origen.","Correcta. El Convenio de La Haya de 1961 reemplaza la legalización por un certificado único de apostilla."],
+["La homologación ante la Corte Provincial.","Incorrecta. La homologación se aplica a sentencias, laudos y actas de mediación, no a documentos públicos."],
+["La protocolización notarial en el Ecuador.","Incorrecta. No sustituye la legalización."],
+["La traducción oficial del documento.","Incorrecta. La traducción puede requerirse, pero no reemplaza la legalización."]],r:["HCCH"]}
+];
+
+
+const AREAS={1:{n:"Constitucional, DD. HH. y Administrativo",k:10},2:{n:"Penal y Procesal Penal",k:13},3:{n:"Procesal y Métodos Alternativos",k:7},4:{n:"Civil (cuatro componentes)",k:12},5:{n:"Int. Privado, Mercantil, Tributario y Laboral",k:8}};
+const SIM_N=50, SIM_MIN=120, L="ABCD";
+const APP_VERSION="2.0";
+const K={exam:"cx_exam",hist:"cx_hist",errs:"cx_errs",custom:"cx_custom",last:"cx_last",remote:"cx_remote",packs:"cx_packs",sync:"cx_sync",src:"cx_src"};
+/* Dirección del banco en línea. Si la app se abre desde un sitio web (GitHub Pages), usa ./banco/manifest.json del mismo sitio.
+   Si se abre como archivo local, usa la dirección guardada en Banco › Actualización en línea (o DEFAULT_SRC). */
+const DEFAULT_SRC="";
+const MEM={};
+const store={get(k,d){try{const v=localStorage.getItem(k);if(v!=null)return JSON.parse(v)}catch(e){}return k in MEM?MEM[k]:d},
+set(k,v){MEM[k]=v;try{if(v==null)localStorage.removeItem(k);else localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+const app=()=>document.getElementById("app");
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const shuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+const linkify=s=>esc(s).replace(/(https?:\/\/[^\s<]+)/g,'<a href="$1" target="_blank" rel="noopener">$1</a>');
+
+function base(){return Q.map(x=>({id:x.id,a:x.a,s:x.s,t:x.t,ra:x.ra,d:x.d,q:x.q,o:x.o.map(p=>({x:p[0],w:p[1]})),refs:x.r.map(k=>BIB[k]||k)}))}
+let BASE=base();
+function bank(){const m=new Map();for(const q of BASE.concat(store.get(K.remote,[]),store.get(K.custom,[])))m.set(q.id,q);return [...m.values()]}
+/* Normaliza una pregunta en formato JSON público (el mismo de Importar) */
+function normItem(x,id,bib){
+  const a=+x.area;if(!AREAS[a])throw"«area» debe ser 1 a 5";
+  if(!x.enunciado)throw"falta «enunciado»";
+  if(!Array.isArray(x.opciones)||x.opciones.length!==4)throw"deben ser exactamente 4 opciones";
+  const c=+(x.correcta??0);if(!(c>=0&&c<=3))throw"«correcta» debe ser 0 a 3";
+  const o=x.opciones.map(p=>typeof p==="string"?{x:p,w:""}:{x:String(p.texto??""),w:String(p.justificacion??"")});
+  if(o.some(p=>!p.x))throw"hay una opción sin texto";
+  return {id,a,s:String(x.subarea??""),t:String(x.tema??""),ra:String(x.resultado??""),d:String(x.demanda??""),q:String(x.enunciado),
+    o:[c,...[0,1,2,3].filter(k=>k!==c)].map(k=>o[k]),refs:Array.isArray(x.referencias)?x.referencias.map(r=>String((bib&&bib[r])||BIB[r]||r)):[]};
+}
+
+/* ---------- SINCRONIZACIÓN EN LÍNEA ---------- */
+let SYNCING=false;
+const isWeb=()=>/^https?:$/.test(location.protocol);
+function srcUrl(){const s=store.get(K.src,"")||DEFAULT_SRC;if(s)return s;return isWeb()?new URL("banco/manifest.json",location.href).href:""}
+async function getJSON(u){
+  const ctl=typeof AbortController!=="undefined"?new AbortController():null;const tm=setTimeout(()=>ctl&&ctl.abort(),20000);
+  try{const r=await fetch(u+(u.includes("?")?"&":"?")+"t="+Date.now(),{cache:"no-store",signal:ctl&&ctl.signal});if(!r.ok)throw"HTTP "+r.status;return await r.json()}
+  finally{clearTimeout(tm)}
+}
+async function sync(manual){
+  if(SYNCING)return;const url=srcUrl();
+  if(!url){if(manual)alert("Primero configura la dirección del banco en línea en Banco › Actualización en línea.");return}
+  if(navigator.onLine===false){if(manual)alert("No hay conexión a internet. Seguirás usando las preguntas guardadas.");return}
+  SYNCING=true;refreshSync();
+  const st=store.get(K.sync,{});let added=0,updated=0;
+  try{
+    const man=await getJSON(url);const list=man.paquetes||man.packs||[];
+    if(!Array.isArray(list))throw"manifiesto sin «paquetes»";
+    const have=store.get(K.packs,{});
+    for(const p of list){
+      const v=String(p.version??1);if(have[p.id]&&have[p.id].v===v)continue;
+      const data=await getJSON(new URL(p.archivo,url).href);
+      const arr=Array.isArray(data)?data:(data.preguntas||[]);const bib=data.bibliografia||{};
+      const qs=[];arr.forEach((x,i)=>{try{const q=normItem(x,String(x.id||(p.id+"-"+(i+1))),bib);q.pk=p.id;qs.push(q)}catch(e){}});
+      const old=store.get(K.remote,[]),prev=old.filter(q=>q.pk===p.id).length;
+      store.set(K.remote,old.filter(q=>q.pk!==p.id).concat(qs));
+      if(have[p.id])updated+=qs.length;else added+=Math.max(0,qs.length-prev);
+      have[p.id]={v,n:qs.length,t:String(p.titulo||p.id),f:Date.now()};store.set(K.packs,have);
+    }
+    store.set(K.sync,{t:Date.now(),ok:true,added,updated,url});
+    if(added||updated)toast(added?`Se añadieron ${added} preguntas nuevas al banco. Ya puedes usarlas sin internet.`:`Se actualizaron ${updated} preguntas del banco.`);
+    else if(manual)toast("Tu banco ya está al día.");
+  }catch(e){
+    store.set(K.sync,Object.assign({},st,{err:String(e&&e.message||e),te:Date.now(),url}));
+    if(manual)alert("No se pudo actualizar el banco:\n"+(e&&e.message||e)+"\n\nSeguirás usando las preguntas guardadas.");
+  }finally{SYNCING=false;refreshSync();if(VIEW==="home")home();else if(VIEW==="bank")bankView()}
+}
+function ago(t){const s=Math.round((Date.now()-t)/1000);if(s<60)return"hace un momento";const m=Math.round(s/60);if(m<60)return`hace ${m} min`;const h=Math.round(m/60);if(h<48)return`hace ${h} h`;return`hace ${Math.round(h/24)} días`}
+function syncLine(){
+  const st=store.get(K.sync,{}),n=bank().length,url=srcUrl();
+  let dot="",txt;
+  if(SYNCING){dot="busy";txt="Buscando preguntas nuevas…"}
+  else if(!url){txt=`${n} preguntas guardadas · actualización en línea sin configurar`}
+  else if(navigator.onLine===false){dot="off";txt=`Sin conexión · usando ${n} preguntas guardadas`}
+  else if(st.err&&(!st.t||st.te>st.t)){dot="off";txt=`No se pudo actualizar (${ago(st.te)}) · ${n} preguntas guardadas`}
+  else if(st.t){dot="on";txt=`Banco al día · ${n} preguntas · revisado ${ago(st.t)}`}
+  else{txt=`${n} preguntas guardadas`}
+  return `<div class="sync" id="syncbar"><i class="dot ${dot}"></i><span>${esc(txt)}</span>${url&&!SYNCING?`<button onclick="sync(true)">Actualizar</button>`:!url?`<button onclick="bankView()">Configurar</button>`:""}</div>`;
+}
+function refreshSync(){const el=document.getElementById("syncbar");if(el)el.outerHTML=syncLine()}
+function toast(msg){const t=document.createElement("div");t.className="toast";t.textContent=msg;document.body.appendChild(t);setTimeout(()=>t.remove(),4500)}
+function byId(){const m={};bank().forEach(q=>m[q.id]=q);return m}
+
+let EX=null,TICK=null,VIEW="home";
+function stopTick(){if(TICK){clearInterval(TICK);TICK=null}}
+function fmt(ms){ms=Math.max(0,ms);const s=Math.floor(ms/1000),h=Math.floor(s/3600),m=Math.floor(s%3600/60),x=s%60;return (h?h+":":"")+String(m).padStart(h?2:1,"0")+":"+String(x).padStart(2,"0")}
+function remaining(){return EX.dur-(Date.now()-EX.start)}
+function answered(){return Object.keys(EX.ans).length}
+function saveEx(){store.set(K.exam,EX)}
+function nota(ok,n){return n?(ok/n*10):0}
+
+/* ---------- INICIO ---------- */
+function home(){
+  VIEW="home";stopTick();
+  const sv=store.get(K.exam,null),errs=validErrs(),b=bank(),h=store.get(K.hist,[]);
+  const lastSim=h.find(x=>x.mode==="sim");
+  app().innerHTML=`<header class="top"><div class="mid"><div class="kicker">Carrera de Derecho · UTE</div><h1>Simulador Complexivo</h1></div></header>
+  <main class="wrap">
+  ${syncLine()}
+  ${sv&&!sv.done?`<div class="card warnc"><b>Tienes una evaluación en curso</b><p>${esc(sv.title)} · ${Object.keys(sv.ans).length}/${sv.ids.length} respondidas${sv.dur?" · el tiempo sigue corriendo":""}</p><div class="row"><button class="btn pri" onclick="resume()">Continuar</button><button class="btn" onclick="discard()">Descartar</button></div></div>`:""}
+  <button class="tile main" onclick="startSim()"><span class="tt">Simulacro completo</span><span class="ds">${SIM_N} preguntas · 2 horas · distribución oficial por áreas</span></button>
+  <div class="grid2">
+   <button class="tile" onclick="practiceSetup()"><span class="tt">Práctica</span><span class="ds">Por área, con retroalimentación inmediata</span></button>
+   <button class="tile" onclick="startErrs()" ${errs.length?"":"disabled"}><span class="tt">Repasar errores</span><span class="ds">${errs.length} pendiente${errs.length===1?"":"s"}</span></button>
+   <button class="tile" onclick="historyView()"><span class="tt">Historial</span><span class="ds">${lastSim?"Último simulacro: "+nota(lastSim.ok,lastSim.n).toFixed(2)+"/10":"Notas y avance por área"}</span></button>
+   <button class="tile" onclick="bankView()"><span class="tt">Banco</span><span class="ds">${b.length} preguntas · importar más</span></button>
+  </div>
+  <div class="card" style="margin-top:14px"><h3>Distribución de las 50 preguntas</h3><div class="dist">${Object.entries(AREAS).map(([a,v])=>{const c=b.filter(q=>q.a==a).length;return `<div class="r"><span>${esc(v.n)}</span><b>${v.k}</b></div><div class="track ${c<v.k?"y":""}"><i style="width:${Math.min(100,c/v.k*100)}%"></i></div><div class="muted" style="font-size:12px;margin-top:3px">${c} en el banco${c<v.k?" · faltan "+(v.k-c)+" para completar":c>v.k?" · rotación aleatoria":""}</div>`}).join("")}</div></div>
+  <div class="card"><h3>Cómo está construida cada pregunta</h3><p class="muted" style="margin:0;font-size:14px;line-height:1.5">Formato de ítem del CEIE (área, subárea, tema, resultado de aprendizaje y demanda cognitiva), cuatro alternativas con una correcta y tres distractores, argumentación de cada opción y bibliografía APA. El orden de las alternativas cambia en cada intento.</p></div>
+  <p class="note">Funciona sin internet y suma preguntas nuevas cada vez que hay conexión.<br>Tu avance se guarda solo en este teléfono. Verifica siempre las reformas normativas más recientes.<br>Versión ${APP_VERSION}</p>
+  </main>`;
+}
+function validErrs(){const m=byId();return store.get(K.errs,[]).filter(id=>m[id])}
+
+/* ---------- INICIO DE EVALUACIONES ---------- */
+function canStart(){const sv=store.get(K.exam,null);return !(sv&&!sv.done)||confirm("Tienes una evaluación en curso. ¿Descartarla y empezar otra?")}
+function newExam(mode,title,ids,dur,fb){
+  EX={mode,title,ids,perm:Object.fromEntries(ids.map(id=>[id,shuffle([0,1,2,3])])),ans:{},flag:{},idx:0,start:Date.now(),dur,fb,done:false};
+  saveEx();go(0,true);
+}
+function startSim(){
+  if(!canStart())return;
+  const b=bank();let ids=[],faltan=0;
+  for(const a in AREAS){const p=shuffle(b.filter(q=>q.a==a));faltan+=Math.max(0,AREAS[a].k-p.length);ids=ids.concat(p.slice(0,AREAS[a].k).map(q=>q.id))}
+  if(faltan&&!confirm(`El banco no alcanza para las 50 preguntas (faltan ${faltan}). Se tomará con ${ids.length} preguntas y tiempo proporcional. ¿Continuar?`))return;
+  const dur=Math.round(SIM_MIN*60000*ids.length/SIM_N);
+  newExam("sim","Simulacro completo",shuffle(ids),dur,false);
+}
+function practiceSetup(){
+  VIEW="setup";stopTick();const b=bank();
+  app().innerHTML=`<header class="top"><button class="ic" onclick="home()">‹</button><div class="mid"><div class="kicker">Configurar</div><b>Práctica</b></div></header>
+  <main class="wrap"><div class="card">
+  <label class="fld">Áreas</label>
+  ${Object.entries(AREAS).map(([a,v])=>`<label class="chk"><input type="checkbox" name="ar" value="${a}" checked> <span>${esc(v.n)} <span class="muted">(${b.filter(q=>q.a==a).length})</span></span></label>`).join("")}
+  <label class="fld">Número de preguntas</label>
+  <select id="pn"><option value="10">10</option><option value="20" selected>20</option><option value="0">Todas las disponibles</option></select>
+  <label class="fld">Modo</label>
+  <select id="pm"><option value="fb">Retroalimentación inmediata, sin tiempo</option><option value="ex">Tipo examen: con cronómetro (2,4 min por pregunta), resultados al final</option></select>
+  </div><button class="btn pri" style="width:100%" onclick="startPractice()">Empezar</button></main>`;
+}
+function startPractice(){
+  const ar=[...document.querySelectorAll('input[name=ar]:checked')].map(i=>+i.value);
+  if(!ar.length){alert("Selecciona al menos un área.");return}
+  const n=+document.getElementById("pn").value,fb=document.getElementById("pm").value==="fb";
+  if(!canStart())return;
+  let pool=shuffle(bank().filter(q=>ar.includes(q.a)).map(q=>q.id));if(n)pool=pool.slice(0,n);
+  if(!pool.length){alert("No hay preguntas en esas áreas.");return}
+  newExam("prac",ar.length===5?"Práctica general":"Práctica: "+ar.map(a=>AREAS[a].n.split(",")[0].split(" (")[0]).join(" · "),pool,fb?0:Math.round(pool.length*144000),fb);
+}
+function startErrs(){
+  const e=validErrs();if(!e.length)return;if(!canStart())return;
+  newExam("err","Repaso de errores",shuffle(e).slice(0,30),0,true);
+}
+function resume(){EX=store.get(K.exam,null);if(!EX)return home();if(EX.dur&&remaining()<=0){alert("El tiempo de esta evaluación terminó. Se calificará con las respuestas guardadas.");return finish(true)}go(0,true)}
+function discard(){if(confirm("¿Descartar la evaluación en curso? No se guardará en el historial.")){store.set(K.exam,null);EX=null;home()}}
+
+/* ---------- EXAMEN ---------- */
+function go(d,abs){if(!abs)EX.idx=Math.min(EX.ids.length-1,Math.max(0,EX.idx+d));saveEx();examView();window.scrollTo(0,0)}
+function jump(i){EX.idx=i;go(0,true)}
+function pick(oi){const id=EX.ids[EX.idx];if(EX.fb&&EX.ans[id]!==undefined)return;EX.ans[id]=oi;saveEx();const y=window.scrollY;examView();if(!EX.fb)window.scrollTo(0,y)}
+function toggleFlag(){const id=EX.ids[EX.idx];if(EX.flag[id])delete EX.flag[id];else EX.flag[id]=1;saveEx();const y=window.scrollY;examView();window.scrollTo(0,y)}
+function startTick(){stopTick();if(!EX.dur)return;TICK=setInterval(()=>{const r=remaining();const t=document.getElementById("timer");if(r<=0){stopTick();alert("Se terminó el tiempo. Tu evaluación se calificará ahora.");finish(true);return}if(t){t.textContent=fmt(r);t.classList.toggle("low",r<600000)}},1000)}
+function examView(){
+  VIEW="exam";const m=byId(),id=EX.ids[EX.idx],q=m[id];
+  if(!q){EX.ids.splice(EX.idx,1);if(!EX.ids.length){store.set(K.exam,null);return home()}EX.idx=Math.min(EX.idx,EX.ids.length-1);return go(0,true)}
+  const p=EX.perm[id],a=EX.ans[id],lock=EX.fb&&a!==undefined,last=EX.idx===EX.ids.length-1;
+  app().innerHTML=`<header class="top"><button class="ic" onclick="exitExam()" aria-label="Salir">✕</button><div class="mid"><div class="kicker">${esc(EX.title)}</div><b>Pregunta ${EX.idx+1} de ${EX.ids.length}</b></div><div id="timer" class="timer ${EX.dur&&remaining()<600000?"low":""}">${EX.dur?fmt(remaining()):answered()+"/"+EX.ids.length}</div></header>
+  <div class="prog"><i style="width:${answered()/EX.ids.length*100}%"></i></div>
+  <main class="wrap">
+   <div class="chips"><span class="chip">${esc(AREAS[q.a]?.n)}</span>${q.s?`<span class="chip">${esc(q.s)}</span>`:""}${q.t?`<span class="chip">${esc(q.t)}</span>`:""}</div>
+   <div class="card"><p class="stem">${esc(q.q)}</p>
+   ${p.map((oi,k)=>{let c="opt";if(a===oi)c+=" sel";if(lock){if(oi===0)c+=" ok";else if(a===oi)c+=" bad"}return `<button class="${c}" ${lock?"disabled":""} onclick="pick(${oi})"><span class="lt">${L[k]}</span><span>${esc(q.o[oi].x)}</span></button>`}).join("")}
+   </div>
+   ${lock?reviewBody(q,p,a,true):""}
+  </main>
+  <footer class="bar"><button class="btn" onclick="go(-1)" ${EX.idx?"":"disabled"}>‹ Anterior</button><button class="btn sq ${EX.flag[id]?"flagon":""}" onclick="toggleFlag()" aria-label="Marcar">⚑</button><button class="btn sq" onclick="gridView()" aria-label="Mapa">▦</button>${last?`<button class="btn pri" onclick="askFinish()">Finalizar</button>`:`<button class="btn pri" onclick="go(1)">Siguiente ›</button>`}</footer>`;
+  startTick();
+}
+function gridView(){
+  VIEW="grid";const n=EX.ids.length,un=n-answered(),fl=Object.keys(EX.flag).length;
+  app().innerHTML=`<header class="top"><button class="ic" onclick="go(0,true)">‹</button><div class="mid"><div class="kicker">${esc(EX.title)}</div><b>Mapa de preguntas</b></div><div id="timer" class="timer">${EX.dur?fmt(remaining()):""}</div></header>
+  <main class="wrap"><div class="card"><p class="muted" style="margin:0 0 12px;font-size:14px">${answered()} respondidas · ${un} sin responder · ${fl} marcadas</p>
+  <div class="nums">${EX.ids.map((id,i)=>{let c=[];if(EX.ans[id]!==undefined)c.push(EX.fb?(EX.ans[id]===0?"ok":"bad"):"an");if(EX.flag[id])c.push("fl");if(i===EX.idx)c.push("cur");return `<button class="${c.join(" ")}" onclick="jump(${i})">${i+1}</button>`}).join("")}</div></div>
+  <button class="btn pri" style="width:100%" onclick="askFinish()">Finalizar y calificar</button></main>`;
+  startTick();
+}
+function askFinish(){const un=EX.ids.length-answered(),fl=Object.keys(EX.flag).length;
+  let msg="¿Finalizar y calificar?";if(un)msg+=`\n\nTienes ${un} pregunta${un>1?"s":""} sin responder (cuentan como incorrectas).`;if(fl)msg+=`\n${fl} marcada${fl>1?"s":""} para revisar.`;
+  if(confirm(msg))finish(false)}
+function exitExam(){if(confirm(EX.dur?"¿Salir al inicio? Tu evaluación queda guardada, pero el cronómetro sigue corriendo.":"¿Salir al inicio? Tu avance queda guardado."))home()}
+
+/* ---------- CALIFICACIÓN ---------- */
+function finish(auto){
+  stopTick();const m=byId();let ok=0;const by={},wrong=[];
+  EX.ids.forEach(id=>{const q=m[id];if(!q)return;by[q.a]=by[q.a]||[0,0];by[q.a][1]++;if(EX.ans[id]===0){ok++;by[q.a][0]++}else wrong.push(id)});
+  EX.done=true;EX.end=Math.min(Date.now(),EX.dur?EX.start+EX.dur:Date.now());EX.ok=ok;EX.by=by;EX.auto=!!auto;
+  const errs=new Set(store.get(K.errs,[]));EX.ids.forEach(id=>{if(EX.ans[id]===0)errs.delete(id);else errs.add(id)});store.set(K.errs,[...errs]);
+  const h=store.get(K.hist,[]);h.unshift({d:EX.end,mode:EX.mode,title:EX.title,n:EX.ids.length,ok,by,used:EX.end-EX.start,auto:EX.auto});store.set(K.hist,h.slice(0,200));
+  store.set(K.last,EX);store.set(K.exam,null);
+  resultsView(EX);
+}
+function trackCls(p){return p>=.7?"g":p>=.5?"y":"rd"}
+function resultsView(ex){
+  VIEW="results";stopTick();const n=ex.ids.length,nt=nota(ex.ok,n);
+  app().innerHTML=`<header class="top"><button class="ic" onclick="home()">‹</button><div class="mid"><div class="kicker">${esc(ex.title)}</div><b>Resultado</b></div></header>
+  <main class="wrap">
+  <div class="card score"><div class="big" style="color:var(--${nt>=7?"ok":nt>=5?"warn":"bad"})">${nt.toFixed(2)}</div><div class="sub">sobre 10 · ${ex.ok} de ${n} correctas (${Math.round(ex.ok/n*100)}%)</div>
+  <div class="sub">Tiempo usado: ${fmt(ex.end-ex.start)}${ex.dur?" de "+fmt(ex.dur):""}${ex.auto?" · finalizado por tiempo":""}</div></div>
+  <div class="card"><h3>Desempeño por área</h3><div class="dist">${Object.entries(ex.by).sort((x,y)=>x[0]-y[0]).map(([a,[o,t]])=>`<div class="r"><span>${esc(AREAS[a].n)}</span><b>${o}/${t}</b></div><div class="track ${trackCls(o/t)}"><i style="width:${o/t*100}%"></i></div>`).join("")}</div></div>
+  <div class="row"><button class="btn pri" onclick="reviewView('bad')">Revisar incorrectas (${n-ex.ok})</button><button class="btn" onclick="reviewView('all')">Revisar todas</button></div>
+  <p class="note">Meta personal sugerida: 7/10 o más en cada área.<br>Las preguntas falladas pasan a «Repasar errores».</p>
+  </main>`;
+  window.scrollTo(0,0);
+}
+function reviewBody(q,p,a,inline){
+  const ok=a===0,none=a===undefined;
+  return `<div class="card">
+  <p class="verdict ${ok?"ok":"bad"}">${none?"Sin responder. La respuesta correcta es la "+L[p.indexOf(0)]+".":ok?"✓ Respuesta correcta.":"✗ Incorrecta. La respuesta correcta es la "+L[p.indexOf(0)]+"."}</p>
+  <h4>Argumentación de cada opción</h4>
+  ${p.map((oi,k)=>`<div class="why ${oi===0?"ok":""}"><b>${L[k]}) ${esc(q.o[oi].x)}</b>${esc(q.o[oi].w||"")}</div>`).join("")}
+  <h4>Ficha del ítem</h4>
+  <table class="meta"><tr><td>Área</td><td>${esc(AREAS[q.a]?.n)}</td></tr><tr><td>Subárea</td><td>${esc(q.s)}</td></tr><tr><td>Tema</td><td>${esc(q.t)}</td></tr><tr><td>Resultado de aprendizaje</td><td>${esc(q.ra)}</td></tr><tr><td>Demanda cognitiva</td><td>${esc(q.d)}</td></tr></table>
+  ${q.refs&&q.refs.length?`<h4>Referencias (APA 7)</h4><div class="refs">${q.refs.map(r=>`<p>${linkify(r)}</p>`).join("")}</div>`:""}
+  </div>`;
+}
+function reviewView(f){
+  VIEW="review";const ex=store.get(K.last,null);if(!ex)return home();const m=byId();
+  const list=ex.ids.map((id,i)=>({id,i})).filter(o=>m[o.id]&&(f==="all"||ex.ans[o.id]!==0));
+  app().innerHTML=`<header class="top"><button class="ic" onclick="resultsView(store.get(K.last))">‹</button><div class="mid"><div class="kicker">${esc(ex.title)}</div><b>Revisión · ${list.length} pregunta${list.length===1?"":"s"}</b></div></header>
+  <main class="wrap">${list.length?list.map(({id,i})=>{const q=m[id],p=ex.perm[id],a=ex.ans[id];
+   return `<div class="chips"><span class="chip">Pregunta ${i+1}</span><span class="chip">${esc(q.s)}</span></div><div class="card"><p class="stem">${esc(q.q)}</p>${p.map((oi,k)=>{let c="opt";if(oi===0)c+=" ok";else if(a===oi)c+=" bad";return `<button class="${c}" disabled><span class="lt">${L[k]}</span><span>${esc(q.o[oi].x)}</span></button>`}).join("")}</div>${reviewBody(q,p,a)}`}).join(""):`<div class="card">¡Sin errores en esta evaluación!</div>`}
+  <button class="btn" style="width:100%" onclick="home()">Volver al inicio</button></main>`;
+  window.scrollTo(0,0);
+}
+
+/* ---------- HISTORIAL ---------- */
+function historyView(){
+  VIEW="hist";stopTick();const h=store.get(K.hist,[]);const agg={};
+  h.forEach(x=>Object.entries(x.by||{}).forEach(([a,[o,t]])=>{agg[a]=agg[a]||[0,0];agg[a][0]+=o;agg[a][1]+=t}));
+  const sims=h.filter(x=>x.mode==="sim");
+  app().innerHTML=`<header class="top"><button class="ic" onclick="home()">‹</button><div class="mid"><div class="kicker">Tu avance</div><b>Historial</b></div></header>
+  <main class="wrap">
+  ${h.length?`<div class="card"><h3>Acierto acumulado por área</h3><div class="dist">${Object.keys(AREAS).filter(a=>agg[a]).map(a=>{const[o,t]=agg[a];return `<div class="r"><span>${esc(AREAS[a].n)}</span><b>${Math.round(o/t*100)}%</b></div><div class="track ${trackCls(o/t)}"><i style="width:${o/t*100}%"></i></div><div class="muted" style="font-size:12px;margin-top:3px">${o} de ${t} respuestas correctas</div>`}).join("")}</div></div>
+  ${sims.length?`<div class="card"><h3>Simulacros completos</h3><p class="muted" style="margin:0;font-size:14px">${sims.length} realizados · promedio ${(sims.reduce((s,x)=>s+nota(x.ok,x.n),0)/sims.length).toFixed(2)}/10 · mejor ${Math.max(...sims.map(x=>nota(x.ok,x.n))).toFixed(2)}/10</p></div>`:""}
+  <div class="card"><h3>Intentos</h3>${h.map(x=>`<div class="hist"><div><b>${esc(x.title)}</b><div class="muted">${new Date(x.d).toLocaleString("es-EC",{dateStyle:"medium",timeStyle:"short"})} · ${x.ok}/${x.n}</div></div><div class="pill" style="color:var(--${nota(x.ok,x.n)>=7?"ok":nota(x.ok,x.n)>=5?"warn":"bad"})">${nota(x.ok,x.n).toFixed(2)}</div></div>`).join("")}</div>
+  ${store.get(K.last,null)?`<button class="btn" style="width:100%;margin-bottom:10px" onclick="resultsView(store.get(K.last))">Ver la última evaluación</button>`:""}
+  <button class="btn" style="width:100%" onclick="clearHist()">Borrar historial y errores</button>`
+  :`<div class="card">Aún no has rendido ninguna evaluación.</div>`}
+  </main>`;
+}
+function clearHist(){if(confirm("¿Borrar todo el historial y la lista de errores?")){store.set(K.hist,[]);store.set(K.errs,[]);store.set(K.last,null);historyView()}}
+
+/* ---------- BANCO ---------- */
+const EJEMPLO=`[
+  {
+    "area": 4,
+    "subarea": "Sucesiones",
+    "tema": "Desheredamiento",
+    "resultado": "Aplica las causales de desheredamiento.",
+    "demanda": "Aplicar",
+    "enunciado": "Texto de la pregunta...",
+    "opciones": [
+      {"texto": "Alternativa A", "justificacion": "Por qué es correcta o incorrecta"},
+      {"texto": "Alternativa B", "justificacion": "..."},
+      {"texto": "Alternativa C", "justificacion": "..."},
+      {"texto": "Alternativa D", "justificacion": "..."}
+    ],
+    "correcta": 0,
+    "referencias": ["Autor. (Año). Título. Fuente. https://..."]
+  }
+]`;
+function bankView(){
+  VIEW="bank";stopTick();const c=store.get(K.custom,[]),r=store.get(K.remote,[]),b=bank(),packs=store.get(K.packs,{}),st=store.get(K.sync,{}),saved=store.get(K.src,"");
+  app().innerHTML=`<header class="top"><button class="ic" onclick="home()">‹</button><div class="mid"><div class="kicker">${b.length} preguntas</div><b>Banco de preguntas</b></div></header>
+  <main class="wrap">
+  ${syncLine()}
+  <div class="card"><h3>Contenido</h3><div class="dist">${Object.entries(AREAS).map(([a,v])=>{const t=BASE.filter(q=>q.a==a).length,d=r.filter(q=>q.a==a).length,u=c.filter(q=>q.a==a).length;return `<div class="r"><span>${esc(v.n)}</span><b>${b.filter(q=>q.a==a).length}</b></div><div class="muted" style="font-size:12px">${t} incluidas${d?" + "+d+" descargadas":""}${u?" + "+u+" importadas":""} · el simulacro usa ${v.k}</div>`}).join("")}</div></div>
+  <div class="card"><h3>Actualización en línea</h3>
+  <p class="muted" style="font-size:14px;margin:0 0 10px;line-height:1.5">Cada vez que abras la app con internet (y cuando vuelva la conexión) se descargan los paquetes de preguntas nuevos y quedan guardados para usarlos sin conexión.</p>
+  ${isWeb()&&!saved?`<p style="font-size:13.5px;margin:0 0 10px">Fuente: <b>banco de este mismo sitio</b></p>`:""}
+  <label class="fld" for="src">${isWeb()?"Otra dirección (opcional)":"Dirección del banco (manifest.json)"}</label>
+  <input type="url" id="src" inputmode="url" placeholder="https://usuario.github.io/complexivo/banco/manifest.json" value="${esc(saved)}">
+  <div class="row" style="margin-top:10px"><button class="btn" onclick="saveSrc()">Guardar dirección</button><button class="btn pri" onclick="sync(true)" ${srcUrl()?"":"disabled"}>Actualizar ahora</button></div>
+  ${st.err&&(!st.t||st.te>st.t)?`<p style="font-size:13px;color:var(--bad);margin:10px 0 0">Último error: ${esc(st.err)}</p>`:""}
+  ${Object.keys(packs).length?`<h4>Paquetes descargados</h4>${Object.entries(packs).map(([id,p])=>`<div class="pk"><span>${esc(p.t)}</span><b>${p.n}</b></div>`).join("")}<button class="btn" style="width:100%;margin-top:10px" onclick="delRemote()">Borrar preguntas descargadas</button>`:""}
+  </div>
+  <div class="card"><h3>Importar preguntas</h3>
+  <p class="muted" style="font-size:14px;margin:0 0 10px;line-height:1.5">Pega un JSON con el formato de abajo o elige un archivo .json. Áreas: 1 Constitucional/DD. HH./Administrativo · 2 Penal · 3 Procesal y MASC · 4 Civil · 5 Int. Privado/Mercantil/Tributario/Laboral. «correcta» es el índice (0 a 3) de la opción correcta.</p>
+  <textarea id="imp" placeholder="Pega aquí el JSON"></textarea>
+  <div class="row" style="margin-top:10px"><button class="btn pri" onclick="doImport(document.getElementById('imp').value)">Importar texto</button><label class="btn" style="text-align:center;display:flex;align-items:center;justify-content:center">Elegir archivo<input type="file" accept=".json,application/json,text/plain" style="display:none" onchange="impFile(this)"></label></div>
+  <h4>Formato</h4><pre>${esc(EJEMPLO)}</pre></div>
+  ${c.length?`<div class="card"><h3>Preguntas importadas: ${c.length}</h3><div class="row"><button class="btn" onclick="expCustom()">Exportar (.json)</button><button class="btn" onclick="delCustom()">Eliminar importadas</button></div></div>`:""}
+  </main>`;
+}
+function impFile(inp){const f=inp.files[0];if(!f)return;const r=new FileReader();r.onload=()=>doImport(String(r.result));r.readAsText(f)}
+function doImport(txt){
+  let raw;try{raw=JSON.parse(txt)}catch(e){alert("El texto no es un JSON válido:\n"+e.message);return}
+  let data=Array.isArray(raw)?raw:Array.isArray(raw.preguntas)?raw.preguntas:[raw];if(!Array.isArray(raw))data.bibliografia=raw.bibliografia;
+  const out=[],bad=[],stamp=Date.now().toString(36);
+  const bib=data.bibliografia||{};
+  data.forEach((x,i)=>{try{out.push(normItem(x,"U"+stamp+"-"+i,bib))}catch(e){bad.push("Pregunta "+(i+1)+": "+e)}});
+  if(out.length){store.set(K.custom,store.get(K.custom,[]).concat(out))}
+  alert(`Importadas: ${out.length}${bad.length?"\nCon errores (omitidas): "+bad.length+"\n\n"+bad.slice(0,8).join("\n"):""}`);
+  bankView();
+}
+function expCustom(){
+  const c=store.get(K.custom,[]).map(q=>({area:q.a,subarea:q.s,tema:q.t,resultado:q.ra,demanda:q.d,enunciado:q.q,opciones:q.o.map(p=>({texto:p.x,justificacion:p.w})),correcta:0,referencias:q.refs}));
+  const blob=new Blob([JSON.stringify(c,null,2)],{type:"application/json"});const u=URL.createObjectURL(blob);
+  const l=document.createElement("a");l.href=u;l.download="preguntas-complexivo.json";document.body.appendChild(l);l.click();l.remove();setTimeout(()=>URL.revokeObjectURL(u),2000);
+}
+function saveSrc(){const v=document.getElementById("src").value.trim();if(v&&!/^https?:\/\//.test(v)){alert("La dirección debe empezar con https://");return}store.set(K.src,v);bankView();if(v||isWeb())sync(true)}
+function delRemote(){if(confirm("¿Borrar las preguntas descargadas? Se volverán a descargar en la próxima actualización.")){store.set(K.remote,[]);store.set(K.packs,{});store.set(K.errs,validErrs());bankView()}}
+function delCustom(){if(confirm("¿Eliminar todas las preguntas importadas?")){store.set(K.custom,[]);store.set(K.errs,validErrs());bankView()}}
+
+/* ---------- BOTÓN ATRÁS DE ANDROID ---------- */
+try{history.pushState({s:1},"")}catch(e){}
+window.addEventListener("popstate",()=>{
+  try{history.pushState({s:1},"")}catch(e){}
+  if(VIEW==="exam")exitExam();
+  else if(VIEW==="grid")go(0,true);
+  else if(VIEW==="review")resultsView(store.get(K.last));
+  else if(VIEW!=="home")home();
+});
+document.addEventListener("visibilitychange",()=>{if(!document.hidden&&EX&&!EX.done&&(VIEW==="exam"||VIEW==="grid")&&EX.dur&&remaining()<=0)finish(true)});
+
+/* ---------- ACTUALIZACIÓN AUTOMÁTICA ---------- */
+window.addEventListener("online",()=>{refreshSync();sync(false)});
+window.addEventListener("offline",refreshSync);
+setInterval(()=>sync(false),6*3600*1000);
+document.addEventListener("visibilitychange",()=>{if(!document.hidden){const st=store.get(K.sync,{});if(!st.t||Date.now()-st.t>3600*1000)sync(false)}});
+if(isWeb()&&"serviceWorker" in navigator){navigator.serviceWorker.register("sw.js").catch(()=>{})}
+
+home();
+setTimeout(()=>sync(false),800);
+</script>
+</body>
+</html>

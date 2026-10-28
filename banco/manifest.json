@@ -1,0 +1,13 @@
+{
+ "version": 1,
+ "actualizado": "2026-10-27",
+ "paquetes": [
+  {
+   "id": "pack-001",
+   "archivo": "pack-001.json",
+   "version": 1,
+   "titulo": "Paquete 1 · 42 preguntas (octubre 2026)",
+   "preguntas": 42
+  }
+ ]
+}

@@ -1,0 +1,1329 @@
+{
+ "id": "pack-001",
+ "titulo": "Paquete 1 · 42 preguntas (octubre 2026)",
+ "bibliografia": {
+  "CC": "Congreso Nacional del Ecuador. (2005). Código Civil (Codificación). Registro Oficial Suplemento 46, 24 de junio de 2005. https://www.registroficial.gob.ec/",
+  "COGEP": "Asamblea Nacional del Ecuador. (2015). Código Orgánico General de Procesos. Registro Oficial Suplemento 506, 22 de mayo de 2015. https://www.funcionjudicial.gob.ec/",
+  "COIP": "Asamblea Nacional del Ecuador. (2014). Código Orgánico Integral Penal. Registro Oficial Suplemento 180, 10 de febrero de 2014. https://www.registroficial.gob.ec/",
+  "CRE": "Asamblea Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449, 20 de octubre de 2008. https://www.asambleanacional.gob.ec/",
+  "CT": "Congreso Nacional del Ecuador. (2005). Código del Trabajo (Codificación). Registro Oficial Suplemento 167, 16 de diciembre de 2005. https://www.trabajo.gob.ec/",
+  "CTRIB": "Congreso Nacional del Ecuador. (2005). Código Tributario (Codificación). Registro Oficial Suplemento 38, 14 de junio de 2005. https://www.sri.gob.ec/",
+  "HCCH": "Conferencia de La Haya de Derecho Internacional Privado. (1961). Convenio por el que se suprime el requisito de legalización de los documentos públicos extranjeros. https://www.hcch.net/es/instruments/conventions/full-text/?cid=41",
+  "LAM": "Congreso Nacional del Ecuador. (2006). Ley de Arbitraje y Mediación (Codificación). Registro Oficial 417, 14 de diciembre de 2006. https://www.registroficial.gob.ec/",
+  "LC": "Congreso Nacional del Ecuador. (1999). Ley de Compañías (Codificación). Registro Oficial 312, 5 de noviembre de 1999. https://www.supercias.gob.ec/",
+  "LOGJCC": "Asamblea Nacional del Ecuador. (2009). Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional. Registro Oficial Segundo Suplemento 52, 22 de octubre de 2009. https://www.corteconstitucional.gob.ec/"
+ },
+ "preguntas": [
+  {
+   "id": "P1-01",
+   "area": 1,
+   "subarea": "Derecho Constitucional",
+   "tema": "Acceso a la información pública",
+   "resultado": "Identifica la garantía que tutela el acceso a la información pública.",
+   "demanda": "Aplicar",
+   "enunciado": "Un periodista solicita a un ministerio los contratos de una obra; la entidad le entrega información incompleta alegando que el resto es «reservado», sin norma que lo declare así. ¿Qué garantía procede?",
+   "opciones": [
+    {
+     "texto": "Acción de acceso a la información pública, que procede cuando la información ha sido denegada expresa o tácitamente o entregada de forma incompleta, incluso si la negativa se sustenta en su carácter reservado.",
+     "justificacion": "Correcta. Así lo prevé el art. 91 CRE; la reserva debe estar declarada previamente conforme a la ley."
+    },
+    {
+     "texto": "Hábeas data.",
+     "justificacion": "Incorrecta. El hábeas data protege datos personales del propio titular (art. 92 CRE), no información pública general."
+    },
+    {
+     "texto": "Acción por incumplimiento.",
+     "justificacion": "Incorrecta. Garantiza la aplicación de normas o sentencias internacionales con obligación clara (art. 93 CRE)."
+    },
+    {
+     "texto": "Ninguna, porque la calificación de reserva corresponde exclusivamente a la entidad.",
+     "justificacion": "Incorrecta. La Constitución permite impugnar la negativa aun cuando se invoque reserva."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "LOGJCC"
+   ]
+  },
+  {
+   "id": "P1-02",
+   "area": 1,
+   "subarea": "Derecho Constitucional",
+   "tema": "Hábeas data",
+   "resultado": "Determina el objeto y alcance del hábeas data.",
+   "demanda": "Comprender",
+   "enunciado": "Una persona descubre que una central de riesgos mantiene un registro desactualizado de una deuda que ya pagó. Mediante hábeas data puede:",
+   "opciones": [
+    {
+     "texto": "Acceder a los datos que sobre ella constan y pedir su actualización, rectificación, eliminación o anulación.",
+     "justificacion": "Correcta. Es el alcance del art. 92 CRE respecto de archivos y bancos de datos personales."
+    },
+    {
+     "texto": "Exigir únicamente una indemnización por daño moral.",
+     "justificacion": "Incorrecta. El objeto del hábeas data es el control de los datos, sin perjuicio de otras acciones."
+    },
+    {
+     "texto": "Pedir la información financiera de terceros que figuran en la misma base.",
+     "justificacion": "Incorrecta. El hábeas data se refiere a datos propios o sobre los bienes del titular."
+    },
+    {
+     "texto": "Obtener la liberación de una persona detenida.",
+     "justificacion": "Incorrecta. Ese es el objeto del hábeas corpus (art. 89 CRE)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "LOGJCC"
+   ]
+  },
+  {
+   "id": "P1-03",
+   "area": 1,
+   "subarea": "Derecho Constitucional",
+   "tema": "Acción de protección",
+   "resultado": "Verifica los requisitos de procedencia de la acción de protección.",
+   "demanda": "Analizar",
+   "enunciado": "Según la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional, la acción de protección exige concurrentemente:",
+   "opciones": [
+    {
+     "texto": "Violación de un derecho constitucional; acción u omisión de autoridad pública o de un particular; e inexistencia de otro mecanismo de defensa judicial adecuado y eficaz.",
+     "justificacion": "Correcta. Son los requisitos del art. 40 LOGJCC."
+    },
+    {
+     "texto": "Agotamiento previo de la vía administrativa y de los recursos judiciales ordinarios.",
+     "justificacion": "Incorrecta. El art. 88 CRE no exige agotar la vía administrativa; la residualidad se analiza caso a caso."
+    },
+    {
+     "texto": "Que el accionante sea la persona directamente afectada y actúe con abogado.",
+     "justificacion": "Incorrecta. La legitimación es amplia (art. 86 num. 1 CRE) y no se requiere patrocinio para presentar la acción."
+    },
+    {
+     "texto": "Que la vulneración provenga exclusivamente de una autoridad pública.",
+     "justificacion": "Incorrecta. También procede contra particulares en los supuestos constitucionales."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "LOGJCC",
+    "CRE"
+   ]
+  },
+  {
+   "id": "P1-04",
+   "area": 1,
+   "subarea": "Derecho Constitucional",
+   "tema": "Órganos de control constitucional",
+   "resultado": "Identifica al máximo órgano de control e interpretación constitucional.",
+   "demanda": "Recordar",
+   "enunciado": "¿Qué órgano es el máximo de control, interpretación constitucional y administración de justicia en esta materia en el Ecuador?",
+   "opciones": [
+    {
+     "texto": "La Corte Constitucional.",
+     "justificacion": "Correcta. Así lo establece el art. 429 CRE."
+    },
+    {
+     "texto": "La Corte Nacional de Justicia.",
+     "justificacion": "Incorrecta. Es el máximo órgano de la justicia ordinaria (art. 182 CRE)."
+    },
+    {
+     "texto": "El Consejo de la Judicatura.",
+     "justificacion": "Incorrecta. Es el órgano de gobierno, administración y disciplina de la Función Judicial (art. 178 CRE)."
+    },
+    {
+     "texto": "La Asamblea Nacional.",
+     "justificacion": "Incorrecta. Interpreta la ley con carácter general obligatorio, no la Constitución."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "P1-05",
+   "area": 1,
+   "subarea": "Derechos Humanos",
+   "tema": "Derechos colectivos",
+   "resultado": "Distingue la consulta previa de la consulta prelegislativa.",
+   "demanda": "Analizar",
+   "enunciado": "El Estado planifica explotar petróleo en tierras de una comuna indígena. Según el artículo 57 de la Constitución, corresponde:",
+   "opciones": [
+    {
+     "texto": "La consulta previa, libre e informada, dentro de un plazo razonable, sobre los planes de prospección, explotación y comercialización de recursos no renovables en sus tierras.",
+     "justificacion": "Correcta. Es el derecho colectivo del art. 57 num. 7 CRE."
+    },
+    {
+     "texto": "La consulta prelegislativa.",
+     "justificacion": "Incorrecta. Se refiere a medidas legislativas que puedan afectar derechos colectivos (art. 57 num. 17 CRE)."
+    },
+    {
+     "texto": "Un referéndum nacional obligatorio.",
+     "justificacion": "Incorrecta. No es el mecanismo previsto para este supuesto."
+    },
+    {
+     "texto": "Solo una notificación posterior al inicio de la explotación.",
+     "justificacion": "Incorrecta. La consulta debe ser previa."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "P1-06",
+   "area": 1,
+   "subarea": "Derecho Constitucional",
+   "tema": "Derechos de la naturaleza",
+   "resultado": "Determina la legitimación para exigir los derechos de la naturaleza.",
+   "demanda": "Comprender",
+   "enunciado": "Una vecina de un río contaminado, sin afectación personal directa, pretende exigir judicialmente los derechos de la naturaleza. Según la Constitución:",
+   "opciones": [
+    {
+     "texto": "Está legitimada, porque toda persona, comunidad, pueblo o nacionalidad puede exigir a la autoridad pública el cumplimiento de los derechos de la naturaleza.",
+     "justificacion": "Correcta. Lo dispone el art. 71 CRE; la naturaleza es sujeto de derechos (art. 10 CRE)."
+    },
+    {
+     "texto": "Solo puede hacerlo el ministerio rector del ambiente.",
+     "justificacion": "Incorrecta. La legitimación es amplia."
+    },
+    {
+     "texto": "Solo pueden hacerlo los propietarios ribereños afectados.",
+     "justificacion": "Incorrecta. No se exige afectación personal."
+    },
+    {
+     "texto": "Solo puede hacerlo la Defensoría del Pueblo.",
+     "justificacion": "Incorrecta. La Defensoría puede actuar, pero no tiene exclusividad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "P1-07",
+   "area": 1,
+   "subarea": "Derecho Constitucional",
+   "tema": "Estado de excepción",
+   "resultado": "Aplica los límites temporales del estado de excepción.",
+   "demanda": "Recordar",
+   "enunciado": "Según la Constitución, el decreto de estado de excepción tiene vigencia máxima de:",
+   "opciones": [
+    {
+     "texto": "Sesenta días, renovable hasta por treinta días más si persisten las causas.",
+     "justificacion": "Correcta. Lo dispone el art. 166 CRE."
+    },
+    {
+     "texto": "Noventa días, renovable indefinidamente.",
+     "justificacion": "Incorrecta. No corresponde a los límites constitucionales."
+    },
+    {
+     "texto": "Treinta días, sin renovación.",
+     "justificacion": "Incorrecta. No corresponde a los límites constitucionales."
+    },
+    {
+     "texto": "El tiempo que determine la Asamblea Nacional.",
+     "justificacion": "Incorrecta. Los plazos están fijados en la Constitución."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "P1-08",
+   "area": 1,
+   "subarea": "Derecho Constitucional",
+   "tema": "Consulta de norma",
+   "resultado": "Aplica el procedimiento de control concreto de constitucionalidad.",
+   "demanda": "Aplicar",
+   "enunciado": "Una jueza, al resolver un caso, considera que la norma aplicable es contraria a la Constitución. Según el artículo 428 de la Constitución, debe:",
+   "opciones": [
+    {
+     "texto": "Suspender la tramitación de la causa y remitir el expediente en consulta a la Corte Constitucional, que resolverá en un plazo no mayor a cuarenta y cinco días.",
+     "justificacion": "Correcta. Es el control concreto del art. 428 CRE."
+    },
+    {
+     "texto": "Inaplicar la norma y resolver el caso sin consultar.",
+     "justificacion": "Incorrecta. El modelo ecuatoriano exige la consulta a la Corte Constitucional."
+    },
+    {
+     "texto": "Remitir la consulta a la Corte Nacional de Justicia.",
+     "justificacion": "Incorrecta. La competencia es de la Corte Constitucional."
+    },
+    {
+     "texto": "Pedir a la Asamblea Nacional que derogue la norma.",
+     "justificacion": "Incorrecta. No es el mecanismo de control concreto."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "P1-09",
+   "area": 1,
+   "subarea": "Derechos Humanos",
+   "tema": "Igualdad y no discriminación",
+   "resultado": "Comprende la legitimidad de las medidas de acción afirmativa.",
+   "demanda": "Evaluar",
+   "enunciado": "Una ley reserva un porcentaje de becas para personas de pueblos históricamente excluidos. Un postulante alega discriminación. Según la Constitución, la medida:",
+   "opciones": [
+    {
+     "texto": "Es constitucionalmente legítima como acción afirmativa que promueve la igualdad real a favor de quienes están en situación de desigualdad.",
+     "justificacion": "Correcta. Así lo prevé el art. 11 num. 2 CRE."
+    },
+    {
+     "texto": "Es inconstitucional porque toda diferencia de trato es discriminatoria.",
+     "justificacion": "Incorrecta. La Constitución admite y ordena acciones afirmativas."
+    },
+    {
+     "texto": "Solo es válida si la aprueba la Corte Constitucional antes de aplicarse.",
+     "justificacion": "Incorrecta. No existe ese control previo obligatorio."
+    },
+    {
+     "texto": "Es válida únicamente en el sector privado.",
+     "justificacion": "Incorrecta. La obligación recae en el Estado."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "P2-01",
+   "area": 2,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Principio de favorabilidad",
+   "resultado": "Aplica el principio de favorabilidad en la sucesión de leyes penales.",
+   "demanda": "Aplicar",
+   "enunciado": "Durante el proceso por un delito, una reforma reduce la pena prevista para esa conducta. Según la Constitución y el COIP:",
+   "opciones": [
+    {
+     "texto": "Se aplica la norma menos rigurosa, aun cuando su promulgación sea posterior a la infracción.",
+     "justificacion": "Correcta. Es el principio de favorabilidad (art. 76 num. 5 CRE; art. 5 num. 2 COIP)."
+    },
+    {
+     "texto": "Se aplica siempre la ley vigente al momento del hecho.",
+     "justificacion": "Incorrecta. Desconoce la retroactividad favorable."
+    },
+    {
+     "texto": "El juez puede elegir libremente la norma que estime justa.",
+     "justificacion": "Incorrecta. La favorabilidad es una regla obligatoria."
+    },
+    {
+     "texto": "La reforma solo rige para hechos futuros.",
+     "justificacion": "Incorrecta. La ley penal más favorable se aplica retroactivamente."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "COIP"
+   ]
+  },
+  {
+   "id": "P2-02",
+   "area": 2,
+   "subarea": "Derecho Procesal Penal",
+   "tema": "Prohibición de doble juzgamiento",
+   "resultado": "Aplica la garantía non bis in idem.",
+   "demanda": "Evaluar",
+   "enunciado": "Una persona fue sentenciada por la justicia indígena de su comunidad por un hecho, y luego la Fiscalía inicia un proceso penal ordinario por el mismo hecho. Según la Constitución:",
+   "opciones": [
+    {
+     "texto": "El nuevo proceso vulnera la prohibición de doble juzgamiento, porque los casos resueltos por la jurisdicción indígena deben considerarse para este efecto.",
+     "justificacion": "Correcta. Lo dispone el art. 76 num. 7 lit. i) CRE, en concordancia con el art. 171 CRE."
+    },
+    {
+     "texto": "Es válido, porque la justicia indígena no produce cosa juzgada.",
+     "justificacion": "Incorrecta. La Constitución reconoce sus decisiones para efectos del non bis in idem."
+    },
+    {
+     "texto": "Es válido si la pena ordinaria es mayor.",
+     "justificacion": "Incorrecta. La gravedad de la pena no habilita el doble juzgamiento."
+    },
+    {
+     "texto": "Es válido si la víctima lo solicita.",
+     "justificacion": "Incorrecta. La garantía no depende de la voluntad de la víctima."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "COIP"
+   ]
+  },
+  {
+   "id": "P2-03",
+   "area": 2,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Culpabilidad",
+   "resultado": "Identifica las causas de inculpabilidad.",
+   "demanda": "Comprender",
+   "enunciado": "Una persona comete un hecho típico bajo un trastorno mental debidamente comprobado que le impedía comprender la ilicitud de su conducta. Según el COIP:",
+   "opciones": [
+    {
+     "texto": "No existe responsabilidad penal, sin perjuicio de que el juez pueda disponer una medida de seguridad.",
+     "justificacion": "Correcta. El trastorno mental es causa de inculpabilidad (arts. 35 y 36 COIP); la medida de seguridad es el internamiento (art. 76 COIP)."
+    },
+    {
+     "texto": "Responde penalmente con una atenuante.",
+     "justificacion": "Incorrecta. La falta total de capacidad de comprender excluye la culpabilidad."
+    },
+    {
+     "texto": "La conducta deja de ser típica.",
+     "justificacion": "Incorrecta. La tipicidad subsiste; lo que falta es la culpabilidad."
+    },
+    {
+     "texto": "Se excluye la antijuridicidad.",
+     "justificacion": "Incorrecta. El trastorno mental no es causa de justificación."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "P2-04",
+   "area": 2,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Complicidad",
+   "resultado": "Determina la pena aplicable al cómplice.",
+   "demanda": "Recordar",
+   "enunciado": "Quien coopera dolosamente en la ejecución de un delito con actos secundarios, sin los cuales igualmente se habría cometido, responde según el COIP como:",
+   "opciones": [
+    {
+     "texto": "Cómplice, sancionado con una pena equivalente de un tercio a la mitad de la prevista para el autor.",
+     "justificacion": "Correcta. Es la regla del art. 43 COIP."
+    },
+    {
+     "texto": "Coautor, con la misma pena del autor.",
+     "justificacion": "Incorrecta. La coautoría exige un aporte principal al hecho."
+    },
+    {
+     "texto": "Encubridor, con pena de contravención.",
+     "justificacion": "Incorrecta. El COIP no reconoce el encubrimiento como forma de participación."
+    },
+    {
+     "texto": "Autor mediato.",
+     "justificacion": "Incorrecta. No se vale de otra persona para ejecutar el delito."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "P2-05",
+   "area": 2,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Circunstancias modificatorias",
+   "resultado": "Aplica las reglas de individualización de la pena.",
+   "demanda": "Aplicar",
+   "enunciado": "En un delito, concurren dos circunstancias atenuantes y ninguna agravante. Según el COIP, la pena:",
+   "opciones": [
+    {
+     "texto": "Es la mínima prevista en el tipo penal, reducida en un tercio.",
+     "justificacion": "Correcta. Es la regla del art. 44 COIP."
+    },
+    {
+     "texto": "Es la máxima prevista, reducida a la mitad.",
+     "justificacion": "Incorrecta. No corresponde a la regla legal."
+    },
+    {
+     "texto": "Se sustituye por una pena no privativa de libertad.",
+     "justificacion": "Incorrecta. Las atenuantes no producen esa sustitución."
+    },
+    {
+     "texto": "Se extingue por completo.",
+     "justificacion": "Incorrecta. Las atenuantes modifican la pena, no la extinguen."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "P2-06",
+   "area": 2,
+   "subarea": "Derecho Penal (parte especial)",
+   "tema": "Femicidio",
+   "resultado": "Subsume hechos en el tipo penal de femicidio.",
+   "demanda": "Analizar",
+   "enunciado": "Según el COIP, el femicidio se configura cuando una persona:",
+   "opciones": [
+    {
+     "texto": "Como resultado de relaciones de poder manifestadas en cualquier tipo de violencia, da muerte a una mujer por el hecho de serlo o por su condición de género.",
+     "justificacion": "Correcta. Es la descripción típica del art. 141 COIP."
+    },
+    {
+     "texto": "Da muerte a cualquier mujer, independientemente de las circunstancias.",
+     "justificacion": "Incorrecta. El tipo exige el elemento de género y relaciones de poder."
+    },
+    {
+     "texto": "Lesiona a una mujer en el ámbito familiar.",
+     "justificacion": "Incorrecta. Las lesiones se tipifican en otras normas."
+    },
+    {
+     "texto": "Causa culposamente la muerte de una mujer.",
+     "justificacion": "Incorrecta. El femicidio es doloso."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "P2-07",
+   "area": 2,
+   "subarea": "Derecho Procesal Penal",
+   "tema": "Investigación previa",
+   "resultado": "Aplica los plazos de la fase de investigación previa.",
+   "demanda": "Recordar",
+   "enunciado": "Según el COIP, la investigación previa por un delito sancionado con pena privativa de libertad de hasta cinco años no puede superar:",
+   "opciones": [
+    {
+     "texto": "Un año.",
+     "justificacion": "Correcta. El art. 585 COIP fija un año para estos delitos y dos años para los sancionados con más de cinco años."
+    },
+    {
+     "texto": "Dos años.",
+     "justificacion": "Incorrecta. Es el plazo para delitos con pena mayor a cinco años."
+    },
+    {
+     "texto": "Noventa días.",
+     "justificacion": "Incorrecta. Es el plazo máximo de la instrucción (art. 592 COIP)."
+    },
+    {
+     "texto": "Seis meses.",
+     "justificacion": "Incorrecta. No es el plazo previsto."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "P2-08",
+   "area": 2,
+   "subarea": "Derecho Procesal Penal",
+   "tema": "Instrucción",
+   "resultado": "Identifica el acto que inicia la etapa de instrucción.",
+   "demanda": "Recordar",
+   "enunciado": "Según el COIP, la etapa de instrucción se inicia con:",
+   "opciones": [
+    {
+     "texto": "La audiencia de formulación de cargos.",
+     "justificacion": "Correcta. Lo dispone el art. 591 COIP; la etapa no puede exceder de noventa días (art. 592 COIP)."
+    },
+    {
+     "texto": "La denuncia presentada ante la Fiscalía.",
+     "justificacion": "Incorrecta. La denuncia puede dar lugar a la investigación previa."
+    },
+    {
+     "texto": "La audiencia preparatoria de juicio.",
+     "justificacion": "Incorrecta. Corresponde a la etapa de evaluación y preparatoria de juicio."
+    },
+    {
+     "texto": "El parte policial.",
+     "justificacion": "Incorrecta. No inicia ninguna etapa procesal."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "P2-09",
+   "area": 2,
+   "subarea": "Derecho Procesal Penal",
+   "tema": "Procedimiento directo",
+   "resultado": "Determina la procedencia del procedimiento directo.",
+   "demanda": "Aplicar",
+   "enunciado": "Una persona es aprehendida en flagrancia por un delito contra la propiedad cuyo monto no excede de treinta salarios básicos. Según el COIP, el procedimiento directo:",
+   "opciones": [
+    {
+     "texto": "Procede, porque se aplica a delitos flagrantes con pena máxima de hasta cinco años y a delitos contra la propiedad que no excedan de treinta salarios básicos, concentrando las etapas en una sola audiencia.",
+     "justificacion": "Correcta. Es el ámbito del art. 640 COIP, salvo las exclusiones expresas de esa norma."
+    },
+    {
+     "texto": "No procede, porque solo se aplica a contravenciones.",
+     "justificacion": "Incorrecta. El procedimiento directo se aplica a delitos."
+    },
+    {
+     "texto": "Requiere que la persona procesada admita el hecho.",
+     "justificacion": "Incorrecta. La admisión es requisito del procedimiento abreviado."
+    },
+    {
+     "texto": "Exige la acusación particular de la víctima.",
+     "justificacion": "Incorrecta. Es un delito de ejercicio público."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "P2-10",
+   "area": 2,
+   "subarea": "Derecho Penal (parte especial)",
+   "tema": "Peculado",
+   "resultado": "Identifica los elementos del delito de peculado.",
+   "demanda": "Comprender",
+   "enunciado": "Un servidor público se apropia, en beneficio propio, de fondos públicos cuya administración le fue confiada en razón de su cargo. ¿Qué delito comete según el COIP?",
+   "opciones": [
+    {
+     "texto": "Peculado, delito contra la eficiencia de la administración pública, cuya acción y pena son imprescriptibles.",
+     "justificacion": "Correcta. Tipificado en el art. 278 COIP; imprescriptible según el art. 233 CRE."
+    },
+    {
+     "texto": "Abuso de confianza.",
+     "justificacion": "Incorrecta. Se aplica a particulares; la calidad de servidor público y los fondos públicos configuran peculado."
+    },
+    {
+     "texto": "Estafa.",
+     "justificacion": "Incorrecta. La estafa exige engaño para obtener una disposición patrimonial."
+    },
+    {
+     "texto": "Concusión.",
+     "justificacion": "Incorrecta. La concusión consiste en exigir pagos indebidos abusando del cargo."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP",
+    "CRE"
+   ]
+  },
+  {
+   "id": "P3-01",
+   "area": 3,
+   "subarea": "Derecho Procesal (COGEP)",
+   "tema": "Principios procesales",
+   "resultado": "Identifica el sistema que rige el impulso procesal.",
+   "demanda": "Recordar",
+   "enunciado": "Según el COGEP, el impulso del proceso corresponde a las partes procesales conforme al sistema:",
+   "opciones": [
+    {
+     "texto": "Dispositivo.",
+     "justificacion": "Correcta. Lo dispone el art. 5 COGEP, en concordancia con el art. 168 num. 6 CRE."
+    },
+    {
+     "texto": "Inquisitivo.",
+     "justificacion": "Incorrecta. Asigna la dirección e impulso principalmente al juez."
+    },
+    {
+     "texto": "Mixto escrito.",
+     "justificacion": "Incorrecta. No es el sistema del COGEP."
+    },
+    {
+     "texto": "De oficio absoluto.",
+     "justificacion": "Incorrecta. La actuación de oficio es excepcional."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP",
+    "CRE"
+   ]
+  },
+  {
+   "id": "P3-02",
+   "area": 3,
+   "subarea": "Derecho Procesal (COGEP)",
+   "tema": "Citación",
+   "resultado": "Aplica las formas de citación del COGEP.",
+   "demanda": "Aplicar",
+   "enunciado": "La parte actora desconoce el domicilio del demandado y no puede determinarlo. Según el COGEP, puede citarlo:",
+   "opciones": [
+    {
+     "texto": "Por la prensa, mediante publicaciones en un diario de amplia circulación, previa declaración bajo juramento de la imposibilidad de determinar su domicilio.",
+     "justificacion": "Correcta. Es la citación por la prensa del art. 56 COGEP."
+    },
+    {
+     "texto": "Por boleta dejada en cualquier domicilio conocido de sus familiares.",
+     "justificacion": "Incorrecta. No es una forma válida de citación."
+    },
+    {
+     "texto": "Mediante llamada telefónica registrada por el secretario.",
+     "justificacion": "Incorrecta. No es una forma de citación prevista."
+    },
+    {
+     "texto": "No puede demandarlo hasta conocer su domicilio.",
+     "justificacion": "Incorrecta. La ley prevé la citación por la prensa."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "P3-03",
+   "area": 3,
+   "subarea": "Derecho Procesal (COGEP)",
+   "tema": "Excepciones previas",
+   "resultado": "Distingue las excepciones previas de las defensas de fondo.",
+   "demanda": "Analizar",
+   "enunciado": "¿Cuál de las siguientes es una excepción previa según el COGEP?",
+   "opciones": [
+    {
+     "texto": "La existencia de convenio, compromiso arbitral o convenio de mediación.",
+     "justificacion": "Correcta. Figura entre las excepciones previas del art. 153 COGEP."
+    },
+    {
+     "texto": "El pago de la obligación demandada.",
+     "justificacion": "Incorrecta. Es una defensa de fondo."
+    },
+    {
+     "texto": "La lesión enorme.",
+     "justificacion": "Incorrecta. Es una pretensión o defensa de fondo."
+    },
+    {
+     "texto": "La falta de prueba del actor.",
+     "justificacion": "Incorrecta. Es una cuestión de mérito."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "P3-04",
+   "area": 3,
+   "subarea": "Derecho Procesal (COGEP)",
+   "tema": "Procedimiento sumario",
+   "resultado": "Identifica la estructura de audiencias del procedimiento sumario.",
+   "demanda": "Comprender",
+   "enunciado": "En el procedimiento sumario del COGEP, la audiencia es:",
+   "opciones": [
+    {
+     "texto": "Única, con dos fases: la de saneamiento, fijación de puntos en debate y conciliación, y la de prueba y alegatos.",
+     "justificacion": "Correcta. Es la regla del art. 333 COGEP."
+    },
+    {
+     "texto": "Doble: preliminar y de juicio, como en el ordinario.",
+     "justificacion": "Incorrecta. Esa estructura corresponde al procedimiento ordinario."
+    },
+    {
+     "texto": "Escrita, sin audiencia.",
+     "justificacion": "Incorrecta. El COGEP es un sistema oral."
+    },
+    {
+     "texto": "Triple: conciliación, prueba y sentencia.",
+     "justificacion": "Incorrecta. No corresponde a la ley."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "P3-05",
+   "area": 3,
+   "subarea": "Métodos Alternativos",
+   "tema": "Convenio arbitral",
+   "resultado": "Identifica los requisitos formales del convenio arbitral.",
+   "demanda": "Comprender",
+   "enunciado": "Según la Ley de Arbitraje y Mediación, el convenio arbitral:",
+   "opciones": [
+    {
+     "texto": "Es un acuerdo escrito por el cual las partes deciden someter a arbitraje sus controversias, actuales o futuras, susceptibles de transacción.",
+     "justificacion": "Correcta. Es la definición del art. 5 LAM, en relación con el art. 1."
+    },
+    {
+     "texto": "Puede ser verbal si consta ante testigos.",
+     "justificacion": "Incorrecta. La ley exige la forma escrita."
+    },
+    {
+     "texto": "Solo puede pactarse después de surgido el conflicto.",
+     "justificacion": "Incorrecta. Puede referirse a controversias futuras."
+    },
+    {
+     "texto": "Puede abarcar materias no transigibles.",
+     "justificacion": "Incorrecta. Solo cabe sobre materias susceptibles de transacción."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "LAM",
+    "CRE"
+   ]
+  },
+  {
+   "id": "P3-06",
+   "area": 3,
+   "subarea": "Métodos Alternativos",
+   "tema": "Conciliación penal",
+   "resultado": "Determina la procedencia de la conciliación en materia penal.",
+   "demanda": "Analizar",
+   "enunciado": "¿En cuál de los siguientes casos procede la conciliación según el COIP?",
+   "opciones": [
+    {
+     "texto": "En un delito de tránsito que no tuvo como resultado la muerte.",
+     "justificacion": "Correcta. Es uno de los supuestos del art. 663 COIP."
+    },
+    {
+     "texto": "En un delito contra la integridad sexual y reproductiva.",
+     "justificacion": "Incorrecta. Está expresamente excluido."
+    },
+    {
+     "texto": "En un delito de violencia contra la mujer o miembros del núcleo familiar.",
+     "justificacion": "Incorrecta. Está expresamente excluido."
+    },
+    {
+     "texto": "En un delito de peculado.",
+     "justificacion": "Incorrecta. Los delitos contra la eficiencia de la administración pública están excluidos."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "P4-01",
+   "area": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Domicilio",
+   "resultado": "Identifica los elementos del domicilio civil.",
+   "demanda": "Recordar",
+   "enunciado": "Según el Código Civil, el domicilio consiste en:",
+   "opciones": [
+    {
+     "texto": "La residencia, acompañada, real o presuntivamente, del ánimo de permanecer en ella.",
+     "justificacion": "Correcta. Es la definición del art. 45 del Código Civil."
+    },
+    {
+     "texto": "El lugar de nacimiento de la persona.",
+     "justificacion": "Incorrecta. El nacimiento no determina el domicilio."
+    },
+    {
+     "texto": "El lugar donde se encuentra la persona en un momento dado.",
+     "justificacion": "Incorrecta. Eso es la mera residencia o habitación."
+    },
+    {
+     "texto": "El lugar señalado en la cédula de identidad.",
+     "justificacion": "Incorrecta. Es un dato administrativo, no el concepto civil."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "P4-02",
+   "area": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Patria potestad",
+   "resultado": "Comprende la naturaleza de la patria potestad.",
+   "demanda": "Comprender",
+   "enunciado": "Según el Código Civil, la patria potestad es:",
+   "opciones": [
+    {
+     "texto": "El conjunto de derechos que tienen los padres sobre sus hijos no emancipados.",
+     "justificacion": "Correcta. Es la definición del art. 283 del Código Civil."
+    },
+    {
+     "texto": "La obligación de alimentos entre parientes.",
+     "justificacion": "Incorrecta. Es una institución distinta."
+    },
+    {
+     "texto": "La facultad del Estado de proteger a los menores.",
+     "justificacion": "Incorrecta. La patria potestad corresponde a los padres."
+    },
+    {
+     "texto": "El derecho de los hijos a heredar a sus padres.",
+     "justificacion": "Incorrecta. Se refiere a la sucesión, no a la patria potestad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "P4-03",
+   "area": 4,
+   "subarea": "Bienes",
+   "tema": "Usufructo",
+   "resultado": "Identifica las características del usufructo.",
+   "demanda": "Comprender",
+   "enunciado": "Según el Código Civil, el usufructo es un derecho real que consiste en:",
+   "opciones": [
+    {
+     "texto": "La facultad de gozar de una cosa con cargo de conservar su forma y sustancia, y restituirla a su dueño.",
+     "justificacion": "Correcta. Es la definición del art. 778 del Código Civil."
+    },
+    {
+     "texto": "El dominio pleno sobre una cosa ajena.",
+     "justificacion": "Incorrecta. El usufructuario no es dueño."
+    },
+    {
+     "texto": "La mera tenencia temporal sin derecho a los frutos.",
+     "justificacion": "Incorrecta. El usufructo da derecho a los frutos."
+    },
+    {
+     "texto": "Un derecho personal que nace del arrendamiento.",
+     "justificacion": "Incorrecta. El arrendamiento genera derechos personales, no reales."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "P4-04",
+   "area": 4,
+   "subarea": "Bienes",
+   "tema": "Acción reivindicatoria",
+   "resultado": "Identifica la legitimación en la acción reivindicatoria.",
+   "demanda": "Aplicar",
+   "enunciado": "El propietario de un terreno, que no está en posesión de él, quiere que el actual poseedor se lo restituya. Debe ejercer:",
+   "opciones": [
+    {
+     "texto": "La acción reivindicatoria, que tiene el dueño de una cosa singular de la que no está en posesión, para que el poseedor sea condenado a restituírsela.",
+     "justificacion": "Correcta. Es la definición del art. 933 del Código Civil."
+    },
+    {
+     "texto": "Una acción posesoria.",
+     "justificacion": "Incorrecta. Protege la posesión, no el dominio, y la ejerce quien poseía."
+    },
+    {
+     "texto": "La prescripción adquisitiva.",
+     "justificacion": "Incorrecta. La alega el poseedor, no el dueño."
+    },
+    {
+     "texto": "La acción de partición.",
+     "justificacion": "Incorrecta. Procede entre comuneros."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "P4-05",
+   "area": 4,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Solidaridad",
+   "resultado": "Aplica las fuentes de la solidaridad pasiva.",
+   "demanda": "Analizar",
+   "enunciado": "Tres personas firman un préstamo sin pactar nada sobre la forma de responder, y ninguna ley establece solidaridad para ese caso. El acreedor:",
+   "opciones": [
+    {
+     "texto": "Solo puede cobrar a cada deudor su cuota, porque la solidaridad debe ser expresamente declarada cuando no la establece la ley.",
+     "justificacion": "Correcta. Es la regla del art. 1527 del Código Civil."
+    },
+    {
+     "texto": "Puede cobrar el total a cualquiera, porque la solidaridad se presume.",
+     "justificacion": "Incorrecta. La solidaridad no se presume."
+    },
+    {
+     "texto": "Debe demandar primero al deudor más solvente.",
+     "justificacion": "Incorrecta. No existe esa regla."
+    },
+    {
+     "texto": "No puede cobrar si uno de ellos es insolvente.",
+     "justificacion": "Incorrecta. La insolvencia de uno no extingue la obligación de los demás."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "P4-06",
+   "area": 4,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Mora",
+   "resultado": "Determina cuándo el deudor está en mora.",
+   "demanda": "Aplicar",
+   "enunciado": "Un deudor que debía pagar el 30 de junio no lo hizo, y el contrato no exige requerimiento. Según el Código Civil:",
+   "opciones": [
+    {
+     "texto": "Está en mora desde que no cumplió en el término estipulado.",
+     "justificacion": "Correcta. Es el supuesto del art. 1567 num. 1 del Código Civil."
+    },
+    {
+     "texto": "Solo estará en mora cuando sea demandado judicialmente.",
+     "justificacion": "Incorrecta. La reconvención judicial opera en los casos no previstos en los numerales anteriores."
+    },
+    {
+     "texto": "Nunca estará en mora si actúa de buena fe.",
+     "justificacion": "Incorrecta. La buena fe no excluye la mora."
+    },
+    {
+     "texto": "Estará en mora treinta días después del vencimiento.",
+     "justificacion": "Incorrecta. No existe ese plazo de gracia legal."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "P4-07",
+   "area": 4,
+   "subarea": "Sucesiones",
+   "tema": "Legitimarios",
+   "resultado": "Identifica a los legitimarios en el Código Civil.",
+   "demanda": "Recordar",
+   "enunciado": "Según el Código Civil, son legitimarios:",
+   "opciones": [
+    {
+     "texto": "Los hijos, personalmente o representados por su descendencia, y los padres.",
+     "justificacion": "Correcta. Es la enumeración del art. 1205 del Código Civil."
+    },
+    {
+     "texto": "El cónyuge, los hijos y los hermanos.",
+     "justificacion": "Incorrecta. El cónyuge tiene porción conyugal y los hermanos no son legitimarios."
+    },
+    {
+     "texto": "Todos los parientes hasta el cuarto grado.",
+     "justificacion": "Incorrecta. Confunde la legítima con la sucesión intestada."
+    },
+    {
+     "texto": "Solo los hijos mayores de edad.",
+     "justificacion": "Incorrecta. La edad no determina la calidad de legitimario."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "P4-08",
+   "area": 4,
+   "subarea": "Sucesiones",
+   "tema": "Beneficio de inventario",
+   "resultado": "Comprende los efectos de aceptar con beneficio de inventario.",
+   "demanda": "Comprender",
+   "enunciado": "Un heredero acepta la herencia con beneficio de inventario. ¿Cuál es el efecto principal?",
+   "opciones": [
+    {
+     "texto": "No responde de las obligaciones hereditarias sino hasta la concurrencia del valor de los bienes que hereda.",
+     "justificacion": "Correcta. Es el efecto propio del beneficio de inventario en el Código Civil."
+    },
+    {
+     "texto": "Queda exento de pagar cualquier deuda del causante.",
+     "justificacion": "Incorrecta. Responde, pero con un límite."
+    },
+    {
+     "texto": "Responde ilimitadamente con su propio patrimonio.",
+     "justificacion": "Incorrecta. Eso ocurre en la aceptación pura y simple."
+    },
+    {
+     "texto": "Pierde su calidad de heredero.",
+     "justificacion": "Incorrecta. Sigue siendo heredero."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "P4-09",
+   "area": 4,
+   "subarea": "Sucesiones",
+   "tema": "Desheredamiento",
+   "resultado": "Identifica los requisitos del desheredamiento.",
+   "demanda": "Analizar",
+   "enunciado": "Un padre quiere privar a uno de sus hijos de su legítima. Para que sea válido, el desheredamiento debe:",
+   "opciones": [
+    {
+     "texto": "Hacerse por testamento, expresando la causa legal, la que debe probarse en vida del testador o después de su muerte por los interesados.",
+     "justificacion": "Correcta. El desheredamiento es una disposición testamentaria basada en causas taxativas del Código Civil."
+    },
+    {
+     "texto": "Hacerse mediante declaración verbal ante dos testigos.",
+     "justificacion": "Incorrecta. Requiere testamento."
+    },
+    {
+     "texto": "Basarse en cualquier motivo que el padre considere justo.",
+     "justificacion": "Incorrecta. Las causas son taxativas."
+    },
+    {
+     "texto": "Ser aprobado previamente por un juez de familia.",
+     "justificacion": "Incorrecta. No existe esa aprobación previa."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "P4-10",
+   "area": 4,
+   "subarea": "Bienes",
+   "tema": "Clasificación de los bienes",
+   "resultado": "Distingue inmuebles por destinación.",
+   "demanda": "Comprender",
+   "enunciado": "Un tractor destinado permanentemente al cultivo de una hacienda por su propietario se considera, según el Código Civil:",
+   "opciones": [
+    {
+     "texto": "Inmueble por destinación, aunque por naturaleza sea mueble.",
+     "justificacion": "Correcta. Las cosas muebles destinadas permanentemente al uso, cultivo y beneficio de un inmueble se reputan inmuebles."
+    },
+    {
+     "texto": "Mueble por anticipación.",
+     "justificacion": "Incorrecta. Esta categoría se refiere a productos de un inmueble antes de separarse."
+    },
+    {
+     "texto": "Bien incorporal.",
+     "justificacion": "Incorrecta. El tractor es corporal."
+    },
+    {
+     "texto": "Bien fungible.",
+     "justificacion": "Incorrecta. La fungibilidad no se relaciona con la destinación."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "P5-01",
+   "area": 5,
+   "subarea": "Laboral",
+   "tema": "Décimo tercera remuneración",
+   "resultado": "Aplica las reglas de las remuneraciones adicionales.",
+   "demanda": "Recordar",
+   "enunciado": "Según el Código del Trabajo, la decimotercera remuneración equivale a:",
+   "opciones": [
+    {
+     "texto": "La doceava parte de las remuneraciones percibidas durante el año calendario, pagadera hasta el 24 de diciembre.",
+     "justificacion": "Correcta. Es la regla del art. 111 del Código del Trabajo."
+    },
+    {
+     "texto": "Un salario básico unificado pagado en septiembre.",
+     "justificacion": "Incorrecta. Confunde con la decimocuarta remuneración."
+    },
+    {
+     "texto": "El 15 % de las utilidades de la empresa.",
+     "justificacion": "Incorrecta. Corresponde a la participación de utilidades."
+    },
+    {
+     "texto": "Un mes de remuneración por cada año de servicio.",
+     "justificacion": "Incorrecta. Es la fórmula de la indemnización por despido."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CT"
+   ]
+  },
+  {
+   "id": "P5-02",
+   "area": 5,
+   "subarea": "Laboral",
+   "tema": "Visto bueno",
+   "resultado": "Determina el procedimiento para terminar la relación laboral por causa justa.",
+   "demanda": "Aplicar",
+   "enunciado": "Un trabajador incurre en faltas repetidas e injustificadas de asistencia. Para dar por terminada la relación laboral sin indemnización, el empleador debe:",
+   "opciones": [
+    {
+     "texto": "Solicitar y obtener el visto bueno ante la autoridad del trabajo, por una causa del artículo 172 del Código del Trabajo.",
+     "justificacion": "Correcta. El visto bueno es el mecanismo legal para la terminación por causa justa."
+    },
+    {
+     "texto": "Notificar el despido por escrito al trabajador.",
+     "justificacion": "Incorrecta. Sin visto bueno, sería despido intempestivo."
+    },
+    {
+     "texto": "Demandar la terminación ante un juez de lo civil.",
+     "justificacion": "Incorrecta. No es el procedimiento legal."
+    },
+    {
+     "texto": "Descontar los días faltados y despedirlo sin trámite.",
+     "justificacion": "Incorrecta. Generaría responsabilidad indemnizatoria."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CT"
+   ]
+  },
+  {
+   "id": "P5-03",
+   "area": 5,
+   "subarea": "Laboral",
+   "tema": "Jornada de trabajo",
+   "resultado": "Identifica los límites de la jornada ordinaria.",
+   "demanda": "Recordar",
+   "enunciado": "Según el Código del Trabajo, la jornada máxima ordinaria es de:",
+   "opciones": [
+    {
+     "texto": "Ocho horas diarias, de manera que no exceda de cuarenta horas semanales.",
+     "justificacion": "Correcta. Es la regla del art. 47 del Código del Trabajo."
+    },
+    {
+     "texto": "Diez horas diarias y cincuenta semanales.",
+     "justificacion": "Incorrecta. Excede el máximo legal."
+    },
+    {
+     "texto": "Seis horas diarias y treinta semanales.",
+     "justificacion": "Incorrecta. Corresponde a jornadas especiales."
+    },
+    {
+     "texto": "La que pacten libremente las partes.",
+     "justificacion": "Incorrecta. La jornada máxima es de orden público."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CT"
+   ]
+  },
+  {
+   "id": "P5-04",
+   "area": 5,
+   "subarea": "Tributario",
+   "tema": "Sujeto pasivo",
+   "resultado": "Distingue contribuyente y responsable.",
+   "demanda": "Comprender",
+   "enunciado": "Una empresa retiene el impuesto a la renta de sus proveedores y lo deposita al fisco. Según el Código Tributario, la empresa es:",
+   "opciones": [
+    {
+     "texto": "Responsable, en calidad de agente de retención.",
+     "justificacion": "Correcta. Los agentes de retención son responsables (arts. 24 y 29 del Código Tributario)."
+    },
+    {
+     "texto": "Contribuyente del impuesto retenido.",
+     "justificacion": "Incorrecta. El contribuyente es quien verifica el hecho generador."
+    },
+    {
+     "texto": "Sujeto activo de la obligación.",
+     "justificacion": "Incorrecta. El sujeto activo es el ente acreedor del tributo."
+    },
+    {
+     "texto": "Mero tercero sin obligaciones tributarias.",
+     "justificacion": "Incorrecta. La ley le impone obligaciones como responsable."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CTRIB"
+   ]
+  },
+  {
+   "id": "P5-05",
+   "area": 5,
+   "subarea": "Tributario",
+   "tema": "Reclamo administrativo",
+   "resultado": "Aplica los plazos del reclamo tributario.",
+   "demanda": "Recordar",
+   "enunciado": "Un contribuyente quiere impugnar un acto de determinación tributaria. Según el Código Tributario, el reclamo administrativo debe presentarse dentro de:",
+   "opciones": [
+    {
+     "texto": "Veinte días, contados desde el día hábil siguiente al de la notificación.",
+     "justificacion": "Correcta. Es el plazo del art. 115 del Código Tributario."
+    },
+    {
+     "texto": "Cinco años desde la notificación.",
+     "justificacion": "Incorrecta. Confunde con la prescripción de la acción de cobro."
+    },
+    {
+     "texto": "Noventa días calendario.",
+     "justificacion": "Incorrecta. No es el plazo del reclamo."
+    },
+    {
+     "texto": "Tres días hábiles.",
+     "justificacion": "Incorrecta. No es el plazo del reclamo."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CTRIB"
+   ]
+  },
+  {
+   "id": "P5-06",
+   "area": 5,
+   "subarea": "Mercantil",
+   "tema": "Compañía anónima",
+   "resultado": "Identifica las características de la compañía anónima.",
+   "demanda": "Recordar",
+   "enunciado": "Según la Ley de Compañías, la compañía anónima es una sociedad:",
+   "opciones": [
+    {
+     "texto": "Cuyo capital, dividido en acciones negociables, está formado por la aportación de los accionistas, que responden únicamente por el monto de sus acciones.",
+     "justificacion": "Correcta. Es la definición del art. 143 de la Ley de Compañías."
+    },
+    {
+     "texto": "En la que los socios responden solidaria e ilimitadamente.",
+     "justificacion": "Incorrecta. Corresponde a la compañía en nombre colectivo."
+    },
+    {
+     "texto": "Cuyas participaciones no son transferibles.",
+     "justificacion": "Incorrecta. Las acciones son negociables."
+    },
+    {
+     "texto": "Que requiere participación del Estado.",
+     "justificacion": "Incorrecta. Corresponde a la compañía de economía mixta."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "LC"
+   ]
+  },
+  {
+   "id": "P5-07",
+   "area": 5,
+   "subarea": "Internacional Privado",
+   "tema": "Forma de los actos",
+   "resultado": "Aplica la regla locus regit actum.",
+   "demanda": "Aplicar",
+   "enunciado": "Una escritura pública fue otorgada en Lima y debe surtir efectos en el Ecuador. La forma de ese instrumento se rige por:",
+   "opciones": [
+    {
+     "texto": "La ley del lugar en que fue otorgado (locus regit actum), conforme al Título Preliminar del Código Civil.",
+     "justificacion": "Correcta. La forma de los instrumentos públicos se determina por la ley del país de otorgamiento; su autenticidad se acredita conforme a la ley."
+    },
+    {
+     "texto": "La ley ecuatoriana en todos los casos.",
+     "justificacion": "Incorrecta. Desconoce la regla locus regit actum."
+    },
+    {
+     "texto": "La ley de la nacionalidad de los otorgantes.",
+     "justificacion": "Incorrecta. La nacionalidad no rige la forma."
+    },
+    {
+     "texto": "La ley que elija el juez ecuatoriano.",
+     "justificacion": "Incorrecta. La regla de conflicto es legal."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC",
+    "HCCH"
+   ]
+  }
+ ]
+}
