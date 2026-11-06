@@ -1,13 +1,20 @@
 {
  "version": 1,
- "actualizado": "2026-10-27",
+ "actualizado": "2026-11-05",
  "paquetes": [
   {
    "id": "pack-001",
    "archivo": "pack-001.json",
-   "version": 1,
+   "version": 2,
    "titulo": "Paquete 1 · 42 preguntas (octubre 2026)",
    "preguntas": 42
+  },
+  {
+   "id": "pack-002",
+   "archivo": "pack-002.json",
+   "version": 2,
+   "titulo": "Paquete 2 · 40 preguntas de alta dificultad",
+   "preguntas": 40
   }
  ]
 }

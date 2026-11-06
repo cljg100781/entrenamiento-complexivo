@@ -1,0 +1,1473 @@
+{
+ "id": "pack-002",
+ "titulo": "Paquete 2 · 40 preguntas de alta dificultad",
+ "bibliografia": {
+  "CADH": "Organización de los Estados Americanos. (1969). Convención Americana sobre Derechos Humanos. https://www.oas.org/dil/esp/tratados_b-32_convencion_americana_sobre_derechos_humanos.htm",
+  "CC": "Congreso Nacional del Ecuador. (2005). Código Civil (Codificación). Registro Oficial Suplemento 46, 24 de junio de 2005. https://www.registroficial.gob.ec/",
+  "COGEP": "Asamblea Nacional del Ecuador. (2015). Código Orgánico General de Procesos. Registro Oficial Suplemento 506, 22 de mayo de 2015. https://www.funcionjudicial.gob.ec/",
+  "COIP": "Asamblea Nacional del Ecuador. (2014). Código Orgánico Integral Penal. Registro Oficial Suplemento 180, 10 de febrero de 2014. https://www.registroficial.gob.ec/",
+  "CONA": "Congreso Nacional del Ecuador. (2003). Código de la Niñez y Adolescencia. Registro Oficial 737, 3 de enero de 2003. https://www.registroficial.gob.ec/",
+  "CRE": "Asamblea Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449, 20 de octubre de 2008. https://www.asambleanacional.gob.ec/",
+  "CT": "Congreso Nacional del Ecuador. (2005). Código del Trabajo (Codificación). Registro Oficial Suplemento 167, 16 de diciembre de 2005. https://www.trabajo.gob.ec/",
+  "CTRIB": "Congreso Nacional del Ecuador. (2005). Código Tributario (Codificación). Registro Oficial Suplemento 38, 14 de junio de 2005. https://www.sri.gob.ec/",
+  "LAM": "Congreso Nacional del Ecuador. (2006). Ley de Arbitraje y Mediación (Codificación). Registro Oficial 417, 14 de diciembre de 2006. https://www.registroficial.gob.ec/",
+  "LOGJCC": "Asamblea Nacional del Ecuador. (2009). Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional. Registro Oficial Segundo Suplemento 52, 22 de octubre de 2009. https://www.corteconstitucional.gob.ec/"
+ },
+ "articulos": {
+  "CADH 2": "Deber de adoptar disposiciones de derecho interno: los Estados se comprometen a adoptar las medidas legislativas o de otro carácter necesarias para hacer efectivos los derechos de la Convención.",
+  "CADH 5": "Derecho a la integridad personal: nadie debe ser sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes; toda persona privada de libertad será tratada con el respeto debido a la dignidad humana.",
+  "CADH 7": "Derecho a la libertad personal: nadie puede ser privado de su libertad sino por las causas y condiciones fijadas por la ley; prohíbe la detención arbitraria y reconoce el derecho a ser llevado sin demora ante un juez y a ser juzgado en un plazo razonable.",
+  "CADH 8": "Garantías judiciales: derecho a ser oído con las debidas garantías y dentro de un plazo razonable por un juez competente, independiente e imparcial; presunción de inocencia y garantías mínimas de defensa.",
+  "CADH 25": "Protección judicial: derecho a un recurso sencillo, rápido y efectivo ante los jueces contra actos que violen derechos fundamentales.",
+  "CC 45": "Domicilio: consiste en la residencia, acompañada, real o presuntivamente, del ánimo de permanecer en ella.",
+  "CC 60": "Principio de la existencia legal: el nacimiento de una persona fija el principio de su existencia legal, desde que es separada completamente de su madre.",
+  "CC 61": "Protección del que está por nacer: la ley protege la vida del que está por nacer; el juez adoptará las providencias necesarias para protegerla cuando crea que de algún modo peligra.",
+  "CC 283": "Patria potestad: es el conjunto de derechos que tienen los padres sobre sus hijos no emancipados.",
+  "CC 603": "Modos de adquirir el dominio: la ocupación, la accesión, la tradición, la sucesión por causa de muerte y la prescripción.",
+  "CC 702": "Tradición de inmuebles: se efectúa por la inscripción del título en el Registro de la Propiedad; de la misma manera se efectúa la tradición de los derechos de usufructo, uso, habitación o hipoteca sobre inmuebles.",
+  "CC 715": "Posesión: es la tenencia de una cosa determinada con ánimo de señor y dueño, sea que el dueño o el que se da por tal tenga la cosa por sí mismo o por medio de otra persona en su lugar y a su nombre.",
+  "CC 729": "Mera tenencia: la que se ejerce sobre una cosa no como dueño, sino en lugar o a nombre del dueño (por ejemplo, el arrendatario o el depositario); se extiende a todo el que tiene una cosa reconociendo dominio ajeno.",
+  "CC 778": "Usufructo: derecho real que consiste en la facultad de gozar de una cosa con cargo de conservar su forma y sustancia, y de restituirla a su dueño.",
+  "CC 933": "Acción reivindicatoria: es la que tiene el dueño de una cosa singular, de que no está en posesión, para que el poseedor sea condenado a restituírsela.",
+  "CC 1023": "Primer orden de sucesión: los hijos excluyen a los otros herederos, sin perjuicio de la porción conyugal que corresponda al cónyuge sobreviviente.",
+  "CC 1037": "Testamento: acto más o menos solemne en que una persona dispone del todo o de una parte de sus bienes para que tenga pleno efecto después de sus días, conservando la facultad de revocar sus disposiciones mientras viva.",
+  "CC 1205": "Legitimarios: son los hijos, personalmente o representados por su descendencia, y los padres.",
+  "CC 1338": "Acción de partición: ningún coasignatario está obligado a permanecer en la indivisión; la partición puede pedirse siempre, salvo pacto de indivisión, que no puede exceder de cinco años (renovable).",
+  "CC 1461": "Requisitos para obligarse: que la persona sea legalmente capaz, que consienta en el acto y su consentimiento no adolezca de vicio, que recaiga sobre un objeto lícito y que tenga una causa lícita.",
+  "CC 1467": "Vicios del consentimiento: los vicios de que puede adolecer el consentimiento son error, fuerza y dolo.",
+  "CC 1505": "Condición resolutoria tácita: en los contratos bilaterales va envuelta la condición de no cumplirse por uno de los contratantes lo pactado; el otro puede pedir a su arbitrio la resolución o el cumplimiento del contrato, con indemnización de perjuicios.",
+  "CC 1527": "Solidaridad: debe ser expresamente declarada en todos los casos en que no la establece la ley; sin ella, cada deudor responde solo por su cuota.",
+  "CC 1567": "Mora del deudor: el deudor está en mora cuando no ha cumplido en el término estipulado, cuando la cosa solo podía darse o ejecutarse en cierto tiempo que dejó pasar, y en los demás casos cuando ha sido judicialmente reconvenido por el acreedor.",
+  "CC 1568": "La mora purga la mora: en los contratos bilaterales ninguno de los contratantes está en mora dejando de cumplir lo pactado, mientras el otro no lo cumple por su parte o no se allana a cumplirlo en la forma y tiempo debidos.",
+  "CC 1698": "Nulidad absoluta y relativa: el objeto o causa ilícita, la omisión de solemnidades exigidas en consideración a la naturaleza del acto y los actos de absolutamente incapaces producen nulidad absoluta; cualquier otro vicio produce nulidad relativa y da derecho a la rescisión.",
+  "CC 1699": "Declaración de la nulidad absoluta: puede y debe ser declarada por el juez, aun sin petición de parte, cuando aparece de manifiesto en el acto; puede alegarla todo el que tenga interés, excepto quien celebró el contrato sabiendo o debiendo saber el vicio; no se sanea por ratificación ni por un lapso que no pase de quince años.",
+  "CC 2408": "Prescripción adquisitiva ordinaria: el tiempo necesario es de tres años para los muebles y de cinco años para los bienes raíces; exige posesión regular (justo título y buena fe).",
+  "CC 2411": "Prescripción adquisitiva extraordinaria: el tiempo necesario es de quince años, sin que se requiera título alguno; se presume la buena fe.",
+  "COA 99": "Requisitos de validez del acto administrativo: competencia, objeto, voluntad, procedimiento y motivación.",
+  "COA 101": "Eficacia del acto administrativo: el acto será eficaz una vez notificado al administrado; la ejecución de un acto no notificado es ilegítima.",
+  "COA 207": "Silencio administrativo: los reclamos, solicitudes o pedidos dirigidos a las administraciones públicas deben ser resueltos en el término de treinta días; vencido este término, se entienden aprobados (acto administrativo presunto), salvo las excepciones legales.",
+  "COGEP 5": "Impulso procesal: corresponde a las partes procesales el impulso del proceso, conforme con el sistema dispositivo.",
+  "COGEP 56": "Citación por la prensa: a quien no sea posible encontrar o cuyo domicilio se desconozca, se le cita mediante publicaciones en un diario de amplia circulación, previa declaración bajo juramento de la imposibilidad de determinar su domicilio.",
+  "COGEP 87": "Efectos de la falta de comparecencia: la inasistencia injustificada de quien presentó la demanda a la audiencia se entiende como abandono; la de la parte demandada hace que la audiencia continúe en su rebeldía.",
+  "COGEP 102": "Homologación: las sentencias, laudos arbitrales y actas de mediación expedidos en el extranjero deben homologarse para tener eficacia en el Ecuador; conoce la sala especializada de la Corte Provincial del domicilio de quien será requerido.",
+  "COGEP 103": "Homologación de sentencias, laudos y actas extranjeras: regula el procedimiento ante la Corte Provincial, sin revisar el fondo de la decisión extranjera.",
+  "COGEP 104": "Requisitos de la homologación: entre otros, que la decisión tenga fuerza de cosa juzgada en su país, que la parte demandada haya sido legalmente citada y se haya asegurado el debido proceso, y que no contraríe el orden público ecuatoriano.",
+  "COGEP 153": "Excepciones previas: entre ellas, incompetencia, incapacidad o falta de personería, falta de legitimación en la causa, litispendencia, prescripción, caducidad, cosa juzgada, transacción, existencia de convenio, compromiso arbitral o convenio de mediación, error en la forma de proponer la demanda e inadecuación del procedimiento.",
+  "COGEP 166": "Prueba no anunciada: puede solicitarse hasta antes de la convocatoria a la audiencia de juicio, siempre que se acredite que no fue de conocimiento de la parte a la que beneficia o que, habiéndola conocido, no pudo disponer de ella.",
+  "COGEP 168": "Prueba para mejor resolver: la jueza o el juez puede, excepcionalmente, ordenar de oficio la práctica de prueba que juzgue necesaria para el esclarecimiento de los hechos controvertidos.",
+  "COGEP 169": "Carga de la prueba: la parte actora debe probar los hechos que ha propuesto afirmativamente y que ha negado la demandada; esta no está obligada a producir pruebas si su contestación es simple o absolutamente negativa. Prevé reglas especiales, como en materia ambiental.",
+  "COGEP 245": "Abandono: la jueza o el juez declara el abandono del proceso cuando todas las partes han cesado en su prosecución durante el término de ochenta días.",
+  "COGEP 266": "Casación: se interpone por escrito dentro del término de treinta días posteriores a la ejecutoria del auto o sentencia, o del auto que niegue o acepte su aclaración o ampliación.",
+  "COGEP 278": "Recurso de hecho: procede contra las providencias que niegan un recurso de apelación o de casación, para que el superior se pronuncie sobre su procedencia.",
+  "COGEP 291": "Contestación en el procedimiento ordinario: la parte demandada dispone de treinta días desde la citación para contestar la demanda.",
+  "COGEP 333": "Procedimiento sumario: la contestación se presenta en el término de quince días y se realiza una audiencia única con dos fases: saneamiento, fijación de puntos en debate y conciliación; y prueba y alegatos.",
+  "COGEP 347": "Títulos ejecutivos: entre otros, la declaración de parte hecha con juramento, la copia de la escritura pública, el documento privado legalmente reconocido, las letras de cambio, los pagarés a la orden, los testamentos y el contrato de prenda o de crédito.",
+  "COGEP 356": "Procedimiento monitorio: procede para el cobro de deudas determinadas de dinero, líquidas, exigibles y de plazo vencido, que no excedan de cincuenta salarios básicos unificados y no consten en título ejecutivo.",
+  "COGEP 363": "Títulos de ejecución: la sentencia ejecutoriada, el laudo arbitral, el acta de mediación, el contrato prendario y de reserva de dominio, la sentencia o laudo extranjero homologado, entre otros.",
+  "COIP 5": "Principios procesales: enumera, entre otros, legalidad, favorabilidad, duda a favor del reo, inocencia, igualdad, impugnación procesal, prohibición de empeorar la situación del procesado, prohibición de autoincriminación, prohibición de doble juzgamiento, intimidad, oralidad, concentración, contradicción, dirección judicial del proceso, imparcialidad, privacidad y confidencialidad, publicidad, inmediación, motivación, objetividad.",
+  "COIP 18": "Infracción penal: es la conducta típica, antijurídica y culpable cuya sanción se encuentra prevista en el Código.",
+  "COIP 19": "Clasificación de las infracciones: se dividen en delitos y contravenciones. Delito es la infracción penal sancionada con pena privativa de libertad mayor a treinta días; contravención, la sancionada con pena no privativa de libertad o privativa de hasta treinta días.",
+  "COIP 21": "Concurso ideal de infracciones: cuando varios tipos penales son subsumibles a la misma conducta, se aplica la pena de la infracción más grave.",
+  "COIP 26": "Dolo: actúa con dolo la persona que tiene el designio de causar daño. Responde por delito preterintencional quien realiza una acción u omisión de la cual se produce un resultado más grave que aquel que quiso causar.",
+  "COIP 27": "Culpa: actúa con culpa la persona que infringe el deber objetivo de cuidado que personalmente le corresponde, produciendo un resultado dañoso; es punible cuando se encuentra tipificada como infracción.",
+  "COIP 30": "Causas de exclusión de la antijuridicidad: no existe infracción penal cuando la conducta típica se encuentra justificada por estado de necesidad o legítima defensa; tampoco cuando se actúa en cumplimiento de una orden legítima y expresa de autoridad competente o de un deber legal.",
+  "COIP 32": "Estado de necesidad: existe cuando el derecho protegido está en real y actual peligro, el resultado del acto de protección no es mayor que la lesión o daño que se quiso evitar y no existe otro medio practicable y menos perjudicial para defenderlo.",
+  "COIP 33": "Legítima defensa: existe cuando la persona actúa en defensa de cualquier derecho, propio o ajeno, siempre que concurran: agresión actual e ilegítima, necesidad racional de la defensa y falta de provocación suficiente por parte de quien actúa.",
+  "COIP 34": "Culpabilidad: para que una persona sea considerada responsable penalmente debe ser imputable y actuar con conocimiento de la antijuridicidad de su conducta.",
+  "COIP 35": "Causa de inculpabilidad: no existe responsabilidad penal en el caso de trastorno mental debidamente comprobado.",
+  "COIP 36": "Trastorno mental: la persona que al momento de cometer la infracción no tiene la capacidad de comprender la ilicitud de su conducta o de determinarse de conformidad con esa comprensión, en razón de un trastorno mental, no es penalmente responsable; el juez puede dictar una medida de seguridad.",
+  "COIP 38": "Personas menores de dieciocho años: en conflicto con la ley penal, están sometidas al Código Orgánico de la Niñez y Adolescencia.",
+  "COIP 39": "Tentativa: es la ejecución que no logra consumarse o cuyo resultado no llega a verificarse por circunstancias ajenas a la voluntad del autor, a pesar de que de manera dolosa inicie la ejecución mediante actos idóneos; se sanciona con una pena de un tercio a dos tercios de la que correspondería si el delito se hubiera consumado.",
+  "COIP 41": "Participación: las personas participan en la infracción como autores o cómplices.",
+  "COIP 42": "Autores: responden como autores quienes cometen la infracción de manera directa e inmediata (autoría directa), quienes instigan u ordenan a otra persona su comisión o se valen de otra persona, imputable o no, mediante fuerza, engaño u otros medios (autoría mediata), y quienes coadyuvan con un acto sin el cual no habría podido perpetrarse (coautoría).",
+  "COIP 43": "Cómplices: responden quienes, en forma dolosa, facilitan o cooperan con actos secundarios, anteriores o simultáneos, sin los cuales igualmente se habría cometido la infracción; se sancionan con una pena equivalente de un tercio a la mitad de la prevista para el autor.",
+  "COIP 44": "Mecanismos de aplicación de atenuantes y agravantes: si concurren al menos dos atenuantes y ninguna agravante, se aplica el mínimo de la pena reducido en un tercio; si concurre al menos una agravante no constitutiva del tipo, se aplica el máximo de la pena aumentado en un tercio.",
+  "COIP 49": "Responsabilidad de las personas jurídicas: responden penalmente por los delitos cometidos para beneficio propio o de sus asociados, por la acción u omisión de quienes ejercen su propiedad o control, sus órganos de gobierno o administración, apoderados, mandatarios o representantes; su responsabilidad es independiente de la de las personas naturales y subsiste aunque estas fallezcan o se extinga su responsabilidad.",
+  "COIP 76": "Internamiento en un hospital psiquiátrico: medida de seguridad que se aplica a la persona inimputable por trastorno mental; su finalidad es lograr la superación de su perturbación y la inclusión social.",
+  "COIP 141": "Femicidio: la persona que, como resultado de relaciones de poder manifestadas en cualquier tipo de violencia, dé muerte a una mujer por el hecho de serlo o por su condición de género.",
+  "COIP 146": "Homicidio culposo por mala práctica profesional: la persona que, al infringir un deber objetivo de cuidado en el ejercicio o práctica de su profesión, ocasione la muerte de otra.",
+  "COIP 189": "Robo: la persona que mediante amenazas o violencias sustraiga o se apodere de cosa mueble ajena, sea que la violencia tenga lugar antes del acto para facilitarlo, en el momento de cometerlo o después de cometido para procurar impunidad; también se sanciona el robo cometido con fuerza en las cosas.",
+  "COIP 196": "Hurto: la persona que, sin violencia, amenaza o intimidación en la persona o fuerza en las cosas, se apodere ilegítimamente de cosa mueble ajena.",
+  "COIP 278": "Peculado: la servidora o servidor público, o quien actúe en virtud de una potestad estatal, que en beneficio propio o de terceros abuse, se apropie, distraiga o disponga arbitrariamente de bienes, dineros públicos o privados, efectos que los representen, piezas, títulos o documentos que estén en su poder en virtud o razón de su cargo.",
+  "COIP 317": "Lavado de activos: sanciona a quien, en forma directa o indirecta, tenga, adquiera, transfiera, posea, administre, utilice, mantenga, resguarde, entregue, transporte, convierta o se beneficie de activos de origen ilícito, entre otras conductas; es un delito autónomo de otros delitos cometidos dentro o fuera del país.",
+  "COIP 415": "Ejercicio privado de la acción penal: procede en la calumnia, la usurpación, el estupro y las lesiones que generen incapacidad o enfermedad de hasta treinta días, con excepción de los casos de violencia contra la mujer o miembros del núcleo familiar.",
+  "COIP 454": "Principios de la prueba: incluye la oportunidad (las actuaciones de la investigación solo adquieren valor de prueba cuando son presentadas, practicadas y valoradas en la audiencia de juicio, salvo el testimonio anticipado), inmediación, contradicción, libertad probatoria, pertinencia, exclusión de la prueba obtenida con violación de derechos, e igualdad de oportunidades para la prueba.",
+  "COIP 502": "Reglas del testimonio: entre ellas, la posibilidad de recibir testimonio anticipado de personas que no puedan comparecer a la audiencia de juicio y de víctimas de delitos contra la integridad sexual y reproductiva, trata de personas y violencia contra la mujer o miembros del núcleo familiar.",
+  "COIP 529": "Audiencia de calificación de flagrancia: en los casos de infracción flagrante, dentro de las veinticuatro horas desde que tuvo lugar la aprehensión, se realiza la audiencia en la que se califica la legalidad de la aprehensión.",
+  "COIP 534": "Finalidad y requisitos de la prisión preventiva: para garantizar la comparecencia al proceso y el cumplimiento de la pena; exige elementos de convicción suficientes sobre la existencia del delito y la participación del procesado, indicios de que las medidas no privativas de libertad son insuficientes, y que la infracción esté sancionada con pena privativa de libertad superior a un año.",
+  "COIP 537": "Casos especiales: la prisión preventiva podrá ser sustituida por arresto domiciliario y el uso obligatorio de dispositivo de vigilancia electrónica, entre otros, cuando la procesada es una mujer embarazada o se encuentra hasta en los noventa días posteriores al parto, o cuando la persona procesada es mayor de sesenta y cinco años.",
+  "COIP 541": "Caducidad de la prisión preventiva: no puede exceder de seis meses en los delitos sancionados con pena privativa de libertad de hasta cinco años, ni de un año en los sancionados con pena mayor a cinco años.",
+  "COIP 580": "Investigación previa: fase preprocesal en la que se reúnen los elementos de convicción, de cargo y de descargo, que permitan a la o el fiscal decidir si formula o no la imputación.",
+  "COIP 585": "Duración de la investigación previa: no puede superar un año en los delitos sancionados con pena privativa de libertad de hasta cinco años, ni dos años en los sancionados con pena mayor a cinco años.",
+  "COIP 589": "Etapas del procedimiento ordinario: instrucción; evaluación y preparatoria de juicio; y juicio.",
+  "COIP 591": "Inicio de la instrucción: la etapa de instrucción inicia con la audiencia de formulación de cargos convocada a petición de la o el fiscal.",
+  "COIP 592": "Duración de la instrucción: concluye en el plazo máximo de noventa días; prevé plazos distintos para delitos flagrantes y reglas para la vinculación de nuevos procesados.",
+  "COIP 635": "Procedimiento abreviado: procede en infracciones sancionadas con pena máxima privativa de libertad de hasta diez años; la propuesta puede presentarse desde la audiencia de formulación de cargos hasta la audiencia preparatoria de juicio; la persona procesada debe consentir expresamente y admitir el hecho; la pena no puede ser superior a la sugerida por la Fiscalía.",
+  "COIP 640": "Procedimiento directo: concentra todas las etapas en una sola audiencia; procede en los delitos calificados como flagrantes sancionados con pena máxima privativa de libertad de hasta cinco años y en los delitos contra la propiedad cuyo monto no exceda de treinta salarios básicos unificados, con las exclusiones que señala la ley.",
+  "COIP 653": "Procedencia de la apelación: de la resolución que declara la prescripción del ejercicio de la acción o de la pena; del auto de nulidad; del auto de sobreseimiento, si existió acusación fiscal; de las sentencias; y de la resolución que conceda o niegue la prisión preventiva en los casos previstos.",
+  "COIP 654": "Trámite de la apelación: se interpone ante la o el juzgador dentro de los tres días contados a partir de la notificación de la decisión.",
+  "COIP 656": "Casación penal: procede contra las sentencias cuando se haya violado la ley por contravenir expresamente su texto, por indebida aplicación o por errónea interpretación; no son admisibles los pedidos tendientes a volver a valorar la prueba.",
+  "COIP 658": "Revisión: procede ante la Corte Nacional de Justicia contra la sentencia condenatoria, en cualquier tiempo después de ejecutoriada, entre otros casos cuando se compruebe la existencia de la persona que se creía muerta, o la sentencia se funde en documentos o testigos falsos.",
+  "COIP 663": "Conciliación: puede presentarse hasta antes de la conclusión de la etapa de instrucción fiscal en delitos sancionados con pena privativa de libertad de hasta cinco años, delitos de tránsito que no tengan resultado de muerte y delitos contra la propiedad cuyo monto no exceda de treinta salarios básicos; se excluyen, entre otros, los delitos contra la eficiencia de la administración pública, contra la integridad sexual y reproductiva y de violencia contra la mujer o miembros del núcleo familiar.",
+  "CRE 10": "Titulares de derechos: las personas, comunidades, pueblos, nacionalidades y colectivos son titulares y gozarán de los derechos garantizados en la Constitución; la naturaleza es sujeto de aquellos derechos que le reconozca la Constitución.",
+  "CRE 11": "Principios de aplicación de los derechos: entre ellos, exigibilidad individual o colectiva, igualdad y no discriminación con acciones afirmativas, aplicación directa e inmediata sin que pueda alegarse falta de norma, interpretación más favorable, progresividad y responsabilidad del Estado con derecho de repetición.",
+  "CRE 35": "Grupos de atención prioritaria: las personas adultas mayores, niñas, niños y adolescentes, mujeres embarazadas, personas con discapacidad, personas privadas de libertad y quienes adolezcan de enfermedades catastróficas o de alta complejidad recibirán atención prioritaria y especializada.",
+  "CRE 45": "Niñas, niños y adolescentes: gozan de los derechos comunes del ser humano, además de los específicos de su edad; el Estado reconoce y garantiza la vida, incluido el cuidado y protección desde la concepción.",
+  "CRE 57": "Derechos colectivos de comunas, comunidades, pueblos y nacionalidades: entre ellos, la consulta previa, libre e informada sobre planes de prospección, explotación y comercialización de recursos no renovables en sus tierras (num. 7) y la consulta prelegislativa (num. 17).",
+  "CRE 68": "Unión de hecho: la unión estable y monogámica entre dos personas libres de vínculo matrimonial que formen un hogar de hecho genera los mismos derechos y obligaciones que las familias constituidas mediante matrimonio, en el lapso y bajo las condiciones que señale la ley.",
+  "CRE 71": "Derechos de la naturaleza: la naturaleza tiene derecho a que se respete integralmente su existencia y el mantenimiento y regeneración de sus ciclos vitales; toda persona, comunidad, pueblo o nacionalidad puede exigir a la autoridad pública su cumplimiento.",
+  "CRE 76": "Garantías básicas del debido proceso: entre ellas, presunción de inocencia, legalidad de la infracción y la pena, exclusión de la prueba ilícita, favorabilidad, proporcionalidad, derecho a la defensa, prohibición de doble juzgamiento y la motivación de las resoluciones, cuya falta produce nulidad.",
+  "CRE 77": "Garantías de la persona privada de libertad: la privación de libertad es excepcional; nadie puede ser detenido sin orden judicial, salvo flagrancia, y en ese caso debe ser presentado ante el juez en veinticuatro horas; la prisión preventiva caduca a los seis meses o al año según la gravedad del delito.",
+  "CRE 80": "Imprescriptibilidad: las acciones y penas por genocidio, lesa humanidad, crímenes de guerra, desaparición forzada de personas o crímenes de agresión a un Estado son imprescriptibles.",
+  "CRE 86": "Disposiciones comunes de las garantías jurisdiccionales: cualquier persona, grupo o comunidad puede proponerlas; procedimiento sencillo, rápido y eficaz, oral en todas sus fases; no se requiere patrocinio de abogado para proponer la acción.",
+  "CRE 88": "Acción de protección: tiene por objeto el amparo directo y eficaz de los derechos constitucionales; procede contra actos u omisiones de autoridad pública no judicial, políticas públicas y actos de particulares cuando la violación provoca daño grave, prestan servicios públicos impropios, actúan por delegación o concesión, o la persona afectada se encuentra en estado de subordinación, indefensión o discriminación.",
+  "CRE 89": "Hábeas corpus: tiene por objeto recuperar la libertad de quien se encuentre privado de ella de forma ilegal, arbitraria o ilegítima, y proteger la vida y la integridad física de las personas privadas de libertad; la audiencia se realiza dentro de las veinticuatro horas.",
+  "CRE 91": "Acción de acceso a la información pública: tiene por objeto garantizar el acceso a ella cuando ha sido denegada expresa o tácitamente, o cuando la proporcionada no es completa o fidedigna; procede incluso si la negativa se sustenta en el carácter reservado de la información, que debe haber sido declarado previamente conforme a la ley.",
+  "CRE 92": "Hábeas data: toda persona tiene derecho a conocer la existencia y acceder a los documentos, datos genéticos, bancos o archivos de datos personales sobre sí misma o sus bienes, y a solicitar su actualización, rectificación, eliminación o anulación.",
+  "CRE 93": "Acción por incumplimiento: tiene por objeto garantizar la aplicación de normas que integran el sistema jurídico y el cumplimiento de sentencias o informes de organismos internacionales de derechos humanos, cuando contengan una obligación de hacer o no hacer clara, expresa y exigible; se interpone ante la Corte Constitucional.",
+  "CRE 94": "Acción extraordinaria de protección: procede contra sentencias o autos definitivos en los que se haya violado por acción u omisión derechos reconocidos en la Constitución; se interpone ante la Corte Constitucional, una vez agotados los recursos ordinarios y extraordinarios, salvo que la falta de interposición no sea atribuible a negligencia del titular.",
+  "CRE 105": "Revocatoria del mandato: las personas en goce de los derechos políticos pueden revocar el mandato de las autoridades de elección popular; la solicitud se presenta después de cumplido el primer año y antes del último año del periodo.",
+  "CRE 133": "Leyes orgánicas: regulan, entre otras materias, la organización de las funciones del Estado y el ejercicio de los derechos y garantías constitucionales; su expedición, reforma, derogación e interpretación requieren mayoría absoluta de los miembros de la Asamblea Nacional.",
+  "CRE 165": "Límites del estado de excepción: la Presidenta o Presidente solo puede suspender o limitar los derechos que la Constitución enumera (inviolabilidad de domicilio, de correspondencia, libertad de tránsito, de asociación y reunión, e información), y puede, entre otras medidas, decretar la recaudación anticipada de tributos.",
+  "CRE 166": "Duración del estado de excepción: el decreto tiene vigencia de hasta un máximo de sesenta días; si persisten las causas, puede renovarse hasta por treinta días más.",
+  "CRE 168": "Principios de la administración de justicia: independencia interna y externa, autonomía administrativa, económica y financiera, unidad jurisdiccional, acceso gratuito, publicidad, y la sustanciación de los procesos mediante el sistema oral, de acuerdo con los principios de concentración, contradicción y dispositivo.",
+  "CRE 171": "Justicia indígena: las autoridades de las comunidades, pueblos y nacionalidades indígenas ejercen funciones jurisdiccionales con base en sus tradiciones ancestrales y su derecho propio, dentro de su ámbito territorial, siempre que no sean contrarios a la Constitución y a los derechos humanos; sus decisiones están sujetas al control de constitucionalidad.",
+  "CRE 178": "Órganos de la Función Judicial: el Consejo de la Judicatura es el órgano de gobierno, administración, vigilancia y disciplina de la Función Judicial.",
+  "CRE 182": "Corte Nacional de Justicia: es el máximo órgano de la justicia ordinaria; tiene jurisdicción en todo el territorio nacional.",
+  "CRE 190": "Medios alternativos: se reconoce el arbitraje, la mediación y otros procedimientos alternativos para la solución de conflictos en materias transigibles; en la contratación pública procede el arbitraje en derecho, previo pronunciamiento favorable de la Procuraduría General del Estado.",
+  "CRE 226": "Principio de legalidad: las instituciones del Estado, sus organismos, dependencias, servidoras o servidores públicos ejercerán solamente las competencias y facultades que les sean atribuidas en la Constitución y la ley.",
+  "CRE 233": "Responsabilidad de servidores públicos: ningún servidor público está exento de responsabilidad; las acciones y penas por peculado, cohecho, concusión y enriquecimiento ilícito son imprescriptibles, y los juicios pueden iniciarse y continuar aun en ausencia de las personas acusadas.",
+  "CRE 301": "Reserva de ley tributaria: solo por iniciativa de la Función Ejecutiva y mediante ley sancionada por la Asamblea Nacional se pueden establecer, modificar, exonerar o extinguir impuestos; las tasas y contribuciones se establecen por acto normativo de órgano competente.",
+  "CRE 326": "Principios del derecho al trabajo: entre ellos, la irrenunciabilidad e intangibilidad de los derechos laborales, la nulidad de toda estipulación en contrario y la aplicación en el sentido más favorable a las personas trabajadoras en caso de duda.",
+  "CRE 327": "Relación laboral directa y bilateral: se prohíbe toda forma de precarización, como la intermediación laboral y la tercerización en las actividades propias y habituales de la empresa, la contratación laboral por horas o cualquier otra que afecte los derechos de las personas trabajadoras.",
+  "CRE 397": "Daños ambientales: en caso de daño ambiental el Estado actuará de manera inmediata y subsidiaria; la carga de la prueba sobre la inexistencia de daño potencial o real recae sobre el gestor de la actividad o el demandado.",
+  "CRE 425": "Orden jerárquico de las normas: Constitución; tratados y convenios internacionales; leyes orgánicas; leyes ordinarias; normas regionales y ordenanzas distritales; decretos y reglamentos; ordenanzas; acuerdos y resoluciones; y demás actos de los poderes públicos. En caso de conflicto entre normas de distinta jerarquía se aplica la superior.",
+  "CRE 426": "Aplicación directa de la Constitución: las juezas y jueces, autoridades administrativas y servidores públicos aplicarán directamente las normas constitucionales y las previstas en los instrumentos internacionales de derechos humanos siempre que sean más favorables, aunque las partes no las invoquen expresamente.",
+  "CRE 427": "Interpretación constitucional: las normas constitucionales se interpretan por el tenor literal que más se ajuste a la Constitución en su integralidad; en caso de duda, en el sentido que más favorezca a la plena vigencia de los derechos.",
+  "CRE 428": "Control concreto (consulta de norma): cuando una jueza o juez considere que una norma es contraria a la Constitución o a instrumentos internacionales más favorables, suspende la causa y remite el expediente a la Corte Constitucional, que resuelve en un plazo no mayor a cuarenta y cinco días.",
+  "CRE 429": "Corte Constitucional: es el máximo órgano de control, interpretación constitucional y de administración de justicia en esta materia.",
+  "CRE 436": "Atribuciones de la Corte Constitucional: entre ellas, ser la máxima instancia de interpretación de la Constitución con decisiones vinculantes, conocer las acciones de inconstitucionalidad y expedir sentencias que constituyan jurisprudencia vinculante.",
+  "CRE 441": "Enmienda constitucional: procede para uno o varios artículos que no alteren la estructura fundamental, el carácter y los elementos constitutivos del Estado, no establezcan restricciones a los derechos y garantías ni modifiquen el procedimiento de reforma.",
+  "CRE 442": "Reforma parcial: procede cuando no suponga una restricción en los derechos y garantías constitucionales ni modifique el procedimiento de reforma de la Constitución; requiere aprobación de la Asamblea Nacional y referéndum.",
+  "CRE 444": "Asamblea Constituyente: solo puede convocarse a través de consulta popular; la nueva Constitución debe ser aprobada mediante referéndum.",
+  "CT 4": "Irrenunciabilidad de derechos: los derechos del trabajador son irrenunciables; será nula toda estipulación en contrario.",
+  "CT 15": "Periodo de prueba: en todo contrato por tiempo indefinido puede señalarse un periodo de prueba de duración máxima de noventa días; solo puede pactarse por una sola vez entre las mismas partes.",
+  "CT 47": "Jornada máxima: es de ocho horas diarias, de manera que no exceda de cuarenta horas semanales, salvo disposición de la ley en contrario.",
+  "CT 111": "Decimotercera remuneración: los trabajadores tienen derecho a que sus empleadores les paguen, hasta el veinticuatro de diciembre de cada año, una remuneración equivalente a la doceava parte de las remuneraciones percibidas durante el año calendario; puede recibirse de forma mensualizada.",
+  "CT 185": "Bonificación por desahucio: en los casos de terminación por desahucio, el empleador bonifica al trabajador con el veinticinco por ciento del equivalente a la última remuneración mensual por cada uno de los años de servicio.",
+  "CT 188": "Indemnización por despido intempestivo: hasta tres años de servicio, tres meses de remuneración; más de tres años, un mes por cada año, sin exceder de veinticinco meses. Si el trabajador tiene más de veinte y menos de veinticinco años de servicio, recibe además la parte proporcional de la jubilación patronal.",
+  "CT 216": "Jubilación patronal: los trabajadores que por veinticinco años o más hubieren prestado servicios continuada o interrumpidamente tienen derecho a ser jubilados por sus empleadores.",
+  "CT 635": "Prescripción de las acciones laborales: las acciones provenientes de los actos y contratos de trabajo prescriben en tres años, contados desde la terminación de la relación laboral, salvo los casos especiales de la ley.",
+  "CTRIB 24": "Sujeto pasivo: es la persona natural o jurídica que, según la ley, está obligada al cumplimiento de la prestación tributaria, sea como contribuyente o como responsable.",
+  "CTRIB 28": "Responsables como adquirentes o sucesores: entre otros, los adquirentes de negocios o empresas, por todos los tributos que se adeuden por el anterior propietario, generados en el año en curso y los dos años anteriores, limitada al valor de los bienes adquiridos.",
+  "CTRIB 29": "Otros responsables: los agentes de retención y los agentes de percepción, entre otros que por disposición de la ley deben cumplir obligaciones tributarias atribuidas a otros.",
+  "CTRIB 37": "Modos de extinción de la obligación tributaria: solución o pago; compensación; confusión; remisión; y prescripción de la acción de cobro.",
+  "CTRIB 55": "Plazo de prescripción de la acción de cobro: cinco años desde la fecha en que la obligación fue exigible; siete años si no se presentó la declaración tributaria a que estaba obligado el contribuyente.",
+  "CTRIB 94": "Caducidad de la facultad determinadora: caduca en tres años desde la fecha de la declaración en los tributos que la ley exige determinación por el sujeto pasivo; en seis años cuando no se presentó la declaración; y en un año en los casos de verificación de una determinación previa.",
+  "CTRIB 115": "Reclamos: los contribuyentes, responsables o terceros que se creyeren afectados por un acto de determinación pueden presentar su reclamo ante la autoridad competente dentro del plazo de veinte días, contados desde el día hábil siguiente al de la notificación.",
+  "LAM 5": "Convenio arbitral: es el acuerdo escrito en virtud del cual las partes deciden someter al arbitraje todas las controversias o ciertas controversias que hayan surgido o puedan surgir entre ellas respecto de una relación jurídica, contractual o no.",
+  "LAM 22": "Audiencia de sustanciación: una vez constituido el tribunal, en esta audiencia se lee el documento que contiene el convenio arbitral y el tribunal resuelve sobre su propia competencia.",
+  "LAM 30": "Recursos contra el laudo: los laudos arbitrales tienen efecto de sentencia ejecutoriada y de cosa juzgada; solo se puede pedir su aclaración o ampliación.",
+  "LAM 31": "Acción de nulidad del laudo: procede por causales taxativas, como la falta de citación, la no notificación de providencias, la falta de práctica de pruebas, o haberse resuelto puntos no sometidos al arbitraje o más allá de lo reclamado; se interpone dentro de diez días de ejecutoriado el laudo y conoce la Presidencia de la Corte Provincial.",
+  "LAM 47": "Acta de mediación: en caso de acuerdo, el acta tiene efecto de sentencia ejecutoriada y cosa juzgada, y se ejecuta del mismo modo que las sentencias de última instancia, siguiendo la vía de apremio, sin que el juez acepte excepción alguna, salvo las que se originen con posterioridad a su suscripción.",
+  "LC 17": "Responsabilidad por fraudes: por los fraudes, abusos o vías de hecho que se cometan a nombre de compañías y otras personas naturales o jurídicas, son personal y solidariamente responsables quienes los ordenaron o ejecutaron, quienes obtuvieron provecho y los tenedores de los bienes para efectos de su restitución.",
+  "LC 143": "Compañía anónima: sociedad cuyo capital, dividido en acciones negociables, está formado por la aportación de los accionistas, que responden únicamente por el monto de sus acciones.",
+  "LOGJCC 18": "Reparación integral: procura que la persona titular del derecho violado goce y disfrute del derecho de la manera más adecuada posible; puede incluir restitución, compensación económica, rehabilitación, satisfacción, garantías de no repetición, obligación de investigar y sancionar, disculpas públicas y otras medidas.",
+  "LOGJCC 27": "Requisitos de las medidas cautelares: proceden cuando hay amenaza o violación de derechos de gravedad inminente; no proceden cuando existan medidas cautelares en las vías administrativas u ordinarias, cuando se trate de la ejecución de órdenes judiciales o cuando se interpongan en la acción extraordinaria de protección de derechos.",
+  "LOGJCC 40": "Requisitos de la acción de protección: violación de un derecho constitucional; acción u omisión de autoridad pública o de un particular; e inexistencia de otro mecanismo de defensa judicial adecuado y eficaz para proteger el derecho violado.",
+  "LOGJCC 42": "Improcedencia de la acción de protección: entre otras causas, cuando no hay violación de derechos constitucionales, cuando el acto es impugnable en vía judicial (salvo que esta no sea adecuada ni eficaz) y cuando se trata de providencias judiciales.",
+  "LOGJCC 60": "Término para accionar: la acción extraordinaria de protección se interpone en el término máximo de veinte días contados desde la notificación de la decisión judicial.",
+  "LOGJCC 62": "Admisión: la acción extraordinaria de protección se presenta ante la judicatura que dictó la decisión, la cual ordena notificar a la otra parte y remitir el expediente a la Corte Constitucional en el término de cinco días."
+ },
+ "preguntas": [
+  {
+   "id": "Q4-01",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Rescisión por dolo",
+   "resultado": "Determina el cómputo del plazo de la acción rescisoria según el vicio alegado.",
+   "demanda": "Analizar",
+   "enunciado": "Hace cinco años Marta compró un vehículo inducida por el dolo del vendedor, que ocultó que estaba gravado. Recién hoy descubre el engaño y demanda la rescisión. ¿Prosperará su acción?",
+   "opciones": [
+    {
+     "texto": "No: el cuatrienio se cuenta desde la celebración del contrato.",
+     "justificacion": "Correcta. El Código Civil fija en cuatro años el plazo para pedir la rescisión (nulidad relativa) y, para el error o el dolo, lo cuenta desde la celebración del acto o contrato; solo en la violencia se cuenta desde que esta cesó."
+    },
+    {
+     "texto": "Sí: el cuatrienio se cuenta desde que la víctima descubre el dolo.",
+     "justificacion": "Incorrecta. Ese criterio de cómputo no es el que prevé el Código Civil para el dolo."
+    },
+    {
+     "texto": "Sí: el dolo produce nulidad absoluta, saneable en quince años.",
+     "justificacion": "Incorrecta. El dolo que vicia el consentimiento produce nulidad relativa (arts. 1467 y 1698 del Código Civil)."
+    },
+    {
+     "texto": "No: el dolo nunca vicia el consentimiento en la venta de muebles.",
+     "justificacion": "Incorrecta. El dolo es vicio del consentimiento en cualquier contrato cuando es obra de una de las partes y determinante."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "Q4-02",
+   "area": 4,
+   "dificultad": 5,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Lesión enorme",
+   "resultado": "Aplica los efectos de la lesión enorme en la compraventa de inmuebles.",
+   "demanda": "Evaluar",
+   "enunciado": "Pedro vendió un terreno cuyo justo precio era USD 100.000 en USD 45.000. Demanda la rescisión por lesión enorme y el comprador quiere conservar el terreno. ¿Qué afirmación es correcta?",
+   "opciones": [
+    {
+     "texto": "Hay lesión; el comprador puede completar el justo precio menos un décimo.",
+     "justificacion": "Correcta. Así lo regula el Código Civil para la compraventa de inmuebles: el vendedor sufre lesión enorme cuando el precio que recibe es inferior a la mitad del justo precio, y el comprador contra quien se pronuncia la rescisión puede consentir en ella o completar el justo precio con deducción de una décima parte."
+    },
+    {
+     "texto": "No hay lesión, porque la diferencia no supera las dos terceras partes.",
+     "justificacion": "Incorrecta. El umbral legal es recibir menos de la mitad del justo precio."
+    },
+    {
+     "texto": "Hay lesión; el comprador debe además indemnizar el daño moral.",
+     "justificacion": "Incorrecta. La ley prevé completar el justo precio con deducción de una décima parte; no exige daño moral."
+    },
+    {
+     "texto": "No hay lesión, porque esta solo protege al comprador.",
+     "justificacion": "Incorrecta. Protege a ambos: al vendedor y al comprador en sus respectivos supuestos."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "Q4-03",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Venta de cosa ajena",
+   "resultado": "Evalúa la validez de la compraventa de cosa ajena y sus efectos frente al dueño.",
+   "demanda": "Evaluar",
+   "enunciado": "Luis vende a Ana un caballo que pertenece a su hermano, sin autorización de este. Ana paga el precio y recibe el caballo. ¿Cuál es la situación jurídica?",
+   "opciones": [
+    {
+     "texto": "La venta vale, sin perjuicio de los derechos del dueño.",
+     "justificacion": "Correcta. El Código Civil declara que la venta de cosa ajena vale, sin perjuicio de los derechos del dueño de la cosa vendida mientras no se extingan por el lapso de tiempo; la tradición hecha por quien no es dueño no transfiere el dominio."
+    },
+    {
+     "texto": "La venta es nula de nulidad absoluta por objeto ilícito.",
+     "justificacion": "Incorrecta. La venta de cosa ajena no adolece de objeto ilícito; es válida como contrato."
+    },
+    {
+     "texto": "Ana adquirió el dominio por la sola entrega del caballo.",
+     "justificacion": "Incorrecta. Nadie puede transferir más derechos de los que tiene; Ana solo adquiere la posesión."
+    },
+    {
+     "texto": "El hermano pierde su dominio por no haberse opuesto.",
+     "justificacion": "Incorrecta. El dueño conserva su dominio y puede ejercer la acción reivindicatoria."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "Q4-04",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Sociedad conyugal",
+   "resultado": "Distingue los bienes propios de los bienes sociales y el destino de sus frutos.",
+   "demanda": "Analizar",
+   "enunciado": "Durante el matrimonio, sin capitulaciones, Elena hereda una casa de su padre y la arrienda. ¿A quién pertenecen la casa y los cánones de arrendamiento?",
+   "opciones": [
+    {
+     "texto": "La casa es propia de Elena; los cánones son sociales.",
+     "justificacion": "Correcta. El Código Civil excluye del haber social los bienes adquiridos a título gratuito durante el matrimonio, pero incluye en él los frutos de los bienes propios de cada cónyuge devengados durante la sociedad."
+    },
+    {
+     "texto": "La casa y los cánones son sociales, por adquirirse en el matrimonio.",
+     "justificacion": "Incorrecta. La adquisición a título gratuito (herencia) hace que el inmueble sea propio."
+    },
+    {
+     "texto": "La casa y los cánones son bienes propios de Elena.",
+     "justificacion": "Incorrecta. Los frutos de los bienes propios ingresan a la sociedad conyugal."
+    },
+    {
+     "texto": "La casa pertenece a ambos por partes iguales, por ser vivienda familiar.",
+     "justificacion": "Incorrecta. El carácter de vivienda no altera la naturaleza del título de adquisición."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "Q4-05",
+   "area": 4,
+   "dificultad": 5,
+   "subarea": "Sucesiones",
+   "tema": "Porción conyugal",
+   "resultado": "Aplica los requisitos de la porción conyugal en la sucesión.",
+   "demanda": "Evaluar",
+   "enunciado": "Muere Ramiro y le sobreviven su cónyuge, Inés, y dos hijos. Inés tiene un patrimonio propio y rentas muy superiores a lo necesario para su congrua subsistencia. ¿Tiene derecho a porción conyugal?",
+   "opciones": [
+    {
+     "texto": "No, porque no carece de lo necesario para su subsistencia.",
+     "justificacion": "Correcta. El Código Civil la define como la parte del patrimonio del difunto que la ley asigna al cónyuge sobreviviente que carece de lo necesario para su congrua sustentación; si sus bienes propios son suficientes, no le corresponde."
+    },
+    {
+     "texto": "Sí, porque siempre recibe una cuarta parte de la herencia.",
+     "justificacion": "Incorrecta. La porción conyugal no es automática; depende de la necesidad del cónyuge."
+    },
+    {
+     "texto": "Sí, y además excluye a los hijos del primer orden.",
+     "justificacion": "Incorrecta. La porción conyugal no excluye a los hijos (art. 1023 del Código Civil)."
+    },
+    {
+     "texto": "Solo si Ramiro lo dispuso así en su testamento.",
+     "justificacion": "Incorrecta. La porción conyugal es una asignación forzosa establecida por la ley."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "Q4-06",
+   "area": 4,
+   "dificultad": 5,
+   "subarea": "Sucesiones",
+   "tema": "Asignaciones forzosas",
+   "resultado": "Determina la porción de libre disposición cuando hay legitimarios.",
+   "demanda": "Analizar",
+   "enunciado": "Germán, viudo con dos hijos, otorga testamento dejando todos sus bienes a un amigo. Los hijos impugnan. ¿Cuál es la solución?",
+   "opciones": [
+    {
+     "texto": "Reformar el testamento: el amigo solo recibe la cuarta de libre disposición.",
+     "justificacion": "Correcta. Habiendo legitimarios, la mitad de los bienes corresponde a las legítimas, una cuarta parte a mejoras a favor de descendientes y solo la cuarta restante es de libre disposición; los legitimarios perjudicados pueden pedir la reforma del testamento."
+    },
+    {
+     "texto": "El testamento es válido: el testador tiene plena libertad de testar.",
+     "justificacion": "Incorrecta. Las asignaciones forzosas limitan la libertad de testar (art. 1205 del Código Civil)."
+    },
+    {
+     "texto": "El testamento es nulo y se aplica íntegramente la sucesión intestada.",
+     "justificacion": "Incorrecta. La acción de los legitimarios es de reforma del testamento, no de nulidad total."
+    },
+    {
+     "texto": "El amigo recibe la mitad de los bienes y los hijos la otra mitad.",
+     "justificacion": "Incorrecta. Con legitimarios, lo libremente disponible es solo una cuarta parte."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "Q4-07",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Sucesiones",
+   "tema": "Indignidad para suceder",
+   "resultado": "Comprende cómo opera la indignidad para suceder.",
+   "demanda": "Comprender",
+   "enunciado": "Un hijo fue condenado por el homicidio de su padre. Los demás herederos quieren excluirlo de la herencia. Según el Código Civil:",
+   "opciones": [
+    {
+     "texto": "Es indigno, pero la indignidad debe declararse en juicio.",
+     "justificacion": "Correcta. El atentado grave contra la vida del causante es causa de indignidad, y esta debe ser declarada judicialmente a petición de los interesados."
+    },
+    {
+     "texto": "Queda excluido automáticamente, sin declaración judicial.",
+     "justificacion": "Incorrecta. La indignidad requiere declaración judicial."
+    },
+    {
+     "texto": "Solo queda excluido si el padre lo desheredó en testamento.",
+     "justificacion": "Incorrecta. El desheredamiento es una figura distinta; la indignidad opera por ley."
+    },
+    {
+     "texto": "Conserva su derecho, porque la condena no tiene efectos civiles.",
+     "justificacion": "Incorrecta. El hecho es justamente causa de indignidad para suceder."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "Q4-08",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Obligaciones naturales",
+   "resultado": "Aplica los efectos de las obligaciones naturales.",
+   "demanda": "Aplicar",
+   "enunciado": "Carlos pagó voluntariamente una deuda cuya acción de cobro ya estaba prescrita. Luego se entera de la prescripción y demanda la restitución de lo pagado. ¿Procede?",
+   "opciones": [
+    {
+     "texto": "No, porque subsiste una obligación natural.",
+     "justificacion": "Correcta. El Código Civil reconoce como obligaciones naturales las civiles extinguidas por prescripción, y autoriza a retener lo que se ha dado o pagado voluntariamente en razón de ellas."
+    },
+    {
+     "texto": "Sí, por tratarse de un pago de lo no debido.",
+     "justificacion": "Incorrecta. Existe una obligación natural que justifica el pago."
+    },
+    {
+     "texto": "Sí, porque la prescripción extingue todo vínculo jurídico.",
+     "justificacion": "Incorrecta. La prescripción extingue la acción, pero la obligación subsiste como natural."
+    },
+    {
+     "texto": "Solo si el acreedor actuó de mala fe al recibir.",
+     "justificacion": "Incorrecta. La buena o mala fe del acreedor no altera la retención del pago voluntario."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "Q4-09",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Responsabilidad por el hecho ajeno",
+   "resultado": "Determina la responsabilidad civil por hechos de terceros.",
+   "demanda": "Analizar",
+   "enunciado": "Un adolescente de quince años, que vive con sus padres, rompe deliberadamente el vehículo de un vecino. ¿Quién responde civilmente según el Código Civil?",
+   "opciones": [
+    {
+     "texto": "Los padres, salvo que prueben que no pudieron impedir el hecho.",
+     "justificacion": "Correcta. Es la responsabilidad por el hecho ajeno: la ley presume la culpa de quienes tienen a su cuidado al menor, presunción que admite prueba en contrario."
+    },
+    {
+     "texto": "Nadie, porque el adolescente es inimputable civil y penalmente.",
+     "justificacion": "Incorrecta. La responsabilidad civil puede recaer en quienes lo tienen a su cuidado."
+    },
+    {
+     "texto": "Solo el Estado, por falta de protección a la niñez.",
+     "justificacion": "Incorrecta. No hay base para atribuir responsabilidad al Estado."
+    },
+    {
+     "texto": "Los padres siempre, sin poder probar que no pudieron impedirlo.",
+     "justificacion": "Incorrecta. La presunción de culpa admite prueba en contrario."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "Q4-10",
+   "area": 4,
+   "dificultad": 5,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Cesión de créditos",
+   "resultado": "Aplica los efectos de la notificación en la cesión de créditos.",
+   "demanda": "Evaluar",
+   "enunciado": "Banco A cede a Fondo B un crédito contra Julia. Antes de que la cesión le sea notificada o aceptada por ella, Julia paga la deuda a Banco A. Fondo B la demanda. ¿Qué ocurre?",
+   "opciones": [
+    {
+     "texto": "El pago a Banco A es válido, pues la cesión no fue notificada.",
+     "justificacion": "Correcta. El Código Civil condiciona los efectos de la cesión frente al deudor y terceros a su notificación o aceptación; antes de ello, el deudor paga válidamente al cedente."
+    },
+    {
+     "texto": "Julia debe pagar otra vez a Fondo B, pues la cesión ya se perfeccionó.",
+     "justificacion": "Incorrecta. La cesión entre cedente y cesionario no es oponible a Julia sin notificación."
+    },
+    {
+     "texto": "La cesión es nula por no contar con el consentimiento previo de Julia.",
+     "justificacion": "Incorrecta. La cesión no requiere el consentimiento del deudor para su validez."
+    },
+    {
+     "texto": "Julia y Banco A son solidariamente responsables ante Fondo B.",
+     "justificacion": "Incorrecta. No existe solidaridad legal en este supuesto."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "Q4-11",
+   "area": 4,
+   "dificultad": 5,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Acción pauliana",
+   "resultado": "Identifica los requisitos de la acción pauliana.",
+   "demanda": "Analizar",
+   "enunciado": "Un deudor insolvente dona su única casa a su hermano para que sus acreedores no puedan embargarla. El hermano ignoraba la situación del deudor. ¿Pueden los acreedores revocar la donación?",
+   "opciones": [
+    {
+     "texto": "Sí: en actos gratuitos basta la mala fe del deudor.",
+     "justificacion": "Correcta. En la acción pauliana del Código Civil, los contratos onerosos exigen la mala fe del deudor y del adquirente; los actos gratuitos se revocan probando solo la mala fe del deudor y el perjuicio."
+    },
+    {
+     "texto": "No: el hermano recibió la casa de buena fe.",
+     "justificacion": "Incorrecta. La buena fe del donatario no impide la revocación de un acto gratuito."
+    },
+    {
+     "texto": "Solo si la donación se hizo sin escritura pública.",
+     "justificacion": "Incorrecta. La forma no es el fundamento de la acción pauliana."
+    },
+    {
+     "texto": "Solo mediante nulidad absoluta por causa ilícita.",
+     "justificacion": "Incorrecta. El remedio específico es la acción revocatoria o pauliana."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "Q4-12",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Cláusula penal",
+   "resultado": "Aplica las reglas de acumulación de la pena y la obligación principal.",
+   "demanda": "Aplicar",
+   "enunciado": "Un contrato de obra fija una cláusula penal de USD 10.000 por incumplimiento, sin pactar que se debe por el simple retardo. El contratista no entrega la obra. El dueño exige la obra terminada y además la pena. ¿Es procedente?",
+   "opciones": [
+    {
+     "texto": "No: debe elegir entre el cumplimiento y la pena.",
+     "justificacion": "Correcta. Es la regla del Código Civil sobre la cláusula penal: el acreedor elige entre la obligación principal y la pena, salvo los supuestos legales de acumulación."
+    },
+    {
+     "texto": "Sí: el acreedor siempre puede exigir ambas cosas.",
+     "justificacion": "Incorrecta. La acumulación solo procede en los casos previstos por la ley."
+    },
+    {
+     "texto": "No: la cláusula penal es nula si supera el valor de la obra.",
+     "justificacion": "Incorrecta. Una pena excesiva puede reducirse, pero eso no responde a la pregunta sobre la acumulación."
+    },
+    {
+     "texto": "No: solo puede exigir la pena, nunca el cumplimiento.",
+     "justificacion": "Incorrecta. El acreedor puede optar por el cumplimiento."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "Q2-01",
+   "area": 2,
+   "dificultad": 5,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Error de tipo",
+   "resultado": "Distingue los efectos del error de tipo vencible e invencible.",
+   "demanda": "Evaluar",
+   "enunciado": "Un cazador dispara a un bulto entre la maleza creyendo que es un venado, sin verificar pese a saber que había personas en la zona; mata a otro cazador. Según el COIP:",
+   "opciones": [
+    {
+     "texto": "Error de tipo vencible: responde por homicidio culposo.",
+     "justificacion": "Correcta. El error de tipo invencible excluye la responsabilidad penal; el vencible deja subsistente la culpa cuando la modalidad culposa está tipificada (art. 27 COIP)."
+    },
+    {
+     "texto": "No hay error relevante: responde por homicidio doloso.",
+     "justificacion": "Incorrecta. El error sobre un elemento del tipo excluye el dolo."
+    },
+    {
+     "texto": "Error de tipo: no responde, porque todo error excluye la responsabilidad.",
+     "justificacion": "Incorrecta. Solo el error invencible la excluye; aquí el error era evitable."
+    },
+    {
+     "texto": "Error de prohibición, que excluye la antijuridicidad.",
+     "justificacion": "Incorrecta. El cazador sabía que matar es ilícito; su error recae sobre un elemento del tipo."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "Q2-02",
+   "area": 2,
+   "dificultad": 5,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Error de prohibición",
+   "resultado": "Identifica la categoría dogmática afectada por el error de prohibición.",
+   "demanda": "Analizar",
+   "enunciado": "Una persona realiza una conducta típica creyendo, por un error que no pudo evitar, que su comportamiento era lícito. Según el COIP, el error de prohibición invencible:",
+   "opciones": [
+    {
+     "texto": "Excluye la culpabilidad.",
+     "justificacion": "Correcta. El error de prohibición recae sobre la comprensión de la ilicitud; cuando es invencible, no hay culpabilidad y, por tanto, no hay infracción penal (art. 18 COIP)."
+    },
+    {
+     "texto": "Excluye la tipicidad.",
+     "justificacion": "Incorrecta. Excluir la tipicidad es efecto del error de tipo."
+    },
+    {
+     "texto": "Excluye la antijuridicidad.",
+     "justificacion": "Incorrecta. La antijuridicidad se excluye por causas de justificación (art. 30 COIP)."
+    },
+    {
+     "texto": "Solo atenúa la pena en un tercio.",
+     "justificacion": "Incorrecta. La atenuación corresponde al error vencible, no al invencible."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "Q2-03",
+   "area": 2,
+   "dificultad": 5,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Comisión por omisión",
+   "resultado": "Aplica la posición de garante en los delitos de omisión.",
+   "demanda": "Analizar",
+   "enunciado": "Un salvavidas contratado observa que un bañista se ahoga y, deliberadamente, no interviene; el bañista muere. ¿Cómo se califica su conducta?",
+   "opciones": [
+    {
+     "texto": "Como omisión dolosa de quien está en posición de garante.",
+     "justificacion": "Correcta. El COIP sanciona la omisión dolosa de quien se encuentra en posición de garante, es decir, quien tiene la obligación legal o contractual de cuidado o custodia de la vida."
+    },
+    {
+     "texto": "Como conducta atípica, porque no causó materialmente la muerte.",
+     "justificacion": "Incorrecta. La posición de garante permite imputar el resultado a la omisión."
+    },
+    {
+     "texto": "Solo como omisión de socorro, aplicable a cualquier persona.",
+     "justificacion": "Incorrecta. Su deber contractual de protección lo coloca en posición de garante."
+    },
+    {
+     "texto": "Como homicidio culposo, en todos los casos.",
+     "justificacion": "Incorrecta. La omisión fue deliberada, no por infracción del deber de cuidado."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "Q2-04",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Desistimiento voluntario",
+   "resultado": "Determina los efectos del desistimiento en la tentativa.",
+   "demanda": "Aplicar",
+   "enunciado": "Raúl ingresa a una casa para robar, pero se arrepiente y sale voluntariamente sin llevarse nada; para entrar, rompió la cerradura. ¿Cómo responde?",
+   "opciones": [
+    {
+     "texto": "Solo por el daño a la cerradura, al haber desistido.",
+     "justificacion": "Correcta. El COIP excluye la pena de la tentativa cuando el autor desiste voluntariamente, quedando a salvo la responsabilidad por los actos ya ejecutados que sean delito por sí mismos."
+    },
+    {
+     "texto": "Por tentativa de robo, con la pena reducida de la tentativa.",
+     "justificacion": "Incorrecta. El desistimiento voluntario excluye la tentativa."
+    },
+    {
+     "texto": "Por robo consumado, al haber ingresado a la casa.",
+     "justificacion": "Incorrecta. No hubo apoderamiento de ningún bien."
+    },
+    {
+     "texto": "Por nada, porque el desistimiento extingue toda responsabilidad.",
+     "justificacion": "Incorrecta. Los actos ejecutados que constituyen infracción subsisten."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "Q2-05",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Concurso ideal",
+   "resultado": "Aplica las reglas del concurso ideal de infracciones.",
+   "demanda": "Aplicar",
+   "enunciado": "Con una sola conducta, una persona encuadra en dos tipos penales distintos. Según el COIP, se aplica:",
+   "opciones": [
+    {
+     "texto": "La pena de la infracción más grave.",
+     "justificacion": "Correcta. Es la regla del concurso ideal de infracciones (art. 21 COIP)."
+    },
+    {
+     "texto": "La suma de las penas de ambas infracciones.",
+     "justificacion": "Incorrecta. La acumulación corresponde al concurso real."
+    },
+    {
+     "texto": "La pena de la menos grave, por favorabilidad.",
+     "justificacion": "Incorrecta. La ley dispone aplicar la más grave."
+    },
+    {
+     "texto": "La pena que elija la Fiscalía en su acusación.",
+     "justificacion": "Incorrecta. La pena la determina la ley y la impone el juzgador."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "Q2-06",
+   "area": 2,
+   "dificultad": 5,
+   "subarea": "Derecho Procesal Penal",
+   "tema": "Oportunidad de la prueba",
+   "resultado": "Evalúa el valor probatorio de las actuaciones de la investigación.",
+   "demanda": "Evaluar",
+   "enunciado": "En juicio, la Fiscalía pide condenar únicamente con base en la versión que un testigo rindió en la investigación previa; el testigo no comparece a declarar y no se practicó testimonio anticipado. ¿Qué debe hacer el tribunal?",
+   "opciones": [
+    {
+     "texto": "No condenar con esa versión, que no es prueba practicada en juicio.",
+     "justificacion": "Correcta. Es el principio de oportunidad de la prueba del art. 454 COIP, que garantiza la inmediación y la contradicción."
+    },
+    {
+     "texto": "Condenar, porque la versión fue rendida ante un fiscal.",
+     "justificacion": "Incorrecta. La versión fiscal no es prueba por sí misma."
+    },
+    {
+     "texto": "Condenar, siempre que la defensa no objete la versión.",
+     "justificacion": "Incorrecta. La regla no depende de la objeción de la defensa."
+    },
+    {
+     "texto": "Suspender el juicio indefinidamente hasta que el testigo aparezca.",
+     "justificacion": "Incorrecta. El tribunal resuelve con la prueba practicada en juicio."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "Q2-07",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Procesal Penal",
+   "tema": "Testimonio anticipado",
+   "resultado": "Determina la procedencia del testimonio anticipado.",
+   "demanda": "Aplicar",
+   "enunciado": "Una víctima de un delito contra la integridad sexual debe declarar y se busca evitar su revictimización. Según el COIP:",
+   "opciones": [
+    {
+     "texto": "Puede rendir testimonio anticipado con valor probatorio.",
+     "justificacion": "Correcta. El art. 502 COIP admite el testimonio anticipado, entre otros, de víctimas de delitos contra la integridad sexual y de quienes no puedan comparecer al juicio."
+    },
+    {
+     "texto": "Solo puede declarar en la audiencia de juicio, sin excepción.",
+     "justificacion": "Incorrecta. La ley prevé el testimonio anticipado."
+    },
+    {
+     "texto": "Basta su versión escrita rendida ante la Policía.",
+     "justificacion": "Incorrecta. Una versión policial no es testimonio con valor probatorio."
+    },
+    {
+     "texto": "Su declaración es innecesaria si existe informe pericial.",
+     "justificacion": "Incorrecta. El testimonio de la víctima es un medio de prueba autónomo."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "Q2-08",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Procesal Penal",
+   "tema": "Sustitución de la prisión preventiva",
+   "resultado": "Identifica los casos especiales de sustitución de la prisión preventiva.",
+   "demanda": "Aplicar",
+   "enunciado": "Se dicta prisión preventiva contra una procesada embarazada. Según el COIP:",
+   "opciones": [
+    {
+     "texto": "Puede sustituirse por arresto domiciliario con dispositivo electrónico.",
+     "justificacion": "Correcta. El art. 537 COIP prevé esta sustitución para casos especiales, entre ellos la mujer embarazada y hasta noventa días posteriores al parto."
+    },
+    {
+     "texto": "Debe revocarse toda medida cautelar mientras dure el embarazo.",
+     "justificacion": "Incorrecta. La ley prevé la sustitución, no la eliminación de las medidas."
+    },
+    {
+     "texto": "Se suspende el proceso penal hasta después del parto.",
+     "justificacion": "Incorrecta. El embarazo no suspende el proceso penal."
+    },
+    {
+     "texto": "No hay trato diferenciado, por el principio de igualdad.",
+     "justificacion": "Incorrecta. La protección reforzada responde a su condición de grupo de atención prioritaria (art. 35 CRE)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP",
+    "CRE"
+   ]
+  },
+  {
+   "id": "Q2-09",
+   "area": 2,
+   "dificultad": 5,
+   "subarea": "Derecho Procesal Penal",
+   "tema": "Apelación penal",
+   "resultado": "Identifica las decisiones apelables en el proceso penal.",
+   "demanda": "Analizar",
+   "enunciado": "¿Cuál de las siguientes decisiones es apelable según el COIP?",
+   "opciones": [
+    {
+     "texto": "El auto de sobreseimiento, si existió acusación fiscal.",
+     "justificacion": "Correcta. Figura en el art. 653 COIP, junto con la resolución sobre prescripción, el auto de nulidad, las sentencias y la resolución sobre prisión preventiva en los casos previstos."
+    },
+    {
+     "texto": "El auto de llamamiento a juicio dictado en la evaluación.",
+     "justificacion": "Incorrecta. No figura entre las decisiones apelables del art. 653 COIP."
+    },
+    {
+     "texto": "La providencia que fija fecha para la audiencia de juicio.",
+     "justificacion": "Incorrecta. Es una providencia de mero trámite."
+    },
+    {
+     "texto": "La versión rendida por el procesado en la investigación.",
+     "justificacion": "Incorrecta. No es una decisión judicial."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "Q2-10",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Procesal Penal",
+   "tema": "Recurso de revisión",
+   "resultado": "Determina la procedencia del recurso de revisión.",
+   "demanda": "Aplicar",
+   "enunciado": "Una persona fue condenada por homicidio con sentencia ejecutoriada. Años después aparece con vida la supuesta víctima. ¿Qué mecanismo procede?",
+   "opciones": [
+    {
+     "texto": "El recurso de revisión ante la Corte Nacional.",
+     "justificacion": "Correcta. La comprobación de la existencia de la persona que se creía muerta es causal de revisión según el art. 658 COIP."
+    },
+    {
+     "texto": "El recurso de apelación, dentro de tres días.",
+     "justificacion": "Incorrecta. La sentencia ya está ejecutoriada (art. 654 COIP)."
+    },
+    {
+     "texto": "La acción de hábeas data ante el juez de turno.",
+     "justificacion": "Incorrecta. No tutela la revisión de condenas."
+    },
+    {
+     "texto": "Ninguno, porque la cosa juzgada es absoluta.",
+     "justificacion": "Incorrecta. La revisión es la excepción a la cosa juzgada penal."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "Q2-11",
+   "area": 2,
+   "dificultad": 5,
+   "subarea": "Derecho Penal (parte especial)",
+   "tema": "Lavado de activos",
+   "resultado": "Comprende la autonomía del delito de lavado de activos.",
+   "demanda": "Evaluar",
+   "enunciado": "La defensa de un procesado por lavado de activos alega que no puede ser juzgado porque no existe sentencia previa por el delito del que provendrían los fondos. Según el COIP:",
+   "opciones": [
+    {
+     "texto": "No prospera, porque el lavado de activos es un delito autónomo.",
+     "justificacion": "Correcta. El art. 317 COIP consagra la autonomía del lavado de activos."
+    },
+    {
+     "texto": "Prospera, porque el delito precedente es una cuestión prejudicial.",
+     "justificacion": "Incorrecta. La ley excluye expresamente esa dependencia."
+    },
+    {
+     "texto": "Prospera si el delito precedente se cometió en el extranjero.",
+     "justificacion": "Incorrecta. La autonomía comprende delitos cometidos dentro o fuera del país."
+    },
+    {
+     "texto": "El proceso se suspende hasta investigar el delito precedente.",
+     "justificacion": "Incorrecta. No existe esa suspensión."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "Q2-12",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Responsabilidad penal de la persona jurídica",
+   "resultado": "Aplica las reglas de responsabilidad penal de las personas jurídicas.",
+   "demanda": "Analizar",
+   "enunciado": "Una empresa obtiene beneficios de un delito cometido por su gerente en ejercicio de sus funciones. El gerente fallece antes del juicio. Según el COIP:",
+   "opciones": [
+    {
+     "texto": "La empresa puede responder, pues su responsabilidad es independiente.",
+     "justificacion": "Correcta. El art. 49 COIP establece la responsabilidad de las personas jurídicas por delitos cometidos para su beneficio por quienes ejercen su propiedad, control o administración, y dispone que subsiste aunque la persona natural fallezca o se extinga su responsabilidad."
+    },
+    {
+     "texto": "La persona jurídica no puede responder penalmente en ningún caso.",
+     "justificacion": "Incorrecta. El COIP admite su responsabilidad penal."
+    },
+    {
+     "texto": "La muerte del gerente extingue la responsabilidad de la empresa.",
+     "justificacion": "Incorrecta. Su responsabilidad es independiente."
+    },
+    {
+     "texto": "Solo responden los accionistas con su patrimonio personal.",
+     "justificacion": "Incorrecta. La responsabilidad es de la persona jurídica."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "Q1-01",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Constitucional",
+   "tema": "Acción de protección contra particulares",
+   "resultado": "Determina la procedencia de la acción de protección contra particulares.",
+   "demanda": "Analizar",
+   "enunciado": "Una trabajadora de una empresa privada es separada de un programa interno por su condición de persona con VIH. ¿Procede la acción de protección contra la empresa?",
+   "opciones": [
+    {
+     "texto": "Sí, porque la afectada está en situación de discriminación.",
+     "justificacion": "Correcta. El art. 88 CRE la habilita contra particulares en esos supuestos, además de cuando el particular presta servicios públicos impropios, actúa por delegación o concesión, o la violación provoca daño grave."
+    },
+    {
+     "texto": "No, porque solo procede contra autoridades públicas.",
+     "justificacion": "Incorrecta. La Constitución la admite contra particulares en ciertos supuestos."
+    },
+    {
+     "texto": "Solo si antes agotó la vía laboral ordinaria.",
+     "justificacion": "Incorrecta. La vía constitucional no exige agotar otras vías cuando estas no son adecuadas y eficaces (art. 40 LOGJCC)."
+    },
+    {
+     "texto": "No: solo procede la acción por incumplimiento.",
+     "justificacion": "Incorrecta. Esa acción tiene otro objeto (art. 93 CRE)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "LOGJCC"
+   ]
+  },
+  {
+   "id": "Q1-02",
+   "area": 1,
+   "dificultad": 5,
+   "subarea": "Derecho Constitucional",
+   "tema": "Medidas cautelares constitucionales",
+   "resultado": "Identifica los límites de las medidas cautelares constitucionales.",
+   "demanda": "Evaluar",
+   "enunciado": "Una persona solicita como medida cautelar constitucional que se suspenda la ejecución de una sentencia dictada por un juez civil. ¿Procede?",
+   "opciones": [
+    {
+     "texto": "No, porque no proceden contra la ejecución de órdenes judiciales.",
+     "justificacion": "Correcta. El art. 27 LOGJCC excluye las medidas cautelares cuando existan medidas en las vías administrativas u ordinarias, cuando se trate de la ejecución de órdenes judiciales o cuando se interpongan en la acción extraordinaria de protección."
+    },
+    {
+     "texto": "Sí, siempre que se demuestre peligro en la demora.",
+     "justificacion": "Incorrecta. Existe una exclusión legal expresa."
+    },
+    {
+     "texto": "Sí, si se solicita conjuntamente con una acción de protección.",
+     "justificacion": "Incorrecta. La exclusión subsiste aunque se solicite conjuntamente."
+    },
+    {
+     "texto": "Sí, pero solo la Corte Constitucional puede dictarla.",
+     "justificacion": "Incorrecta. La procedencia no depende del órgano; está excluida por ley."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "LOGJCC",
+    "CRE"
+   ]
+  },
+  {
+   "id": "Q1-03",
+   "area": 1,
+   "dificultad": 5,
+   "subarea": "Derecho Constitucional",
+   "tema": "Reforma constitucional",
+   "resultado": "Selecciona el procedimiento de reforma constitucional idóneo.",
+   "demanda": "Evaluar",
+   "enunciado": "Se propone modificar la Constitución para restringir un derecho fundamental. ¿Qué procedimiento es constitucionalmente admisible?",
+   "opciones": [
+    {
+     "texto": "Solo una Asamblea Constituyente.",
+     "justificacion": "Correcta. Los arts. 441 y 442 CRE excluyen las restricciones a derechos de la enmienda y de la reforma parcial; el art. 444 CRE prevé la Asamblea Constituyente."
+    },
+    {
+     "texto": "La enmienda por iniciativa de la Asamblea Nacional.",
+     "justificacion": "Incorrecta. La enmienda no puede restringir derechos (art. 441 CRE)."
+    },
+    {
+     "texto": "La reforma parcial por iniciativa ciudadana.",
+     "justificacion": "Incorrecta. La reforma parcial tampoco puede restringir derechos (art. 442 CRE)."
+    },
+    {
+     "texto": "Un decreto ejecutivo con dictamen de la Corte Constitucional.",
+     "justificacion": "Incorrecta. No es un mecanismo de reforma constitucional."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "Q1-04",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Constitucional",
+   "tema": "Revocatoria del mandato",
+   "resultado": "Aplica los límites temporales de la revocatoria del mandato.",
+   "demanda": "Aplicar",
+   "enunciado": "A los ocho meses de posesionado un alcalde, un grupo de ciudadanos solicita su revocatoria del mandato. Según la Constitución:",
+   "opciones": [
+    {
+     "texto": "Es improcedente, porque no ha cumplido el primer año.",
+     "justificacion": "Correcta. Así lo establece el art. 105 CRE."
+    },
+    {
+     "texto": "Es procedente en cualquier momento del periodo.",
+     "justificacion": "Incorrecta. La Constitución fija límites temporales."
+    },
+    {
+     "texto": "Es procedente, pero solo durante el último año.",
+     "justificacion": "Incorrecta. El último año está precisamente excluido."
+    },
+    {
+     "texto": "Solo puede solicitarla el Concejo Municipal.",
+     "justificacion": "Incorrecta. Es un derecho de las personas en goce de derechos políticos."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "Q1-05",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derechos Humanos",
+   "tema": "Reparación integral",
+   "resultado": "Distingue las medidas de reparación integral.",
+   "demanda": "Analizar",
+   "enunciado": "Tras declarar la vulneración de un derecho, la jueza ordena capacitar a los servidores de la entidad responsable para evitar que los hechos se repitan. Esta medida es de:",
+   "opciones": [
+    {
+     "texto": "Garantía de no repetición.",
+     "justificacion": "Correcta. La reparación integral comprende restitución, indemnización, rehabilitación, satisfacción y garantías de no repetición (art. 18 LOGJCC), estándar coincidente con la jurisprudencia interamericana."
+    },
+    {
+     "texto": "Medida de restitución del derecho.",
+     "justificacion": "Incorrecta. La restitución busca restablecer la situación anterior a la vulneración."
+    },
+    {
+     "texto": "Medida de rehabilitación.",
+     "justificacion": "Incorrecta. Comprende la atención médica, psicológica o social de la víctima."
+    },
+    {
+     "texto": "Indemnización compensatoria.",
+     "justificacion": "Incorrecta. Es la compensación económica de los daños."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "LOGJCC",
+    "CADH"
+   ]
+  },
+  {
+   "id": "Q1-06",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Constitucional",
+   "tema": "Interpretación constitucional",
+   "resultado": "Aplica las reglas de interpretación constitucional.",
+   "demanda": "Aplicar",
+   "enunciado": "Una norma constitucional admite dos interpretaciones razonables: una restringe el ejercicio de un derecho y otra lo amplía. Según el artículo 427 de la Constitución, la jueza debe:",
+   "opciones": [
+    {
+     "texto": "Escoger la que más favorezca la vigencia de los derechos.",
+     "justificacion": "Correcta. El art. 427 CRE ordena interpretar por el tenor literal que más se ajuste a la Constitución en su integralidad y, en caso de duda, en el sentido más favorable a la plena vigencia de los derechos."
+    },
+    {
+     "texto": "Escoger la más restrictiva, por seguridad jurídica.",
+     "justificacion": "Incorrecta. Contradice el mandato del art. 427 CRE."
+    },
+    {
+     "texto": "Consultar a la Asamblea Nacional antes de resolver.",
+     "justificacion": "Incorrecta. La interpretación constitucional corresponde a los jueces y, con carácter vinculante, a la Corte Constitucional (art. 436 CRE)."
+    },
+    {
+     "texto": "Aplicar la que proponga la entidad pública demandada.",
+     "justificacion": "Incorrecta. No existe deferencia de ese tipo."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "Q3-01",
+   "area": 3,
+   "dificultad": 5,
+   "subarea": "Derecho Procesal (COGEP)",
+   "tema": "Prueba no anunciada",
+   "resultado": "Aplica las reglas excepcionales de la prueba no anunciada.",
+   "demanda": "Evaluar",
+   "enunciado": "Después de contestada la demanda, la actora encuentra un documento decisivo que no conocía al presentar su demanda. Según el COGEP:",
+   "opciones": [
+    {
+     "texto": "Pedirla antes de la convocatoria a juicio, si no la conocía.",
+     "justificacion": "Correcta. Es la excepción del art. 166 COGEP a la regla de anunciar la prueba en la demanda."
+    },
+    {
+     "texto": "Presentarla en cualquier momento, incluso en casación.",
+     "justificacion": "Incorrecta. La casación no admite nueva prueba."
+    },
+    {
+     "texto": "Nunca, porque la prueba solo se anuncia en la demanda.",
+     "justificacion": "Incorrecta. La ley prevé esta excepción."
+    },
+    {
+     "texto": "Presentarla solo si la contraparte lo consiente.",
+     "justificacion": "Incorrecta. La procedencia depende de los requisitos legales, no del consentimiento contrario."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "Q3-02",
+   "area": 3,
+   "dificultad": 4,
+   "subarea": "Derecho Procesal (COGEP)",
+   "tema": "Recurso de hecho",
+   "resultado": "Identifica la procedencia del recurso de hecho.",
+   "demanda": "Aplicar",
+   "enunciado": "Una jueza niega indebidamente un recurso de apelación interpuesto a tiempo contra una sentencia. ¿Qué puede hacer la parte afectada?",
+   "opciones": [
+    {
+     "texto": "Interponer recurso de hecho.",
+     "justificacion": "Correcta. El art. 278 COGEP prevé el recurso de hecho contra las providencias que niegan un recurso de apelación o de casación."
+    },
+    {
+     "texto": "Presentar acción de protección.",
+     "justificacion": "Incorrecta. Existe un mecanismo procesal específico y la acción no procede contra providencias judiciales (art. 42 LOGJCC)."
+    },
+    {
+     "texto": "Pedir la aclaración de la sentencia.",
+     "justificacion": "Incorrecta. La aclaración no permite obtener la concesión del recurso."
+    },
+    {
+     "texto": "Esperar la ejecución y oponer excepciones.",
+     "justificacion": "Incorrecta. La sentencia quedaría ejecutoriada."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "Q3-03",
+   "area": 3,
+   "dificultad": 5,
+   "subarea": "Derecho Procesal (COGEP)",
+   "tema": "Carga de la prueba",
+   "resultado": "Aplica las reglas especiales de distribución de la carga probatoria.",
+   "demanda": "Analizar",
+   "enunciado": "Una comunidad demanda a una empresa minera alegando daño ambiental. ¿Sobre quién recae la carga de probar la inexistencia del daño?",
+   "opciones": [
+    {
+     "texto": "Sobre la empresa, gestora de la actividad.",
+     "justificacion": "Correcta. Así lo disponen el art. 397 num. 1 CRE y el art. 169 COGEP, que invierten la regla general en materia ambiental."
+    },
+    {
+     "texto": "Sobre la comunidad demandante, por la regla general.",
+     "justificacion": "Incorrecta. La materia ambiental tiene una regla especial."
+    },
+    {
+     "texto": "Sobre el Ministerio del Ambiente, como autoridad rectora.",
+     "justificacion": "Incorrecta. La carga recae en el gestor de la actividad."
+    },
+    {
+     "texto": "Sobre el juez, que debe ordenarla de oficio.",
+     "justificacion": "Incorrecta. La prueba de oficio es excepcional y no traslada la carga."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "COGEP"
+   ]
+  },
+  {
+   "id": "Q3-04",
+   "area": 3,
+   "dificultad": 4,
+   "subarea": "Métodos Alternativos",
+   "tema": "Competencia del tribunal arbitral",
+   "resultado": "Aplica el principio de competencia sobre la propia competencia.",
+   "demanda": "Analizar",
+   "enunciado": "En un arbitraje, la parte demandada alega que el convenio arbitral es inválido. ¿Quién resuelve sobre esa alegación?",
+   "opciones": [
+    {
+     "texto": "El propio tribunal arbitral, sobre su competencia.",
+     "justificacion": "Correcta. El art. 22 LAM atribuye al tribunal arbitral la decisión sobre su propia competencia, principio conocido como competencia-competencia."
+    },
+    {
+     "texto": "Necesariamente un juez civil, antes de continuar.",
+     "justificacion": "Incorrecta. La ley asigna esa decisión al tribunal arbitral."
+    },
+    {
+     "texto": "La Corte Constitucional, por tratarse de un derecho.",
+     "justificacion": "Incorrecta. No le corresponde resolver la competencia arbitral."
+    },
+    {
+     "texto": "El director del centro de arbitraje, sin recurso.",
+     "justificacion": "Incorrecta. La decisión es jurisdiccional y corresponde al tribunal."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "LAM"
+   ]
+  },
+  {
+   "id": "Q3-05",
+   "area": 3,
+   "dificultad": 4,
+   "subarea": "Métodos Alternativos",
+   "tema": "Mediación y materia transigible",
+   "resultado": "Determina los límites materiales de la mediación.",
+   "demanda": "Evaluar",
+   "enunciado": "En un centro de mediación, las partes pretenden acordar que el hijo menor renuncie a su derecho de alimentos a cambio de un pago único. ¿Es válido el acuerdo?",
+   "opciones": [
+    {
+     "texto": "No, porque los alimentos de menores son irrenunciables.",
+     "justificacion": "Correcta. La Ley de Arbitraje y Mediación (art. 43) limita la mediación a materias transigibles, y el derecho de alimentos es irrenunciable según el Código de la Niñez y Adolescencia; sí puede mediarse el monto o la forma de pago."
+    },
+    {
+     "texto": "Sí, porque el acta de mediación tiene efecto de cosa juzgada.",
+     "justificacion": "Incorrecta. El efecto del acta (art. 47 LAM) supone un acuerdo sobre materia transigible."
+    },
+    {
+     "texto": "Sí, si el pago único supera el valor de doce pensiones.",
+     "justificacion": "Incorrecta. El monto no vuelve renunciable el derecho."
+    },
+    {
+     "texto": "Sí, siempre que el mediador apruebe el acuerdo.",
+     "justificacion": "Incorrecta. El mediador no puede validar la renuncia de un derecho irrenunciable."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "LAM",
+    "CONA"
+   ]
+  },
+  {
+   "id": "Q5-01",
+   "area": 5,
+   "dificultad": 4,
+   "subarea": "Laboral",
+   "tema": "Despido ineficaz",
+   "resultado": "Aplica la protección reforzada frente al despido de la trabajadora embarazada.",
+   "demanda": "Aplicar",
+   "enunciado": "Una trabajadora es despedida intempestivamente al comunicar su embarazo. Según el Código del Trabajo:",
+   "opciones": [
+    {
+     "texto": "El despido es ineficaz y procede su reintegro.",
+     "justificacion": "Correcta. El art. 195.1 CT y siguientes regulan el despido ineficaz de mujeres embarazadas o asociadas a su condición de gestación o maternidad, y de dirigentes sindicales; si la trabajadora decide no reintegrarse, la ley prevé una indemnización adicional."
+    },
+    {
+     "texto": "Solo tiene derecho a la indemnización por despido intempestivo.",
+     "justificacion": "Incorrecta. La ley le otorga una protección reforzada adicional."
+    },
+    {
+     "texto": "El despido es válido si el empleador paga el desahucio.",
+     "justificacion": "Incorrecta. El desahucio no convalida un despido discriminatorio."
+    },
+    {
+     "texto": "Debe presentar primero una acción de protección.",
+     "justificacion": "Incorrecta. Existe una acción laboral específica y especial."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CT",
+    "CRE"
+   ]
+  },
+  {
+   "id": "Q5-02",
+   "area": 5,
+   "dificultad": 4,
+   "subarea": "Laboral",
+   "tema": "Tercerización e intermediación",
+   "resultado": "Identifica las prohibiciones constitucionales en materia laboral.",
+   "demanda": "Evaluar",
+   "enunciado": "Una empresa contrata, a través de otra compañía, al personal que realiza sus actividades propias y habituales para no tenerlo en su nómina. Según la Constitución:",
+   "opciones": [
+    {
+     "texto": "Está prohibida por la Constitución.",
+     "justificacion": "Correcta. Así lo dispone el art. 327 CRE."
+    },
+    {
+     "texto": "Es válida si los trabajadores firman su consentimiento.",
+     "justificacion": "Incorrecta. Los derechos laborales son irrenunciables (art. 326 num. 2 CRE)."
+    },
+    {
+     "texto": "Es válida si la intermediaria afilia al personal al seguro social.",
+     "justificacion": "Incorrecta. La afiliación no levanta la prohibición."
+    },
+    {
+     "texto": "Solo está prohibida en el sector público.",
+     "justificacion": "Incorrecta. La prohibición es general."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "CT"
+   ]
+  },
+  {
+   "id": "Q5-03",
+   "area": 5,
+   "dificultad": 5,
+   "subarea": "Laboral",
+   "tema": "Jubilación patronal proporcional",
+   "resultado": "Aplica los derechos por tiempo de servicio en caso de despido intempestivo.",
+   "demanda": "Analizar",
+   "enunciado": "Un trabajador con veintidós años de servicio continuo para el mismo empleador es despedido intempestivamente. Además de la indemnización por despido, ¿qué le corresponde según el Código del Trabajo?",
+   "opciones": [
+    {
+     "texto": "La parte proporcional de la jubilación patronal.",
+     "justificacion": "Correcta. El art. 188 CT reconoce este derecho; la jubilación patronal completa (art. 216 CT) exige veinticinco años o más de servicio."
+    },
+    {
+     "texto": "La jubilación patronal completa, por superar veinte años.",
+     "justificacion": "Incorrecta. La completa requiere veinticinco años de servicio."
+    },
+    {
+     "texto": "Nada adicional, porque no cumplió veinticinco años.",
+     "justificacion": "Incorrecta. La ley prevé el derecho proporcional desde los veinte años."
+    },
+    {
+     "texto": "Solo la bonificación por desahucio.",
+     "justificacion": "Incorrecta. El desahucio es una figura distinta (art. 185 CT)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CT"
+   ]
+  },
+  {
+   "id": "Q5-04",
+   "area": 5,
+   "dificultad": 5,
+   "subarea": "Tributario",
+   "tema": "Responsabilidad del adquirente",
+   "resultado": "Aplica la responsabilidad tributaria de los adquirentes de empresas.",
+   "demanda": "Analizar",
+   "enunciado": "Una persona compra un negocio en marcha. El anterior propietario adeudaba tributos. Según el Código Tributario, el adquirente:",
+   "opciones": [
+    {
+     "texto": "Responde por el año en curso y los dos anteriores, hasta lo adquirido.",
+     "justificacion": "Correcta. El art. 28 del Código Tributario establece esta responsabilidad de los adquirentes y sucesores."
+    },
+    {
+     "texto": "No responde, porque la deuda es personal del vendedor.",
+     "justificacion": "Incorrecta. La ley lo hace responsable en ese alcance."
+    },
+    {
+     "texto": "Responde ilimitadamente por todas las deudas históricas.",
+     "justificacion": "Incorrecta. La responsabilidad tiene límites temporales y de valor."
+    },
+    {
+     "texto": "Responde solo si el contrato de compraventa así lo pacta.",
+     "justificacion": "Incorrecta. La responsabilidad nace de la ley, no del contrato."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CTRIB"
+   ]
+  },
+  {
+   "id": "Q5-05",
+   "area": 5,
+   "dificultad": 4,
+   "subarea": "Internacional Privado",
+   "tema": "Homologación de sentencias extranjeras",
+   "resultado": "Evalúa los requisitos de homologación de sentencias extranjeras.",
+   "demanda": "Evaluar",
+   "enunciado": "Se pide homologar en el Ecuador una sentencia extranjera de condena dictada sin que el demandado haya sido citado. ¿Qué debe resolver la Corte Provincial?",
+   "opciones": [
+    {
+     "texto": "Negar la homologación por falta de citación.",
+     "justificacion": "Correcta. El art. 104 COGEP exige, entre otros requisitos, la citación legal y el respeto al debido proceso, en concordancia con el art. 76 CRE."
+    },
+    {
+     "texto": "Homologarla, por estar ejecutoriada en su país.",
+     "justificacion": "Incorrecta. La ejecutoria no suple la falta de citación."
+    },
+    {
+     "texto": "Homologarla, siempre que esté debidamente apostillada.",
+     "justificacion": "Incorrecta. La apostilla acredita autenticidad, no el debido proceso."
+    },
+    {
+     "texto": "Remitirla a la Corte Nacional de Justicia.",
+     "justificacion": "Incorrecta. Es competente la Corte Provincial (art. 102 COGEP)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP",
+    "CRE"
+   ]
+  }
+ ]
+}
