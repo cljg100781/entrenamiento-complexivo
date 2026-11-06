@@ -1,0 +1,1716 @@
+{
+ "id": "pack-003",
+ "titulo": "Paquete 3 · 53 preguntas de Derecho Procesal General (cuestionario de clase)",
+ "bibliografia": {
+  "COFJ": "Asamblea Nacional del Ecuador. (2009). Código Orgánico de la Función Judicial. Registro Oficial Suplemento 544, 9 de marzo de 2009. https://www.funcionjudicial.gob.ec/",
+  "COGEP": "Asamblea Nacional del Ecuador. (2015). Código Orgánico General de Procesos. Registro Oficial Suplemento 506, 22 de mayo de 2015. https://www.funcionjudicial.gob.ec/",
+  "CRE": "Asamblea Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449, 20 de octubre de 2008. https://www.asambleanacional.gob.ec/"
+ },
+ "preguntas": [
+  {
+   "id": "DPG-01",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Finalidad del proceso",
+   "resultado": "Identifica la finalidad del proceso judicial.",
+   "demanda": "Comprender",
+   "enunciado": "En un sistema procesal civil moderno, la finalidad del proceso es principalmente:",
+   "opciones": [
+    {
+     "texto": "Resolver un conflicto con una decisión obligatoria.",
+     "justificacion": "Correcta. El proceso es el instrumento de la función jurisdiccional para resolver controversias con decisiones vinculantes; el COGEP regula su actividad procesal (art. 1) y el art. 169 de la Constitución lo concibe como medio para la realización de la justicia."
+    },
+    {
+     "texto": "Sustituir la negociación privada por sanciones penales.",
+     "justificacion": "Incorrecta. El proceso civil no impone sanciones penales y no excluye los acuerdos entre las partes."
+    },
+    {
+     "texto": "Impedir que las partes lleguen a acuerdos entre sí.",
+     "justificacion": "Incorrecta. El COGEP promueve la conciliación y la transacción dentro del proceso (arts. 233 y 235 COGEP)."
+    },
+    {
+     "texto": "Garantizar que siempre exista una doble instancia.",
+     "justificacion": "Incorrecta. La doble instancia es una garantía de recurrir, no la finalidad del proceso."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP",
+    "CRE"
+   ]
+  },
+  {
+   "id": "DPG-02",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Jurisdicción",
+   "resultado": "Define la jurisdicción en sentido procesal.",
+   "demanda": "Recordar",
+   "enunciado": "La jurisdicción, en sentido procesal, se entiende como:",
+   "opciones": [
+    {
+     "texto": "La potestad estatal de administrar justicia en casos concretos.",
+     "justificacion": "Correcta. Es la potestad pública de juzgar y hacer ejecutar lo juzgado, que emana del pueblo y se ejerce por los órganos de la Función Judicial (art. 167 CRE)."
+    },
+    {
+     "texto": "La propiedad del juez sobre el expediente y los documentos que tramita.",
+     "justificacion": "Incorrecta. El juez dirige el proceso (art. 3 COGEP), pero no es dueño del expediente."
+    },
+    {
+     "texto": "La facultad de las partes de escoger la ley aplicable.",
+     "justificacion": "Incorrecta. La elección de ley es un tema de derecho internacional privado, no la jurisdicción."
+    },
+    {
+     "texto": "El derecho del abogado a intervenir en las audiencias de su cliente.",
+     "justificacion": "Incorrecta. Se refiere al patrocinio, no a la potestad de juzgar."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-03",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Jurisdicción y competencia",
+   "resultado": "Distingue jurisdicción y competencia.",
+   "demanda": "Comprender",
+   "enunciado": "La competencia se diferencia de la jurisdicción porque la competencia:",
+   "opciones": [
+    {
+     "texto": "Distribuye los asuntos entre órganos judiciales concretos.",
+     "justificacion": "Correcta. La competencia es la medida dentro de la cual se distribuye la potestad jurisdiccional entre juzgadores, en razón de materia, territorio, personas y grados."
+    },
+    {
+     "texto": "Crea en abstracto la potestad del poder judicial de administrar justicia.",
+     "justificacion": "Incorrecta. Esa es la jurisdicción, que es previa y general."
+    },
+    {
+     "texto": "Equivale a la legitimación en la causa de las partes del proceso.",
+     "justificacion": "Incorrecta. La legitimación se refiere a las partes, no al órgano judicial."
+    },
+    {
+     "texto": "Se limita exclusivamente a la fase de ejecución.",
+     "justificacion": "Incorrecta. La competencia rige todo el proceso, no solo la ejecución."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-04",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Presupuestos procesales",
+   "resultado": "Identifica la noción de presupuestos procesales.",
+   "demanda": "Comprender",
+   "enunciado": "Un presupuesto procesal se refiere, de manera general, a:",
+   "opciones": [
+    {
+     "texto": "Las condiciones mínimas para que el proceso sea válido.",
+     "justificacion": "Correcta. Son requisitos como la competencia, la capacidad procesal y la demanda en forma, sin los cuales el proceso no puede constituirse válidamente; su falta se alega, entre otras vías, por excepciones previas (art. 153 COGEP)."
+    },
+    {
+     "texto": "Los requisitos para que la sentencia favorezca al actor.",
+     "justificacion": "Incorrecta. Eso corresponde a los presupuestos materiales o de fondo de la pretensión."
+    },
+    {
+     "texto": "Los hechos que deben probarse en toda causa.",
+     "justificacion": "Incorrecta. Los hechos a probar dependen de la controversia (art. 158 COGEP)."
+    },
+    {
+     "texto": "Los criterios con los que se valora la prueba.",
+     "justificacion": "Incorrecta. La valoración se rige por las reglas de la sana crítica (art. 164 COGEP)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-05",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Legitimación en la causa",
+   "resultado": "Distingue la legitimación en la causa de otras figuras.",
+   "demanda": "Comprender",
+   "enunciado": "La legitimación en la causa se relaciona con:",
+   "opciones": [
+    {
+     "texto": "El vínculo de las partes con la relación jurídica discutida.",
+     "justificacion": "Correcta. Determina si quien demanda y quien es demandado son los sujetos de la relación sustancial; su falta es excepción previa (art. 153 num. 3 COGEP)."
+    },
+    {
+     "texto": "La capacidad económica de las partes para litigar.",
+     "justificacion": "Incorrecta. La capacidad económica no condiciona la legitimación."
+    },
+    {
+     "texto": "La nacionalidad de los litigantes en el proceso.",
+     "justificacion": "Incorrecta. La nacionalidad no define la legitimación."
+    },
+    {
+     "texto": "La existencia de prueba documental previa a la demanda.",
+     "justificacion": "Incorrecta. La prueba se refiere al fondo, no a la legitimación."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-06",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Capacidad procesal",
+   "resultado": "Identifica la capacidad procesal.",
+   "demanda": "Recordar",
+   "enunciado": "La capacidad procesal de una parte alude a:",
+   "opciones": [
+    {
+     "texto": "Su aptitud para actuar en el proceso, por sí o representada.",
+     "justificacion": "Correcta. Tiene capacidad procesal quien puede comparecer por sí mismo; los incapaces lo hacen por medio de sus representantes (art. 31 COGEP)."
+    },
+    {
+     "texto": "La preparación técnica de su abogado defensor.",
+     "justificacion": "Incorrecta. La pericia del abogado no es la capacidad procesal de la parte."
+    },
+    {
+     "texto": "El número de recursos que puede interponer.",
+     "justificacion": "Incorrecta. Los recursos dependen de la ley (art. 251 COGEP), no de la capacidad."
+    },
+    {
+     "texto": "La posibilidad de elegir libremente el tribunal que conocerá su causa.",
+     "justificacion": "Incorrecta. La competencia la fija la ley, no la parte."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-07",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Procuración judicial",
+   "resultado": "Comprende la función de la representación judicial.",
+   "demanda": "Comprender",
+   "enunciado": "La representación judicial cumple la función de:",
+   "opciones": [
+    {
+     "texto": "Permitir que una persona actúe por medio de otra habilitada.",
+     "justificacion": "Correcta. La procuración judicial permite comparecer por medio de un procurador con poder suficiente (arts. 41 a 45 COGEP)."
+    },
+    {
+     "texto": "Asegurar que el juez represente los intereses públicos.",
+     "justificacion": "Incorrecta. El juez es imparcial y no representa a nadie."
+    },
+    {
+     "texto": "Sustituir la prueba por las declaraciones del representante.",
+     "justificacion": "Incorrecta. La representación no reemplaza la prueba."
+    },
+    {
+     "texto": "Eliminar la necesidad de notificar a las partes.",
+     "justificacion": "Incorrecta. Las notificaciones siguen siendo obligatorias (art. 65 COGEP)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-08",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Citación",
+   "resultado": "Identifica el objeto de la citación.",
+   "demanda": "Recordar",
+   "enunciado": "La citación tiene por objeto esencial:",
+   "opciones": [
+    {
+     "texto": "Hacer conocer al demandado la demanda y lo que se pretende.",
+     "justificacion": "Correcta. La citación es el acto por el cual se hace conocer a la persona demandada el contenido de la demanda o de la petición de una diligencia preparatoria (art. 53 COGEP)."
+    },
+    {
+     "texto": "Adelantar la ejecución de la sentencia que se dicte.",
+     "justificacion": "Incorrecta. La ejecución solo procede tras una decisión ejecutoriada."
+    },
+    {
+     "texto": "Garantizar la inmediación del juez en la práctica de la prueba anunciada.",
+     "justificacion": "Incorrecta. La inmediación se garantiza en la audiencia, no con la citación."
+    },
+    {
+     "texto": "Convertir el proceso en confidencial para terceros.",
+     "justificacion": "Incorrecta. Rige la publicidad, salvo excepciones legales."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-09",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Debido proceso",
+   "resultado": "Identifica elementos del debido proceso.",
+   "demanda": "Comprender",
+   "enunciado": "El derecho al debido proceso exige, entre otros elementos, que:",
+   "opciones": [
+    {
+     "texto": "Las partes puedan ser oídas y contradecir en igualdad.",
+     "justificacion": "Correcta. El art. 76 CRE garantiza el derecho a la defensa, a ser escuchado en el momento oportuno y en igualdad de condiciones, y a contradecir las pruebas."
+    },
+    {
+     "texto": "La sentencia sea siempre absolutoria del demandado, por presunción de inocencia.",
+     "justificacion": "Incorrecta. El debido proceso no garantiza un resultado."
+    },
+    {
+     "texto": "El juez pueda asesorar a una de las partes.",
+     "justificacion": "Incorrecta. Vulneraría la imparcialidad del juzgador."
+    },
+    {
+     "texto": "Se prohíba toda audiencia oral en el proceso.",
+     "justificacion": "Incorrecta. La Constitución adopta el sistema oral (art. 168 num. 6 CRE)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "DPG-10",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Principio dispositivo",
+   "resultado": "Aplica el principio dispositivo.",
+   "demanda": "Comprender",
+   "enunciado": "El principio dispositivo se manifiesta cuando:",
+   "opciones": [
+    {
+     "texto": "Las partes deciden el inicio y el objeto del litigio.",
+     "justificacion": "Correcta. Corresponde a las partes el impulso del proceso conforme al sistema dispositivo (art. 5 COGEP; art. 168 num. 6 CRE)."
+    },
+    {
+     "texto": "El juez impulsa de oficio cualquier pretensión.",
+     "justificacion": "Incorrecta. Describe el sistema inquisitivo."
+    },
+    {
+     "texto": "La prueba la practica únicamente el juez.",
+     "justificacion": "Incorrecta. La prueba la aportan principalmente las partes; la de oficio es excepcional."
+    },
+    {
+     "texto": "La sentencia se dicta sin que exista demanda.",
+     "justificacion": "Incorrecta. Sin demanda no hay proceso civil."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP",
+    "CRE"
+   ]
+  },
+  {
+   "id": "DPG-11",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Principio de contradicción",
+   "resultado": "Identifica vulneraciones del principio de contradicción.",
+   "demanda": "Analizar",
+   "enunciado": "El principio de contradicción se vulnera típicamente si:",
+   "opciones": [
+    {
+     "texto": "Se decide con un argumento que la parte no pudo rebatir.",
+     "justificacion": "Correcta. La contradicción exige que cada parte conozca y pueda controvertir los argumentos y pruebas de la otra (art. 76 num. 7 lit. h CRE)."
+    },
+    {
+     "texto": "Se concede un plazo razonable para contestar la demanda.",
+     "justificacion": "Incorrecta. Conceder plazo garantiza la contradicción."
+    },
+    {
+     "texto": "Se realiza la audiencia con presencia de ambas partes.",
+     "justificacion": "Incorrecta. La presencia de las partes favorece la contradicción."
+    },
+    {
+     "texto": "Se permite impugnar la decisión del juzgador.",
+     "justificacion": "Incorrecta. La impugnación es una garantía, no una vulneración."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "DPG-12",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Igualdad procesal",
+   "resultado": "Comprende el alcance de la igualdad procesal.",
+   "demanda": "Comprender",
+   "enunciado": "La igualdad procesal supone, en términos prácticos, que:",
+   "opciones": [
+    {
+     "texto": "Ninguna parte reciba ventajas indebidas en el proceso.",
+     "justificacion": "Correcta. Las partes deben actuar en igualdad de condiciones (art. 76 num. 7 lit. c CRE; art. 11 num. 2 CRE)."
+    },
+    {
+     "texto": "El actor tenga siempre la última palabra en audiencia.",
+     "justificacion": "Incorrecta. Rompería el equilibrio entre las partes."
+    },
+    {
+     "texto": "El demandado pueda evitar comparecer sin consecuencias.",
+     "justificacion": "Incorrecta. La inasistencia tiene efectos procesales (art. 87 COGEP)."
+    },
+    {
+     "texto": "El juez deba preferir la prueba de la parte más débil.",
+     "justificacion": "Incorrecta. La prueba se valora en conjunto, con sana crítica (art. 164 COGEP)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-13",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Buena fe procesal",
+   "resultado": "Identifica deberes derivados de la buena fe procesal.",
+   "demanda": "Comprender",
+   "enunciado": "La buena fe procesal implica que las partes deben:",
+   "opciones": [
+    {
+     "texto": "Actuar sin maniobras dilatorias ni abuso de las formas.",
+     "justificacion": "Correcta. Las partes deben actuar con buena fe y lealtad procesal, y el juzgador debe sancionar el abuso del derecho y las maniobras dilatorias (art. 26 del Código Orgánico de la Función Judicial)."
+    },
+    {
+     "texto": "Renunciar a toda impugnación de las decisiones.",
+     "justificacion": "Incorrecta. Impugnar es un derecho, no una falta de buena fe."
+    },
+    {
+     "texto": "Aceptar siempre la pretensión de la parte contraria para evitar el litigio.",
+     "justificacion": "Incorrecta. La buena fe no obliga a allanarse."
+    },
+    {
+     "texto": "Limitar su defensa a una sola intervención.",
+     "justificacion": "Incorrecta. La buena fe no restringe el derecho a la defensa."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COFJ"
+   ]
+  },
+  {
+   "id": "DPG-14",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Carga de la prueba",
+   "resultado": "Aplica la regla general de la carga de la prueba.",
+   "demanda": "Comprender",
+   "enunciado": "La carga de la prueba, como regla general, corresponde a:",
+   "opciones": [
+    {
+     "texto": "Quien afirma los hechos que sustentan su pretensión.",
+     "justificacion": "Correcta. La parte actora prueba los hechos que propuso afirmativamente y que fueron negados (art. 169 COGEP)."
+    },
+    {
+     "texto": "El juez, por su deber de investigar de oficio todos los hechos.",
+     "justificacion": "Incorrecta. La prueba de oficio es excepcional (art. 168 COGEP)."
+    },
+    {
+     "texto": "El perito, por su función técnica en el proceso.",
+     "justificacion": "Incorrecta. El perito auxilia al juez, no soporta la carga."
+    },
+    {
+     "texto": "El secretario, por la custodia del expediente.",
+     "justificacion": "Incorrecta. El secretario no es parte procesal."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-15",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Pertinencia de la prueba",
+   "resultado": "Identifica la prueba pertinente.",
+   "demanda": "Comprender",
+   "enunciado": "La prueba pertinente es aquella que:",
+   "opciones": [
+    {
+     "texto": "Se refiere a los hechos controvertidos del proceso.",
+     "justificacion": "Correcta. Es pertinente la prueba que se refiere directa o indirectamente a los hechos o circunstancias controvertidos (arts. 160 y 161 COGEP)."
+    },
+    {
+     "texto": "Proviene exclusivamente de documentos públicos o notariales.",
+     "justificacion": "Incorrecta. Rige la libertad probatoria; no solo hay prueba documental pública."
+    },
+    {
+     "texto": "Requiere siempre la intervención de un perito.",
+     "justificacion": "Incorrecta. El peritaje solo es necesario si se requieren conocimientos técnicos."
+    },
+    {
+     "texto": "Se practica únicamente en la fase de ejecución.",
+     "justificacion": "Incorrecta. La prueba se practica en la audiencia de juicio o única."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-16",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Utilidad de la prueba",
+   "resultado": "Identifica la prueba útil.",
+   "demanda": "Comprender",
+   "enunciado": "La prueba útil se caracteriza porque:",
+   "opciones": [
+    {
+     "texto": "Aporta información relevante y no redundante.",
+     "justificacion": "Correcta. La admisibilidad exige pertinencia, utilidad y conducencia (art. 160 COGEP); la prueba superabundante puede rechazarse."
+    },
+    {
+     "texto": "Garantiza por sí sola una sentencia favorable.",
+     "justificacion": "Incorrecta. Ninguna prueba asegura el resultado."
+    },
+    {
+     "texto": "Hace innecesaria la realización de audiencias.",
+     "justificacion": "Incorrecta. La prueba se practica en audiencia."
+    },
+    {
+     "texto": "Elimina la posibilidad de contradicción.",
+     "justificacion": "Incorrecta. Toda prueba está sujeta a contradicción."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-17",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Licitud de la prueba",
+   "resultado": "Aplica la regla de exclusión de la prueba ilícita.",
+   "demanda": "Comprender",
+   "enunciado": "La prueba lícita exige que:",
+   "opciones": [
+    {
+     "texto": "Se obtenga y practique sin vulnerar derechos ni la ley.",
+     "justificacion": "Correcta. Las pruebas obtenidas o actuadas con violación de la Constitución o la ley no tienen validez alguna (art. 76 num. 4 CRE; art. 160 COGEP)."
+    },
+    {
+     "texto": "Se presente únicamente en soporte digital.",
+     "justificacion": "Incorrecta. El soporte no determina la licitud."
+    },
+    {
+     "texto": "Sea siempre de naturaleza testimonial.",
+     "justificacion": "Incorrecta. Todos los medios de prueba pueden ser lícitos."
+    },
+    {
+     "texto": "Se produzca antes de presentar la demanda.",
+     "justificacion": "Incorrecta. La licitud no depende del momento de obtención."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-18",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Valoración de la prueba",
+   "resultado": "Comprende la valoración racional de la prueba.",
+   "demanda": "Comprender",
+   "enunciado": "La valoración probatoria racional supone que el juez:",
+   "opciones": [
+    {
+     "texto": "Explique por qué da credibilidad y peso a cada prueba.",
+     "justificacion": "Correcta. La prueba se aprecia en conjunto, de acuerdo con las reglas de la sana crítica, y el juzgador debe expresar la valoración de toda la prueba producida (art. 164 COGEP)."
+    },
+    {
+     "texto": "Aplique una tarifa legal fija que asigna un valor a cada tipo de prueba.",
+     "justificacion": "Incorrecta. La tarifa legal es la excepción; rige la sana crítica."
+    },
+    {
+     "texto": "Decida por intuición, sin necesidad de motivar.",
+     "justificacion": "Incorrecta. La motivación es obligatoria (art. 76 num. 7 lit. l CRE)."
+    },
+    {
+     "texto": "Excluya por regla general la prueba testimonial.",
+     "justificacion": "Incorrecta. El testimonio es un medio de prueba válido (art. 174 COGEP)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP",
+    "CRE"
+   ]
+  },
+  {
+   "id": "DPG-19",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Motivación",
+   "resultado": "Identifica la finalidad de la motivación.",
+   "demanda": "Comprender",
+   "enunciado": "La motivación de las decisiones judiciales cumple, entre otras, la finalidad de:",
+   "opciones": [
+    {
+     "texto": "Permitir comprender y controlar la decisión.",
+     "justificacion": "Correcta. Las resoluciones deben enunciar las normas y explicar su pertinencia a los hechos (art. 76 num. 7 lit. l CRE; art. 89 COGEP), lo que permite su control por las partes y por los tribunales superiores."
+    },
+    {
+     "texto": "Garantizar que no existan recursos contra ella.",
+     "justificacion": "Incorrecta. La motivación facilita, no impide, la impugnación."
+    },
+    {
+     "texto": "Sustituir la audiencia por actuaciones escritas.",
+     "justificacion": "Incorrecta. La motivación no reemplaza la oralidad."
+    },
+    {
+     "texto": "Impedir la publicidad de las actuaciones.",
+     "justificacion": "Incorrecta. La motivación refuerza la transparencia."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-20",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Congruencia",
+   "resultado": "Aplica el principio de congruencia de la sentencia.",
+   "demanda": "Comprender",
+   "enunciado": "La congruencia de la sentencia exige que:",
+   "opciones": [
+    {
+     "texto": "Se resuelva lo pedido y debatido, sin excederse.",
+     "justificacion": "Correcta. La sentencia debe ser congruente con las pretensiones y excepciones planteadas; no puede conceder más ni cosa distinta de lo pedido (art. 92 COGEP)."
+    },
+    {
+     "texto": "El juez modifique libremente la pretensión si lo estima justo.",
+     "justificacion": "Incorrecta. Sería un fallo extra o ultra petita."
+    },
+    {
+     "texto": "Se introduzcan hechos nuevos en la sentencia.",
+     "justificacion": "Incorrecta. El juez decide sobre los hechos debatidos."
+    },
+    {
+     "texto": "Se omita el análisis de las excepciones.",
+     "justificacion": "Incorrecta. Omitirlas sería un fallo citra petita."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-21",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Excepciones previas",
+   "resultado": "Distingue excepciones previas de defensas de fondo.",
+   "demanda": "Comprender",
+   "enunciado": "Una excepción procesal (previa) suele dirigirse a:",
+   "opciones": [
+    {
+     "texto": "Cuestionar la validez o procedencia del proceso.",
+     "justificacion": "Correcta. Las excepciones previas (incompetencia, falta de capacidad, litispendencia, caducidad, entre otras) atacan la constitución válida del proceso (art. 153 COGEP)."
+    },
+    {
+     "texto": "Negar el fondo de la pretensión con nuevos hechos.",
+     "justificacion": "Incorrecta. Esa es una defensa o excepción de fondo."
+    },
+    {
+     "texto": "Solicitar medidas de apremio contra la contraparte.",
+     "justificacion": "Incorrecta. El apremio es una medida de ejecución, no una excepción."
+    },
+    {
+     "texto": "Pedir la ejecución anticipada de la sentencia.",
+     "justificacion": "Incorrecta. No es una excepción."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-22",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Reconvención",
+   "resultado": "Identifica la reconvención.",
+   "demanda": "Recordar",
+   "enunciado": "La reconvención se entiende como:",
+   "opciones": [
+    {
+     "texto": "Una pretensión del demandado contra el actor en el mismo proceso.",
+     "justificacion": "Correcta. El demandado puede reconvenir al actor al contestar la demanda (art. 154 COGEP)."
+    },
+    {
+     "texto": "Una prueba nueva que el demandado presenta fuera del plazo legal previsto.",
+     "justificacion": "Incorrecta. La prueba no anunciada se rige por el art. 166 COGEP."
+    },
+    {
+     "texto": "Una forma de desistimiento de la demanda.",
+     "justificacion": "Incorrecta. El desistimiento se regula en el art. 237 COGEP."
+    },
+    {
+     "texto": "Un acuerdo extrajudicial de carácter obligatorio.",
+     "justificacion": "Incorrecta. Describe una transacción, no la reconvención."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-23",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Acumulación de pretensiones",
+   "resultado": "Comprende la acumulación de pretensiones.",
+   "demanda": "Comprender",
+   "enunciado": "La acumulación de pretensiones permite:",
+   "opciones": [
+    {
+     "texto": "Tramitar juntas varias pretensiones compatibles.",
+     "justificacion": "Correcta. El actor puede proponer varias pretensiones en una demanda siempre que no sean contrarias o incompatibles y correspondan a la misma competencia y procedimiento (art. 145 COGEP)."
+    },
+    {
+     "texto": "Ejecutar una obligación sin necesidad de sentencia.",
+     "justificacion": "Incorrecta. La ejecución exige título."
+    },
+    {
+     "texto": "Evitar la notificación de las providencias.",
+     "justificacion": "Incorrecta. Las notificaciones son obligatorias."
+    },
+    {
+     "texto": "Reemplazar la contestación a la demanda.",
+     "justificacion": "Incorrecta. La contestación es un acto del demandado."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-24",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Litisconsorcio",
+   "resultado": "Identifica el litisconsorcio.",
+   "demanda": "Recordar",
+   "enunciado": "El litisconsorcio se presenta cuando:",
+   "opciones": [
+    {
+     "texto": "Hay varias personas en una misma posición procesal.",
+     "justificacion": "Correcta. Existe litisconsorcio cuando varias personas actúan como actores o demandados en un mismo proceso (arts. 51 y 52 COGEP)."
+    },
+    {
+     "texto": "Existen varios jueces para un mismo caso.",
+     "justificacion": "Incorrecta. Eso describe un tribunal pluripersonal."
+    },
+    {
+     "texto": "Se acumulan varios peritajes en el expediente.",
+     "justificacion": "Incorrecta. No guarda relación con las partes."
+    },
+    {
+     "texto": "La audiencia se realiza en varias fechas.",
+     "justificacion": "Incorrecta. Eso es una suspensión de audiencia (art. 82 COGEP)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-25",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Intervención de terceros",
+   "resultado": "Identifica la finalidad de la tercería.",
+   "demanda": "Comprender",
+   "enunciado": "La intervención de terceros en el proceso persigue, en general:",
+   "opciones": [
+    {
+     "texto": "Proteger un interés que la decisión podría afectar.",
+     "justificacion": "Correcta. El tercero puede intervenir cuando acredite un interés directo en la causa (tercerías, arts. 46 a 50 COGEP)."
+    },
+    {
+     "texto": "Impedir que se practique la prueba anunciada por las partes principales.",
+     "justificacion": "Incorrecta. No es su finalidad."
+    },
+    {
+     "texto": "Reemplazar al juez natural de la causa.",
+     "justificacion": "Incorrecta. El tercero es parte, no juzgador."
+    },
+    {
+     "texto": "Convertir el proceso judicial en arbitraje.",
+     "justificacion": "Incorrecta. El arbitraje requiere convenio arbitral."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-26",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Nulidad procesal",
+   "resultado": "Identifica los criterios para declarar la nulidad procesal.",
+   "demanda": "Analizar",
+   "enunciado": "Una nulidad procesal requiere, como criterio orientador, que exista:",
+   "opciones": [
+    {
+     "texto": "Un vicio relevante que afecte garantías o la finalidad del acto.",
+     "justificacion": "Correcta. Solo la omisión de solemnidades sustanciales que haya influido o pueda influir en la decisión acarrea nulidad (arts. 107 y 110 COGEP)."
+    },
+    {
+     "texto": "Cualquier error de forma en una providencia, aunque no cause perjuicio alguno.",
+     "justificacion": "Incorrecta. Rige el principio de trascendencia."
+    },
+    {
+     "texto": "La sola inconformidad de una parte con la sentencia.",
+     "justificacion": "Incorrecta. La inconformidad se canaliza por recursos."
+    },
+    {
+     "texto": "Mala fe de la parte contraria en todos los casos.",
+     "justificacion": "Incorrecta. La nulidad no exige mala fe."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-27",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Convalidación",
+   "resultado": "Aplica la convalidación de vicios procesales.",
+   "demanda": "Aplicar",
+   "enunciado": "La convalidación de un vicio procesal ocurre cuando:",
+   "opciones": [
+    {
+     "texto": "La parte afectada no lo reclama a tiempo pudiendo hacerlo.",
+     "justificacion": "Correcta. La nulidad no se declara si el vicio fue convalidado por la parte que podía alegarlo (art. 110 COGEP)."
+    },
+    {
+     "texto": "El juez declara de oficio la nulidad del acto viciado en todos los casos.",
+     "justificacion": "Incorrecta. Es lo contrario de convalidar."
+    },
+    {
+     "texto": "Se presenta una nueva demanda por los mismos hechos.",
+     "justificacion": "Incorrecta. Eso puede generar litispendencia."
+    },
+    {
+     "texto": "Se modifica la competencia territorial del juez.",
+     "justificacion": "Incorrecta. No guarda relación con la convalidación."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-28",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Preclusión",
+   "resultado": "Comprende la preclusión procesal.",
+   "demanda": "Comprender",
+   "enunciado": "La preclusión opera cuando:",
+   "opciones": [
+    {
+     "texto": "Se pierde una facultad por no ejercerla a tiempo.",
+     "justificacion": "Correcta. El proceso avanza por etapas: vencida la oportunidad (por ejemplo, para anunciar prueba o proponer excepciones), la facultad se extingue."
+    },
+    {
+     "texto": "Se suspende el proceso por acuerdo de las partes.",
+     "justificacion": "Incorrecta. Describe una suspensión."
+    },
+    {
+     "texto": "Se abre automáticamente una nueva instancia.",
+     "justificacion": "Incorrecta. Las instancias se abren por recurso."
+    },
+    {
+     "texto": "Se permite repetir indefinidamente los alegatos.",
+     "justificacion": "Incorrecta. La preclusión impide precisamente eso."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-29",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Caducidad",
+   "resultado": "Identifica la caducidad en materia procesal.",
+   "demanda": "Comprender",
+   "enunciado": "La caducidad, en términos procesales, se asocia a:",
+   "opciones": [
+    {
+     "texto": "La pérdida del derecho de accionar por el paso del tiempo.",
+     "justificacion": "Correcta. La caducidad extingue la acción por no ejercerla en el plazo legal y puede alegarse como excepción previa (art. 153 num. 7 COGEP)."
+    },
+    {
+     "texto": "La nulidad automática de toda sentencia dictada.",
+     "justificacion": "Incorrecta. No guarda relación con la nulidad."
+    },
+    {
+     "texto": "La incapacidad del abogado patrocinador.",
+     "justificacion": "Incorrecta. No se refiere al patrocinio."
+    },
+    {
+     "texto": "La falta de prueba documental de la demanda.",
+     "justificacion": "Incorrecta. Es una cuestión probatoria."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-30",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Suspensión",
+   "resultado": "Distingue la suspensión de la terminación del proceso.",
+   "demanda": "Comprender",
+   "enunciado": "La suspensión del proceso o de una audiencia implica:",
+   "opciones": [
+    {
+     "texto": "Detener temporalmente el trámite, sin extinguirlo.",
+     "justificacion": "Correcta. La suspensión interrumpe el curso por una causa prevista y luego se reanuda (por ejemplo, la de audiencias, art. 82 COGEP)."
+    },
+    {
+     "texto": "Cerrar definitivamente el expediente y archivar la causa sin sentencia.",
+     "justificacion": "Incorrecta. Eso es el archivo o la terminación."
+    },
+    {
+     "texto": "Dictar sentencia de forma inmediata.",
+     "justificacion": "Incorrecta. Es contrario a la suspensión."
+    },
+    {
+     "texto": "Cambiar al juez competente de la causa.",
+     "justificacion": "Incorrecta. Eso es una cuestión de competencia."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-31",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Audiencia preliminar",
+   "resultado": "Identifica el contenido de la audiencia preliminar.",
+   "demanda": "Recordar",
+   "enunciado": "La audiencia preliminar sirve, principalmente, para:",
+   "opciones": [
+    {
+     "texto": "Sanear el proceso, fijar la controversia y admitir prueba.",
+     "justificacion": "Correcta. En ella se resuelven excepciones previas, se declara la validez, se fija el objeto de la controversia, se promueve la conciliación y se admite la prueba (art. 294 COGEP)."
+    },
+    {
+     "texto": "Ejecutar la sentencia dictada en el proceso.",
+     "justificacion": "Incorrecta. La ejecución es posterior a la sentencia."
+    },
+    {
+     "texto": "Recibir únicamente los alegatos finales de las partes antes del fallo.",
+     "justificacion": "Incorrecta. Los alegatos finales se presentan en la audiencia de juicio."
+    },
+    {
+     "texto": "Practicar solo inspecciones judiciales.",
+     "justificacion": "Incorrecta. La prueba se practica en la audiencia de juicio."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-32",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Audiencia de juicio",
+   "resultado": "Identifica la finalidad de la audiencia de juicio.",
+   "demanda": "Recordar",
+   "enunciado": "La audiencia de juicio se orienta principalmente a:",
+   "opciones": [
+    {
+     "texto": "Practicar la prueba, oír alegatos y decidir.",
+     "justificacion": "Correcta. En la audiencia de juicio se practica la prueba admitida, se presentan los alegatos y se emite la decisión (art. 297 COGEP)."
+    },
+    {
+     "texto": "Notificar la demanda por primera vez.",
+     "justificacion": "Incorrecta. La demanda se cita al inicio (art. 53 COGEP)."
+    },
+    {
+     "texto": "Negociar exclusivamente acuerdos entre partes.",
+     "justificacion": "Incorrecta. La conciliación se promueve en la preliminar."
+    },
+    {
+     "texto": "Resolver la competencia territorial del juez.",
+     "justificacion": "Incorrecta. Se resuelve en la audiencia preliminar."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-33",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Inmediación",
+   "resultado": "Aplica el principio de inmediación.",
+   "demanda": "Comprender",
+   "enunciado": "El principio de inmediación se ve reforzado cuando:",
+   "opciones": [
+    {
+     "texto": "El juez presencia directamente la práctica de la prueba.",
+     "justificacion": "Correcta. El juzgador debe estar presente de forma ininterrumpida en las audiencias (art. 81 COGEP)."
+    },
+    {
+     "texto": "Las partes remiten todos sus escritos por correo, sin necesidad de audiencia.",
+     "justificacion": "Incorrecta. Excluye el contacto directo con la prueba."
+    },
+    {
+     "texto": "La prueba se valora sin ninguna explicación.",
+     "justificacion": "Incorrecta. Vulnera la motivación."
+    },
+    {
+     "texto": "El proceso es totalmente reservado para las partes.",
+     "justificacion": "Incorrecta. La reserva no tiene relación con la inmediación."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-34",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Concentración",
+   "resultado": "Identifica el principio de concentración.",
+   "demanda": "Comprender",
+   "enunciado": "El principio de concentración busca:",
+   "opciones": [
+    {
+     "texto": "Reunir las actuaciones en el menor número de actos.",
+     "justificacion": "Correcta. Es uno de los principios del sistema oral (art. 168 num. 6 CRE)."
+    },
+    {
+     "texto": "Multiplicar los incidentes para mayor detalle.",
+     "justificacion": "Incorrecta. Es contrario a la concentración."
+    },
+    {
+     "texto": "Evitar que el juez conozca la prueba.",
+     "justificacion": "Incorrecta. Vulneraría la inmediación."
+    },
+    {
+     "texto": "Sustituir audiencias por escritos extensos.",
+     "justificacion": "Incorrecta. Contradice el sistema oral."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "DPG-35",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Publicidad",
+   "resultado": "Comprende el principio de publicidad procesal.",
+   "demanda": "Comprender",
+   "enunciado": "La publicidad procesal, como regla, persigue:",
+   "opciones": [
+    {
+     "texto": "Control social y transparencia, salvo excepciones legales.",
+     "justificacion": "Correcta. Los juicios y sus decisiones son públicos, salvo los casos expresamente señalados por la ley (art. 168 num. 5 CRE; art. 83 COGEP)."
+    },
+    {
+     "texto": "Impedir el acceso de las partes al expediente para proteger su intimidad.",
+     "justificacion": "Incorrecta. Las partes siempre tienen acceso."
+    },
+    {
+     "texto": "Eliminar la contradicción entre las partes.",
+     "justificacion": "Incorrecta. La publicidad no la elimina."
+    },
+    {
+     "texto": "Hacer obligatorio el arbitraje en la causa.",
+     "justificacion": "Incorrecta. No guarda relación."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-36",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Notificación",
+   "resultado": "Identifica la función de la notificación.",
+   "demanda": "Recordar",
+   "enunciado": "La notificación válida cumple la función de:",
+   "opciones": [
+    {
+     "texto": "Hacer conocer oportunamente los actos procesales.",
+     "justificacion": "Correcta. La notificación es el acto por el cual se pone en conocimiento de las partes y demás interesados las providencias judiciales (art. 65 COGEP)."
+    },
+    {
+     "texto": "Garantizar la práctica de la prueba pericial solicitada por las partes.",
+     "justificacion": "Incorrecta. No guarda relación con la pericia."
+    },
+    {
+     "texto": "Sustituir la contestación a la demanda.",
+     "justificacion": "Incorrecta. La contestación es un acto de parte."
+    },
+    {
+     "texto": "Evitar que el juez deba motivar.",
+     "justificacion": "Incorrecta. La motivación es obligatoria."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-37",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Ineficacia de los actos procesales",
+   "resultado": "Identifica la ineficacia de los actos procesales.",
+   "demanda": "Comprender",
+   "enunciado": "Un acto procesal es ineficaz cuando:",
+   "opciones": [
+    {
+     "texto": "No produce efectos por omitir requisitos esenciales.",
+     "justificacion": "Correcta. La omisión de solemnidades sustanciales priva al acto de eficacia y puede acarrear nulidad (art. 107 COGEP)."
+    },
+    {
+     "texto": "Se practica de forma oral en una audiencia y no se reduce a escrito.",
+     "justificacion": "Incorrecta. La oralidad es la regla."
+    },
+    {
+     "texto": "Se realiza con la intervención de un abogado.",
+     "justificacion": "Incorrecta. El patrocinio no lo invalida."
+    },
+    {
+     "texto": "Se incorpora formalmente al expediente.",
+     "justificacion": "Incorrecta. La incorporación no lo vuelve ineficaz."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-38",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Prueba testimonial",
+   "resultado": "Identifica los estándares de la prueba testimonial.",
+   "demanda": "Comprender",
+   "enunciado": "La prueba testimonial exige, como estándar mínimo, que:",
+   "opciones": [
+    {
+     "texto": "Se practique con preguntas y contradicción.",
+     "justificacion": "Correcta. El testimonio se practica en audiencia mediante interrogatorio y contrainterrogatorio (arts. 174 y 178 COGEP)."
+    },
+    {
+     "texto": "Sea siempre escrita y sin audiencia.",
+     "justificacion": "Incorrecta. Se practica oralmente en audiencia."
+    },
+    {
+     "texto": "Se sustituya por informes policiales.",
+     "justificacion": "Incorrecta. Un informe no reemplaza el testimonio."
+    },
+    {
+     "texto": "Se limite a familiares de las partes.",
+     "justificacion": "Incorrecta. Puede declarar cualquier persona hábil."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-39",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Contrainterrogatorio",
+   "resultado": "Identifica el objetivo del contrainterrogatorio.",
+   "demanda": "Comprender",
+   "enunciado": "El contrainterrogatorio tiene como objetivo principal:",
+   "opciones": [
+    {
+     "texto": "Cuestionar la credibilidad del testimonio adverso.",
+     "justificacion": "Correcta. Lo realiza la parte contraria para controvertir la versión del testigo (art. 178 COGEP)."
+    },
+    {
+     "texto": "Sustituir el alegato final de la parte que propuso al testigo.",
+     "justificacion": "Incorrecta. El alegato es un acto distinto."
+    },
+    {
+     "texto": "Evitar la inmediación del juzgador.",
+     "justificacion": "Incorrecta. El contrainterrogatorio se hace ante el juez."
+    },
+    {
+     "texto": "Impulsar la reconvención del demandado.",
+     "justificacion": "Incorrecta. No guarda relación."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-40",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Prueba pericial",
+   "resultado": "Identifica cuándo procede la prueba pericial.",
+   "demanda": "Comprender",
+   "enunciado": "La pericia se utiliza cuando:",
+   "opciones": [
+    {
+     "texto": "Se requieren conocimientos técnicos para esclarecer hechos.",
+     "justificacion": "Correcta. El perito es la persona natural o jurídica que, por sus conocimientos especializados, informa al juzgador sobre hechos técnicos (art. 221 COGEP)."
+    },
+    {
+     "texto": "Basta la simple afirmación de una de las partes.",
+     "justificacion": "Incorrecta. La afirmación debe probarse."
+    },
+    {
+     "texto": "Solo existen documentos públicos en el proceso.",
+     "justificacion": "Incorrecta. No es el criterio de la pericia."
+    },
+    {
+     "texto": "El juez debe delegar en un experto la decisión de fondo de la causa.",
+     "justificacion": "Incorrecta. El juez no delega su decisión."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-41",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Inspección judicial",
+   "resultado": "Identifica la procedencia de la inspección judicial.",
+   "demanda": "Comprender",
+   "enunciado": "La inspección judicial es adecuada cuando:",
+   "opciones": [
+    {
+     "texto": "La percepción directa del juez ayuda a esclarecer hechos.",
+     "justificacion": "Correcta. El juzgador puede examinar directamente lugares, cosas o documentos (arts. 228 a 232 COGEP)."
+    },
+    {
+     "texto": "Se pretende reemplazar con ella toda otra prueba anunciada por las partes.",
+     "justificacion": "Incorrecta. Es un medio más de prueba."
+    },
+    {
+     "texto": "No existe ninguna controversia sobre los hechos.",
+     "justificacion": "Incorrecta. Sin controversia no hace falta prueba."
+    },
+    {
+     "texto": "Se busca cambiar la competencia del juez.",
+     "justificacion": "Incorrecta. No guarda relación."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-42",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Providencias preventivas",
+   "resultado": "Identifica la finalidad de las providencias preventivas.",
+   "demanda": "Comprender",
+   "enunciado": "Una medida cautelar o providencia preventiva busca, en general:",
+   "opciones": [
+    {
+     "texto": "Asegurar la eficacia de una eventual decisión final.",
+     "justificacion": "Correcta. Las providencias preventivas, como el secuestro o la retención, aseguran el cumplimiento de lo que se resuelva (art. 124 COGEP)."
+    },
+    {
+     "texto": "Sancionar anticipadamente al demandado.",
+     "justificacion": "Incorrecta. No son sanciones."
+    },
+    {
+     "texto": "Resolver de inmediato el fondo del litigio.",
+     "justificacion": "Incorrecta. Son provisionales y accesorias."
+    },
+    {
+     "texto": "Eliminar el derecho de defensa del demandado.",
+     "justificacion": "Incorrecta. No afectan el derecho de defensa."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-43",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Apariencia de buen derecho",
+   "resultado": "Comprende los requisitos de las providencias preventivas.",
+   "demanda": "Analizar",
+   "enunciado": "El requisito de apariencia de buen derecho se relaciona con:",
+   "opciones": [
+    {
+     "texto": "La verosimilitud inicial de lo que se pretende.",
+     "justificacion": "Correcta. Para ordenar una providencia preventiva se exige, entre otros requisitos, que se pruebe la existencia del crédito (art. 125 COGEP), es decir, una apariencia razonable del derecho."
+    },
+    {
+     "texto": "La certeza absoluta que el juez debe tener sobre el fondo del litigio.",
+     "justificacion": "Incorrecta. La certeza se alcanza en sentencia."
+    },
+    {
+     "texto": "La existencia obligatoria de una confesión.",
+     "justificacion": "Incorrecta. No es requisito."
+    },
+    {
+     "texto": "La renuncia del demandado a defenderse.",
+     "justificacion": "Incorrecta. No guarda relación."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-44",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Peligro en la demora",
+   "resultado": "Comprende los requisitos de las providencias preventivas.",
+   "demanda": "Analizar",
+   "enunciado": "El peligro en la demora se configura cuando:",
+   "opciones": [
+    {
+     "texto": "La espera puede frustrar la tutela o causar un daño grave.",
+     "justificacion": "Correcta. Se exige probar que los bienes del deudor se encuentran en tal estado que no alcancen a cubrir la deuda o que puedan desaparecer u ocultarse (art. 125 COGEP)."
+    },
+    {
+     "texto": "El demandado comparece oportunamente al proceso y contesta la demanda.",
+     "justificacion": "Incorrecta. La comparecencia no genera peligro."
+    },
+    {
+     "texto": "Existen varios abogados patrocinando a una parte.",
+     "justificacion": "Incorrecta. No guarda relación."
+    },
+    {
+     "texto": "El juez convoca a la audiencia preliminar.",
+     "justificacion": "Incorrecta. No guarda relación."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-45",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Desistimiento",
+   "resultado": "Identifica los efectos del desistimiento.",
+   "demanda": "Recordar",
+   "enunciado": "El desistimiento de la demanda implica, en general:",
+   "opciones": [
+    {
+     "texto": "Que el actor abandona su pretensión en el proceso.",
+     "justificacion": "Correcta. Quien desiste de la pretensión no puede volver a proponerla contra la misma persona (art. 237 COGEP)."
+    },
+    {
+     "texto": "Una sentencia definitiva favorable al actor.",
+     "justificacion": "Incorrecta. Es lo opuesto."
+    },
+    {
+     "texto": "La imposición de responsabilidad penal al actor por haber demandado.",
+     "justificacion": "Incorrecta. No tiene efectos penales."
+    },
+    {
+     "texto": "La nulidad de todo lo actuado por el juez.",
+     "justificacion": "Incorrecta. No es una nulidad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-46",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Transacción",
+   "resultado": "Identifica la transacción como forma de terminación.",
+   "demanda": "Recordar",
+   "enunciado": "La transacción, como forma de terminación del proceso, supone:",
+   "opciones": [
+    {
+     "texto": "Un acuerdo con concesiones recíprocas de las partes.",
+     "justificacion": "Correcta. Las partes terminan el litigio mediante concesiones mutuas; el juez la autoriza si es válida (art. 235 COGEP)."
+    },
+    {
+     "texto": "Una sentencia impuesta por el juzgador.",
+     "justificacion": "Incorrecta. Es un acuerdo, no una imposición."
+    },
+    {
+     "texto": "Una declaración unilateral del demandado.",
+     "justificacion": "Incorrecta. Requiere el acuerdo de ambas partes."
+    },
+    {
+     "texto": "Una sanción por la rebeldía del demandado.",
+     "justificacion": "Incorrecta. No es una sanción."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-47",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Falta de contestación",
+   "resultado": "Determina los efectos de la falta de contestación.",
+   "demanda": "Comprender",
+   "enunciado": "Si el demandado no contesta la demanda, según el COGEP:",
+   "opciones": [
+    {
+     "texto": "El proceso continúa y su silencio se tiene como negativa.",
+     "justificacion": "Correcta. La falta de contestación se considera negativa de los fundamentos de la demanda, salvo que la ley disponga otro efecto (art. 157 COGEP); la inasistencia del demandado hace que la audiencia continúe en su rebeldía (art. 87 COGEP)."
+    },
+    {
+     "texto": "El actor gana automáticamente el proceso, sin necesidad de probar nada.",
+     "justificacion": "Incorrecta. El actor sigue obligado a probar."
+    },
+    {
+     "texto": "Se anula la demanda presentada.",
+     "justificacion": "Incorrecta. La demanda subsiste."
+    },
+    {
+     "texto": "Se suspende indefinidamente el trámite.",
+     "justificacion": "Incorrecta. El proceso continúa."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-48",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Recursos",
+   "resultado": "Identifica la finalidad de los recursos.",
+   "demanda": "Comprender",
+   "enunciado": "El recurso, como institución procesal, tiene por finalidad:",
+   "opciones": [
+    {
+     "texto": "Permitir revisar o corregir decisiones dentro de límites legales.",
+     "justificacion": "Correcta. El COGEP prevé recursos horizontales y verticales (aclaración, ampliación, reforma, revocatoria, apelación, casación y de hecho, art. 251)."
+    },
+    {
+     "texto": "Reabrir el debate de la causa indefinidamente, sin plazos ni reglas fijas.",
+     "justificacion": "Incorrecta. Los recursos tienen plazos y requisitos."
+    },
+    {
+     "texto": "Sustituir la motivación de la decisión judicial.",
+     "justificacion": "Incorrecta. La motivación es obligatoria."
+    },
+    {
+     "texto": "Eliminar la firmeza de todas las sentencias.",
+     "justificacion": "Incorrecta. Las sentencias quedan firmes al agotarse los recursos."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-49",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Doble instancia",
+   "resultado": "Comprende la garantía de doble instancia.",
+   "demanda": "Comprender",
+   "enunciado": "La doble instancia se justifica principalmente por:",
+   "opciones": [
+    {
+     "texto": "Permitir que un superior revise y corrija errores.",
+     "justificacion": "Correcta. La Constitución garantiza recurrir el fallo en todos los procedimientos en que se decida sobre derechos (art. 76 num. 7 lit. m CRE); la apelación procede contra sentencias de primera instancia (art. 256 COGEP)."
+    },
+    {
+     "texto": "Garantizar que el superior siempre modifique la sentencia recurrida.",
+     "justificacion": "Incorrecta. El superior puede confirmarla."
+    },
+    {
+     "texto": "Evitar toda audiencia oral en segunda instancia.",
+     "justificacion": "Incorrecta. La segunda instancia también es oral."
+    },
+    {
+     "texto": "Impedir los acuerdos entre las partes.",
+     "justificacion": "Incorrecta. No guarda relación."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-50",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Cosa juzgada",
+   "resultado": "Identifica los efectos de la cosa juzgada.",
+   "demanda": "Recordar",
+   "enunciado": "La cosa juzgada se caracteriza por:",
+   "opciones": [
+    {
+     "texto": "La inmutabilidad de lo decidido una vez firme.",
+     "justificacion": "Correcta. Las sentencias ejecutoriadas surten efecto irrevocable respecto de las partes (arts. 99 y 101 COGEP)."
+    },
+    {
+     "texto": "Permitir reabrir el caso por simple inconformidad.",
+     "justificacion": "Incorrecta. Es lo contrario de la cosa juzgada."
+    },
+    {
+     "texto": "La suspensión automática de la sentencia.",
+     "justificacion": "Incorrecta. La sentencia firme se cumple."
+    },
+    {
+     "texto": "La ausencia total de motivación del fallo.",
+     "justificacion": "Incorrecta. No guarda relación."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-51",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Ejecución",
+   "resultado": "Identifica la finalidad de la ejecución.",
+   "demanda": "Comprender",
+   "enunciado": "La ejecución de una decisión judicial se orienta a:",
+   "opciones": [
+    {
+     "texto": "Hacer cumplir lo resuelto, incluso de forma forzosa.",
+     "justificacion": "Correcta. La sentencia ejecutoriada es título de ejecución (art. 363 COGEP) y su cumplimiento puede exigirse coactivamente."
+    },
+    {
+     "texto": "Revisar nuevamente la prueba practicada en juicio.",
+     "justificacion": "Incorrecta. La prueba ya no se discute."
+    },
+    {
+     "texto": "Negociar otra vez la pretensión de la demanda.",
+     "justificacion": "Incorrecta. Lo resuelto ya es obligatorio."
+    },
+    {
+     "texto": "Declarar la incompetencia del juez de ejecución.",
+     "justificacion": "Incorrecta. No es su finalidad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "DPG-52",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Economía procesal",
+   "resultado": "Identifica el principio de economía procesal.",
+   "demanda": "Comprender",
+   "enunciado": "El principio de economía procesal busca:",
+   "opciones": [
+    {
+     "texto": "Evitar actuaciones innecesarias sin sacrificar garantías.",
+     "justificacion": "Correcta. El sistema procesal debe ser eficaz y ágil, sin sacrificar la justicia por la sola omisión de formalidades (art. 169 CRE)."
+    },
+    {
+     "texto": "Reducir el derecho de defensa de las partes para acelerar el proceso.",
+     "justificacion": "Incorrecta. Las garantías no se sacrifican."
+    },
+    {
+     "texto": "Eliminar toda la prueba del proceso.",
+     "justificacion": "Incorrecta. La prueba sigue siendo necesaria."
+    },
+    {
+     "texto": "Impedir la intervención de terceros.",
+     "justificacion": "Incorrecta. No guarda relación."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "DPG-53",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Tutela judicial efectiva",
+   "resultado": "Comprende el contenido de la tutela judicial efectiva.",
+   "demanda": "Comprender",
+   "enunciado": "La tutela judicial efectiva exige que el sistema procesal:",
+   "opciones": [
+    {
+     "texto": "Garantice acceso, decisión motivada y cumplimiento.",
+     "justificacion": "Correcta. Toda persona tiene derecho al acceso gratuito a la justicia y a la tutela efectiva, imparcial y expedita de sus derechos (art. 75 CRE)."
+    },
+    {
+     "texto": "Asegure siempre un resultado favorable a quien presenta la demanda.",
+     "justificacion": "Incorrecta. No garantiza un resultado."
+    },
+    {
+     "texto": "Permita dictar decisiones secretas.",
+     "justificacion": "Incorrecta. Rige la publicidad."
+    },
+    {
+     "texto": "Prohíba la asistencia de un abogado.",
+     "justificacion": "Incorrecta. La defensa técnica es un derecho."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  }
+ ]
+}

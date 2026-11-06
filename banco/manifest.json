@@ -15,6 +15,13 @@
    "version": 2,
    "titulo": "Paquete 2 · 40 preguntas de alta dificultad",
    "preguntas": 40
+  },
+  {
+   "id": "pack-003",
+   "archivo": "pack-003.json",
+   "version": 1,
+   "titulo": "Paquete 3 · 53 preguntas de Derecho Procesal General",
+   "preguntas": 53
   }
  ]
 }
