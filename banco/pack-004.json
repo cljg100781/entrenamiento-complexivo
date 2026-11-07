@@ -1,0 +1,1624 @@
+{
+ "id": "pack-004",
+ "titulo": "Paquete 4 · 50 preguntas de las evaluaciones UTE (Administrativo, Familia, Procesal)",
+ "bibliografia": {
+  "ATALA": "Corte Interamericana de Derechos Humanos. (2012). Caso Atala Riffo y niñas vs. Chile (Serie C No. 239). https://www.corteidh.or.cr/docs/casos/articulos/seriec_239_esp.pdf",
+  "CC": "Congreso Nacional del Ecuador. (2005). Código Civil (Codificación). Registro Oficial Suplemento 46, 24 de junio de 2005 (última reforma: Registro Oficial Segundo Suplemento 61, 17 de junio de 2025). https://www.registroficial.gob.ec/",
+  "CCE2815": "Corte Constitucional del Ecuador. (2021). Sentencia No. 28-15-IN/21 (preferencia materna en la tenencia). https://www.corteconstitucional.gob.ec/",
+  "COA": "Asamblea Nacional del Ecuador. (2017). Código Orgánico Administrativo. Registro Oficial Segundo Suplemento 31, 7 de julio de 2017. https://www.registroficial.gob.ec/",
+  "COFJ": "Asamblea Nacional del Ecuador. (2009). Código Orgánico de la Función Judicial. Registro Oficial Suplemento 544, 9 de marzo de 2009. https://www.funcionjudicial.gob.ec/",
+  "COGEP": "Asamblea Nacional del Ecuador. (2015). Código Orgánico General de Procesos. Registro Oficial Suplemento 506, 22 de mayo de 2015. https://www.funcionjudicial.gob.ec/",
+  "CONA": "Congreso Nacional del Ecuador. (2003). Código de la Niñez y Adolescencia. Registro Oficial 737, 3 de enero de 2003. https://www.registroficial.gob.ec/",
+  "CRE": "Asamblea Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449, 20 de octubre de 2008. https://www.asambleanacional.gob.ec/"
+ },
+ "preguntas": [
+  {
+   "id": "UTE-ADM-01",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Administrativo",
+   "tema": "Actos de simple administración",
+   "resultado": "Resuelve el caso aplicando actos de simple administración.",
+   "demanda": "Aplicar",
+   "enunciado": "En un trámite de licencia, una dirección técnica emite un informe desfavorable no vinculante. Antes de la resolución final, el solicitante apela el informe. ¿Qué debe hacer la entidad?",
+   "opciones": [
+    {
+     "texto": "Inadmitir el recurso: el informe es un acto de simple administración.",
+     "justificacion": "Correcta. Los informes no vinculantes son actos de simple administración que no producen efectos jurídicos directos; no se impugnan de forma autónoma, sino junto con el acto administrativo que resuelva el procedimiento (Código Orgánico Administrativo)."
+    },
+    {
+     "texto": "Tramitarlo, porque el informe ya afecta derechos subjetivos del solicitante.",
+     "justificacion": "Incorrecta. Un informe no vinculante no decide la situación jurídica del administrado."
+    },
+    {
+     "texto": "Inadmitirlo, porque los informes solo se cuestionan por lesividad.",
+     "justificacion": "Incorrecta. La lesividad es la vía de la propia administración para impugnar sus actos favorables, no la del administrado."
+    },
+    {
+     "texto": "Tramitarlo como recurso extraordinario de revisión.",
+     "justificacion": "Incorrecta. La revisión procede contra actos firmes y por causales tasadas."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "UTE-ADM-02",
+   "area": 1,
+   "dificultad": 5,
+   "subarea": "Derecho Administrativo",
+   "tema": "Conflictos de competencia entre GAD",
+   "resultado": "Resuelve el caso aplicando conflictos de competencia entre gad.",
+   "demanda": "Analizar",
+   "enunciado": "El GAD municipal de X y el GAD provincial de Y reclaman, ambos, la competencia sobre el mantenimiento de una vía rural. ¿Quién resuelve el conflicto?",
+   "opciones": [
+    {
+     "texto": "El Consejo Nacional de Competencias o la Corte Constitucional.",
+     "justificacion": "Correcta. Los conflictos de competencia entre gobiernos autónomos descentralizados se resuelven en sede administrativa por el Consejo Nacional de Competencias, y corresponde a la Corte Constitucional dirimir conflictos de competencias o atribuciones (art. 436 num. 7 CRE)."
+    },
+    {
+     "texto": "El superior jerárquico común de ambos GAD, según el COA.",
+     "justificacion": "Incorrecta. Los GAD gozan de autonomía y no tienen un superior jerárquico común."
+    },
+    {
+     "texto": "Un juez de lo civil, en el término de diez días.",
+     "justificacion": "Incorrecta. No es un conflicto de competencia judicial."
+    },
+    {
+     "texto": "El presidente de la República, por el principio de jerarquía administrativa.",
+     "justificacion": "Incorrecta. La autonomía de los GAD excluye esa jerarquía."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "COA"
+   ]
+  },
+  {
+   "id": "UTE-ADM-03",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Administrativo",
+   "tema": "Delegación de competencias",
+   "resultado": "Resuelve el caso aplicando delegación de competencias.",
+   "demanda": "Aplicar",
+   "enunciado": "El 2 de marzo se posesiona un nuevo ministro. La coordinadora jurídica tenía una delegación del ministro anterior sin plazo, y el 10 de marzo dicta un acto con base en ella sin haber informado a la nueva autoridad. ¿Qué afirmación es correcta?",
+   "opciones": [
+    {
+     "texto": "La delegación subsiste; la delegada debía informar a la nueva autoridad.",
+     "justificacion": "Correcta. Según las reglas de transferencia de la competencia del COA, el cambio del titular del órgano delegante no extingue la delegación; la delegada debe informar a la nueva autoridad en el término de tres días."
+    },
+    {
+     "texto": "La delegación subsiste solo si el nuevo ministro la ratifica.",
+     "justificacion": "Incorrecta. La ley no exige ratificación expresa para que subsista."
+    },
+    {
+     "texto": "La delegación se extinguió; el acto es nulo por incompetencia.",
+     "justificacion": "Incorrecta. El cambio de autoridad no extingue la delegación."
+    },
+    {
+     "texto": "La delegación se transforma en avocación del nuevo ministro.",
+     "justificacion": "Incorrecta. La avocación es una figura distinta, que requiere decisión expresa del superior."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "UTE-ADM-04",
+   "area": 1,
+   "dificultad": 5,
+   "subarea": "Derecho Administrativo",
+   "tema": "Efectos de la nulidad",
+   "resultado": "Resuelve el caso aplicando efectos de la nulidad.",
+   "demanda": "Evaluar",
+   "enunciado": "Un Tribunal Contencioso Administrativo declara nula la destitución de un servidor, ocurrida en 2023, por haberla dictado un órgano incompetente por materia. ¿Qué efecto tiene la declaración sobre sus remuneraciones?",
+   "opciones": [
+    {
+     "texto": "Efecto retroactivo: proceden las remuneraciones dejadas de percibir.",
+     "justificacion": "Correcta. La declaración de nulidad tiene efecto retroactivo desde la expedición del acto, por lo que el servidor debe ser restituido en sus derechos, incluidas las remuneraciones dejadas de percibir (criterio aplicado en el caso Duarte Estévez trabajado en clase)."
+    },
+    {
+     "texto": "Solo produce efectos desde la sentencia, con efecto ex nunc.",
+     "justificacion": "Incorrecta. La nulidad opera desde el origen del acto."
+    },
+    {
+     "texto": "Ninguno: la reparación de los sueldos exige una acción de daños por separado.",
+     "justificacion": "Incorrecta. La restitución es consecuencia directa de la nulidad."
+    },
+    {
+     "texto": "Efecto retroactivo, pero solo si el servidor era de carrera.",
+     "justificacion": "Incorrecta. La retroactividad no depende del tipo de nombramiento."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "UTE-ADM-05",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Administrativo",
+   "tema": "Confianza legítima y fraude",
+   "resultado": "Resuelve el caso aplicando confianza legítima y fraude.",
+   "demanda": "Evaluar",
+   "enunciado": "Un administrado obtuvo una licencia profesional presentando un título falso. Años después la entidad lo descubre, y él invoca la confianza legítima y la doctrina de los actos propios. ¿Qué afirmación es correcta?",
+   "opciones": [
+    {
+     "texto": "Esos principios no amparan lo obtenido mediante fraude; cabe la nulidad.",
+     "justificacion": "Correcta. La confianza legítima y la seguridad jurídica (art. 22 COA) protegen expectativas legítimas, no situaciones creadas con fraude; la entidad puede declarar la nulidad por los mecanismos del ordenamiento."
+    },
+    {
+     "texto": "La confianza legítima impide declarar la nulidad del acto.",
+     "justificacion": "Incorrecta. No hay confianza legítima cuando el beneficiario provocó el vicio con fraude."
+    },
+    {
+     "texto": "Basta convalidar el acto con un título auténtico que obtenga después el administrado.",
+     "justificacion": "Incorrecta. Un vicio originado en fraude no se convalida a posteriori."
+    },
+    {
+     "texto": "Solo cabe la lesividad, porque se trata de un acto favorable.",
+     "justificacion": "Incorrecta. El ordenamiento prevé otros mecanismos frente a actos nulos."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "UTE-ADM-06",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Administrativo",
+   "tema": "Ejecución de actos nulos",
+   "resultado": "Resuelve el caso aplicando ejecución de actos nulos.",
+   "demanda": "Aplicar",
+   "enunciado": "Un jefe de unidad recibe la orden de ejecutar la demolición de un inmueble particular, dispuesta por un órgano manifiestamente incompetente por materia. ¿Qué debe hacer?",
+   "opciones": [
+    {
+     "texto": "Oponerse motivadamente, porque nadie está obligado a cumplir un acto nulo.",
+     "justificacion": "Correcta. La presunción de legitimidad cede ante la nulidad manifiesta por incompetencia material (art. 105 COA); el servidor debe dejar constancia motivada de su oposición."
+    },
+    {
+     "texto": "Ejecutarla, por la presunción de legitimidad del acto administrativo.",
+     "justificacion": "Incorrecta. La presunción no ampara actos manifiestamente nulos."
+    },
+    {
+     "texto": "Ejecutarla e informar después al superior, según la normativa interna.",
+     "justificacion": "Incorrecta. Ejecutar un acto nulo compromete su responsabilidad."
+    },
+    {
+     "texto": "Abstenerse de ejecutarla sin dejar constancia alguna.",
+     "justificacion": "Incorrecta. La oposición debe ser motivada y documentada."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "UTE-ADM-07",
+   "area": 1,
+   "dificultad": 5,
+   "subarea": "Derecho Administrativo",
+   "tema": "Nulidad por actuación extemporánea",
+   "resultado": "Resuelve el caso aplicando nulidad por actuación extemporánea.",
+   "demanda": "Analizar",
+   "enunciado": "Cuatro actos se dictaron fuera del tiempo previsto para ejercer la competencia. ¿Cuál es nulo según el art. 105 num. 4 del COA?",
+   "opciones": [
+    {
+     "texto": "Una sanción impuesta después de vencido el término para resolver.",
+     "justificacion": "Correcta. El COA sanciona con nulidad el acto dictado fuera del tiempo para ejercer la competencia cuando esa extemporaneidad lesiona derechos, como ocurre con una sanción dictada tras caducar el procedimiento sancionador."
+    },
+    {
+     "texto": "Una respuesta tardía que confirma lo ya concedido por silencio positivo.",
+     "justificacion": "Incorrecta. No afecta derechos: ratifica lo ya obtenido."
+    },
+    {
+     "texto": "Una autorización de funcionamiento concedida días después del término.",
+     "justificacion": "Incorrecta. La demora no perjudica al administrado."
+    },
+    {
+     "texto": "Una licencia otorgada tarde que beneficia al solicitante.",
+     "justificacion": "Incorrecta. No lesiona derechos del solicitante ni de terceros."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "UTE-ADM-08",
+   "area": 1,
+   "dificultad": 5,
+   "subarea": "Derecho Administrativo",
+   "tema": "Vicios subsanables",
+   "resultado": "Resuelve el caso aplicando vicios subsanables.",
+   "demanda": "Evaluar",
+   "enunciado": "En 2023 una universidad pública otorgó nombramiento definitivo a una profesora tras un concurso. En 2026 el nuevo rector advierte que un miembro del tribunal no tenía el grado exigido, aunque las calificaciones habrían sido las mismas. ¿Cómo se califica ese vicio?",
+   "opciones": [
+    {
+     "texto": "Es subsanable: no tuvo trascendencia y no encaja en el art. 105 del COA.",
+     "justificacion": "Correcta. Solo son nulos los actos incursos en las causales taxativas del art. 105 COA; una irregularidad sin incidencia en el resultado es un vicio subsanable."
+    },
+    {
+     "texto": "Es nulidad de pleno derecho por incompetencia del tribunal.",
+     "justificacion": "Incorrecta. La conformación irregular no equivale a incompetencia del órgano que dictó el acto."
+    },
+    {
+     "texto": "Es nulidad, porque todo vicio de procedimiento en un concurso público es grave.",
+     "justificacion": "Incorrecta. Rige el principio de trascendencia."
+    },
+    {
+     "texto": "No es un vicio, porque el tribunal es solo un órgano auxiliar.",
+     "justificacion": "Incorrecta. Sí hay irregularidad, aunque subsanable."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "UTE-ADM-09",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Administrativo",
+   "tema": "Validez y eficacia",
+   "resultado": "Resuelve el caso aplicando validez y eficacia.",
+   "demanda": "Analizar",
+   "enunciado": "Un municipio clausura un local con base en una resolución sancionadora válida que nunca fue notificada al propietario. ¿Qué afirmación es correcta?",
+   "opciones": [
+    {
+     "texto": "La resolución era válida pero no eficaz; ejecutarla sin notificar es falta.",
+     "justificacion": "Correcta. El acto es eficaz solo una vez notificado (art. 101 COA); su ejecución sin notificación es ilegítima y genera responsabilidad de los servidores."
+    },
+    {
+     "texto": "La clausura es válida: el acto se presume legítimo y ejecutorio desde su expedición.",
+     "justificacion": "Incorrecta. La ejecutoriedad exige eficacia, que nace de la notificación."
+    },
+    {
+     "texto": "La clausura es válida si la resolución se publica después en la web.",
+     "justificacion": "Incorrecta. La publicación posterior no subsana la falta de notificación."
+    },
+    {
+     "texto": "La resolución es nula por contrariar la Constitución.",
+     "justificacion": "Incorrecta. La resolución es válida; el problema está en su eficacia."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA",
+    "CRE"
+   ]
+  },
+  {
+   "id": "UTE-ADM-10",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Administrativo",
+   "tema": "Convalidación",
+   "resultado": "Resuelve el caso aplicando convalidación.",
+   "demanda": "Aplicar",
+   "enunciado": "Un contribuyente recibe una resolución con un defecto subsanable en la identificación del expediente. Apela discutiendo solo el monto, sin alegar ese defecto. ¿Qué sucede con el defecto?",
+   "opciones": [
+    {
+     "texto": "Quedó convalidado por preclusión al recurrir sin alegarlo.",
+     "justificacion": "Correcta. Los vicios subsanables se convalidan cuando el interesado, pudiendo alegarlos, actúa en el procedimiento sin hacerlo (reglas de nulidad y convalidación del COA)."
+    },
+    {
+     "texto": "Puede alegarse después ante el tribunal contencioso sin restricción.",
+     "justificacion": "Incorrecta. La oportunidad para alegarlo precluyó."
+    },
+    {
+     "texto": "Vuelve inadmisible el recurso de apelación presentado.",
+     "justificacion": "Incorrecta. El defecto no afecta la admisibilidad del recurso."
+    },
+    {
+     "texto": "Subsiste hasta que el órgano lo convalide expresamente.",
+     "justificacion": "Incorrecta. La convalidación operó por la conducta del interesado."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "UTE-CIV-01",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Sociedad conyugal y separación de hecho",
+   "resultado": "Resuelve el caso aplicando sociedad conyugal y separación de hecho.",
+   "demanda": "Aplicar",
+   "enunciado": "Mónica y Rafael se separaron de hecho en 2022 sin demandar divorcio ni disolución. Desde entonces Rafael ahorró USD 15.000 de su sueldo en una cuenta a su nombre. ¿Cómo se clasifica ese ahorro en la liquidación?",
+   "opciones": [
+    {
+     "texto": "Como haber social, porque la separación de hecho no disuelve la sociedad.",
+     "justificacion": "Correcta. El art. 189 CC enumera taxativamente las causas de disolución y no incluye la separación de hecho; mientras la sociedad subsiste, los salarios devengados forman parte del haber social (art. 157 num. 1 CC)."
+    },
+    {
+     "texto": "Como bien propio de Rafael, porque se formó tras la separación de hecho.",
+     "justificacion": "Incorrecta. La separación de hecho no es causa de disolución."
+    },
+    {
+     "texto": "Como haber social, pero solo lo ahorrado durante el primer año de separación.",
+     "justificacion": "Incorrecta. La ley no establece ese límite temporal."
+    },
+    {
+     "texto": "Como bien propio de Rafael, porque la cuenta está a su nombre.",
+     "justificacion": "Incorrecta. La titularidad formal no determina la naturaleza del bien."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "UTE-CIV-02",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Conmoriencia",
+   "resultado": "Resuelve el caso aplicando conmoriencia.",
+   "demanda": "Aplicar",
+   "enunciado": "Rafael, de setenta años, y Elsa, de cuarenta y cinco, casados y sin descendientes, mueren en el derrumbe de su vivienda sin que se pueda establecer quién murió primero. ¿Cómo se defieren sus sucesiones?",
+   "opciones": [
+    {
+     "texto": "Ninguno hereda al otro; cada herencia pasa a sus propios herederos.",
+     "justificacion": "Correcta. El art. 65 CC dispone que, si no puede saberse el orden de los fallecimientos, se procede como si todos hubiesen perecido en un mismo momento; no hay sucesión recíproca."
+    },
+    {
+     "texto": "Elsa hereda a Rafael, porque se presume que muere primero la persona mayor.",
+     "justificacion": "Incorrecta. El Código Civil ecuatoriano no establece presunciones por edad."
+    },
+    {
+     "texto": "Se suspenden hasta que el juez determine el orden más probable de muerte.",
+     "justificacion": "Incorrecta. La ley resuelve el caso con la conmoriencia."
+    },
+    {
+     "texto": "Ambas sucesiones se unen y se reparten por mitades entre las dos familias.",
+     "justificacion": "Incorrecta. Las sucesiones son independientes."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "UTE-CIV-03",
+   "area": 4,
+   "dificultad": 5,
+   "subarea": "Personas y Familia",
+   "tema": "Quinta parte de los bienes del cónyuge",
+   "resultado": "Resuelve el caso aplicando quinta parte de los bienes del cónyuge.",
+   "demanda": "Aplicar",
+   "enunciado": "Martha, sin ingresos propios, no dio causa para el divorcio que demandó su cónyuge. En la liquidación le corresponden USD 15.000 de gananciales, y la quinta parte de los bienes de él asciende a USD 40.000. ¿Cuánto debe recibir por la quinta parte?",
+   "opciones": [
+    {
+     "texto": "USD 25.000, que completan la quinta parte considerando sus gananciales.",
+     "justificacion": "Correcta. El art. 112 CC concede la quinta parte de los bienes del otro al cónyuge que carece de lo necesario y no dio causa para el divorcio, imputando a ella lo que reciba por gananciales: 40.000 − 15.000."
+    },
+    {
+     "texto": "USD 40.000, que se suman íntegros a los gananciales que le corresponden.",
+     "justificacion": "Incorrecta. Los gananciales se imputan a la quinta parte."
+    },
+    {
+     "texto": "USD 0, porque los gananciales recibidos excluyen ese derecho.",
+     "justificacion": "Incorrecta. Los gananciales no lo excluyen; solo se descuentan."
+    },
+    {
+     "texto": "USD 20.000, que equivalen a la mitad de la quinta parte.",
+     "justificacion": "Incorrecta. La ley no reduce la quinta parte a la mitad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "UTE-CIV-04",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Incapacidad absoluta",
+   "resultado": "Resuelve el caso aplicando incapacidad absoluta.",
+   "demanda": "Aplicar",
+   "enunciado": "Emilia, de once años, compra en línea una consola por USD 480 con la tarjeta de su progenitora y acepta los términos del sitio. ¿Qué consecuencia corresponde al contrato?",
+   "opciones": [
+    {
+     "texto": "Nulidad absoluta, sin que produzca siquiera obligaciones naturales.",
+     "justificacion": "Correcta. Es impúber la niña hasta los doce años (art. 21 CC) y los impúberes son absolutamente incapaces (art. 1463 CC); sus actos no producen ni aun obligaciones naturales."
+    },
+    {
+     "texto": "Nulidad relativa, que su representante legal puede sanear ratificándolo.",
+     "justificacion": "Incorrecta. La incapacidad del impúber es absoluta, no relativa."
+    },
+    {
+     "texto": "Inexistencia, porque falta el consentimiento de su representante.",
+     "justificacion": "Incorrecta. El Código Civil sanciona el caso con nulidad absoluta."
+    },
+    {
+     "texto": "Validez, por tratarse de un acto ordinario de consumo.",
+     "justificacion": "Incorrecta. La autonomía progresiva no suple la incapacidad absoluta."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "UTE-CIV-05",
+   "area": 4,
+   "dificultad": 5,
+   "subarea": "Personas y Familia",
+   "tema": "Rescisión por incapacidad",
+   "resultado": "Resuelve el caso aplicando rescisión por incapacidad.",
+   "demanda": "Analizar",
+   "enunciado": "Valentina nació el 10 de marzo de 2011. El 5 de mayo de 2026 firmó, sin conocimiento de sus progenitores, un contrato de representación artística por dos años. ¿Hasta cuándo puede ella pedir la rescisión?",
+   "opciones": [
+    {
+     "texto": "Hasta el 10 de marzo de 2033, cuatro años después de su mayoría de edad.",
+     "justificacion": "Correcta. El art. 1708 CC fija en cuatro años el plazo de la rescisión y, cuando la nulidad proviene de una incapacidad, lo cuenta desde que esta cesó: cumple 18 años el 10 de marzo de 2029."
+    },
+    {
+     "texto": "Hasta el 5 de mayo de 2028, cuando vence el plazo de dos años pactado en el contrato.",
+     "justificacion": "Incorrecta. El plazo de la acción no depende de la duración del contrato."
+    },
+    {
+     "texto": "Hasta el 5 de mayo de 2030, cuatro años después de la firma.",
+     "justificacion": "Incorrecta. En la incapacidad, el cuatrienio corre desde que cesa."
+    },
+    {
+     "texto": "Hasta el 5 de mayo de 2041, quince años después de la firma.",
+     "justificacion": "Incorrecta. Quince años corresponde a la nulidad absoluta."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "UTE-CIV-06",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Unión de hecho",
+   "resultado": "Resuelve el caso aplicando unión de hecho.",
+   "demanda": "Aplicar",
+   "enunciado": "Lucía, casada con Esteban desde 2012 y separada de hecho desde 2021, convive desde 2023 con Daniel. Ambos acuden a una notaría para formalizar su unión de hecho. ¿Qué corresponde?",
+   "opciones": [
+    {
+     "texto": "Negarla, porque ambos deben estar libres de vínculo matrimonial.",
+     "justificacion": "Correcta. El art. 222 CC exige una unión estable y monogámica entre personas libres de vínculo matrimonial; mientras Lucía no se divorcie, la unión no puede formalizarse."
+    },
+    {
+     "texto": "Admitirla, siempre que Esteban la consienta ante la notaría.",
+     "justificacion": "Incorrecta. El consentimiento del cónyuge no suple el impedimento."
+    },
+    {
+     "texto": "Admitirla, pero sin sociedad de bienes mientras subsista el matrimonio.",
+     "justificacion": "Incorrecta. La unión no puede formalizarse en absoluto."
+    },
+    {
+     "texto": "Admitirla, porque la separación de hecho supera los dos años.",
+     "justificacion": "Incorrecta. La separación de hecho no disuelve el vínculo matrimonial."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC",
+    "CRE"
+   ]
+  },
+  {
+   "id": "UTE-CIV-07",
+   "area": 4,
+   "dificultad": 3,
+   "subarea": "Personas y Familia",
+   "tema": "Competencia en el divorcio",
+   "resultado": "Resuelve el caso aplicando competencia en el divorcio.",
+   "demanda": "Aplicar",
+   "enunciado": "Marcela y Tomás se casaron en Loja y vivieron en Cuenca hasta 2023, cuando Tomás se trasladó a Machala, donde vive y administra su empresa. Marcela, que vive en Cuenca, quiere demandar el divorcio. ¿Ante quién debe hacerlo?",
+   "opciones": [
+    {
+     "texto": "Ante la jueza o el juez de familia de Machala, domicilio del demandado.",
+     "justificacion": "Correcta. Rige la regla general de competencia territorial del domicilio del demandado (art. 9 COGEP); el último domicilio común en el Ecuador solo se considera cuando el demandado está en el extranjero (art. 117 CC)."
+    },
+    {
+     "texto": "Ante la jueza o el juez de familia de Cuenca, domicilio de la demandante.",
+     "justificacion": "Incorrecta. El domicilio del actor no determina la competencia general."
+    },
+    {
+     "texto": "Ante la jueza o el juez de familia de Cuenca, último domicilio común.",
+     "justificacion": "Incorrecta. Ese criterio aplica solo si el demandado reside en el extranjero."
+    },
+    {
+     "texto": "Ante la jueza o el juez de familia de Loja, donde se celebró el matrimonio.",
+     "justificacion": "Incorrecta. El lugar de celebración no fija la competencia."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP",
+    "CC"
+   ]
+  },
+  {
+   "id": "UTE-CIV-08",
+   "area": 4,
+   "dificultad": 5,
+   "subarea": "Personas y Familia",
+   "tema": "Subrogación real",
+   "resultado": "Resuelve el caso aplicando subrogación real.",
+   "demanda": "Analizar",
+   "enunciado": "En 2018 Nina heredó un local. En 2020, casada sin capitulaciones, lo vendió y con ese dinero compró un departamento a su nombre, sin expresar en las escrituras el ánimo de subrogar. ¿Cómo se trata el departamento en la liquidación?",
+   "opciones": [
+    {
+     "texto": "Como haber social, con recompensa a favor de Nina por el precio del local.",
+     "justificacion": "Correcta. El art. 165 CC exige, para la subrogación, que en ambas escrituras se exprese el ánimo de subrogar; sin ello el inmueble ingresa al haber social y Nina tiene derecho a recompensa."
+    },
+    {
+     "texto": "Como bien propio de Nina, porque proviene del precio de un bien heredado.",
+     "justificacion": "Incorrecta. Sin las formalidades de la subrogación, no conserva el carácter de propio."
+    },
+    {
+     "texto": "Como bien propio, porque la subrogación opera aunque no se exprese.",
+     "justificacion": "Incorrecta. La ley exige expresar el ánimo de subrogar."
+    },
+    {
+     "texto": "Como copropiedad ordinaria entre los cónyuges, por partes iguales.",
+     "justificacion": "Incorrecta. Se rige por las reglas de la sociedad conyugal."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "UTE-CIV-09",
+   "area": 4,
+   "dificultad": 5,
+   "subarea": "Personas y Familia",
+   "tema": "Nulidad del matrimonio por edad",
+   "resultado": "Resuelve el caso aplicando nulidad del matrimonio por edad.",
+   "demanda": "Analizar",
+   "enunciado": "Por un error de verificación, Karina se casó el 10 de marzo de 2024 con diecisiete años. En octubre de 2026, su cónyuge demanda la nulidad del matrimonio por la edad que ella tenía. ¿Qué corresponde?",
+   "opciones": [
+    {
+     "texto": "Rechazarla, porque prescribió al cumplirse dos años desde la celebración.",
+     "justificacion": "Correcta. El art. 95 num. 2 CC declara nulo el matrimonio de menores de dieciocho años, pero el art. 99 CC fija un plazo de dos años para demandar esa nulidad."
+    },
+    {
+     "texto": "Aceptarla, porque la nulidad por la edad del contrayente es imprescriptible.",
+     "justificacion": "Incorrecta. La ley fija un plazo para esa acción."
+    },
+    {
+     "texto": "Rechazarla, porque solo la cónyuge menor de edad puede plantearla.",
+     "justificacion": "Incorrecta. El fundamento del rechazo es la prescripción."
+    },
+    {
+     "texto": "Aceptarla, porque el cónyuge mayor de edad conocía la edad de ella.",
+     "justificacion": "Incorrecta. Conocer la edad no altera el plazo de la acción."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "UTE-CIV-10",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Tenencia y no discriminación",
+   "resultado": "Resuelve el caso aplicando tenencia y no discriminación.",
+   "demanda": "Evaluar",
+   "enunciado": "Sandra vive con sus hijos y su pareja, Daniela. El progenitor pide la tenencia alegando que esa convivencia «confunde a los niños». Los informes técnicos no registran afectación alguna. ¿Cómo debe valorarse ese argumento?",
+   "opciones": [
+    {
+     "texto": "Rechazarlo: la orientación sexual no justifica limitar derechos sin daño probado.",
+     "justificacion": "Correcta. La Corte Interamericana (caso Atala Riffo y niñas vs. Chile) estableció que la orientación sexual es una categoría protegida por la Convención Americana y no puede fundar restricciones sin un daño concreto probado; rige también el art. 11 num. 2 CRE."
+    },
+    {
+     "texto": "Valorarlo como factor de riesgo y ordenar una evaluación psicológica previa del entorno.",
+     "justificacion": "Incorrecta. Sería un trato discriminatorio sin base probatoria."
+    },
+    {
+     "texto": "Rechazarlo solo si la pareja de Sandra no participa en la crianza.",
+     "justificacion": "Incorrecta. La participación de la pareja no es un criterio legítimo de exclusión."
+    },
+    {
+     "texto": "Aceptarlo, porque prima el modelo de familia tradicional.",
+     "justificacion": "Incorrecta. La Constitución reconoce la familia en sus diversos tipos (art. 67 CRE)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "ATALA",
+    "CRE"
+   ]
+  },
+  {
+   "id": "UTE-CIV-11",
+   "area": 4,
+   "dificultad": 5,
+   "subarea": "Personas y Familia",
+   "tema": "Existencia legal y transmisión",
+   "resultado": "Resuelve el caso aplicando existencia legal y transmisión.",
+   "demanda": "Analizar",
+   "enunciado": "Luis muere sin testamento cuando su cónyuge tenía siete meses de embarazo. El hijo nace, se separa completamente de su madre, respira y fallece dos horas después. ¿Qué pasa con sus derechos hereditarios en la sucesión de Luis?",
+   "opciones": [
+    {
+     "texto": "Los adquirió al nacer con vida y se transmiten a los herederos del niño.",
+     "justificacion": "Correcta. La existencia legal principia al nacer (art. 60 CC); los derechos que estaban en suspenso se adquieren si el nacimiento constituye un principio de existencia (art. 63 CC) y, al morir, se transmiten a sus herederos."
+    },
+    {
+     "texto": "Pasan a los demás herederos de Luis, como si el niño no hubiese existido.",
+     "justificacion": "Incorrecta. Eso solo ocurre si no llega a nacer con vida."
+    },
+    {
+     "texto": "Quedan suspensos hasta que el juez declare que el niño era viable.",
+     "justificacion": "Incorrecta. El Código Civil no exige viabilidad."
+    },
+    {
+     "texto": "Se extinguen y la cuota acrece a la cónyuge sobreviviente.",
+     "justificacion": "Incorrecta. Los derechos ya fueron adquiridos por el niño."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "UTE-CIV-12",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Causales de divorcio",
+   "resultado": "Resuelve el caso aplicando causales de divorcio.",
+   "demanda": "Analizar",
+   "enunciado": "Rosa salió del hogar con sus hijos en marzo de 2025 tras ser agredida por su cónyuge, hecho acreditado. En octubre de 2026 él demanda el divorcio por abandono. ¿Qué corresponde respecto de esa causal?",
+   "opciones": [
+    {
+     "texto": "Desestimarla: la causal exige abandono injustificado y aquí hubo violencia.",
+     "justificacion": "Correcta. El art. 110 num. 9 CC exige abandono injustificado por más de seis meses; la salida motivada por violencia está justificada y, además, configura la causal de tratos crueles o violencia del num. 2."
+    },
+    {
+     "texto": "Aceptarla, porque Rosa permaneció fuera del hogar más de seis meses.",
+     "justificacion": "Incorrecta. El abandono debe ser injustificado."
+    },
+    {
+     "texto": "Aceptarla, aunque Rosa puede reconvenir por la causal de tratos crueles o violencia.",
+     "justificacion": "Incorrecta. La causal de abandono no se configura."
+    },
+    {
+     "texto": "Desestimarla, porque el abandono debe superar un año ininterrumpido.",
+     "justificacion": "Incorrecta. El plazo legal es de seis meses."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "UTE-CIV-13",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Parentesco e impedimentos",
+   "resultado": "Resuelve el caso aplicando parentesco e impedimentos.",
+   "demanda": "Aplicar",
+   "enunciado": "Diego quiere casarse con Andrea, hija de Lorena, hermana de Diego por parte de padre y madre. ¿Qué parentesco existe y qué efecto tiene?",
+   "opciones": [
+    {
+     "texto": "Colateral de tercer grado, y el matrimonio sería válido.",
+     "justificacion": "Correcta. Entre tío y sobrina hay consanguinidad colateral en tercer grado (art. 22 CC); el art. 95 CC solo declara nulo el matrimonio entre colaterales en segundo grado, es decir, entre hermanos."
+    },
+    {
+     "texto": "Colateral de segundo grado, y el matrimonio sería nulo.",
+     "justificacion": "Incorrecta. El grado se cuenta por generaciones: son tres."
+    },
+    {
+     "texto": "En línea recta de segundo grado, y el matrimonio sería nulo.",
+     "justificacion": "Incorrecta. No descienden uno del otro."
+    },
+    {
+     "texto": "Colateral de cuarto grado, y el matrimonio sería válido.",
+     "justificacion": "Incorrecta. El cuarto grado corresponde a los primos."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "UTE-CIV-14",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Tenencia e interés superior",
+   "resultado": "Resuelve el caso aplicando tenencia e interés superior.",
+   "demanda": "Evaluar",
+   "enunciado": "Ana y Luis, divorciados, son aptos para cuidar a Camila, de catorce años, que siempre ha vivido con su madre y expresó que desea seguir con ella. Luis pide la tenencia por tener mejores ingresos. ¿Con qué criterio se resuelve?",
+   "opciones": [
+    {
+     "texto": "Valorando principalmente la opinión de Camila y la continuidad de sus rutinas.",
+     "justificacion": "Correcta. Eliminada la preferencia materna automática, la Corte Constitucional fijó parámetros del interés superior que priorizan la opinión del adolescente según su madurez y la estabilidad de su vida (sentencia 28-15-IN/21)."
+    },
+    {
+     "texto": "Confiándola al padre, porque sus mayores ingresos le dan mejores condiciones.",
+     "justificacion": "Incorrecta. Los ingresos se atienden con alimentos, no con la tenencia."
+    },
+    {
+     "texto": "Confiándola a la madre, porque la ley la prefiere en la adolescencia.",
+     "justificacion": "Incorrecta. Esa preferencia automática fue declarada inconstitucional."
+    },
+    {
+     "texto": "Alternando la residencia, porque ambos progenitores son aptos.",
+     "justificacion": "Incorrecta. Camila expresó que no desea alternar residencias."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CCE2815",
+    "CONA"
+   ]
+  },
+  {
+   "id": "UTE-CIV-15",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Exigibilidad de alimentos",
+   "resultado": "Resuelve el caso aplicando exigibilidad de alimentos.",
+   "demanda": "Aplicar",
+   "enunciado": "Silvia demandó alimentos para sus hijos en marzo de 2026; la citación fue en septiembre y la sentencia en octubre de 2026. El juez fijó la pensión desde la sentencia. ¿Desde cuándo es exigible?",
+   "opciones": [
+    {
+     "texto": "Desde la presentación de la demanda, en marzo de 2026.",
+     "justificacion": "Correcta. La pensión de alimentos se debe desde la presentación de la demanda, regla del Código de la Niñez y Adolescencia ratificada como precedente por la Corte Constitucional."
+    },
+    {
+     "texto": "Desde la citación al alimentante, en septiembre de 2026.",
+     "justificacion": "Incorrecta. La ley fija la exigibilidad desde la demanda."
+    },
+    {
+     "texto": "Desde la sentencia que la fija, en octubre de 2026.",
+     "justificacion": "Incorrecta. Esa fue la decisión del juez, contraria a la regla legal."
+    },
+    {
+     "texto": "Desde la separación de hecho de los progenitores.",
+     "justificacion": "Incorrecta. No se retrotrae a antes de la demanda."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CONA"
+   ]
+  },
+  {
+   "id": "UTE-CIV-16",
+   "area": 4,
+   "dificultad": 5,
+   "subarea": "Personas y Familia",
+   "tema": "Afinidad",
+   "resultado": "Resuelve el caso aplicando afinidad.",
+   "demanda": "Analizar",
+   "enunciado": "Carla estuvo casada con Pablo; el divorcio se inscribió en 2023. En 2026 quiere casarse con Jorge, viudo y padre de Pablo. ¿Qué vínculo existe hoy entre ellos y qué efecto tiene?",
+   "opciones": [
+    {
+     "texto": "Ningún parentesco vigente; no existe impedimento para casarse.",
+     "justificacion": "Correcta. Según la retroalimentación del curso, el Código Civil vigente no incluye la afinidad entre los impedimentos del matrimonio, por lo que el vínculo previo no impide celebrarlo."
+    },
+    {
+     "texto": "Afinidad en línea recta de primer grado, que es impedimento dirimente.",
+     "justificacion": "Incorrecta. La afinidad no figura entre los impedimentos vigentes."
+    },
+    {
+     "texto": "Afinidad en línea recta de primer grado, que no impide el matrimonio.",
+     "justificacion": "Incorrecta. La respuesta oficial descarta un parentesco vigente."
+    },
+    {
+     "texto": "Afinidad colateral de segundo grado, que no impide el matrimonio.",
+     "justificacion": "Incorrecta. Suegro y nuera no son colaterales."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "UTE-CIV-17",
+   "area": 4,
+   "dificultad": 3,
+   "subarea": "Personas y Familia",
+   "tema": "Domicilio civil",
+   "resultado": "Resuelve el caso aplicando domicilio civil.",
+   "demanda": "Aplicar",
+   "enunciado": "Fernando vive con su pareja e hijos en Riobamba, donde tiene una ferretería que administra los fines de semana. Hace tres años trabaja con contrato a plazo en Guayaquil, donde arrienda una habitación. ¿Cuál es su domicilio civil?",
+   "opciones": [
+    {
+     "texto": "Riobamba, porque allí conserva su familia y el asiento de sus negocios.",
+     "justificacion": "Correcta. El domicilio civil no se muda por residir largo tiempo en otra parte si se conserva la familia y el asiento principal de los negocios (art. 51 CC); la residencia accidental no crea domicilio (art. 49 CC)."
+    },
+    {
+     "texto": "Guayaquil, porque allí ejerce su profesión de forma habitual desde hace tres años.",
+     "justificacion": "Incorrecta. Su residencia allí es accidental, por un contrato a plazo."
+    },
+    {
+     "texto": "Quito, porque allí se celebró su matrimonio anterior.",
+     "justificacion": "Incorrecta. El lugar del matrimonio no fija el domicilio."
+    },
+    {
+     "texto": "Tiene dos domicilios a la vez, Riobamba y Guayaquil.",
+     "justificacion": "Incorrecta. La pluralidad de domicilios exige circunstancias constitutivas en ambos lugares."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "UTE-CIV-18",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Titulares de la nulidad relativa",
+   "resultado": "Resuelve el caso aplicando titulares de la nulidad relativa.",
+   "demanda": "Aplicar",
+   "enunciado": "Mateo, de dieciséis años, vendió su computadora a un vecino de veintitrés. Arrepentido, el comprador demanda la nulidad alegando la incapacidad de Mateo. ¿Qué corresponde?",
+   "opciones": [
+    {
+     "texto": "Rechazarla, porque solo puede alegarla quien está protegido por la incapacidad.",
+     "justificacion": "Correcta. El adolescente es relativamente incapaz (art. 1463 CC); la nulidad relativa solo puede alegarse por aquellos en cuyo beneficio la establecen las leyes (art. 1700 CC)."
+    },
+    {
+     "texto": "Aceptarla, porque cualquier persona interesada puede alegarla.",
+     "justificacion": "Incorrecta. Esa regla corresponde a la nulidad absoluta."
+    },
+    {
+     "texto": "Declararla de oficio, porque la incapacidad del vendedor aparece de manifiesto en el acto.",
+     "justificacion": "Incorrecta. La declaración de oficio procede solo en la nulidad absoluta."
+    },
+    {
+     "texto": "Aceptarla, porque el contrato es nulo de nulidad absoluta.",
+     "justificacion": "Incorrecta. El adolescente es relativamente incapaz."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "UTE-CIV-19",
+   "area": 4,
+   "dificultad": 3,
+   "subarea": "Personas y Familia",
+   "tema": "Haber social",
+   "resultado": "Resuelve el caso aplicando haber social.",
+   "demanda": "Aplicar",
+   "enunciado": "En 2014, casados sin capitulaciones, Andrés y Nina compraron una casa con crédito pagado con los sueldos de ambos; la escritura se otorgó solo a nombre de Andrés. ¿Cómo se clasifica la casa?",
+   "opciones": [
+    {
+     "texto": "Como haber social, por haberse adquirido a título oneroso en el matrimonio.",
+     "justificacion": "Correcta. El art. 157 num. 5 CC incorpora al haber social los bienes que cualquiera de los cónyuges adquiera durante el matrimonio a título oneroso."
+    },
+    {
+     "texto": "Como bien propio de Andrés, porque la escritura está solo a su nombre.",
+     "justificacion": "Incorrecta. La titularidad registral no cambia la naturaleza social del bien."
+    },
+    {
+     "texto": "Como copropiedad ordinaria, en proporción a lo aportado.",
+     "justificacion": "Incorrecta. Se rige por la sociedad conyugal, no por la copropiedad ordinaria."
+    },
+    {
+     "texto": "Como bien propio de Nina, en proporción a sus aportes.",
+     "justificacion": "Incorrecta. No hay base legal para ello."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "UTE-CIV-20",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Nulidad por fuerza",
+   "resultado": "Resuelve el caso aplicando nulidad por fuerza.",
+   "demanda": "Aplicar",
+   "enunciado": "Gabriela se casó con Iván después de que el padre de este la amenazara con denunciar falsamente a su hermano. Tres meses después, la madre de Gabriela, que presenció las amenazas, quiere demandar la nulidad. ¿Quién puede demandarla?",
+   "opciones": [
+    {
+     "texto": "Solo Gabriela, por ser la cónyuge perjudicada por el vicio del consentimiento.",
+     "justificacion": "Correcta. La nulidad por falta de libre consentimiento solo puede alegarla el cónyuge cuyo consentimiento fue viciado, según las reglas del Código Civil sobre la nulidad del matrimonio."
+    },
+    {
+     "texto": "Cualquier persona con interés, porque la nulidad por amenazas es absoluta.",
+     "justificacion": "Incorrecta. La acción está reservada a la cónyuge afectada."
+    },
+    {
+     "texto": "Cualquiera de los cónyuges, porque el vicio del consentimiento afecta el vínculo común.",
+     "justificacion": "Incorrecta. Iván no puede invocar el vicio que sufrió Gabriela."
+    },
+    {
+     "texto": "La madre de Gabriela, porque presenció directamente las amenazas.",
+     "justificacion": "Incorrecta. Presenciar los hechos no la legitima."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "UTE-DPG-01",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Motivación",
+   "resultado": "Resuelve el caso aplicando motivación.",
+   "demanda": "Aplicar",
+   "enunciado": "Una sentencia enumera normas, pero no explica su pertinencia para los hechos del caso. ¿Qué garantía debe examinarse directamente?",
+   "opciones": [
+    {
+     "texto": "La motivación de las resoluciones.",
+     "justificacion": "Correcta. El art. 76 num. 7 lit. l CRE exige enunciar las normas y explicar su pertinencia a los antecedentes de hecho."
+    },
+    {
+     "texto": "La publicidad de las audiencias.",
+     "justificacion": "Incorrecta. La publicidad no se refiere a la justificación de la decisión."
+    },
+    {
+     "texto": "La gratuidad del acceso a la justicia.",
+     "justificacion": "Incorrecta. No guarda relación con el defecto descrito."
+    },
+    {
+     "texto": "La competencia por razón del territorio.",
+     "justificacion": "Incorrecta. No es un problema de competencia."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "UTE-DPG-02",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Inmediación",
+   "resultado": "Resuelve el caso aplicando inmediación.",
+   "demanda": "Aplicar",
+   "enunciado": "El juzgador pretende encargar a un funcionario administrativo la conducción de la audiencia de juicio y la recepción de la prueba en su propia circunscripción. ¿Qué principio exige su intervención directa?",
+   "opciones": [
+    {
+     "texto": "Inmediación.",
+     "justificacion": "Correcta. El juzgador debe celebrar las audiencias y conocer directamente la prueba (art. 6 COGEP)."
+    },
+    {
+     "texto": "Especialidad.",
+     "justificacion": "Incorrecta. Se refiere a la distribución por materias."
+    },
+    {
+     "texto": "Gradualidad.",
+     "justificacion": "Incorrecta. No regula la presencia del juzgador."
+    },
+    {
+     "texto": "Dispositivo.",
+     "justificacion": "Incorrecta. Se refiere al impulso procesal de las partes."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "UTE-DPG-03",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Derecho Procesal General",
+   "tema": "Casación",
+   "resultado": "Resuelve el caso aplicando casación.",
+   "demanda": "Comprender",
+   "enunciado": "Una parte quiere usar la casación como una tercera instancia ordinaria, sin identificar ninguna causal legal. ¿Qué afirmación es correcta?",
+   "opciones": [
+    {
+     "texto": "La estrategia desconoce que la casación es extraordinaria y exige causal.",
+     "justificacion": "Correcta. La casación es un recurso extraordinario cuya procedencia se sujeta a los supuestos y causales legales (art. 10 COFJ; arts. 266 y 268 COGEP)."
+    },
+    {
+     "texto": "Es válida, porque la casación permite revisar de nuevo todo el proceso.",
+     "justificacion": "Incorrecta. La casación no es una tercera instancia."
+    },
+    {
+     "texto": "Es válida si se presenta dentro del término de treinta días.",
+     "justificacion": "Incorrecta. El término no suple la falta de causal."
+    },
+    {
+     "texto": "Es válida si el recurrente se allana a revisar solo los hechos.",
+     "justificacion": "Incorrecta. La casación no revisa hechos ni prueba."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COFJ",
+    "COGEP"
+   ]
+  },
+  {
+   "id": "UTE-DPG-04",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Citación",
+   "resultado": "Resuelve el caso aplicando citación.",
+   "demanda": "Recordar",
+   "enunciado": "El órgano judicial debe hacer conocer formalmente al demandado el contenido de la demanda y la providencia inicial. ¿Qué actuación corresponde?",
+   "opciones": [
+    {
+     "texto": "Citación.",
+     "justificacion": "Correcta. La citación hace conocer a la persona demandada el contenido de la demanda (art. 53 COGEP); las demás providencias se notifican (art. 65 COGEP)."
+    },
+    {
+     "texto": "Notificación de la sentencia.",
+     "justificacion": "Incorrecta. La sentencia aún no existe."
+    },
+    {
+     "texto": "Calificación de la contestación.",
+     "justificacion": "Incorrecta. Es un acto posterior."
+    },
+    {
+     "texto": "Convocatoria de testigos.",
+     "justificacion": "Incorrecta. No informa al demandado de la demanda."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "UTE-DPG-05",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Derecho Procesal General",
+   "tema": "Procuración común",
+   "resultado": "Resuelve el caso aplicando procuración común.",
+   "demanda": "Aplicar",
+   "enunciado": "Varios actores reclaman un mismo derecho, sin intereses contrapuestos, y designan procurador común a uno de ellos, que no es abogado. ¿Debe rechazarse el nombramiento?",
+   "opciones": [
+    {
+     "texto": "No: la procuración común no exige la calidad de abogado.",
+     "justificacion": "Correcta. La designación de procurador común entre litigantes con un mismo derecho no requiere esa condición profesional (art. 37 COGEP), sin perjuicio del patrocinio de un abogado."
+    },
+    {
+     "texto": "Sí: el procurador común debe ser siempre abogado.",
+     "justificacion": "Incorrecta. La ley no exige esa calidad."
+    },
+    {
+     "texto": "Sí: cada actor debe comparecer por separado.",
+     "justificacion": "Incorrecta. La procuración común está prevista precisamente para estos casos."
+    },
+    {
+     "texto": "No, pero solo si el juez lo autoriza de oficio.",
+     "justificacion": "Incorrecta. No se requiere autorización judicial."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "UTE-DPG-06",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Falta de contestación",
+   "resultado": "Resuelve el caso aplicando falta de contestación.",
+   "demanda": "Comprender",
+   "enunciado": "En un proceso sujeto al COGEP, el demandado no contesta la demanda. ¿Qué efecto produce esa omisión?",
+   "opciones": [
+    {
+     "texto": "Se tiene como negativa de los fundamentos de la demanda.",
+     "justificacion": "Correcta. La falta de contestación se tiene como negativa de los fundamentos de la demanda (art. 157 COGEP); el actor debe probar sus afirmaciones."
+    },
+    {
+     "texto": "Se tienen por aceptados todos los fundamentos de la demanda.",
+     "justificacion": "Incorrecta. El COGEP no presume el allanamiento."
+    },
+    {
+     "texto": "El juez debe dictar sentencia sin audiencia.",
+     "justificacion": "Incorrecta. El proceso continúa con sus audiencias."
+    },
+    {
+     "texto": "Se archiva el proceso por falta de controversia.",
+     "justificacion": "Incorrecta. La controversia subsiste."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "UTE-DPG-07",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Litispendencia",
+   "resultado": "Resuelve el caso aplicando litispendencia.",
+   "demanda": "Aplicar",
+   "enunciado": "La parte demandada advierte que existe otro proceso pendiente con la identidad exigida respecto de la misma controversia. ¿Qué excepción previa corresponde?",
+   "opciones": [
+    {
+     "texto": "Litispendencia.",
+     "justificacion": "Correcta. Es excepción previa del art. 153 num. 5 COGEP."
+    },
+    {
+     "texto": "Cosa juzgada.",
+     "justificacion": "Incorrecta. Requiere una sentencia ejecutoriada, no un proceso pendiente."
+    },
+    {
+     "texto": "Caducidad.",
+     "justificacion": "Incorrecta. Se refiere a la extinción por el paso del tiempo."
+    },
+    {
+     "texto": "Transacción.",
+     "justificacion": "Incorrecta. Supone un acuerdo de las partes."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "UTE-DPG-08",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Derecho Procesal General",
+   "tema": "Recusación",
+   "resultado": "Resuelve el caso aplicando recusación.",
+   "demanda": "Comprender",
+   "enunciado": "Se admite la recusación de un juez en una causa concreta. ¿Qué efecto tiene?",
+   "opciones": [
+    {
+     "texto": "Pierde competencia solo respecto de esa causa.",
+     "justificacion": "Correcta. La recusación aceptada hace perder competencia para esa causa, no la potestad jurisdiccional general (art. 165 num. 2 COFJ)."
+    },
+    {
+     "texto": "Pierde su jurisdicción para todas las causas.",
+     "justificacion": "Incorrecta. El efecto se limita a la causa concreta."
+    },
+    {
+     "texto": "Debe seguir conociendo la causa con un secretario adjunto.",
+     "justificacion": "Incorrecta. Debe separarse de esa causa."
+    },
+    {
+     "texto": "Queda suspendido de sus funciones por noventa días.",
+     "justificacion": "Incorrecta. La recusación no es una sanción disciplinaria."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COFJ"
+   ]
+  },
+  {
+   "id": "UTE-DPG-09",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Competencia por materia",
+   "resultado": "Resuelve el caso aplicando competencia por materia.",
+   "demanda": "Comprender",
+   "enunciado": "Dos jueces ejercen la potestad de administrar justicia, pero uno conoce asuntos laborales y otro civiles. ¿Qué institución explica esa distribución?",
+   "opciones": [
+    {
+     "texto": "La competencia asignada a cada juzgador.",
+     "justificacion": "Correcta. La competencia es la medida en que se distribuye la potestad jurisdiccional por materia, personas, territorio y grados (arts. 150 y 156 COFJ)."
+    },
+    {
+     "texto": "La jurisdicción como potestad pública general.",
+     "justificacion": "Incorrecta. Ambos jueces tienen jurisdicción; lo que difiere es la competencia."
+    },
+    {
+     "texto": "La procuración judicial de los litigantes.",
+     "justificacion": "Incorrecta. Se refiere a la representación de las partes."
+    },
+    {
+     "texto": "La representación legal de las partes.",
+     "justificacion": "Incorrecta. No distribuye asuntos entre jueces."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COFJ"
+   ]
+  },
+  {
+   "id": "UTE-DPG-10",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Competencia por grado",
+   "resultado": "Resuelve el caso aplicando competencia por grado.",
+   "demanda": "Comprender",
+   "enunciado": "Una causa pasa del juzgado de primera instancia al tribunal que resolverá la apelación. ¿Qué criterio identifica quién conoce en cada instancia?",
+   "opciones": [
+    {
+     "texto": "La competencia por grado.",
+     "justificacion": "Correcta. El grado es uno de los criterios legales de distribución de la competencia (art. 156 COFJ)."
+    },
+    {
+     "texto": "La competencia por territorio.",
+     "justificacion": "Incorrecta. El territorio no distingue instancias."
+    },
+    {
+     "texto": "La prorrogación de la competencia.",
+     "justificacion": "Incorrecta. La prorrogación opera respecto del territorio."
+    },
+    {
+     "texto": "La jurisdicción voluntaria.",
+     "justificacion": "Incorrecta. No guarda relación con las instancias."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COFJ"
+   ]
+  },
+  {
+   "id": "UTE-DPG-11",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Derecho Procesal General",
+   "tema": "Reconvención en el sumario",
+   "resultado": "Resuelve el caso aplicando reconvención en el sumario.",
+   "demanda": "Aplicar",
+   "enunciado": "En un procedimiento sumario, el demandado reconviene por una relación jurídica independiente y sin conexión con la demanda principal. ¿Es admisible?",
+   "opciones": [
+    {
+     "texto": "No: en el sumario solo se admite la reconvención conexa.",
+     "justificacion": "Correcta. Así lo dispone el art. 333 num. 2 COGEP."
+    },
+    {
+     "texto": "Sí: la reconvención procede siempre en cualquier procedimiento.",
+     "justificacion": "Incorrecta. El procedimiento sumario la limita a la conexa."
+    },
+    {
+     "texto": "Sí, si el actor no se opone en la audiencia única.",
+     "justificacion": "Incorrecta. La limitación es legal, no depende del actor."
+    },
+    {
+     "texto": "No: en el sumario está prohibida toda reconvención.",
+     "justificacion": "Incorrecta. La conexa sí se admite."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "UTE-DPG-12",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Derecho Procesal General",
+   "tema": "Jurisdicción y posesión del cargo",
+   "resultado": "Resuelve el caso aplicando jurisdicción y posesión del cargo.",
+   "demanda": "Comprender",
+   "enunciado": "Una persona ha sido nombrada jueza, pero aún no toma posesión ni entra en servicio efectivo. ¿Puede dictar sentencia con base en su nombramiento?",
+   "opciones": [
+    {
+     "texto": "No: para ejercer la jurisdicción debe posesionarse.",
+     "justificacion": "Correcta. El nombramiento origina la jurisdicción, pero su ejercicio comienza con la posesión y el servicio efectivo (art. 152 COFJ)."
+    },
+    {
+     "texto": "Sí: el nombramiento basta para ejercer la jurisdicción desde su expedición.",
+     "justificacion": "Incorrecta. Falta la posesión del cargo."
+    },
+    {
+     "texto": "Sí, si las partes aceptan expresamente su intervención.",
+     "justificacion": "Incorrecta. La voluntad de las partes no suple ese requisito."
+    },
+    {
+     "texto": "Sí, pero solo en procedimientos sumarios.",
+     "justificacion": "Incorrecta. La regla es general."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COFJ"
+   ]
+  },
+  {
+   "id": "UTE-DPG-13",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Derecho Procesal General",
+   "tema": "Prorrogación de la competencia",
+   "resultado": "Resuelve el caso aplicando prorrogación de la competencia.",
+   "demanda": "Analizar",
+   "enunciado": "Dos partes acuerdan que un juez con competencia exclusivamente civil conozca su conflicto laboral. ¿El acuerdo le otorga competencia por materia?",
+   "opciones": [
+    {
+     "texto": "No: la prorrogación es territorial, no material.",
+     "justificacion": "Correcta. La prorrogación de la competencia regulada en el art. 162 COFJ opera respecto del territorio y no modifica la competencia por materia."
+    },
+    {
+     "texto": "Sí: las partes pueden prorrogar cualquier competencia por mutuo acuerdo.",
+     "justificacion": "Incorrecta. La competencia material es de orden público."
+    },
+    {
+     "texto": "Sí, si el acuerdo consta en escritura pública.",
+     "justificacion": "Incorrecta. La forma no cambia la regla."
+    },
+    {
+     "texto": "Sí, si el juez laboral competente lo autoriza.",
+     "justificacion": "Incorrecta. No existe esa autorización."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COFJ"
+   ]
+  },
+  {
+   "id": "UTE-DPG-14",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Cláusula especial para transigir",
+   "resultado": "Resuelve el caso aplicando cláusula especial para transigir.",
+   "demanda": "Aplicar",
+   "enunciado": "Una abogada tiene procuración judicial, pero su mandato no contiene cláusula especial para transigir. ¿Qué requiere para transigir en representación de su mandante?",
+   "opciones": [
+    {
+     "texto": "Una cláusula especial que le confiera esa facultad.",
+     "justificacion": "Correcta. Transigir es una de las facultades que requieren cláusula especial en la procuración judicial (art. 43 COGEP)."
+    },
+    {
+     "texto": "Su sola acreditación como profesional del derecho.",
+     "justificacion": "Incorrecta. La calidad de abogada no basta."
+    },
+    {
+     "texto": "Su designación como procuradora común.",
+     "justificacion": "Incorrecta. No confiere facultades especiales."
+    },
+    {
+     "texto": "El consentimiento del abogado de la contraparte.",
+     "justificacion": "Incorrecta. Es irrelevante para su facultad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "UTE-DPG-15",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Imparcialidad",
+   "resultado": "Resuelve el caso aplicando imparcialidad.",
+   "demanda": "Comprender",
+   "enunciado": "Una jueza favorece a quien considera más influyente, aunque las pruebas no respalden su pretensión. ¿Qué principio vulnera?",
+   "opciones": [
+    {
+     "texto": "La imparcialidad.",
+     "justificacion": "Correcta. La decisión debe respetar la igualdad de las partes y fundarse jurídicamente (art. 9 COFJ)."
+    },
+    {
+     "texto": "La publicidad.",
+     "justificacion": "Incorrecta. No se trata del carácter público de las actuaciones."
+    },
+    {
+     "texto": "La celeridad.",
+     "justificacion": "Incorrecta. No se trata de demoras."
+    },
+    {
+     "texto": "La gratuidad.",
+     "justificacion": "Incorrecta. No se refiere al costo del servicio."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COFJ"
+   ]
+  },
+  {
+   "id": "UTE-DPG-16",
+   "area": 3,
+   "dificultad": 1,
+   "subarea": "Derecho Procesal General",
+   "tema": "Competencia territorial",
+   "resultado": "Resuelve el caso aplicando competencia territorial.",
+   "demanda": "Recordar",
+   "enunciado": "En una controversia civil, la persona demandada tiene un único domicilio en Cuenca. Sin fueros especiales, ¿qué determina la competencia territorial general?",
+   "opciones": [
+    {
+     "texto": "El domicilio de la persona demandada.",
+     "justificacion": "Correcta. Es la regla general del art. 9 COGEP."
+    },
+    {
+     "texto": "El domicilio de la parte actora.",
+     "justificacion": "Incorrecta. No es la regla general."
+    },
+    {
+     "texto": "El lugar elegido por el abogado del actor.",
+     "justificacion": "Incorrecta. La competencia la fija la ley."
+    },
+    {
+     "texto": "La sede de la Corte Nacional de Justicia.",
+     "justificacion": "Incorrecta. La Corte Nacional no conoce en primera instancia."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "UTE-DPG-17",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Derecho Procesal General",
+   "tema": "Tercerías",
+   "resultado": "Resuelve el caso aplicando tercerías.",
+   "demanda": "Aplicar",
+   "enunciado": "Una persona ajena al litigio pide intervenir para que se la declare titular del derecho discutido. ¿Qué clase de tercería corresponde?",
+   "opciones": [
+    {
+     "texto": "Excluyente de dominio, porque reclama la titularidad.",
+     "justificacion": "Correcta. Es la tercería excluyente del art. 47 num. 1 COGEP."
+    },
+    {
+     "texto": "Coadyuvante, porque respalda a una de las partes.",
+     "justificacion": "Incorrecta. La coadyuvante apoya a una parte sin reclamar el derecho para sí."
+    },
+    {
+     "texto": "Litisconsorcio pasivo, porque se demanda contra ella.",
+     "justificacion": "Incorrecta. Ella no es demandada."
+    },
+    {
+     "texto": "Procuración común, porque representa a varios.",
+     "justificacion": "Incorrecta. No es una forma de representación."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "UTE-DPG-18",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Recurso de ampliación",
+   "resultado": "Resuelve el caso aplicando recurso de ampliación.",
+   "demanda": "Aplicar",
+   "enunciado": "La sentencia deja sin resolver uno de los puntos controvertidos y la parte busca un pronunciamiento del mismo juzgador. ¿Qué recurso corresponde?",
+   "opciones": [
+    {
+     "texto": "Ampliación.",
+     "justificacion": "Correcta. La ampliación procede cuando no se resolvió alguno de los puntos controvertidos (art. 253 COGEP)."
+    },
+    {
+     "texto": "Revocatoria.",
+     "justificacion": "Incorrecta. No procede contra sentencias."
+    },
+    {
+     "texto": "De hecho.",
+     "justificacion": "Incorrecta. Procede contra la negativa de un recurso."
+    },
+    {
+     "texto": "Aclaración.",
+     "justificacion": "Incorrecta. La aclaración procede ante una decisión oscura, no ante una omisión."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "UTE-DPG-19",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Consejo de la Judicatura",
+   "resultado": "Resuelve el caso aplicando consejo de la judicatura.",
+   "demanda": "Comprender",
+   "enunciado": "Una persona solicita al Consejo de la Judicatura que revoque una sentencia civil porque discrepa de su contenido. ¿Qué corresponde?",
+   "opciones": [
+    {
+     "texto": "Ejercer sus atribuciones administrativas, sin revisar la sentencia.",
+     "justificacion": "Correcta. El Consejo de la Judicatura es órgano de gobierno, administración, vigilancia y disciplina (art. 178 CRE); no sustituye al tribunal competente para revisar sentencias."
+    },
+    {
+     "texto": "Revisar el fondo de la sentencia como tribunal de apelación.",
+     "justificacion": "Incorrecta. Carece de funciones jurisdiccionales."
+    },
+    {
+     "texto": "Resolver el litigio en equidad, como lo haría un juez de paz de la localidad.",
+     "justificacion": "Incorrecta. No es un órgano jurisdiccional."
+    },
+    {
+     "texto": "Actuar como procurador judicial de la solicitante.",
+     "justificacion": "Incorrecta. No representa a las partes."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "UTE-DPG-20",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Derecho Procesal General",
+   "tema": "La naturaleza como parte",
+   "resultado": "Resuelve el caso aplicando la naturaleza como parte.",
+   "demanda": "Comprender",
+   "enunciado": "Se presenta una demanda en representación de la naturaleza conforme a las reglas legales. ¿Puede rechazarse porque la naturaleza no es persona natural ni jurídica?",
+   "opciones": [
+    {
+     "texto": "No: el COGEP permite que la naturaleza sea parte procesal.",
+     "justificacion": "Correcta. El art. 30 num. 4 COGEP reconoce a la naturaleza como parte, y su intervención se sujeta a las reglas de representación aplicables (arts. 10 y 71 CRE)."
+    },
+    {
+     "texto": "Sí: solo las personas naturales y jurídicas pueden ser partes.",
+     "justificacion": "Incorrecta. El COGEP amplía expresamente las partes procesales."
+    },
+    {
+     "texto": "Sí, salvo que la demanda la presente el Estado.",
+     "justificacion": "Incorrecta. Cualquier persona puede actuar en su representación."
+    },
+    {
+     "texto": "No, pero solo si lo autoriza la Corte Constitucional.",
+     "justificacion": "Incorrecta. No se requiere esa autorización."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP",
+    "CRE"
+   ]
+  }
+ ]
+}

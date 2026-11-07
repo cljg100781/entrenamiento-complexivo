@@ -1,0 +1,978 @@
+{
+ "id": "pack-005",
+ "titulo": "Paquete 5 · 30 preguntas nuevas (Administrativo, Familia, Procesal)",
+ "bibliografia": {
+  "CC": "Congreso Nacional del Ecuador. (2005). Código Civil (Codificación). Registro Oficial Suplemento 46, 24 de junio de 2005. https://www.registroficial.gob.ec/",
+  "CCE2815": "Corte Constitucional del Ecuador. (2021). Sentencia No. 28-15-IN/21 (preferencia materna en la tenencia). https://www.corteconstitucional.gob.ec/",
+  "COA": "Asamblea Nacional del Ecuador. (2017). Código Orgánico Administrativo. Registro Oficial Segundo Suplemento 31, 7 de julio de 2017. https://www.registroficial.gob.ec/",
+  "COFJ": "Asamblea Nacional del Ecuador. (2009). Código Orgánico de la Función Judicial. Registro Oficial Suplemento 544, 9 de marzo de 2009. https://www.funcionjudicial.gob.ec/",
+  "COGEP": "Asamblea Nacional del Ecuador. (2015). Código Orgánico General de Procesos. Registro Oficial Suplemento 506, 22 de mayo de 2015. https://www.funcionjudicial.gob.ec/",
+  "CONA": "Congreso Nacional del Ecuador. (2003). Código de la Niñez y Adolescencia. Registro Oficial 737, 3 de enero de 2003. https://www.registroficial.gob.ec/",
+  "CRE": "Asamblea Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449, 20 de octubre de 2008. https://www.asambleanacional.gob.ec/"
+ },
+ "preguntas": [
+  {
+   "id": "NV-ADM-01",
+   "area": 1,
+   "dificultad": 3,
+   "subarea": "Derecho Administrativo",
+   "tema": "Acto administrativo impugnable",
+   "resultado": "Resuelve el caso aplicando acto administrativo impugnable.",
+   "demanda": "Analizar",
+   "enunciado": "Durante un trámite de licencia ambiental se producen cuatro actuaciones. ¿Cuál puede impugnarse de forma autónoma mediante recurso administrativo?",
+   "opciones": [
+    {
+     "texto": "La resolución que niega la licencia ambiental.",
+     "justificacion": "Correcta. Es un acto administrativo: declaración unilateral que produce efectos jurídicos individuales de forma directa (art. 98 COA)."
+    },
+    {
+     "texto": "El informe técnico no vinculante previo a resolver.",
+     "justificacion": "Incorrecta. Es un acto de simple administración, sin efectos directos."
+    },
+    {
+     "texto": "El dictamen jurídico interno solicitado por la dirección.",
+     "justificacion": "Incorrecta. Es un acto preparatorio que no decide el asunto."
+    },
+    {
+     "texto": "La propuesta de resolución elaborada por el analista.",
+     "justificacion": "Incorrecta. No produce efectos jurídicos por sí misma."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "NV-ADM-02",
+   "area": 1,
+   "dificultad": 3,
+   "subarea": "Derecho Administrativo",
+   "tema": "Requisitos de validez",
+   "resultado": "Resuelve el caso aplicando requisitos de validez.",
+   "demanda": "Aplicar",
+   "enunciado": "Una entidad impone una multa con una resolución que solo cita «la normativa vigente», sin describir los hechos ni explicar la norma aplicada. ¿Qué requisito de validez falla?",
+   "opciones": [
+    {
+     "texto": "La motivación.",
+     "justificacion": "Correcta. La motivación es requisito de validez del acto (art. 99 COA) y exige explicar la pertinencia de las normas a los hechos (art. 76 num. 7 lit. l CRE)."
+    },
+    {
+     "texto": "La notificación.",
+     "justificacion": "Incorrecta. La notificación es condición de eficacia, no de validez (art. 101 COA)."
+    },
+    {
+     "texto": "La competencia.",
+     "justificacion": "Incorrecta. Nada indica que el órgano carezca de competencia."
+    },
+    {
+     "texto": "La publicidad.",
+     "justificacion": "Incorrecta. No es uno de los requisitos de validez del art. 99 COA."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA",
+    "CRE"
+   ]
+  },
+  {
+   "id": "NV-ADM-03",
+   "area": 1,
+   "dificultad": 3,
+   "subarea": "Derecho Administrativo",
+   "tema": "Silencio administrativo",
+   "resultado": "Resuelve el caso aplicando silencio administrativo.",
+   "demanda": "Aplicar",
+   "enunciado": "Una empresa pide un permiso de uso de suelo. Pasan treinta y cinco días sin respuesta ni causa legal de suspensión. ¿Qué efecto se produce, por regla general?",
+   "opciones": [
+    {
+     "texto": "Se entiende aprobada la petición por silencio positivo.",
+     "justificacion": "Correcta. Vencido el término de treinta días sin resolución, la petición se entiende aprobada (art. 207 COA), salvo excepciones legales."
+    },
+    {
+     "texto": "Se entiende negada y queda abierta la vía judicial.",
+     "justificacion": "Incorrecta. El COA no consagra el silencio negativo como regla."
+    },
+    {
+     "texto": "El trámite caduca y la empresa debe presentarlo de nuevo.",
+     "justificacion": "Incorrecta. La inacción de la administración no perjudica al peticionario."
+    },
+    {
+     "texto": "La empresa debe esperar un año y presentar una queja.",
+     "justificacion": "Incorrecta. No existe ese plazo ni ese requisito."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "NV-ADM-04",
+   "area": 1,
+   "dificultad": 3,
+   "subarea": "Derecho Administrativo",
+   "tema": "Eficacia del acto",
+   "resultado": "Resuelve el caso aplicando eficacia del acto.",
+   "demanda": "Aplicar",
+   "enunciado": "Una resolución que revoca un permiso se notifica en una dirección que no corresponde al administrado, quien nunca la recibe. ¿Qué afirmación es correcta?",
+   "opciones": [
+    {
+     "texto": "El acto puede ser válido, pero no es eficaz hasta notificarse bien.",
+     "justificacion": "Correcta. El acto administrativo es eficaz una vez notificado (art. 101 COA); una notificación defectuosa impide oponerlo y ejecutarlo."
+    },
+    {
+     "texto": "El acto es nulo de pleno derecho por la notificación errónea.",
+     "justificacion": "Incorrecta. La notificación no es requisito de validez."
+    },
+    {
+     "texto": "El acto surte efectos desde su firma, aunque no se notifique.",
+     "justificacion": "Incorrecta. Sin notificación válida no hay eficacia."
+    },
+    {
+     "texto": "Basta con publicar el acto en la página web de la entidad.",
+     "justificacion": "Incorrecta. La publicación no sustituye la notificación personal."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "NV-ADM-05",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Administrativo",
+   "tema": "Causales de nulidad",
+   "resultado": "Resuelve el caso aplicando causales de nulidad.",
+   "demanda": "Analizar",
+   "enunciado": "¿Cuál de las siguientes situaciones constituye causal de nulidad del acto administrativo según el COA?",
+   "opciones": [
+    {
+     "texto": "Que lo dicte un órgano manifiestamente incompetente por materia.",
+     "justificacion": "Correcta. La incompetencia manifiesta por materia, territorio o tiempo es causal de nulidad (art. 105 COA)."
+    },
+    {
+     "texto": "Que tenga un error en el número de expediente asignado por la entidad.",
+     "justificacion": "Incorrecta. Es un vicio subsanable sin trascendencia."
+    },
+    {
+     "texto": "Que se notifique un día después del término previsto en la norma.",
+     "justificacion": "Incorrecta. Afecta la eficacia, no la validez."
+    },
+    {
+     "texto": "Que cite un artículo mal numerado pero aplicable.",
+     "justificacion": "Incorrecta. Es un error material subsanable."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "NV-ADM-06",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Administrativo",
+   "tema": "Lesividad",
+   "resultado": "Resuelve el caso aplicando lesividad.",
+   "demanda": "Analizar",
+   "enunciado": "Una entidad advierte que otorgó a un particular un acto favorable ilegítimo, aunque no incurso en causal de nulidad, y quiere dejarlo sin efecto. ¿Qué vía corresponde?",
+   "opciones": [
+    {
+     "texto": "Declararlo lesivo y demandar su anulación ante el tribunal contencioso.",
+     "justificacion": "Correcta. Los actos favorables que no son nulos no pueden revocarse directamente: la administración debe declararlos lesivos e impugnarlos en sede judicial (acción de lesividad, COA)."
+    },
+    {
+     "texto": "Revocarlo directamente por razones de oportunidad y conveniencia institucional.",
+     "justificacion": "Incorrecta. La revocación directa de actos favorables está restringida."
+    },
+    {
+     "texto": "Pedir al particular que interponga recurso de apelación.",
+     "justificacion": "Incorrecta. El recurso es un medio del administrado, no de la entidad."
+    },
+    {
+     "texto": "Dejarlo sin efecto mediante un nuevo informe técnico.",
+     "justificacion": "Incorrecta. Un informe no extingue un acto administrativo."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "NV-ADM-07",
+   "area": 1,
+   "dificultad": 3,
+   "subarea": "Derecho Administrativo",
+   "tema": "Avocación",
+   "resultado": "Resuelve el caso aplicando avocación.",
+   "demanda": "Comprender",
+   "enunciado": "El ministro decide asumir el conocimiento de un expediente que correspondía a una subsecretaría bajo su dependencia. ¿Qué figura aplica?",
+   "opciones": [
+    {
+     "texto": "Avocación.",
+     "justificacion": "Correcta. La avocación permite al órgano superior asumir el conocimiento de un asunto atribuido a un inferior jerárquico (formas de transferencia de la competencia, COA)."
+    },
+    {
+     "texto": "Delegación.",
+     "justificacion": "Incorrecta. La delegación transfiere el ejercicio al inferior, no al superior."
+    },
+    {
+     "texto": "Suplencia.",
+     "justificacion": "Incorrecta. La suplencia cubre la ausencia del titular."
+    },
+    {
+     "texto": "Encomienda de gestión.",
+     "justificacion": "Incorrecta. Se refiere a actividades materiales o técnicas."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "NV-ADM-08",
+   "area": 1,
+   "dificultad": 2,
+   "subarea": "Derecho Administrativo",
+   "tema": "Recursos administrativos",
+   "resultado": "Resuelve el caso aplicando recursos administrativos.",
+   "demanda": "Recordar",
+   "enunciado": "Según el Código Orgánico Administrativo, ¿qué recursos administrativos pueden interponerse contra los actos administrativos?",
+   "opciones": [
+    {
+     "texto": "Apelación y extraordinario de revisión.",
+     "justificacion": "Correcta. El COA prevé el recurso de apelación y el extraordinario de revisión (art. 219 COA)."
+    },
+    {
+     "texto": "Reposición, apelación y revisión.",
+     "justificacion": "Incorrecta. El COA eliminó la reposición como recurso general."
+    },
+    {
+     "texto": "Casación y apelación administrativa.",
+     "justificacion": "Incorrecta. La casación es un recurso judicial."
+    },
+    {
+     "texto": "Revocatoria y nulidad ante la Contraloría.",
+     "justificacion": "Incorrecta. No son recursos administrativos del COA."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "NV-ADM-09",
+   "area": 1,
+   "dificultad": 3,
+   "subarea": "Derecho Administrativo",
+   "tema": "Presunción de legitimidad",
+   "resultado": "Resuelve el caso aplicando presunción de legitimidad.",
+   "demanda": "Aplicar",
+   "enunciado": "Un administrado considera ilegal una multa válidamente notificada y presenta recurso de apelación. ¿Qué efecto tiene el recurso sobre la ejecución de la multa?",
+   "opciones": [
+    {
+     "texto": "En principio no la suspende, salvo que se pida y conceda la suspensión.",
+     "justificacion": "Correcta. Los actos administrativos se presumen legítimos y ejecutorios; la interposición de recursos no suspende la ejecución, salvo que el órgano la suspenda en los casos legales (COA)."
+    },
+    {
+     "texto": "La suspende automáticamente hasta que se resuelva el recurso.",
+     "justificacion": "Incorrecta. La suspensión no es automática."
+    },
+    {
+     "texto": "La anula, porque el acto deja de presumirse legítimo.",
+     "justificacion": "Incorrecta. La presunción subsiste mientras no se declare su invalidez."
+    },
+    {
+     "texto": "La convierte en una obligación natural no exigible.",
+     "justificacion": "Incorrecta. La categoría civil no aplica a la multa."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "NV-ADM-10",
+   "area": 1,
+   "dificultad": 3,
+   "subarea": "Derecho Administrativo",
+   "tema": "Responsabilidad del Estado",
+   "resultado": "Resuelve el caso aplicando responsabilidad del estado.",
+   "demanda": "Aplicar",
+   "enunciado": "Un vehículo municipal mal estacionado causa un accidente que daña la propiedad de un vecino. ¿Cómo responde el municipio?",
+   "opciones": [
+    {
+     "texto": "Objetivamente, y luego repite contra el servidor responsable.",
+     "justificacion": "Correcta. El Estado responde por las acciones u omisiones de sus servidores en el desempeño de sus cargos y ejerce el derecho de repetición (art. 11 num. 9 CRE)."
+    },
+    {
+     "texto": "No responde, porque el daño lo causó un servidor individual.",
+     "justificacion": "Incorrecta. La responsabilidad del Estado es directa frente al afectado."
+    },
+    {
+     "texto": "Solo responde si se prueba el dolo del conductor municipal.",
+     "justificacion": "Incorrecta. La responsabilidad estatal no exige dolo."
+    },
+    {
+     "texto": "Responde solo si el vecino obtiene una sentencia penal previa.",
+     "justificacion": "Incorrecta. No se exige una condena penal."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "NV-CIV-01",
+   "area": 4,
+   "dificultad": 3,
+   "subarea": "Personas y Familia",
+   "tema": "Incapacidad relativa",
+   "resultado": "Resuelve el caso aplicando incapacidad relativa.",
+   "demanda": "Aplicar",
+   "enunciado": "Sebastián, de quince años, compra una bicicleta a plazos sin intervención de sus representantes. ¿Qué calificación corresponde a su capacidad?",
+   "opciones": [
+    {
+     "texto": "Es relativamente incapaz, por ser menor adulto.",
+     "justificacion": "Correcta. El adolescente (menor adulto) es relativamente incapaz (arts. 21 y 1463 CC); sus actos adolecen de nulidad relativa."
+    },
+    {
+     "texto": "Es absolutamente incapaz, por ser menor de edad.",
+     "justificacion": "Incorrecta. La incapacidad absoluta corresponde a los impúberes."
+    },
+    {
+     "texto": "Es plenamente capaz, por tener más de doce años.",
+     "justificacion": "Incorrecta. La plena capacidad llega a los dieciocho años."
+    },
+    {
+     "texto": "Es capaz si el vendedor ignoraba su edad.",
+     "justificacion": "Incorrecta. La ignorancia del vendedor no otorga capacidad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "NV-CIV-02",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Disolución de la sociedad conyugal",
+   "resultado": "Resuelve el caso aplicando disolución de la sociedad conyugal.",
+   "demanda": "Analizar",
+   "enunciado": "¿Cuál de las siguientes situaciones NO disuelve la sociedad conyugal según el Código Civil?",
+   "opciones": [
+    {
+     "texto": "La separación de hecho prolongada de los cónyuges.",
+     "justificacion": "Correcta. La separación de hecho no figura entre las causas taxativas de disolución del art. 189 CC."
+    },
+    {
+     "texto": "La sentencia de divorcio debidamente inscrita.",
+     "justificacion": "Incorrecta. El divorcio disuelve la sociedad conyugal."
+    },
+    {
+     "texto": "La muerte de uno de los cónyuges.",
+     "justificacion": "Incorrecta. La muerte disuelve la sociedad conyugal."
+    },
+    {
+     "texto": "La sentencia de disolución pedida por un cónyuge.",
+     "justificacion": "Incorrecta. Es causa de disolución prevista en la ley."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "NV-CIV-03",
+   "area": 4,
+   "dificultad": 3,
+   "subarea": "Personas y Familia",
+   "tema": "Bienes propios",
+   "resultado": "Resuelve el caso aplicando bienes propios.",
+   "demanda": "Aplicar",
+   "enunciado": "Durante el matrimonio, sin capitulaciones, Paula recibe de su tía la donación de un terreno. ¿Cómo se clasifica el terreno?",
+   "opciones": [
+    {
+     "texto": "Como bien propio de Paula, por adquirirse a título gratuito.",
+     "justificacion": "Correcta. Los bienes adquiridos durante el matrimonio a título gratuito (donación, herencia, legado) no ingresan al haber social (CC)."
+    },
+    {
+     "texto": "Como haber social, porque se adquirió durante el matrimonio.",
+     "justificacion": "Incorrecta. El título gratuito excluye el bien del haber social."
+    },
+    {
+     "texto": "Como copropiedad entre Paula y su cónyuge por mitades.",
+     "justificacion": "Incorrecta. No hay base para la copropiedad."
+    },
+    {
+     "texto": "Como haber social, si el cónyuge acepta la donación.",
+     "justificacion": "Incorrecta. La aceptación del cónyuge no cambia el título."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "NV-CIV-04",
+   "area": 4,
+   "dificultad": 2,
+   "subarea": "Personas y Familia",
+   "tema": "Edad para contraer matrimonio",
+   "resultado": "Resuelve el caso aplicando edad para contraer matrimonio.",
+   "demanda": "Recordar",
+   "enunciado": "Dos adolescentes de diecisiete años quieren casarse con la autorización expresa de sus padres. ¿Es posible?",
+   "opciones": [
+    {
+     "texto": "No: la edad mínima es dieciocho años y la autorización no la suple.",
+     "justificacion": "Correcta. Desde la reforma de 2015 es nulo el matrimonio de menores de dieciocho años (art. 95 num. 2 CC), sin que la autorización de los padres lo valide."
+    },
+    {
+     "texto": "Sí, con la autorización de ambos progenitores ante notario.",
+     "justificacion": "Incorrecta. La autorización parental ya no habilita el matrimonio."
+    },
+    {
+     "texto": "Sí, si un juez de familia lo autoriza expresamente por una causa justa.",
+     "justificacion": "Incorrecta. No existe dispensa judicial de edad."
+    },
+    {
+     "texto": "Sí, si al menos uno de ellos es mayor de dieciséis años.",
+     "justificacion": "Incorrecta. Ambos deben tener al menos dieciocho años."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "NV-CIV-05",
+   "area": 4,
+   "dificultad": 3,
+   "subarea": "Personas y Familia",
+   "tema": "Divorcio por mutuo acuerdo",
+   "resultado": "Resuelve el caso aplicando divorcio por mutuo acuerdo.",
+   "demanda": "Aplicar",
+   "enunciado": "Ana y Jorge, sin hijos menores ni dependientes, deciden divorciarse de mutuo acuerdo. ¿Ante quién pueden tramitarlo?",
+   "opciones": [
+    {
+     "texto": "Ante notario, por no tener hijos menores ni dependientes.",
+     "justificacion": "Correcta. El divorcio por mutuo consentimiento de cónyuges sin hijos menores de edad o bajo su dependencia puede tramitarse ante notario (Ley Notarial), además de la vía judicial."
+    },
+    {
+     "texto": "Solo ante la jueza o el juez de familia del domicilio de cualquiera de ellos.",
+     "justificacion": "Incorrecta. La vía notarial también está prevista en este supuesto."
+    },
+    {
+     "texto": "Ante el Registro Civil, con dos testigos.",
+     "justificacion": "Incorrecta. El Registro Civil inscribe el divorcio, no lo declara."
+    },
+    {
+     "texto": "Ante un centro de mediación, con acta de acuerdo total.",
+     "justificacion": "Incorrecta. El acta de mediación no declara el divorcio."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "NV-CIV-06",
+   "area": 4,
+   "dificultad": 3,
+   "subarea": "Personas y Familia",
+   "tema": "Obligados subsidiarios de alimentos",
+   "resultado": "Resuelve el caso aplicando obligados subsidiarios de alimentos.",
+   "demanda": "Aplicar",
+   "enunciado": "El padre de un niño se encuentra ausente y la madre no puede cubrir la pensión. ¿Quiénes pueden ser obligados subsidiariamente?",
+   "opciones": [
+    {
+     "texto": "Los abuelos, los hermanos mayores de veintiún años y los tíos.",
+     "justificacion": "Correcta. El Código de la Niñez y Adolescencia establece obligados subsidiarios, en ese orden, cuando faltan o no pueden cumplir los principales."
+    },
+    {
+     "texto": "Solo el Estado, mediante el bono de desarrollo humano.",
+     "justificacion": "Incorrecta. La ley prevé primero obligados subsidiarios familiares."
+    },
+    {
+     "texto": "Los primos y sobrinos del progenitor ausente.",
+     "justificacion": "Incorrecta. No están entre los obligados subsidiarios."
+    },
+    {
+     "texto": "Nadie: la obligación de alimentos es solo de los progenitores.",
+     "justificacion": "Incorrecta. La ley prevé obligados subsidiarios."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CONA"
+   ]
+  },
+  {
+   "id": "NV-CIV-07",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Preferencia materna",
+   "resultado": "Resuelve el caso aplicando preferencia materna.",
+   "demanda": "Evaluar",
+   "enunciado": "En un juicio de tenencia, la madre invoca la regla legal que prefiere a la madre para confiarle a los hijos. ¿Cuál es el estado actual de esa regla?",
+   "opciones": [
+    {
+     "texto": "Fue declarada inconstitucional; rige el interés superior del niño.",
+     "justificacion": "Correcta. La Corte Constitucional declaró inconstitucional la preferencia materna automática (sentencia 28-15-IN/21); la tenencia se decide según el interés superior y la opinión del niño."
+    },
+    {
+     "texto": "Sigue vigente y obliga al juez a preferir a la madre en todos los casos.",
+     "justificacion": "Incorrecta. La preferencia automática fue expulsada del ordenamiento."
+    },
+    {
+     "texto": "Rige solo para niños menores de doce años.",
+     "justificacion": "Incorrecta. No subsiste una preferencia por edad."
+    },
+    {
+     "texto": "Fue reemplazada por una preferencia a favor del padre.",
+     "justificacion": "Incorrecta. No existe preferencia por el sexo del progenitor."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CCE2815",
+    "CONA"
+   ]
+  },
+  {
+   "id": "NV-CIV-08",
+   "area": 4,
+   "dificultad": 3,
+   "subarea": "Personas y Familia",
+   "tema": "Patria potestad y tenencia",
+   "resultado": "Resuelve el caso aplicando patria potestad y tenencia.",
+   "demanda": "Comprender",
+   "enunciado": "Tras el divorcio, la tenencia de los hijos se confía a la madre. ¿Qué ocurre con la patria potestad del padre?",
+   "opciones": [
+    {
+     "texto": "La conserva, salvo suspensión o pérdida declarada judicialmente.",
+     "justificacion": "Correcta. La tenencia es el cuidado cotidiano; la patria potestad es el conjunto de derechos de los padres sobre los hijos no emancipados (art. 283 CC) y no se pierde por el divorcio."
+    },
+    {
+     "texto": "La pierde automáticamente con la sentencia de divorcio.",
+     "justificacion": "Incorrecta. El divorcio no extingue la patria potestad."
+    },
+    {
+     "texto": "Se suspende hasta que los hijos cumplan dieciocho años.",
+     "justificacion": "Incorrecta. No existe esa suspensión automática."
+    },
+    {
+     "texto": "Pasa al Estado mientras la madre tenga la tenencia.",
+     "justificacion": "Incorrecta. El Estado no asume la patria potestad en este caso."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC",
+    "CONA"
+   ]
+  },
+  {
+   "id": "NV-CIV-09",
+   "area": 4,
+   "dificultad": 3,
+   "subarea": "Personas y Familia",
+   "tema": "Parentesco colateral",
+   "resultado": "Resuelve el caso aplicando parentesco colateral.",
+   "demanda": "Aplicar",
+   "enunciado": "Martín y Sofía son primos hermanos (hijos de dos hermanos) y quieren casarse. ¿Qué parentesco tienen y qué efecto produce?",
+   "opciones": [
+    {
+     "texto": "Colateral de cuarto grado; el matrimonio es válido.",
+     "justificacion": "Correcta. Entre primos hermanos hay cuatro generaciones (art. 22 CC); solo es nulo el matrimonio entre colaterales en segundo grado (art. 95 CC)."
+    },
+    {
+     "texto": "Colateral de segundo grado; el matrimonio es nulo.",
+     "justificacion": "Incorrecta. El segundo grado corresponde a los hermanos."
+    },
+    {
+     "texto": "Colateral de tercer grado; el matrimonio es nulo.",
+     "justificacion": "Incorrecta. El tercer grado corresponde a tío y sobrino, y tampoco es impedimento."
+    },
+    {
+     "texto": "Afinidad de cuarto grado; el matrimonio requiere dispensa.",
+     "justificacion": "Incorrecta. Son parientes por consanguinidad, no por afinidad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "NV-CIV-10",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Pluralidad de domicilios",
+   "resultado": "Resuelve el caso aplicando pluralidad de domicilios.",
+   "demanda": "Analizar",
+   "enunciado": "Un comerciante tiene su familia y una tienda en Ambato, y otra tienda con casa propia en Latacunga, donde pasa la mitad de la semana. ¿Cuál es su domicilio civil?",
+   "opciones": [
+    {
+     "texto": "Tiene domicilio en ambas ciudades.",
+     "justificacion": "Correcta. Cuando en varias secciones territoriales concurren circunstancias constitutivas de domicilio civil, se entiende que la persona tiene domicilio en todas ellas (CC)."
+    },
+    {
+     "texto": "Solo Ambato, por vivir allí su familia.",
+     "justificacion": "Incorrecta. En ambas ciudades concurren circunstancias constitutivas de domicilio."
+    },
+    {
+     "texto": "Solo Latacunga, por tener allí casa propia.",
+     "justificacion": "Incorrecta. La propiedad de la casa no excluye el otro domicilio."
+    },
+    {
+     "texto": "El de su nacimiento, al no poder determinarse uno solo.",
+     "justificacion": "Incorrecta. El lugar de nacimiento no fija el domicilio."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "NV-CIV-11",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Rescisión por fuerza",
+   "resultado": "Resuelve el caso aplicando rescisión por fuerza.",
+   "demanda": "Analizar",
+   "enunciado": "Bajo amenazas que duraron hasta enero de 2024, Pedro firmó en junio de 2023 una venta. ¿Desde cuándo corre el plazo de cuatro años para pedir la rescisión?",
+   "opciones": [
+    {
+     "texto": "Desde enero de 2024, cuando cesó la violencia.",
+     "justificacion": "Correcta. En caso de violencia o fuerza, el cuatrienio se cuenta desde el día en que esta cesó (art. 1708 CC)."
+    },
+    {
+     "texto": "Desde junio de 2023, fecha de la firma.",
+     "justificacion": "Incorrecta. Ese cómputo rige para el error y el dolo."
+    },
+    {
+     "texto": "Desde que Pedro denuncia las amenazas ante la Fiscalía.",
+     "justificacion": "Incorrecta. La denuncia no fija el inicio del plazo."
+    },
+    {
+     "texto": "Desde la inscripción de la venta en el Registro.",
+     "justificacion": "Incorrecta. La inscripción no determina el cómputo."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "NV-CIV-12",
+   "area": 4,
+   "dificultad": 3,
+   "subarea": "Personas y Familia",
+   "tema": "Saneamiento de la nulidad relativa",
+   "resultado": "Resuelve el caso aplicando saneamiento de la nulidad relativa.",
+   "demanda": "Aplicar",
+   "enunciado": "Un adolescente vendió un bien sin autorización. Al cumplir dieciocho años, ratifica expresamente la venta. ¿Qué efecto tiene la ratificación?",
+   "opciones": [
+    {
+     "texto": "Sanea la nulidad relativa y el contrato queda firme.",
+     "justificacion": "Correcta. La nulidad relativa puede sanearse por la ratificación de las partes o por el transcurso del tiempo (CC); lo hace quien ya es capaz."
+    },
+    {
+     "texto": "Ninguno, porque la nulidad es absoluta e insaneable.",
+     "justificacion": "Incorrecta. La incapacidad del menor adulto produce nulidad relativa."
+    },
+    {
+     "texto": "Solo sana si la aprueba un juez de familia.",
+     "justificacion": "Incorrecta. La ratificación del ya capaz basta."
+    },
+    {
+     "texto": "Convierte el contrato en una donación revocable.",
+     "justificacion": "Incorrecta. No cambia la naturaleza del contrato."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "NV-DPG-01",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Derecho Procesal General",
+   "tema": "Prorrogación tácita",
+   "resultado": "Resuelve el caso aplicando prorrogación tácita.",
+   "demanda": "Aplicar",
+   "enunciado": "Se demanda en Quito a una persona domiciliada en Loja. El demandado contesta sobre el fondo sin alegar incompetencia. ¿Qué ocurre con la competencia territorial?",
+   "opciones": [
+    {
+     "texto": "Se prorroga tácitamente a favor del juez de Quito.",
+     "justificacion": "Correcta. La competencia territorial puede prorrogarse por sometimiento tácito de las partes (art. 162 COFJ)."
+    },
+    {
+     "texto": "El juez debe inhibirse de oficio en cualquier estado.",
+     "justificacion": "Incorrecta. La incompetencia territorial es prorrogable."
+    },
+    {
+     "texto": "El proceso es nulo por falta de competencia material.",
+     "justificacion": "Incorrecta. El problema es territorial, no material."
+    },
+    {
+     "texto": "La causa debe remitirse a la Corte Provincial de Loja.",
+     "justificacion": "Incorrecta. No hay remisión en este supuesto."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COFJ"
+   ]
+  },
+  {
+   "id": "NV-DPG-02",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Excusa y recusación",
+   "resultado": "Resuelve el caso aplicando excusa y recusación.",
+   "demanda": "Comprender",
+   "enunciado": "Un juez advierte que es primo hermano de la parte actora y se aparta por su propia iniciativa. ¿Qué figura utiliza?",
+   "opciones": [
+    {
+     "texto": "La excusa.",
+     "justificacion": "Correcta. La excusa es el apartamiento voluntario del juzgador incurso en causal; la recusación la plantea una parte (COGEP)."
+    },
+    {
+     "texto": "La recusación.",
+     "justificacion": "Incorrecta. La recusación la propone una de las partes."
+    },
+    {
+     "texto": "La inhibición por incompetencia.",
+     "justificacion": "Incorrecta. Su competencia no está en duda."
+    },
+    {
+     "texto": "La prorrogación de la competencia.",
+     "justificacion": "Incorrecta. No guarda relación con la imparcialidad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "NV-DPG-03",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Recurso de aclaración",
+   "resultado": "Resuelve el caso aplicando recurso de aclaración.",
+   "demanda": "Aplicar",
+   "enunciado": "La parte resolutiva de una sentencia es oscura y admite dos lecturas sobre el monto a pagar. ¿Qué recurso horizontal corresponde?",
+   "opciones": [
+    {
+     "texto": "Aclaración.",
+     "justificacion": "Correcta. La aclaración procede cuando la sentencia es oscura (art. 253 COGEP)."
+    },
+    {
+     "texto": "Ampliación.",
+     "justificacion": "Incorrecta. Procede cuando se omitió resolver un punto."
+    },
+    {
+     "texto": "Casación.",
+     "justificacion": "Incorrecta. Es un recurso extraordinario vertical."
+    },
+    {
+     "texto": "De hecho.",
+     "justificacion": "Incorrecta. Procede contra la negativa de un recurso."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "NV-DPG-04",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Derecho Procesal General",
+   "tema": "Tercería coadyuvante",
+   "resultado": "Resuelve el caso aplicando tercería coadyuvante.",
+   "demanda": "Aplicar",
+   "enunciado": "Un subarrendatario interviene en un juicio entre arrendador y arrendatario para apoyar la posición del arrendatario. ¿Qué clase de tercería es?",
+   "opciones": [
+    {
+     "texto": "Coadyuvante.",
+     "justificacion": "Correcta. El tercero coadyuvante interviene para apoyar la pretensión de una de las partes, por tener interés en el resultado (art. 47 COGEP)."
+    },
+    {
+     "texto": "Excluyente de dominio.",
+     "justificacion": "Incorrecta. No reclama para sí el derecho discutido."
+    },
+    {
+     "texto": "Excluyente de pago.",
+     "justificacion": "Incorrecta. No pretende ser pagado con preferencia."
+    },
+    {
+     "texto": "Litisconsorcio necesario.",
+     "justificacion": "Incorrecta. No es parte originaria indispensable."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "NV-DPG-05",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Derecho Procesal General",
+   "tema": "Elementos de la jurisdicción",
+   "resultado": "Resuelve el caso aplicando elementos de la jurisdicción.",
+   "demanda": "Comprender",
+   "enunciado": "¿Qué elemento de la jurisdicción permite al juez hacer cumplir coactivamente lo resuelto?",
+   "opciones": [
+    {
+     "texto": "La executio.",
+     "justificacion": "Correcta. La executio es la potestad de hacer ejecutar lo juzgado, incluso con el auxilio de la fuerza pública; se distingue de la notio, la vocatio, la coertio y el iudicium."
+    },
+    {
+     "texto": "La notio.",
+     "justificacion": "Incorrecta. Es la facultad de conocer el asunto."
+    },
+    {
+     "texto": "La vocatio.",
+     "justificacion": "Incorrecta. Es la facultad de convocar a las partes."
+    },
+    {
+     "texto": "El iudicium.",
+     "justificacion": "Incorrecta. Es la facultad de dictar sentencia."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COFJ"
+   ]
+  },
+  {
+   "id": "NV-DPG-06",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Partes procesales",
+   "resultado": "Resuelve el caso aplicando partes procesales.",
+   "demanda": "Comprender",
+   "enunciado": "Una comuna indígena quiere demandar a una empresa por la afectación de su territorio. ¿Puede ser parte procesal?",
+   "opciones": [
+    {
+     "texto": "Sí: el COGEP reconoce a comunidades y colectivos como partes.",
+     "justificacion": "Correcta. El art. 30 COGEP reconoce como partes, además de personas naturales y jurídicas, a comunidades, pueblos, nacionalidades y colectivos, y a la naturaleza."
+    },
+    {
+     "texto": "No: solo las personas naturales y jurídicas pueden ser partes.",
+     "justificacion": "Incorrecta. El COGEP amplía el catálogo de partes."
+    },
+    {
+     "texto": "Solo si antes se constituye como compañía anónima.",
+     "justificacion": "Incorrecta. No necesita constituirse como sociedad."
+    },
+    {
+     "texto": "Solo por medio de la Defensoría del Pueblo.",
+     "justificacion": "Incorrecta. Puede comparecer por sus propios representantes."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "NV-DPG-07",
+   "area": 3,
+   "dificultad": 2,
+   "subarea": "Derecho Procesal General",
+   "tema": "Facultades especiales del procurador",
+   "resultado": "Resuelve el caso aplicando facultades especiales del procurador.",
+   "demanda": "Aplicar",
+   "enunciado": "El procurador judicial de una empresa, sin cláusula especial, quiere desistir del proceso. ¿Puede hacerlo?",
+   "opciones": [
+    {
+     "texto": "No: desistir requiere una cláusula especial en la procuración.",
+     "justificacion": "Correcta. Desistir, allanarse, transigir y recibir valores, entre otros actos, requieren cláusula especial (art. 43 COGEP)."
+    },
+    {
+     "texto": "Sí: la procuración general habilita cualquier acto procesal.",
+     "justificacion": "Incorrecta. Ciertos actos exigen facultad expresa."
+    },
+    {
+     "texto": "Sí, si el juez lo autoriza en la audiencia preliminar.",
+     "justificacion": "Incorrecta. La autorización judicial no suple el mandato."
+    },
+    {
+     "texto": "Sí, si la contraparte acepta el desistimiento.",
+     "justificacion": "Incorrecta. La aceptación contraria no suple la facultad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "NV-DPG-08",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Derecho Procesal General",
+   "tema": "Cosa juzgada como excepción",
+   "resultado": "Resuelve el caso aplicando cosa juzgada como excepción.",
+   "demanda": "Aplicar",
+   "enunciado": "El actor demanda nuevamente a la misma persona, por el mismo objeto y la misma causa, que ya fueron resueltos en una sentencia ejecutoriada. ¿Qué excepción previa corresponde?",
+   "opciones": [
+    {
+     "texto": "Cosa juzgada.",
+     "justificacion": "Correcta. La cosa juzgada es excepción previa del art. 153 COGEP y deriva del efecto irrevocable de la sentencia ejecutoriada (arts. 99 y 101 COGEP)."
+    },
+    {
+     "texto": "Litispendencia.",
+     "justificacion": "Incorrecta. Supone un proceso todavía pendiente."
+    },
+    {
+     "texto": "Caducidad.",
+     "justificacion": "Incorrecta. Se refiere a la extinción por el paso del tiempo."
+    },
+    {
+     "texto": "Falta de capacidad.",
+     "justificacion": "Incorrecta. Nada indica un problema de capacidad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  }
+ ]
+}
