@@ -1,0 +1,3238 @@
+{
+ "id": "pack-007",
+ "titulo": "Paquete 7 · 100 casos de razonamiento jurídico",
+ "bibliografia": {
+  "CADH": "Organización de los Estados Americanos. (1969). Convención Americana sobre Derechos Humanos. https://www.oas.org/dil/esp/tratados_b-32_convencion_americana_sobre_derechos_humanos.htm",
+  "CC": "Congreso Nacional del Ecuador. (2005). Código Civil (Codificación). Registro Oficial Suplemento 46, 24 de junio de 2005 (última reforma: Registro Oficial Segundo Suplemento 61, 17 de junio de 2025). https://www.registroficial.gob.ec/",
+  "CCOM": "Asamblea Nacional del Ecuador. (2019). Código de Comercio. Registro Oficial Suplemento 497, 29 de mayo de 2019. https://www.registroficial.gob.ec/",
+  "COA": "Asamblea Nacional del Ecuador. (2017). Código Orgánico Administrativo. Registro Oficial Segundo Suplemento 31, 7 de julio de 2017. https://www.registroficial.gob.ec/",
+  "COGEP": "Asamblea Nacional del Ecuador. (2015). Código Orgánico General de Procesos. Registro Oficial Suplemento 506, 22 de mayo de 2015. https://www.funcionjudicial.gob.ec/",
+  "COIP": "Asamblea Nacional del Ecuador. (2014). Código Orgánico Integral Penal. Registro Oficial Suplemento 180, 10 de febrero de 2014. https://www.registroficial.gob.ec/",
+  "CONA": "Congreso Nacional del Ecuador. (2003). Código de la Niñez y Adolescencia. Registro Oficial 737, 3 de enero de 2003. https://www.registroficial.gob.ec/",
+  "CRE": "Asamblea Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449, 20 de octubre de 2008. https://www.asambleanacional.gob.ec/",
+  "CT": "Congreso Nacional del Ecuador. (2005). Código del Trabajo (Codificación). Registro Oficial Suplemento 167, 16 de diciembre de 2005. https://www.trabajo.gob.ec/",
+  "CTRIB": "Congreso Nacional del Ecuador. (2005). Código Tributario (Codificación). Registro Oficial Suplemento 38, 14 de junio de 2005. https://www.sri.gob.ec/",
+  "LAM": "Congreso Nacional del Ecuador. (2006). Ley de Arbitraje y Mediación (Codificación). Registro Oficial 417, 14 de diciembre de 2006. https://www.registroficial.gob.ec/",
+  "LC": "Congreso Nacional del Ecuador. (1999). Ley de Compañías (Codificación). Registro Oficial 312, 5 de noviembre de 1999. https://www.supercias.gob.ec/",
+  "LOGJCC": "Asamblea Nacional del Ecuador. (2009). Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional. Registro Oficial Segundo Suplemento 52, 22 de octubre de 2009. https://www.corteconstitucional.gob.ec/",
+  "LOSNCP": "Asamblea Nacional del Ecuador. (2008). Ley Orgánica del Sistema Nacional de Contratación Pública. Registro Oficial Suplemento 395, 4 de agosto de 2008. https://portal.compraspublicas.gob.ec/"
+ },
+ "preguntas": [
+  {
+   "id": "RZ-CON-01",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Constitucional",
+   "tema": "Acción de protección contra decisiones judiciales",
+   "resultado": "Resuelve un caso de acción de protección contra decisiones judiciales razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Una persona pierde un juicio civil en todas las instancias y, convencida de que el juez vulneró su derecho a la defensa, presenta una acción de protección contra la sentencia ejecutoriada. ¿Cuál es el razonamiento correcto del juez constitucional?",
+   "opciones": [
+    {
+     "texto": "Es improcedente; contra sentencias firmes cabe la acción extraordinaria.",
+     "justificacion": "Correcta. La acción de protección no procede contra providencias judiciales (art. 42 num. 6 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional); la vulneración de derechos en sentencias firmes se reclama ante la Corte Constitucional mediante acción extraordinaria de protección (art. 94 de la Constitución)."
+    },
+    {
+     "texto": "Es procedente, porque la defensa es un derecho constitucional directamente tutelable.",
+     "justificacion": "Incorrecta. Que el derecho sea tutelable no habilita esta garantía contra decisiones judiciales (art. 42 num. 6 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional)."
+    },
+    {
+     "texto": "Es procedente si se presenta dentro de los veinte días posteriores a la ejecutoria.",
+     "justificacion": "Incorrecta. El término de veinte días es de la acción extraordinaria de protección (art. 60 de la misma ley), no de la acción de protección."
+    },
+    {
+     "texto": "Debe reconducirla de oficio a un recurso de revisión ante la Corte Nacional.",
+     "justificacion": "Incorrecta. No existe esa reconducción; la vía constitucional adecuada es la acción extraordinaria de protección."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "LOGJCC"
+   ]
+  },
+  {
+   "id": "RZ-CON-02",
+   "area": 1,
+   "dificultad": 5,
+   "subarea": "Derecho Constitucional",
+   "tema": "Acción extraordinaria de protección y agotamiento de recursos",
+   "resultado": "Resuelve un caso de acción extraordinaria de protección y agotamiento de recursos razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "El abogado de una parte olvidó apelar una sentencia de primera instancia que, a su juicio, vulneró el debido proceso. Ya ejecutoriada, presenta acción extraordinaria de protección. ¿Qué argumento decide la admisibilidad?",
+   "opciones": [
+    {
+     "texto": "No se agotaron los recursos y la omisión es atribuible a la negligencia de la parte.",
+     "justificacion": "Correcta. La acción extraordinaria de protección exige agotar los recursos ordinarios y extraordinarios, salvo que su falta de interposición no sea atribuible a la negligencia del titular del derecho (art. 94 de la Constitución; art. 61 num. 3 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional)."
+    },
+    {
+     "texto": "La gravedad de la vulneración al debido proceso dispensa de agotar los recursos ordinarios.",
+     "justificacion": "Incorrecta. La gravedad no reemplaza el requisito de agotamiento previsto en el art. 94 de la Constitución."
+    },
+    {
+     "texto": "Basta con que la sentencia esté ejecutoriada, porque es una decisión judicial definitiva.",
+     "justificacion": "Incorrecta. La ejecutoria es necesaria, pero también se exige agotar los recursos disponibles."
+    },
+    {
+     "texto": "Procede, porque el error del abogado no puede perjudicar los derechos de su cliente.",
+     "justificacion": "Incorrecta. La Constitución excluye expresamente la falta de recursos atribuible a negligencia de la parte, y la negligencia del patrocinador se imputa a ella."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "LOGJCC"
+   ]
+  },
+  {
+   "id": "RZ-CON-03",
+   "area": 1,
+   "dificultad": 3,
+   "subarea": "Derecho Constitucional",
+   "tema": "Hábeas data frente a particulares",
+   "resultado": "Resuelve un caso de hábeas data frente a particulares razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Una cooperativa privada mantiene en su base de datos una deuda ya pagada de un socio y se niega a corregirla. El socio quiere obligarla a rectificar el registro. ¿Qué razonamiento es correcto?",
+   "opciones": [
+    {
+     "texto": "Procede hábeas data, porque protege datos personales en archivos públicos o privados.",
+     "justificacion": "Correcta. El hábeas data permite conocer, actualizar, rectificar, eliminar o anular datos personales que consten en entidades públicas o privadas (art. 92 de la Constitución)."
+    },
+    {
+     "texto": "No procede hábeas data, porque esta garantía se limita a registros de entidades públicas.",
+     "justificacion": "Incorrecta. El art. 92 de la Constitución incluye expresamente a las entidades privadas."
+    },
+    {
+     "texto": "Procede la acción de acceso a la información pública, por tratarse de un dato financiero.",
+     "justificacion": "Incorrecta. Esa acción tutela información pública; aquí se trata de datos personales del accionante (art. 91 de la Constitución)."
+    },
+    {
+     "texto": "Debe demandar en juicio ordinario, porque la relación con la cooperativa es contractual.",
+     "justificacion": "Incorrecta. La existencia de un contrato no excluye la garantía específica sobre datos personales del art. 92 de la Constitución."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "LOGJCC"
+   ]
+  },
+  {
+   "id": "RZ-CON-04",
+   "area": 1,
+   "dificultad": 3,
+   "subarea": "Derecho Constitucional",
+   "tema": "Acceso a la información pública",
+   "resultado": "Resuelve un caso de acceso a la información pública razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Un periodista pide a un municipio copias de los contratos de obra pública del último año. El municipio no responde y luego le niega la entrega sin invocar ninguna reserva legal. ¿Qué garantía corresponde?",
+   "opciones": [
+    {
+     "texto": "Acción de acceso a la información pública, porque se negó información pública sin reserva.",
+     "justificacion": "Correcta. La acción de acceso a la información pública procede cuando la información ha sido denegada expresa o tácitamente, y solo la reserva declarada conforme a la ley puede justificar la negativa (art. 91 de la Constitución)."
+    },
+    {
+     "texto": "Hábeas data, porque el periodista quiere conocer información que consta en registros.",
+     "justificacion": "Incorrecta. El hábeas data protege datos personales del titular; los contratos municipales no lo son (art. 92 de la Constitución)."
+    },
+    {
+     "texto": "Acción por incumplimiento, porque el municipio no cumple la Ley de Transparencia.",
+     "justificacion": "Incorrecta. La acción por incumplimiento persigue la aplicación de normas o informes; para la negativa de información existe una garantía específica (art. 91)."
+    },
+    {
+     "texto": "Acción de protección, que es la única garantía apta frente a omisiones municipales.",
+     "justificacion": "Incorrecta. Existe una garantía específica y más adecuada para este supuesto (art. 91 de la Constitución)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "LOGJCC"
+   ]
+  },
+  {
+   "id": "RZ-CON-05",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Constitucional",
+   "tema": "Acción por incumplimiento y reclamo previo",
+   "resultado": "Resuelve un caso de acción por incumplimiento y reclamo previo razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Un colectivo presenta directamente ante la Corte Constitucional una acción por incumplimiento de una ley que obliga a un ministerio a crear un registro. Nunca reclamó antes al ministerio. ¿Cuál es el defecto?",
+   "opciones": [
+    {
+     "texto": "Faltó el reclamo previo de cumplimiento dirigido al ministerio obligado.",
+     "justificacion": "Correcta. La acción por incumplimiento exige haber reclamado previamente el cumplimiento a la autoridad y que esta haya mantenido el incumplimiento o no haya contestado en el término legal (art. 93 de la Constitución; art. 54 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional)."
+    },
+    {
+     "texto": "Debió presentarse ante un juez de primera instancia y no ante la Corte Constitucional.",
+     "justificacion": "Incorrecta. La acción por incumplimiento se presenta ante la Corte Constitucional (art. 93 de la Constitución)."
+    },
+    {
+     "texto": "La acción procede contra sentencias internacionales, no contra leyes internas.",
+     "justificacion": "Incorrecta. Procede para garantizar la aplicación de normas del sistema jurídico y de sentencias o informes internacionales (art. 93)."
+    },
+    {
+     "texto": "Un colectivo carece de legitimación para presentar garantías constitucionales.",
+     "justificacion": "Incorrecta. Las garantías pueden proponerse por cualquier persona, grupo de personas o colectivo (art. 86 num. 1 de la Constitución)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "LOGJCC"
+   ]
+  },
+  {
+   "id": "RZ-CON-06",
+   "area": 1,
+   "dificultad": 5,
+   "subarea": "Derecho Constitucional",
+   "tema": "Consulta de norma y silencio de la Corte",
+   "resultado": "Resuelve un caso de consulta de norma y silencio de la corte razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Un juez suspende un proceso y eleva consulta de constitucionalidad. Transcurren más de cuarenta y cinco días sin que la Corte Constitucional se pronuncie. ¿Qué consecuencia prevé la Constitución?",
+   "opciones": [
+    {
+     "texto": "El perjudicado puede interponer la acción que corresponda ante la Corte.",
+     "justificacion": "Correcta. Si transcurrido el plazo la Corte no se pronuncia, el perjudicado podrá interponer la acción correspondiente (art. 428 de la Constitución); la suspensión no es indefinida."
+    },
+    {
+     "texto": "El juez queda habilitado para declarar la inconstitucionalidad con efectos generales.",
+     "justificacion": "Incorrecta. La declaratoria con efectos generales es competencia exclusiva de la Corte Constitucional (art. 436 de la Constitución)."
+    },
+    {
+     "texto": "La norma consultada se entiende derogada por el silencio de la Corte Constitucional.",
+     "justificacion": "Incorrecta. El silencio no produce derogación ni expulsión de la norma."
+    },
+    {
+     "texto": "El proceso queda suspendido hasta que la Corte resuelva, sin importar el tiempo.",
+     "justificacion": "Incorrecta. La Constitución fija un plazo y prevé una consecuencia para su vencimiento (art. 428)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "RZ-CON-07",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Constitucional",
+   "tema": "Jerarquía normativa y principio de competencia",
+   "resultado": "Resuelve un caso de jerarquía normativa y principio de competencia razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Una ordenanza municipal regula el uso del suelo urbano, competencia exclusiva del municipio, y contradice un decreto ejecutivo sobre la misma materia. ¿Qué norma debe aplicarse y por qué?",
+   "opciones": [
+    {
+     "texto": "La ordenanza, porque la jerarquía considera la competencia exclusiva del gobierno autónomo.",
+     "justificacion": "Correcta. La jerarquía normativa considera el principio de competencia, en especial la titularidad de las competencias exclusivas de los gobiernos autónomos descentralizados (art. 425 de la Constitución); el uso y ocupación del suelo es competencia exclusiva municipal (art. 264 num. 2)."
+    },
+    {
+     "texto": "El decreto, porque en la pirámide normativa los decretos se ubican sobre las ordenanzas.",
+     "justificacion": "Incorrecta. El orden jerárquico del art. 425 se aplica considerando el principio de competencia, que aquí favorece a la ordenanza."
+    },
+    {
+     "texto": "El decreto, porque las normas nacionales prevalecen sobre las locales en caso de conflicto.",
+     "justificacion": "Incorrecta. No hay prevalencia automática de lo nacional cuando la materia es de competencia exclusiva local."
+    },
+    {
+     "texto": "Ninguna, porque el conflicto debe resolverlo la Asamblea Nacional mediante ley interpretativa.",
+     "justificacion": "Incorrecta. Los jueces y autoridades resuelven antinomias aplicando el art. 425 de la Constitución."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "RZ-CON-08",
+   "area": 1,
+   "dificultad": 3,
+   "subarea": "Derechos Humanos",
+   "tema": "Principio pro persona",
+   "resultado": "Resuelve un caso de principio pro persona razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Una norma sobre permisos de maternidad admite dos lecturas: una incluye a las madres adoptivas y otra las excluye. La entidad aplica la segunda por ser \"más literal\". ¿Cuál es el error de razonamiento?",
+   "opciones": [
+    {
+     "texto": "Debió preferir la interpretación que más favorezca la vigencia de los derechos.",
+     "justificacion": "Correcta. En materia de derechos, las servidoras y servidores deben aplicar la norma y la interpretación que más favorezcan su efectiva vigencia (art. 11 num. 5 de la Constitución)."
+    },
+    {
+     "texto": "Debió consultar a la Asamblea Nacional antes de interpretar una norma ambigua.",
+     "justificacion": "Incorrecta. La autoridad administrativa está obligada a aplicar directamente el principio pro persona (art. 11 num. 3 y 5 de la Constitución)."
+    },
+    {
+     "texto": "Ninguno, porque ante normas claras la interpretación literal prevalece.",
+     "justificacion": "Incorrecta. En derechos, el criterio decisivo es el más favorable a su vigencia, no el literal."
+    },
+    {
+     "texto": "Debió aplicar la lectura que menos impacte en el presupuesto de la entidad.",
+     "justificacion": "Incorrecta. La disponibilidad presupuestaria no es criterio para restringir derechos (art. 11 num. 4 de la Constitución)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "RZ-CON-09",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Constitucional",
+   "tema": "Igualdad material y acción afirmativa",
+   "resultado": "Resuelve un caso de igualdad material y acción afirmativa razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Una convocatoria pública reserva un porcentaje de plazas para personas con discapacidad. Un postulante sin discapacidad la impugna alegando discriminación. ¿Qué razonamiento es correcto?",
+   "opciones": [
+    {
+     "texto": "La reserva es una acción afirmativa legítima que promueve la igualdad real.",
+     "justificacion": "Correcta. El Estado adopta medidas de acción afirmativa que promuevan la igualdad real en favor de los titulares de derechos en situación de desigualdad (art. 11 num. 2 de la Constitución), y las personas con discapacidad son grupo de atención prioritaria (art. 35)."
+    },
+    {
+     "texto": "La reserva es discriminatoria, porque distingue a los postulantes por una condición personal.",
+     "justificacion": "Incorrecta. El mismo art. 11 num. 2 admite medidas de acción afirmativa; no toda distinción es discriminatoria."
+    },
+    {
+     "texto": "La reserva solo sería válida si el postulante impugnante aceptara expresamente la medida.",
+     "justificacion": "Incorrecta. La validez de la medida no depende del consentimiento de terceros."
+    },
+    {
+     "texto": "La reserva vulnera el principio de mérito que rige el ingreso al servicio público.",
+     "justificacion": "Incorrecta. El mérito se armoniza con la igualdad material; las acciones afirmativas son constitucionalmente admitidas."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "RZ-CON-10",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Constitucional",
+   "tema": "Reparación integral en garantías",
+   "resultado": "Resuelve un caso de reparación integral en garantías razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "En una acción de protección, el juez declara la vulneración del derecho a la salud de un paciente, pero se limita a esa declaración sin ordenar ninguna medida adicional. ¿Qué omitió?",
+   "opciones": [
+    {
+     "texto": "Ordenar la reparación integral, material e inmaterial, de la vulneración.",
+     "justificacion": "Correcta. Cuando se constata la vulneración de derechos, el juez debe ordenar la reparación integral, material e inmaterial, y especificar las obligaciones a cumplir (art. 86 num. 3 de la Constitución; art. 18 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional)."
+    },
+    {
+     "texto": "Remitir el expediente a la Fiscalía para que investigue la negligencia médica.",
+     "justificacion": "Incorrecta. La garantía jurisdiccional no se convierte en proceso penal."
+    },
+    {
+     "texto": "Elevar la sentencia en consulta obligatoria a la Corte Constitucional antes de ejecutarla.",
+     "justificacion": "Incorrecta. Las sentencias ejecutoriadas se remiten a la Corte para su eventual selección, no en consulta previa a la ejecución (art. 86 num. 5)."
+    },
+    {
+     "texto": "Nada, porque la declaración de vulneración es suficiente reparación en sí misma.",
+     "justificacion": "Incorrecta. La Constitución exige ordenar la reparación integral."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "LOGJCC"
+   ]
+  },
+  {
+   "id": "RZ-ADM-01",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Administrativo",
+   "tema": "Recurso extraordinario de revisión",
+   "resultado": "Resuelve un caso de recurso extraordinario de revisión razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Una licencia se otorgó con base en certificados que luego se declaran falsos por sentencia. El acto ya está firme en vía administrativa. ¿Qué vía tiene la administración o el interesado dentro del propio procedimiento administrativo?",
+   "opciones": [
+    {
+     "texto": "El recurso extraordinario de revisión, por los documentos declarados falsos.",
+     "justificacion": "Correcta. El recurso extraordinario de revisión procede contra actos firmes, entre otros supuestos, cuando en la resolución han influido documentos o testimonios declarados falsos (art. 232 del Código Orgánico Administrativo)."
+    },
+    {
+     "texto": "El recurso de apelación ante la máxima autoridad de la entidad que lo emitió.",
+     "justificacion": "Incorrecta. La apelación procede contra actos no firmes dentro del término legal (art. 224 del Código Orgánico Administrativo)."
+    },
+    {
+     "texto": "Ninguna, porque un acto firme en vía administrativa es inmodificable.",
+     "justificacion": "Incorrecta. La firmeza no impide el recurso extraordinario de revisión en los supuestos legales."
+    },
+    {
+     "texto": "La acción de protección, porque es la vía ordinaria para corregir actos administrativos.",
+     "justificacion": "Incorrecta. La acción de protección no es vía ordinaria de control de legalidad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "RZ-ADM-02",
+   "area": 1,
+   "dificultad": 3,
+   "subarea": "Derecho Administrativo",
+   "tema": "Término de la apelación administrativa",
+   "resultado": "Resuelve un caso de término de la apelación administrativa razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Un acto administrativo sancionador se notificó un lunes. El administrado presenta apelación quince días hábiles después, alegando que el término es de un mes. ¿Qué debe resolver la administración?",
+   "opciones": [
+    {
+     "texto": "Inadmitir la apelación, porque el término legal de diez días ya venció.",
+     "justificacion": "Correcta. El término para interponer el recurso de apelación es de diez días contados desde el día siguiente a la notificación (art. 224 del Código Orgánico Administrativo)."
+    },
+    {
+     "texto": "Admitirla, porque el término de un mes rige para impugnar actos sancionadores.",
+     "justificacion": "Incorrecta. El término de un mes no es el previsto para la apelación."
+    },
+    {
+     "texto": "Admitirla, porque en materia sancionadora no existen términos de caducidad.",
+     "justificacion": "Incorrecta. La apelación está sujeta a término legal también en materia sancionadora."
+    },
+    {
+     "texto": "Tramitarla como recurso extraordinario de revisión, por haber vencido la apelación.",
+     "justificacion": "Incorrecta. La revisión procede contra actos firmes y por causales taxativas (art. 232 del Código Orgánico Administrativo), no como sustituto de una apelación tardía."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "RZ-ADM-03",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Administrativo",
+   "tema": "Prescripción de la potestad sancionadora",
+   "resultado": "Resuelve un caso de prescripción de la potestad sancionadora razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Una entidad pretende sancionar una infracción administrativa leve cometida hace dos años, sin que antes haya iniciado procedimiento alguno. ¿Qué razonamiento es correcto?",
+   "opciones": [
+    {
+     "texto": "Prescribió la potestad sancionadora, porque las infracciones leves prescriben al año.",
+     "justificacion": "Correcta. El ejercicio de la potestad sancionadora prescribe en un año para las infracciones leves, tres años para las graves y cinco para las muy graves (art. 245 del Código Orgánico Administrativo)."
+    },
+    {
+     "texto": "Puede sancionar, porque la prescripción solo corre una vez notificado el inicio del procedimiento.",
+     "justificacion": "Incorrecta. El plazo corre desde la comisión de la infracción; el inicio del procedimiento lo interrumpe, no lo origina."
+    },
+    {
+     "texto": "Puede sancionar, porque la potestad sancionadora del Estado es imprescriptible.",
+     "justificacion": "Incorrecta. La imprescriptibilidad se limita a supuestos constitucionales específicos."
+    },
+    {
+     "texto": "Prescribió, pero la entidad puede imponer la sanción si la infracción fue reiterada.",
+     "justificacion": "Incorrecta. La reiteración no revive una potestad prescrita respecto de esa infracción."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "RZ-ADM-04",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Administrativo",
+   "tema": "Ejecutoriedad y suspensión del acto",
+   "resultado": "Resuelve un caso de ejecutoriedad y suspensión del acto razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Un comerciante apela la clausura de su local. La entidad ejecuta la clausura mientras se tramita el recurso. El comerciante alega que la apelación suspendía automáticamente el acto. ¿Quién tiene razón?",
+   "opciones": [
+    {
+     "texto": "La entidad, salvo que el comerciante haya pedido la suspensión y esta se haya concedido.",
+     "justificacion": "Correcta. La interposición de un recurso no suspende la ejecución del acto impugnado, salvo que el interesado lo solicite y se cumplan los presupuestos legales para concederla (art. 229 del Código Orgánico Administrativo)."
+    },
+    {
+     "texto": "El comerciante, porque la apelación de una sanción tiene efecto suspensivo legal.",
+     "justificacion": "Incorrecta. La regla es la ejecutividad del acto, no la suspensión automática."
+    },
+    {
+     "texto": "El comerciante, porque una sanción no puede ejecutarse antes de que exista sentencia judicial.",
+     "justificacion": "Incorrecta. Los actos administrativos se presumen legítimos y son ejecutables."
+    },
+    {
+     "texto": "Ninguno, porque la clausura debió ordenarla un juez de lo contencioso administrativo.",
+     "justificacion": "Incorrecta. La clausura puede ser una sanción administrativa impuesta por la autoridad competente."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "RZ-ADM-05",
+   "area": 1,
+   "dificultad": 5,
+   "subarea": "Derecho Administrativo",
+   "tema": "Lesividad frente a revisión de oficio",
+   "resultado": "Resuelve un caso de lesividad frente a revisión de oficio razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "La administración otorgó un permiso favorable con un vicio que no es causal de nulidad, sino de simple anulabilidad. Ahora quiere dejarlo sin efecto. ¿Qué camino debe seguir?",
+   "opciones": [
+    {
+     "texto": "Declarar el acto lesivo e impugnarlo ante la jurisdicción contencioso administrativa.",
+     "justificacion": "Correcta. Los actos favorables con vicios que no son de nulidad no pueden revisarse de oficio; la administración debe declararlos lesivos para el interés público e impugnarlos judicialmente (art. 115 del Código Orgánico Administrativo), mientras que la revisión de oficio se reserva a los actos nulos (art. 132)."
+    },
+    {
+     "texto": "Revisarlo de oficio, porque la administración puede anular los actos con vicios.",
+     "justificacion": "Incorrecta. La revisión de oficio procede para actos nulos (art. 132 del Código Orgánico Administrativo)."
+    },
+    {
+     "texto": "Revocarlo libremente, porque los actos favorables carecen de estabilidad frente al interés público.",
+     "justificacion": "Incorrecta. Los actos que generan derechos tienen estabilidad y su extinción exige el procedimiento legal."
+    },
+    {
+     "texto": "Mantenerlo, porque los vicios de anulabilidad no permiten ningún tipo de impugnación.",
+     "justificacion": "Incorrecta. Pueden impugnarse mediante la lesividad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COA"
+   ]
+  },
+  {
+   "id": "RZ-ADM-06",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Administrativo",
+   "tema": "Terminación unilateral del contrato público",
+   "resultado": "Resuelve un caso de terminación unilateral del contrato público razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Un contratista del Estado incumple el plazo de entrega. La entidad expide al día siguiente la resolución de terminación unilateral, sin notificación previa. ¿Cuál es el vicio?",
+   "opciones": [
+    {
+     "texto": "Omitió notificar la decisión y conceder el término para justificar o remediar.",
+     "justificacion": "Correcta. Antes de terminar unilateralmente, la entidad debe notificar al contratista su decisión, con el informe técnico y económico, y concederle un término de diez días para justificar la mora o remediar el incumplimiento (art. 95 de la Ley Orgánica del Sistema Nacional de Contratación Pública)."
+    },
+    {
+     "texto": "Ninguno, porque el incumplimiento de plazo habilita la terminación inmediata y automática.",
+     "justificacion": "Incorrecta. La ley exige un procedimiento previo con notificación (art. 95)."
+    },
+    {
+     "texto": "La terminación unilateral exige sentencia del Tribunal Contencioso Administrativo.",
+     "justificacion": "Incorrecta. Es una potestad de la entidad, sujeta al procedimiento del art. 95."
+    },
+    {
+     "texto": "El incumplimiento de plazo autoriza multas, pero no la terminación del contrato.",
+     "justificacion": "Incorrecta. El incumplimiento es causal de terminación unilateral (art. 94 num. 1 de la misma ley)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "LOSNCP"
+   ]
+  },
+  {
+   "id": "RZ-ADM-07",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derecho Administrativo",
+   "tema": "Derecho de repetición",
+   "resultado": "Resuelve un caso de derecho de repetición razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "El Estado pagó una indemnización por un accidente causado por un servidor que actuó con un descuido leve, sin dolo ni culpa grave. Luego pretende recuperar lo pagado del servidor. ¿Procede?",
+   "opciones": [
+    {
+     "texto": "No, porque la repetición exige que el servidor haya actuado con dolo o culpa grave.",
+     "justificacion": "Correcta. El Estado ejercerá el derecho de repetición en contra de las personas responsables del daño cuando hayan actuado con dolo o culpa grave (art. 11 num. 9 de la Constitución)."
+    },
+    {
+     "texto": "Sí, porque el servidor responde con su patrimonio por los daños que causa al Estado.",
+     "justificacion": "Incorrecta. La Constitución limita la repetición a dolo o culpa grave."
+    },
+    {
+     "texto": "Sí, siempre que la indemnización haya sido ordenada por sentencia judicial.",
+     "justificacion": "Incorrecta. La existencia de sentencia no sustituye el requisito subjetivo del dolo o culpa grave."
+    },
+    {
+     "texto": "No, porque el Estado responde objetivamente y no puede repetir en ningún supuesto.",
+     "justificacion": "Incorrecta. La responsabilidad objetiva del Estado coexiste con su derecho de repetición en los casos previstos."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "RZ-DH-01",
+   "area": 1,
+   "dificultad": 4,
+   "subarea": "Derechos Humanos",
+   "tema": "Plazo de petición ante la Comisión Interamericana",
+   "resultado": "Resuelve un caso de plazo de petición ante la comisión interamericana razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Una víctima obtuvo la decisión interna definitiva hace ocho meses y recién ahora quiere presentar una petición ante la Comisión Interamericana. Los recursos internos fueron eficaces y no hubo obstáculos. ¿Qué requisito incumple?",
+   "opciones": [
+    {
+     "texto": "El plazo de seis meses contado desde la notificación de la decisión definitiva.",
+     "justificacion": "Correcta. La petición debe presentarse dentro del plazo de seis meses a partir de la fecha en que el presunto lesionado fue notificado de la decisión definitiva (art. 46 num. 1 lit. b de la Convención Americana sobre Derechos Humanos); las excepciones del num. 2 no concurren en el caso."
+    },
+    {
+     "texto": "El agotamiento de los recursos internos, porque debió acudir antes a la Corte Constitucional.",
+     "justificacion": "Incorrecta. El caso indica que los recursos internos ya se agotaron."
+    },
+    {
+     "texto": "El requisito de acudir directamente a la Corte Interamericana sin pasar por la Comisión.",
+     "justificacion": "Incorrecta. Las personas no pueden acudir directamente a la Corte; deben pasar por la Comisión (art. 61 de la Convención)."
+    },
+    {
+     "texto": "Ninguno, porque las peticiones de derechos humanos no están sujetas a plazos.",
+     "justificacion": "Incorrecta. El art. 46 de la Convención fija un plazo de seis meses."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CADH"
+   ]
+  },
+  {
+   "id": "RZ-DH-02",
+   "area": 1,
+   "dificultad": 5,
+   "subarea": "Derechos Humanos",
+   "tema": "Consulta prelegislativa",
+   "resultado": "Resuelve un caso de consulta prelegislativa razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "La Asamblea aprueba una ley que regula específicamente la administración de los territorios comunitarios de pueblos indígenas, sin haberlos consultado antes. ¿Qué razonamiento es correcto?",
+   "opciones": [
+    {
+     "texto": "Se omitió la consulta prelegislativa, exigida para medidas legislativas.",
+     "justificacion": "Correcta. Las comunas, comunidades, pueblos y nacionalidades tienen derecho a ser consultados antes de la adopción de una medida legislativa que pueda afectar cualquiera de sus derechos colectivos (art. 57 num. 17 de la Constitución)."
+    },
+    {
+     "texto": "No era necesaria, porque la consulta previa se limita a proyectos de explotación de recursos.",
+     "justificacion": "Incorrecta. La consulta previa (num. 7) es distinta de la prelegislativa (num. 17), que rige para medidas legislativas."
+    },
+    {
+     "texto": "No era necesaria, porque la ley fue aprobada por la mayoría absoluta de la Asamblea.",
+     "justificacion": "Incorrecta. La mayoría parlamentaria no suple la consulta exigida por la Constitución."
+    },
+    {
+     "texto": "Era necesaria, pero su omisión solo puede alegarse dentro del trámite legislativo.",
+     "justificacion": "Incorrecta. La omisión puede cuestionarse mediante control de constitucionalidad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "RZ-PEN-01",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Error de tipo vencible",
+   "resultado": "Resuelve un caso de error de tipo vencible razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Un cazador dispara contra un bulto que se mueve entre los arbustos creyendo que es un venado; era una persona. Un cazador diligente habría verificado antes de disparar. ¿Cómo responde?",
+   "opciones": [
+    {
+     "texto": "Por homicidio culposo, porque su error sobre la víctima era vencible.",
+     "justificacion": "Correcta. El error de tipo vencible excluye el dolo, pero subsiste la responsabilidad por la modalidad culposa si está tipificada (art. 28 del Código Orgánico Integral Penal); el homicidio culposo está previsto en el art. 145."
+    },
+    {
+     "texto": "Por homicidio doloso, porque disparó voluntariamente y causó la muerte.",
+     "justificacion": "Incorrecta. No conocía un elemento objetivo del tipo (que era una persona), por lo que no hay dolo (art. 26)."
+    },
+    {
+     "texto": "No responde, porque el error sobre un elemento del tipo excluye la responsabilidad.",
+     "justificacion": "Incorrecta. Solo el error invencible excluye toda responsabilidad; el vencible deja la culpa."
+    },
+    {
+     "texto": "Por homicidio con error de prohibición, que atenúa la pena en un tercio.",
+     "justificacion": "Incorrecta. El error recae sobre un elemento del tipo, no sobre la ilicitud de la conducta."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PEN-02",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Error de tipo y error de prohibición",
+   "resultado": "Resuelve un caso de error de tipo y error de prohibición razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Un extranjero recién llegado, en una comunidad aislada y sin acceso a información, cultiva una planta cuyo cultivo está prohibido en Ecuador, pero es legal en su país. Sabe exactamente qué planta cultiva. ¿Qué tipo de error podría alegar?",
+   "opciones": [
+    {
+     "texto": "Error de prohibición, porque conoce los hechos pero ignora su ilicitud.",
+     "justificacion": "Correcta. Conoce todos los elementos del tipo (sabe qué planta cultiva); lo que desconoce es la prohibición. Ese error recae sobre la conciencia de antijuridicidad, componente de la culpabilidad (art. 34 del Código Orgánico Integral Penal), y si es invencible la excluye."
+    },
+    {
+     "texto": "Error de tipo, porque desconoce un elemento objetivo de la conducta.",
+     "justificacion": "Incorrecta. Conoce el objeto y la acción; no hay error sobre elementos del tipo (art. 28)."
+    },
+    {
+     "texto": "Ninguno, porque la ignorancia de la ley no puede alegarse bajo ninguna circunstancia.",
+     "justificacion": "Incorrecta. El COIP admite el error de prohibición como causa que afecta la culpabilidad."
+    },
+    {
+     "texto": "Caso fortuito, porque el resultado no le es imputable al autor.",
+     "justificacion": "Incorrecta. La conducta es voluntaria y consciente; no hay caso fortuito."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PEN-03",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Actualidad de la agresión",
+   "resultado": "Resuelve un caso de actualidad de la agresión razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Un asaltante golpea a una mujer, pero ella logra derribarlo y quitarle el arma. Ya desarmado e inconsciente en el suelo, ella lo golpea varias veces más. ¿Cómo se valoran los golpes posteriores?",
+   "opciones": [
+    {
+     "texto": "No están amparados por legítima defensa, porque la agresión ya había cesado.",
+     "justificacion": "Correcta. La legítima defensa exige una agresión actual e ilegítima (art. 33 del Código Orgánico Integral Penal); cuando el agresor está neutralizado, la agresión deja de ser actual y los actos posteriores no se justifican."
+    },
+    {
+     "texto": "Están amparados, porque la defensa comprende lo hecho durante el mismo episodio.",
+     "justificacion": "Incorrecta. La justificación cubre la reacción frente a la agresión actual, no lo posterior."
+    },
+    {
+     "texto": "Están amparados, porque quien defiende puede asegurarse de que el agresor no vuelva a atacar.",
+     "justificacion": "Incorrecta. Un riesgo futuro no configura una agresión actual o inminente."
+    },
+    {
+     "texto": "Constituyen estado de necesidad, porque buscaba evitar un nuevo peligro para su vida.",
+     "justificacion": "Incorrecta. No hay peligro real y actual, ni ausencia de otro medio practicable (art. 32)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PEN-04",
+   "area": 2,
+   "dificultad": 3,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Legítima defensa de terceros",
+   "resultado": "Resuelve un caso de legítima defensa de terceros razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Una persona ve que un hombre golpea con un tubo a su vecina en la calle; interviene y lo empuja con fuerza, causándole lesiones leves que detienen el ataque. ¿Qué causa de exclusión puede invocar?",
+   "opciones": [
+    {
+     "texto": "Legítima defensa, porque la figura comprende la defensa de derechos ajenos.",
+     "justificacion": "Correcta. La legítima defensa ampara a quien actúa en defensa de cualquier derecho, propio o ajeno, ante una agresión actual e ilegítima, con necesidad racional del medio y sin provocación (art. 33 del Código Orgánico Integral Penal)."
+    },
+    {
+     "texto": "Ninguna, porque solo la víctima directa puede defenderse frente a la agresión.",
+     "justificacion": "Incorrecta. El art. 33 del Código Orgánico Integral Penal incluye derechos ajenos."
+    },
+    {
+     "texto": "Estado de necesidad, porque sacrificó la integridad del agresor para proteger un bien mayor.",
+     "justificacion": "Incorrecta. Frente a una agresión ilegítima la figura aplicable es la legítima defensa."
+    },
+    {
+     "texto": "Cumplimiento de un deber legal, porque los ciudadanos deben impedir los delitos.",
+     "justificacion": "Incorrecta. Un particular no actúa aquí en cumplimiento de un deber legal específico."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PEN-05",
+   "area": 2,
+   "dificultad": 3,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Estado de necesidad",
+   "resultado": "Resuelve un caso de estado de necesidad razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Un transeúnte rompe la ventana de un auto ajeno para sacar a un niño que se está asfixiando por el calor, sin que exista otra forma de abrirlo a tiempo. El dueño denuncia daño a la propiedad. ¿Qué razonamiento es correcto?",
+   "opciones": [
+    {
+     "texto": "Concurre estado de necesidad: peligro actual, daño menor y ausencia de otro medio.",
+     "justificacion": "Correcta. Hay estado de necesidad cuando el derecho protegido está en real y actual peligro, el resultado de la protección no es mayor que el daño que se quiso evitar y no existe otro medio practicable (art. 32 del Código Orgánico Integral Penal); es causa de exclusión de la antijuridicidad (art. 30)."
+    },
+    {
+     "texto": "Hay delito de daño, porque la intención de ayudar no excluye la lesión de la propiedad.",
+     "justificacion": "Incorrecta. La conducta típica está justificada por el estado de necesidad."
+    },
+    {
+     "texto": "Hay legítima defensa, porque el transeúnte repelió una agresión contra el niño.",
+     "justificacion": "Incorrecta. No hay una agresión humana ilegítima, sino un peligro."
+    },
+    {
+     "texto": "Solo habría justificación si el dueño del vehículo hubiera autorizado romper el vidrio.",
+     "justificacion": "Incorrecta. El estado de necesidad no requiere consentimiento del titular del bien sacrificado."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PEN-06",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Embriaguez por caso fortuito",
+   "resultado": "Resuelve un caso de embriaguez por caso fortuito razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "En una fiesta, alguien coloca sin que ella lo sepa una sustancia en la bebida de una invitada, quien pierde por completo el conocimiento de sus actos y rompe objetos ajenos. ¿Cómo incide la intoxicación?",
+   "opciones": [
+    {
+     "texto": "Excluye la responsabilidad, porque fue fortuita y la privó del conocimiento.",
+     "justificacion": "Correcta. Si la embriaguez o intoxicación deriva de caso fortuito y priva del conocimiento al autor en el momento de la infracción, no hay responsabilidad (art. 37 num. 1 del Código Orgánico Integral Penal)."
+    },
+    {
+     "texto": "No incide, porque la embriaguez no excluye, atenúa ni agrava la responsabilidad.",
+     "justificacion": "Incorrecta. Esa regla rige para la embriaguez que no deriva de caso fortuito (art. 37 num. 3)."
+    },
+    {
+     "texto": "Atenúa la pena, porque la intoxicación disminuyó el conocimiento de la autora.",
+     "justificacion": "Incorrecta. La atenuación corresponde al caso fortuito que solo disminuye considerablemente el conocimiento (num. 2)."
+    },
+    {
+     "texto": "Agrava la pena, porque actuó bajo los efectos de una sustancia.",
+     "justificacion": "Incorrecta. La agravación se reserva a la embriaguez premeditada (art. 37 num. 4)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PEN-07",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Actos preparatorios y tentativa",
+   "resultado": "Resuelve un caso de actos preparatorios y tentativa razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Una persona compra veneno, investiga los horarios de su víctima y escribe un plan para matarla, pero la policía la detiene antes de que se acerque a la víctima. ¿Hay tentativa de asesinato?",
+   "opciones": [
+    {
+     "texto": "No, porque no inició la ejecución con actos idóneos; son actos preparatorios.",
+     "justificacion": "Correcta. La tentativa exige que la ejecución se haya iniciado dolosamente mediante actos idóneos conducentes de modo inequívoco a la realización del delito (art. 39 del Código Orgánico Integral Penal); comprar el medio y planificar son actos preparatorios."
+    },
+    {
+     "texto": "Sí, porque la compra del veneno revela de modo inequívoco la intención homicida.",
+     "justificacion": "Incorrecta. La intención y la preparación no equivalen al inicio de la ejecución."
+    },
+    {
+     "texto": "Sí, porque el delito solo dejó de consumarse por una causa ajena a su voluntad.",
+     "justificacion": "Incorrecta. Ese requisito presupone que la ejecución ya había comenzado."
+    },
+    {
+     "texto": "No, pero responde por asesinato consumado debido a la premeditación demostrada.",
+     "justificacion": "Incorrecta. No hay resultado de muerte; no puede haber consumación."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PEN-08",
+   "area": 2,
+   "dificultad": 5,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Desistimiento voluntario",
+   "resultado": "Resuelve un caso de desistimiento voluntario razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Un sujeto apuñala a otro con intención de matarlo, pero, arrepentido, lo lleva de inmediato al hospital y la víctima sobrevive con lesiones graves. ¿Cómo responde?",
+   "opciones": [
+    {
+     "texto": "Por las lesiones causadas, si el desistimiento evitó voluntariamente la muerte.",
+     "justificacion": "Correcta. Quien desiste voluntariamente e impide la consumación no responde por la tentativa, pero sí por los actos ya ejecutados que constituyan por sí mismos un delito (desistimiento, art. 39.1 del Código Orgánico Integral Penal); aquí, las lesiones (art. 152)."
+    },
+    {
+     "texto": "Por tentativa de homicidio, porque ya había ejecutado todos los actos para matar.",
+     "justificacion": "Incorrecta. El desistimiento voluntario que evita el resultado excluye la pena de la tentativa."
+    },
+    {
+     "texto": "No responde penalmente, porque el arrepentimiento eficaz extingue la acción.",
+     "justificacion": "Incorrecta. Responde por los actos ejecutados que ya constituyen delito."
+    },
+    {
+     "texto": "Por homicidio consumado, porque el arrepentimiento posterior es irrelevante.",
+     "justificacion": "Incorrecta. La víctima sobrevivió; no hubo consumación."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PEN-09",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Coautoría por aporte necesario",
+   "resultado": "Resuelve un caso de coautoría por aporte necesario razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Un guardia de un banco entrega a dos asaltantes la clave de la bóveda, sin la cual el robo no habría podido cometerse, aunque él no entra al banco. ¿Qué forma de participación corresponde?",
+   "opciones": [
+    {
+     "texto": "Coautor, por un aporte principal sin el cual no había robo.",
+     "justificacion": "Correcta. Son coautores quienes coadyuvan a la ejecución de un modo principal, practicando deliberada e intencionalmente algún acto sin el cual no habría podido perpetrarse la infracción (art. 42 num. 3 del Código Orgánico Integral Penal)."
+    },
+    {
+     "texto": "Cómplice, porque no ejecutó materialmente la sustracción de los bienes.",
+     "justificacion": "Incorrecta. La complicidad se reserva a actos secundarios, sin los cuales igualmente se habría cometido el delito (art. 43)."
+    },
+    {
+     "texto": "Encubridor, porque su aporte fue distinto del acto mismo del robo.",
+     "justificacion": "Incorrecta. Su aporte fue previo y necesario para la ejecución, no posterior."
+    },
+    {
+     "texto": "No responde, porque no estuvo presente en el lugar del delito.",
+     "justificacion": "Incorrecta. La presencia física no es requisito de la coautoría del art. 42 num. 3."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PEN-10",
+   "area": 2,
+   "dificultad": 5,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Instigación como autoría",
+   "resultado": "Resuelve un caso de instigación como autoría razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Una mujer convence a su sobrino para que mate a su socio, y se demuestra que sin esa insistencia el sobrino no habría actuado. El sobrino ejecuta el homicidio. ¿Cómo califica el COIP la conducta de la mujer?",
+   "opciones": [
+    {
+     "texto": "Como autora mediata, porque su instigación determinó la comisión del delito.",
+     "justificacion": "Correcta. El COIP considera autores mediatos a quienes instiguen o aconsejen a otra persona para que cometa una infracción, cuando se demuestre que tal acción ha determinado su comisión (art. 42 num. 2 lit. a del Código Orgánico Integral Penal)."
+    },
+    {
+     "texto": "Como cómplice, porque no ejecutó personalmente el homicidio.",
+     "justificacion": "Incorrecta. El COIP ubica la instigación determinante dentro de la autoría mediata, no en la complicidad."
+    },
+    {
+     "texto": "Como encubridora, porque conocía el plan y no lo denunció.",
+     "justificacion": "Incorrecta. El encubrimiento no es una forma de participación en el COIP; aquí hubo determinación del hecho."
+    },
+    {
+     "texto": "No responde, porque el sobrino actuó con plena capacidad y voluntad propia.",
+     "justificacion": "Incorrecta. Que el ejecutor actúe con dolo no impide la responsabilidad de quien lo determinó."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PEN-11",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Retroactividad de la ley más favorable",
+   "resultado": "Resuelve un caso de retroactividad de la ley más favorable razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Una persona cumple una condena firme. Después, una reforma legal reduce la pena máxima del delito por el que fue sentenciada. ¿Puede beneficiarse?",
+   "opciones": [
+    {
+     "texto": "Sí, porque la ley más benigna se aplica aun después de la sentencia.",
+     "justificacion": "Correcta. En caso de conflicto entre normas que contemplen sanciones diferentes para un mismo hecho, se aplica la menos rigurosa aun cuando su promulgación sea posterior a la infracción (art. 76 num. 5 de la Constitución) y en el art. 5 num. 2 del Código Orgánico Integral Penal; la favorabilidad opera también durante la ejecución de la pena."
+    },
+    {
+     "texto": "No, porque la cosa juzgada impide modificar una pena impuesta en sentencia firme.",
+     "justificacion": "Incorrecta. El principio de favorabilidad prevalece y se aplica también en fase de ejecución."
+    },
+    {
+     "texto": "No, porque la ley penal rige para hechos cometidos después de su vigencia.",
+     "justificacion": "Incorrecta. La irretroactividad cede ante la ley penal más favorable."
+    },
+    {
+     "texto": "Sí, pero solo si presenta un recurso de revisión con prueba nueva.",
+     "justificacion": "Incorrecta. La favorabilidad no depende de las causales de revisión."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP",
+    "CRE"
+   ]
+  },
+  {
+   "id": "RZ-PEN-12",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Penal (parte especial)",
+   "tema": "Imprescriptibilidad del peculado",
+   "resultado": "Resuelve un caso de imprescriptibilidad del peculado razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Se descubre que un exfuncionario se apropió de fondos públicos hace veinticinco años. Su defensa alega que la acción penal prescribió hace tiempo. ¿Qué razonamiento es correcto?",
+   "opciones": [
+    {
+     "texto": "No prescribió, porque el peculado es imprescriptible por la Constitución.",
+     "justificacion": "Correcta. Las acciones y penas por los delitos de peculado, cohecho, concusión y enriquecimiento ilícito son imprescriptibles (art. 233 de la Constitución)."
+    },
+    {
+     "texto": "Prescribió, porque la acción penal prescribe en el máximo de la pena del delito.",
+     "justificacion": "Incorrecta. Esa regla general cede ante la imprescriptibilidad constitucional del peculado."
+    },
+    {
+     "texto": "Prescribió, porque el plazo máximo de prescripción es de veinticinco años.",
+     "justificacion": "Incorrecta. En los delitos imprescriptibles no corre plazo alguno."
+    },
+    {
+     "texto": "No prescribió, pero solo porque el procesado estuvo prófugo todo ese tiempo.",
+     "justificacion": "Incorrecta. La imprescriptibilidad no depende de la conducta procesal del imputado."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PEN-13",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Penal (parte especial)",
+   "tema": "Femicidio y relación de poder",
+   "resultado": "Resuelve un caso de femicidio y relación de poder razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Durante un asalto en un bus, un delincuente que no conocía a ninguna de las víctimas dispara y mata a una pasajera que se resistió a entregar su celular. La acusación particular pide condena por femicidio. ¿Es correcta la calificación?",
+   "opciones": [
+    {
+     "texto": "No, porque falta la relación de poder por condición de género.",
+     "justificacion": "Correcta. El femicidio exige dar muerte a una mujer como resultado de relaciones de poder manifestadas en cualquier tipo de violencia, por el hecho de serlo o por su condición de género (art. 141 del Código Orgánico Integral Penal); la muerte ocurrida en el robo se califica según el art. 189."
+    },
+    {
+     "texto": "Sí, porque la víctima murió de forma violenta a manos de un hombre.",
+     "justificacion": "Incorrecta. El tipo exige el elemento de género y la relación de poder."
+    },
+    {
+     "texto": "Sí, porque la víctima era mujer y el agresor era hombre.",
+     "justificacion": "Incorrecta. El sexo de víctima y autor no basta para configurar el tipo."
+    },
+    {
+     "texto": "No, porque el femicidio requiere un vínculo de pareja entre autor y víctima.",
+     "justificacion": "Incorrecta. El vínculo de pareja es una agravante (art. 142), no un requisito; el defecto es la ausencia de relación de poder por género."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PEN-14",
+   "area": 2,
+   "dificultad": 3,
+   "subarea": "Derecho Penal (parte especial)",
+   "tema": "Extorsión frente a robo",
+   "resultado": "Resuelve un caso de extorsión frente a robo razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Una persona amenaza a un empresario con publicar fotografías íntimas suyas si no le deposita cinco mil dólares en una semana. El empresario paga. ¿Qué delito se configura?",
+   "opciones": [
+    {
+     "texto": "Extorsión, porque obligó a disponer del patrimonio mediante intimidación.",
+     "justificacion": "Correcta. Comete extorsión quien, con el propósito de obtener provecho, obliga a otro con violencia o intimidación a realizar u omitir un acto en perjuicio de su patrimonio (art. 185 del Código Orgánico Integral Penal)."
+    },
+    {
+     "texto": "Robo, porque se apoderó del dinero mediante amenazas contra la víctima.",
+     "justificacion": "Incorrecta. En el robo la amenaza acompaña a un apoderamiento directo; aquí la víctima fue forzada a realizar el acto de disposición."
+    },
+    {
+     "texto": "Estafa, porque obtuvo el dinero gracias a un engaño sobre las fotografías.",
+     "justificacion": "Incorrecta. No hubo engaño, sino intimidación."
+    },
+    {
+     "texto": "Solo una contravención contra el honor, porque las fotografías no fueron publicadas.",
+     "justificacion": "Incorrecta. El delito se configura por la intimidación y la disposición patrimonial."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PEN-15",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Penal (parte especial)",
+   "tema": "Tráfico de influencias frente a cohecho",
+   "resultado": "Resuelve un caso de tráfico de influencias frente a cohecho razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Un director ministerial, sin recibir dinero ni promesa alguna, presiona a una jueza de coactivas subordinada jerárquicamente para que archive un expediente de su cuñado. ¿Qué delito encaja mejor?",
+   "opciones": [
+    {
+     "texto": "Tráfico de influencias, por valerse de la relación jerárquica.",
+     "justificacion": "Correcta. Comete tráfico de influencias el servidor que, prevaliéndose de las facultades del cargo o de su relación jerárquica, ejerce influencia sobre otro servidor para obtener un acto o resolución favorable a sus intereses o de terceros (art. 285 del Código Orgánico Integral Penal)."
+    },
+    {
+     "texto": "Cohecho, porque buscó una decisión contraria a los deberes de la funcionaria.",
+     "justificacion": "Incorrecta. El cohecho exige dádivas, promesas o beneficios económicos indebidos (art. 280), que aquí no existen."
+    },
+    {
+     "texto": "Peculado, porque comprometió recursos públicos en beneficio de un familiar.",
+     "justificacion": "Incorrecta. No hubo apropiación ni distracción de fondos públicos (art. 278)."
+    },
+    {
+     "texto": "Concusión, porque exigió a la funcionaria un beneficio indebido.",
+     "justificacion": "Incorrecta. La concusión supone exigir o hacer pagar a otro algo no debido (art. 281)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PEN-16",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Penal (parte especial)",
+   "tema": "Enriquecimiento ilícito",
+   "resultado": "Resuelve un caso de enriquecimiento ilícito razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Un servidor público con un sueldo modesto adquiere en tres años dos inmuebles y cancela deudas por montos que no puede justificar. No se prueba de qué fondo público específico salió el dinero. ¿Qué delito puede imputarse?",
+   "opciones": [
+    {
+     "texto": "Enriquecimiento ilícito, por el incremento patrimonial no justificado.",
+     "justificacion": "Correcta. Comete enriquecimiento ilícito el servidor que obtenga para sí o para otro un incremento patrimonial injustificado a su nombre o mediante persona interpuesta, producto de su cargo; se entiende también cuando se cancelan deudas o extinguen obligaciones (art. 279 del Código Orgánico Integral Penal)."
+    },
+    {
+     "texto": "Peculado, porque debió haber sustraído fondos públicos para pagar los bienes.",
+     "justificacion": "Incorrecta. El peculado exige probar el abuso, la apropiación o la distracción de bienes públicos concretos (art. 278)."
+    },
+    {
+     "texto": "Lavado de activos, porque compró inmuebles con dinero de origen desconocido.",
+     "justificacion": "Incorrecta. El tipo específico para el servidor con incremento injustificado ligado al cargo es el enriquecimiento ilícito."
+    },
+    {
+     "texto": "Ninguno, porque la falta de justificación no es suficiente para imputar un delito.",
+     "justificacion": "Incorrecta. El incremento injustificado es precisamente el núcleo del tipo del art. 279."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PPE-01",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Procesal Penal",
+   "tema": "Acción penal privada",
+   "resultado": "Resuelve un caso de acción penal privada razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Una persona es acusada públicamente en redes sociales de haber robado en su trabajo, imputación que es falsa. Acude a la Fiscalía para que investigue. ¿Qué razonamiento es correcto?",
+   "opciones": [
+    {
+     "texto": "La calumnia es de acción privada: debe presentar querella ante el juez.",
+     "justificacion": "Correcta. La calumnia se persigue mediante el ejercicio privado de la acción penal (art. 415 del Código Orgánico Integral Penal), por querella de la víctima ante el juez, sin intervención de la Fiscalía."
+    },
+    {
+     "texto": "La Fiscalía debe abrir investigación previa, porque la calumnia es delito de acción pública.",
+     "justificacion": "Incorrecta. La ley asigna la calumnia al ejercicio privado de la acción."
+    },
+    {
+     "texto": "Debe acudir a un juez civil, porque la calumnia ya no es delito en el COIP.",
+     "justificacion": "Incorrecta. La calumnia sigue tipificada como delito (art. 182 del Código Orgánico Integral Penal)."
+    },
+    {
+     "texto": "Debe presentar una acción de protección por la vulneración de su honra.",
+     "justificacion": "Incorrecta. Existe una vía penal específica y adecuada."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PPE-02",
+   "area": 2,
+   "dificultad": 5,
+   "subarea": "Derecho Procesal Penal",
+   "tema": "Excepción en lesiones de acción privada",
+   "resultado": "Resuelve un caso de excepción en lesiones de acción privada razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Una mujer sufre lesiones con veinte días de incapacidad causadas por su conviviente. El abogado del agresor sostiene que, por la incapacidad, el delito es de acción privada y la Fiscalía no puede intervenir. ¿Es correcto?",
+   "opciones": [
+    {
+     "texto": "No: la excepción de violencia contra la mujer mantiene la acción pública.",
+     "justificacion": "Correcta. Las lesiones con incapacidad de hasta treinta días son de acción privada, a excepción de los casos de violencia contra la mujer o miembros del núcleo familiar (art. 415 num. 4 del Código Orgánico Integral Penal); aquí la Fiscalía debe actuar."
+    },
+    {
+     "texto": "Sí, porque las lesiones con incapacidad de hasta treinta días son de acción privada.",
+     "justificacion": "Incorrecta. La regla tiene una excepción expresa para la violencia intrafamiliar y de género."
+    },
+    {
+     "texto": "Sí, siempre que la víctima no haya presentado denuncia en la Fiscalía.",
+     "justificacion": "Incorrecta. El carácter público de la acción no depende de la vía elegida por la víctima."
+    },
+    {
+     "texto": "No, porque las lesiones dolosas son de acción pública sin importar los días.",
+     "justificacion": "Incorrecta. Fuera de la excepción, las lesiones de hasta treinta días sí son de acción privada."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PPE-03",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Procesal Penal",
+   "tema": "Testimonio anticipado",
+   "resultado": "Resuelve un caso de testimonio anticipado razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "El único testigo presencial de un homicidio tiene una enfermedad terminal y probablemente no llegará con vida a la audiencia de juicio, que será en varios meses. ¿Qué debe solicitar la Fiscalía?",
+   "opciones": [
+    {
+     "texto": "Que el juez reciba su testimonio anticipado, con inmediación y contradicción.",
+     "justificacion": "Correcta. La o el juzgador puede recibir como prueba anticipada los testimonios de las personas gravemente enfermas o que no puedan comparecer a la audiencia de juicio, garantizando la contradicción (art. 502 num. 2 del Código Orgánico Integral Penal)."
+    },
+    {
+     "texto": "Que se incorpore como prueba la versión escrita que el testigo rindió ante la policía.",
+     "justificacion": "Incorrecta. Las versiones preprocesales no sustituyen el testimonio con contradicción."
+    },
+    {
+     "texto": "Que se adelante la audiencia de juicio sin esperar la etapa intermedia.",
+     "justificacion": "Incorrecta. Las etapas procesales no pueden suprimirse; para ese riesgo existe el testimonio anticipado."
+    },
+    {
+     "texto": "Nada, porque el testimonio solo puede rendirse en la audiencia de juicio.",
+     "justificacion": "Incorrecta. El testimonio anticipado es precisamente la excepción prevista por la ley."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PPE-04",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Procesal Penal",
+   "tema": "Duración de la investigación previa",
+   "resultado": "Resuelve un caso de duración de la investigación previa razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "En un delito con pena máxima de tres años, la investigación previa lleva catorce meses y la Fiscalía no ha formulado cargos ni pedido el archivo. ¿Qué razonamiento es correcto?",
+   "opciones": [
+    {
+     "texto": "Se excedió el plazo de un año, previsto para delitos con pena de hasta cinco años.",
+     "justificacion": "Correcta. La investigación previa no puede superar un año en delitos sancionados con pena privativa de libertad de hasta cinco años, ni dos años en los de pena mayor (art. 585 del Código Orgánico Integral Penal)."
+    },
+    {
+     "texto": "Está en plazo, porque la investigación previa puede durar hasta dos años.",
+     "justificacion": "Incorrecta. El plazo de dos años rige para delitos con pena superior a cinco años."
+    },
+    {
+     "texto": "Está en plazo, porque la investigación previa no tiene límite temporal mientras haya diligencias.",
+     "justificacion": "Incorrecta. La ley fija plazos máximos."
+    },
+    {
+     "texto": "Se excedió el plazo de noventa días que rige para la fase preprocesal.",
+     "justificacion": "Incorrecta. Noventa días es el máximo de la instrucción fiscal (art. 592), no de la investigación previa."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PPE-05",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Procesal Penal",
+   "tema": "Plazo de la instrucción fiscal",
+   "resultado": "Resuelve un caso de plazo de la instrucción fiscal razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "En la audiencia de formulación de cargos por un delito no flagrante, el fiscal fija una instrucción de ciento veinte días por la complejidad del caso. La defensa objeta. ¿Quién tiene razón?",
+   "opciones": [
+    {
+     "texto": "La defensa, porque la instrucción no puede exceder de noventa días como regla.",
+     "justificacion": "Correcta. La instrucción fiscal no puede exceder del plazo máximo de noventa días, salvo las excepciones legales (tránsito, flagrancia, vinculación o reformulación de cargos) (art. 592 del Código Orgánico Integral Penal)."
+    },
+    {
+     "texto": "El fiscal, porque la complejidad del caso permite ampliar la duración legal.",
+     "justificacion": "Incorrecta. La ley fija un máximo que no depende de la complejidad."
+    },
+    {
+     "texto": "El fiscal, porque ciento veinte días es el plazo ordinario de la instrucción fiscal.",
+     "justificacion": "Incorrecta. Ciento veinte días es un límite absoluto para casos de vinculación o reformulación, no el plazo ordinario."
+    },
+    {
+     "texto": "Ninguno, porque el plazo de la instrucción lo fija el juez sin intervención del fiscal.",
+     "justificacion": "Incorrecta. Lo fija el fiscal dentro del máximo legal."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PPE-06",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Procesal Penal",
+   "tema": "Caducidad de la prisión preventiva",
+   "resultado": "Resuelve un caso de caducidad de la prisión preventiva razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Un procesado por un delito con pena de siete a diez años lleva ocho meses en prisión preventiva sin sentencia. Su defensa pide la libertad alegando caducidad. ¿Procede?",
+   "opciones": [
+    {
+     "texto": "No, porque en delitos con pena mayor a cinco años el límite es un año.",
+     "justificacion": "Correcta. La prisión preventiva no puede exceder de seis meses en delitos sancionados con prisión (hasta cinco años) ni de un año en los sancionados con reclusión (más de cinco años) (art. 77 num. 9 de la Constitución; art. 541 del Código Orgánico Integral Penal)."
+    },
+    {
+     "texto": "Sí, porque la prisión preventiva caduca a los seis meses sin sentencia.",
+     "justificacion": "Incorrecta. Seis meses es el límite para delitos con pena de hasta cinco años."
+    },
+    {
+     "texto": "No, porque la prisión preventiva no caduca mientras el proceso siga abierto.",
+     "justificacion": "Incorrecta. Existe un límite constitucional que la hace caducar."
+    },
+    {
+     "texto": "Sí, porque el plazo se cuenta en días hábiles y ya superó el año.",
+     "justificacion": "Incorrecta. Ocho meses calendario no alcanzan el año, y el plazo no se cuenta solo en días hábiles."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PPE-07",
+   "area": 2,
+   "dificultad": 5,
+   "subarea": "Derecho Procesal Penal",
+   "tema": "Suspensión condicional de la pena",
+   "resultado": "Resuelve un caso de suspensión condicional de la pena razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Una persona sin antecedentes es condenada a tres años por un delito de violencia psicológica contra su pareja. En la audiencia de juicio pide la suspensión condicional de la pena. ¿Qué debe resolver el tribunal?",
+   "opciones": [
+    {
+     "texto": "Negarla, porque no procede en delitos de violencia contra la mujer o el núcleo familiar.",
+     "justificacion": "Correcta. Aunque la pena no supere cinco años y no tenga otros procesos, la suspensión condicional no es aplicable en los casos de delitos contra la integridad sexual y reproductiva ni de violencia contra la mujer o miembros del núcleo familiar (art. 630 num. 4 del Código Orgánico Integral Penal)."
+    },
+    {
+     "texto": "Concederla, porque la pena no supera cinco años y la persona no tiene antecedentes.",
+     "justificacion": "Incorrecta. Se omite la exclusión expresa del num. 4."
+    },
+    {
+     "texto": "Concederla, siempre que el sentenciado repare económicamente a la víctima.",
+     "justificacion": "Incorrecta. La reparación no supera la prohibición legal."
+    },
+    {
+     "texto": "Diferirla al juez de garantías penitenciarias, que es el competente para otorgarla.",
+     "justificacion": "Incorrecta. Se solicita y resuelve en la audiencia de juicio o dentro de las veinticuatro horas siguientes (art. 630)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PPE-08",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Procesal Penal",
+   "tema": "Reparación integral en la sentencia",
+   "resultado": "Resuelve un caso de reparación integral en la sentencia razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Un tribunal condena por estafa y fija la pena privativa de libertad, pero no se pronuncia sobre los perjuicios de la víctima porque \"eso corresponde a un juicio civil\". ¿Cuál es el error?",
+   "opciones": [
+    {
+     "texto": "La sentencia condenatoria debe disponer la reparación integral de la víctima.",
+     "justificacion": "Correcta. Las víctimas tienen derecho a la reparación integral (art. 78 de la Constitución), y la sentencia condenatoria debe contener la reparación integral de los daños ocasionados (art. 622 num. 6 y art. 628 del Código Orgánico Integral Penal)."
+    },
+    {
+     "texto": "Ninguno, porque los perjuicios civiles se reclaman en un proceso separado.",
+     "justificacion": "Incorrecta. En el sistema ecuatoriano, la reparación integral se resuelve en la misma sentencia penal."
+    },
+    {
+     "texto": "Solo podía ordenar reparación si la víctima presentó acusación particular.",
+     "justificacion": "Incorrecta. La reparación integral es un derecho de la víctima, no condicionado a la acusación particular."
+    },
+    {
+     "texto": "Debió ordenar la devolución del dinero, pero no otras medidas reparatorias.",
+     "justificacion": "Incorrecta. La reparación integral comprende medidas más amplias que la restitución (art. 78 del Código Orgánico Integral Penal)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-CON-11",
+   "area": 1,
+   "dificultad": 5,
+   "subarea": "Derecho Constitucional",
+   "tema": "Límites del estado de excepción",
+   "resultado": "Resuelve un caso de límites del estado de excepción razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Durante un estado de excepción por grave conmoción interna, un decreto dispone que las personas detenidas podrán ser juzgadas sin defensor ni audiencia. ¿Es válida esa medida?",
+   "opciones": [
+    {
+     "texto": "No, porque el debido proceso no está entre los derechos que pueden suspenderse o limitarse.",
+     "justificacion": "Correcta. En el estado de excepción solo pueden suspenderse o limitarse los derechos a la inviolabilidad de domicilio, la inviolabilidad de correspondencia, la libertad de tránsito, la libertad de asociación y reunión y la libertad de información (art. 165 de la Constitución); el debido proceso no puede restringirse."
+    },
+    {
+     "texto": "Sí, porque la grave conmoción interna habilita a restringir garantías procesales.",
+     "justificacion": "Incorrecta. El art. 165 enumera taxativamente los derechos susceptibles de suspensión o limitación."
+    },
+    {
+     "texto": "Sí, siempre que la Asamblea Nacional no revoque el decreto en el plazo legal.",
+     "justificacion": "Incorrecta. La falta de revocatoria no convalida la restricción de un derecho no suspendible."
+    },
+    {
+     "texto": "Sí, mientras la medida sea temporal y no supere los sesenta días de vigencia.",
+     "justificacion": "Incorrecta. La temporalidad es un límite adicional, no una autorización para suspender derechos excluidos."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE"
+   ]
+  },
+  {
+   "id": "RZ-PEN-17",
+   "area": 2,
+   "dificultad": 3,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Inimputabilidad por trastorno mental",
+   "resultado": "Resuelve un caso de inimputabilidad por trastorno mental razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Un procesado causa lesiones durante un episodio psicótico que, según la pericia, le impedía comprender la ilicitud de su conducta. La Fiscalía pide pena privativa de libertad. ¿Qué corresponde?",
+   "opciones": [
+    {
+     "texto": "Declarar que no es penalmente responsable y dictar una medida de seguridad.",
+     "justificacion": "Correcta. No es penalmente responsable quien, al cometer la infracción, no tiene capacidad de comprender la ilicitud de su conducta o de determinarse por ella debido a un trastorno mental; en ese caso se dicta una medida de seguridad (art. 35 del Código Orgánico Integral Penal)."
+    },
+    {
+     "texto": "Imponer la pena mínima, porque el trastorno mental solo atenúa la responsabilidad.",
+     "justificacion": "Incorrecta. Cuando suprime la comprensión o la determinación, el trastorno excluye la responsabilidad."
+    },
+    {
+     "texto": "Imponer la pena, porque las lesiones se causaron de manera voluntaria y consciente.",
+     "justificacion": "Incorrecta. La pericia demuestra que no podía comprender la ilicitud."
+    },
+    {
+     "texto": "Archivar el proceso sin ninguna medida, porque no existe delito.",
+     "justificacion": "Incorrecta. La ley ordena dictar una medida de seguridad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PEN-18",
+   "area": 2,
+   "dificultad": 4,
+   "subarea": "Derecho Penal (parte general)",
+   "tema": "Cumplimiento del deber legal",
+   "resultado": "Resuelve un caso de cumplimiento del deber legal razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Un policía aprehende en flagrancia a un sospechoso que se resiste y, para reducirlo, utiliza fuerza proporcional, conforme a los protocolos. El aprehendido lo denuncia por lesiones leves. ¿Qué razonamiento es correcto?",
+   "opciones": [
+    {
+     "texto": "La conducta no es antijurídica, por actuar en cumplimiento de su deber legal.",
+     "justificacion": "Correcta. No existe infracción penal cuando la conducta está justificada por el cumplimiento de un deber legal; el uso proporcional y progresivo de la fuerza por el servidor policial en ese marco excluye la antijuridicidad (arts. 30 y 30.1 del Código Orgánico Integral Penal)."
+    },
+    {
+     "texto": "Comete lesiones, porque ningún servidor público puede causar daño a una persona aprehendida.",
+     "justificacion": "Incorrecta. La fuerza proporcional autorizada por la ley está justificada."
+    },
+    {
+     "texto": "Hay legítima defensa, que es la única causa que justifica el uso de la fuerza policial.",
+     "justificacion": "Incorrecta. La causa específica para la actuación policial reglada es el cumplimiento del deber legal."
+    },
+    {
+     "texto": "La conducta es típica y antijurídica, pero no culpable por miedo insuperable.",
+     "justificacion": "Incorrecta. La justificación excluye la antijuridicidad; no hay que analizar la culpabilidad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COIP"
+   ]
+  },
+  {
+   "id": "RZ-PRO-01",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Derecho Procesal (COGEP)",
+   "tema": "Demanda incompleta",
+   "resultado": "Resuelve un caso de demanda incompleta razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Una demanda de daños no indica la cuantía ni anuncia los medios de prueba. ¿Qué debe hacer el juez en su primera providencia?",
+   "opciones": [
+    {
+     "texto": "Disponer que el actor la complete o aclare en el término de tres días.",
+     "justificacion": "Correcta. Si la demanda no cumple los requisitos legales, la o el juzgador dispone que la o el actor la complete o aclare en el término de tres días; si no lo hace, ordena su archivo (art. 146 del Código Orgánico General de Procesos)."
+    },
+    {
+     "texto": "Rechazarla de plano y ordenar su archivo, sin conceder ningún término.",
+     "justificacion": "Incorrecta. La ley concede antes un término para completar o aclarar."
+    },
+    {
+     "texto": "Calificarla y citar al demandado, porque los defectos se corrigen en la audiencia preliminar.",
+     "justificacion": "Incorrecta. La calificación exige que la demanda cumpla los requisitos legales."
+    },
+    {
+     "texto": "Fijar de oficio la cuantía y anunciar la prueba que estime pertinente.",
+     "justificacion": "Incorrecta. El juez no puede suplir la carga del actor en la demanda."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "RZ-PRO-02",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Derecho Procesal (COGEP)",
+   "tema": "Término de contestación según procedimiento",
+   "resultado": "Resuelve un caso de término de contestación según procedimiento razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "En un juicio de alimentos, que se tramita por procedimiento sumario, el demandado contesta a los veinticinco días de citado, alegando el término de treinta días. ¿Es oportuna la contestación?",
+   "opciones": [
+    {
+     "texto": "No, porque en el sumario el término para contestar es de quince días.",
+     "justificacion": "Correcta. En el procedimiento sumario, el término para contestar la demanda es de quince días (art. 333 del Código Orgánico General de Procesos); los treinta días corresponden al procedimiento ordinario (art. 291)."
+    },
+    {
+     "texto": "Sí, porque el término de treinta días rige también en el procedimiento sumario.",
+     "justificacion": "Incorrecta. Cada procedimiento tiene su propio término."
+    },
+    {
+     "texto": "Sí, porque en materia de alimentos no existen términos preclusivos.",
+     "justificacion": "Incorrecta. Los términos procesales rigen también en materia de alimentos."
+    },
+    {
+     "texto": "No, porque en el sumario la contestación se presenta oralmente en la audiencia.",
+     "justificacion": "Incorrecta. La contestación se presenta por escrito dentro del término legal."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "RZ-PRO-03",
+   "area": 3,
+   "dificultad": 4,
+   "subarea": "Derecho Procesal (COGEP)",
+   "tema": "Abandono y derechos de niños",
+   "resultado": "Resuelve un caso de abandono y derechos de niños razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "En un juicio de alimentos a favor de una niña, ninguna de las partes impulsa el proceso durante noventa días. El demandado pide que se declare el abandono. ¿Qué debe resolver el juez?",
+   "opciones": [
+    {
+     "texto": "Negarlo, porque no cabe abandono en causas que involucran derechos de niñas y niños.",
+     "justificacion": "Correcta. Aunque el abandono procede por la inactividad de las partes durante ochenta días (art. 245 del Código Orgánico General de Procesos), no cabe en las causas en que estén involucrados derechos de niñas, niños y adolescentes (art. 247 del mismo código)."
+    },
+    {
+     "texto": "Declararlo, porque transcurrió el término de ochenta días sin impulso procesal.",
+     "justificacion": "Incorrecta. Se omite la excepción legal por la materia."
+    },
+    {
+     "texto": "Declararlo, pero solo si la madre no justifica la inactividad dentro de tres días.",
+     "justificacion": "Incorrecta. No es un asunto de justificación: el abandono está excluido en esta materia."
+    },
+    {
+     "texto": "Negarlo, porque el término de abandono es de un año en materia de familia.",
+     "justificacion": "Incorrecta. No existe ese término especial; la razón es la exclusión del art. 247."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "RZ-PRO-04",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Derecho Procesal (COGEP)",
+   "tema": "Citación por la prensa",
+   "resultado": "Resuelve un caso de citación por la prensa razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "El actor pide citar por la prensa al demandado porque \"no sabe dónde vive\", sin haber hecho ninguna gestión ni declaración. ¿Qué requisito falta?",
+   "opciones": [
+    {
+     "texto": "Declarar bajo juramento que, pese a sus gestiones, no pudo ubicar el domicilio.",
+     "justificacion": "Correcta. La citación por la prensa procede cuando se ignora la residencia del demandado y la o el actor declara bajo juramento que le ha sido imposible determinarla, pese a las diligencias necesarias (art. 56 del Código Orgánico General de Procesos)."
+    },
+    {
+     "texto": "Ninguno, porque basta afirmar en la demanda que se desconoce el domicilio.",
+     "justificacion": "Incorrecta. Se exige la declaración juramentada y la acreditación de las diligencias."
+    },
+    {
+     "texto": "Una autorización previa de la Corte Provincial para usar ese medio de citación.",
+     "justificacion": "Incorrecta. La ley no exige esa autorización."
+    },
+    {
+     "texto": "Que el demandado haya salido del país, verificado por el registro migratorio.",
+     "justificacion": "Incorrecta. La salida del país no es el presupuesto legal de la citación por la prensa."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "RZ-PRO-05",
+   "area": 3,
+   "dificultad": 4,
+   "subarea": "Derecho Procesal (COGEP)",
+   "tema": "Oportunidad de la prueba documental",
+   "resultado": "Resuelve un caso de oportunidad de la prueba documental razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "En la audiencia de juicio, el actor presenta un contrato que tenía en su poder desde antes de demandar, pero que no adjuntó ni anunció. El demandado se opone. ¿Qué debe resolver el juez?",
+   "opciones": [
+    {
+     "texto": "Inadmitirlo, porque la prueba documental disponible debió adjuntarse con la demanda.",
+     "justificacion": "Correcta. La prueba documental con que cuenten las partes debe adjuntarse a la demanda, la contestación, la reconvención o la contestación a esta (art. 159 del Código Orgánico General de Procesos); la prueba nueva se limita a hechos o documentos que no se conocían o no pudieron obtenerse (art. 166)."
+    },
+    {
+     "texto": "Admitirlo, porque el juez debe buscar la verdad material por encima de las formas.",
+     "justificacion": "Incorrecta. La oportunidad probatoria garantiza la contradicción y la lealtad procesal."
+    },
+    {
+     "texto": "Admitirlo como prueba nueva, porque se presenta por primera vez en el proceso.",
+     "justificacion": "Incorrecta. No es nueva una prueba que el actor ya tenía y pudo presentar."
+    },
+    {
+     "texto": "Admitirlo si el actor paga una multa por la presentación tardía.",
+     "justificacion": "Incorrecta. La ley no prevé una multa que habilite la prueba extemporánea."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "RZ-PRO-06",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Derecho Procesal (COGEP)",
+   "tema": "Fundamentación de la apelación",
+   "resultado": "Resuelve un caso de fundamentación de la apelación razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Notificada por escrito la sentencia de primera instancia, la parte vencida apela oportunamente, pero presenta la fundamentación escrita quince días después. ¿Qué consecuencia tiene?",
+   "opciones": [
+    {
+     "texto": "La apelación no se tramita, porque debía fundamentarse dentro de diez días.",
+     "justificacion": "Correcta. El recurso de apelación debe fundamentarse por escrito dentro del término de diez días; si no se fundamenta, no se concede (arts. 256 y 257 del Código Orgánico General de Procesos)."
+    },
+    {
+     "texto": "Ninguna, porque el término para fundamentar la apelación es de treinta días.",
+     "justificacion": "Incorrecta. El término legal es de diez días."
+    },
+    {
+     "texto": "La Corte Provincial debe pronunciarse sobre la extemporaneidad al resolver el fondo.",
+     "justificacion": "Incorrecta. La falta de fundamentación oportuna impide que el recurso prospere."
+    },
+    {
+     "texto": "La fundamentación extemporánea se tiene por presentada si la contraparte no se opone.",
+     "justificacion": "Incorrecta. Los términos procesales son perentorios y no dependen de la oposición."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "RZ-PRO-07",
+   "area": 3,
+   "dificultad": 5,
+   "subarea": "Derecho Procesal (COGEP)",
+   "tema": "Casación por valoración de la prueba",
+   "resultado": "Resuelve un caso de casación por valoración de la prueba razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "El recurrente en casación afirma que el tribunal \"valoró mal\" un peritaje. ¿Qué debe demostrar para que su recurso sea admisible?",
+   "opciones": [
+    {
+     "texto": "Qué precepto de valoración se infringió y cómo afectó al fondo.",
+     "justificacion": "Correcta. La casación procede por aplicación indebida, falta de aplicación o errónea interpretación de los preceptos jurídicos aplicables a la valoración de la prueba, siempre que hayan conducido a una equivocada aplicación o a la no aplicación de normas de derecho sustantivo (art. 268 num. 4 del Código Orgánico General de Procesos)."
+    },
+    {
+     "texto": "Que su propia valoración del peritaje es más razonable que la del tribunal.",
+     "justificacion": "Incorrecta. La casación no es una nueva instancia para revalorar la prueba."
+    },
+    {
+     "texto": "Que el peritaje fue determinante para el resultado del proceso.",
+     "justificacion": "Incorrecta. La relevancia del medio no basta; debe identificarse el precepto de valoración infringido y su efecto."
+    },
+    {
+     "texto": "Que existe una prueba nueva que contradice las conclusiones del perito.",
+     "justificacion": "Incorrecta. La casación no admite prueba nueva."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "RZ-PRO-08",
+   "area": 3,
+   "dificultad": 4,
+   "subarea": "Derecho Procesal (COGEP)",
+   "tema": "Litisconsorcio necesario",
+   "resultado": "Resuelve un caso de litisconsorcio necesario razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Un tercero demanda la nulidad absoluta de una compraventa, pero dirige la demanda solo contra el comprador, sin incluir al vendedor. ¿Qué problema procesal existe?",
+   "opciones": [
+    {
+     "texto": "Falta integrar el litisconsorcio necesario, porque el vendedor no fue demandado.",
+     "justificacion": "Correcta. Cuando la decisión debe resolverse de manera uniforme para todos los integrantes de una relación jurídica, deben comparecer todos (litisconsorcio necesario, arts. 50 y 51 del Código Orgánico General de Procesos); la nulidad de un contrato afecta a todas las partes que lo celebraron."
+    },
+    {
+     "texto": "Ninguno, porque basta demandar a quien actualmente tiene la cosa vendida.",
+     "justificacion": "Incorrecta. La nulidad afecta al contrato en su conjunto y a todas sus partes."
+    },
+    {
+     "texto": "El tercero carece de legitimación para pedir la nulidad absoluta.",
+     "justificacion": "Incorrecta. La nulidad absoluta puede alegarla todo el que tenga interés en ello (art. 1699 del Código Civil)."
+    },
+    {
+     "texto": "Debió demandar primero en un proceso de mediación obligatoria.",
+     "justificacion": "Incorrecta. La mediación no es requisito previo para demandar la nulidad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP",
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-PRO-09",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Derecho Procesal (COGEP)",
+   "tema": "Título ejecutivo",
+   "resultado": "Resuelve un caso de título ejecutivo razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "El acreedor tiene un documento privado en el que el deudor reconoce una deuda líquida y vencida, y ese documento fue reconocido luego ante un juez. ¿Qué vía puede usar?",
+   "opciones": [
+    {
+     "texto": "El procedimiento ejecutivo, porque el documento reconocido judicialmente es título ejecutivo.",
+     "justificacion": "Correcta. Son títulos ejecutivos, entre otros, los documentos privados legalmente reconocidos o reconocidos por decisión judicial, siempre que contengan una obligación clara, pura, determinada y actualmente exigible (arts. 347 y 348 del Código Orgánico General de Procesos)."
+    },
+    {
+     "texto": "El procedimiento monitorio, porque el documento no es una letra de cambio ni un pagaré.",
+     "justificacion": "Incorrecta. El monitorio procede cuando no existe título ejecutivo (art. 356)."
+    },
+    {
+     "texto": "El procedimiento ordinario, porque un documento privado exige juicio de conocimiento.",
+     "justificacion": "Incorrecta. El reconocimiento judicial le otorga fuerza ejecutiva."
+    },
+    {
+     "texto": "El procedimiento sumario, porque la deuda no supera la cuantía de los juicios ordinarios.",
+     "justificacion": "Incorrecta. La cuantía no define la vía cuando existe título ejecutivo."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "COGEP"
+   ]
+  },
+  {
+   "id": "RZ-MAS-01",
+   "area": 3,
+   "dificultad": 3,
+   "subarea": "Métodos Alternativos",
+   "tema": "Materia transigible en la mediación",
+   "resultado": "Resuelve un caso de materia transigible en la mediación razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Un procesado por un delito de acción pública con resultado de muerte propone a la familia de la víctima una mediación para \"terminar el proceso penal\" mediante un pago. ¿Es viable?",
+   "opciones": [
+    {
+     "texto": "No para extinguir la acción penal: la mediación exige materia transigible.",
+     "justificacion": "Correcta. La mediación procura un acuerdo voluntario que verse sobre materia transigible (art. 43 de la Ley de Arbitraje y Mediación); la acción penal pública por un delito contra la vida no es disponible por las partes."
+    },
+    {
+     "texto": "Sí, porque las partes pueden resolver por acuerdo los conflictos que las afectan.",
+     "justificacion": "Incorrecta. Solo es mediable lo que es transigible."
+    },
+    {
+     "texto": "Sí, siempre que el acuerdo se homologue ante el juez de garantías penales.",
+     "justificacion": "Incorrecta. La homologación no vuelve transigible una acción pública indisponible."
+    },
+    {
+     "texto": "No, porque la mediación está prohibida en los asuntos relacionados con delitos.",
+     "justificacion": "Incorrecta. Los aspectos patrimoniales y ciertos conflictos penales menores pueden mediarse; el límite está en lo no transigible."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "LAM"
+   ]
+  },
+  {
+   "id": "RZ-MAS-02",
+   "area": 3,
+   "dificultad": 5,
+   "subarea": "Métodos Alternativos",
+   "tema": "Arbitraje con entidades públicas",
+   "resultado": "Resuelve un caso de arbitraje con entidades públicas razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Surgida una controversia, un ministerio firma con su contratista un convenio arbitral nuevo sin consultar a la Procuraduría General del Estado. Luego alega la nulidad del convenio. ¿Tiene fundamento?",
+   "opciones": [
+    {
+     "texto": "Sí, porque el convenio posterior a la controversia exige consultar al Procurador.",
+     "justificacion": "Correcta. Las entidades del sector público pueden someterse a arbitraje si existe convenio previo a la controversia; si se lo quiere suscribir después de surgida, debe consultarse al Procurador General del Estado, y el incumplimiento de los requisitos acarrea la nulidad del convenio arbitral (art. 4 de la Ley de Arbitraje y Mediación; art. 190 de la Constitución)."
+    },
+    {
+     "texto": "No, porque basta que el ministro tenga facultad para contratar a nombre de la entidad.",
+     "justificacion": "Incorrecta. El art. 4 fija requisitos específicos para el sector público."
+    },
+    {
+     "texto": "No, porque nadie puede alegar la nulidad de un acto que él mismo celebró.",
+     "justificacion": "Incorrecta. La nulidad se produce por mandato legal y puede ser alegada."
+    },
+    {
+     "texto": "Sí, porque las entidades públicas tienen prohibido someterse a arbitraje.",
+     "justificacion": "Incorrecta. Pueden hacerlo, cumpliendo los requisitos de ley (art. 190 de la Constitución)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "LAM",
+    "CRE"
+   ]
+  },
+  {
+   "id": "RZ-MAS-03",
+   "area": 3,
+   "dificultad": 4,
+   "subarea": "Métodos Alternativos",
+   "tema": "Renuncia tácita al convenio arbitral",
+   "resultado": "Resuelve un caso de renuncia tácita al convenio arbitral razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Pese a existir un convenio arbitral, el actor demanda ante un juez civil. El demandado contesta discutiendo el fondo y no menciona el convenio. Luego, en la audiencia, pide que el juez se inhiba. ¿Qué corresponde?",
+   "opciones": [
+    {
+     "texto": "El juez continúa: el demandado renunció tácitamente al no oponer el convenio.",
+     "justificacion": "Correcta. Se entiende que las partes renuncian al convenio arbitral si, presentada una demanda ante la justicia ordinaria, el demandado no opone la excepción de existencia del convenio en su contestación (art. 8 de la Ley de Arbitraje y Mediación)."
+    },
+    {
+     "texto": "El juez debe inhibirse, porque el convenio arbitral impide someter el caso a la justicia.",
+     "justificacion": "Incorrecta. El efecto excluyente del art. 7 cede ante la renuncia tácita del art. 8."
+    },
+    {
+     "texto": "El juez debe consultar a las partes si desean volver al arbitraje.",
+     "justificacion": "Incorrecta. La renuncia ya se produjo por la conducta procesal del demandado."
+    },
+    {
+     "texto": "El juez debe declarar la nulidad de lo actuado por falta de competencia.",
+     "justificacion": "Incorrecta. La competencia arbitral es renunciable y quedó renunciada."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "LAM"
+   ]
+  },
+  {
+   "id": "RZ-MAS-04",
+   "area": 3,
+   "dificultad": 4,
+   "subarea": "Métodos Alternativos",
+   "tema": "Medidas cautelares en el arbitraje",
+   "resultado": "Resuelve un caso de medidas cautelares en el arbitraje razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Un tribunal arbitral ordena el secuestro de un bien. El convenio arbitral no prevé que los árbitros puedan pedir auxilio directo a funcionarios públicos. ¿Cómo se ejecuta la medida?",
+   "opciones": [
+    {
+     "texto": "Una parte pide al juez ordinario que la ejecute, sin renunciar al arbitraje.",
+     "justificacion": "Correcta. Los árbitros pueden dictar medidas cautelares; si las partes no estipularon el auxilio directo de funcionarios, cualquiera de ellas puede solicitar al juez ordinario que las ejecute, sin que ello signifique renuncia al convenio arbitral (art. 9 de la Ley de Arbitraje y Mediación)."
+    },
+    {
+     "texto": "No puede ejecutarse, porque los árbitros carecen de facultad para dictar medidas cautelares.",
+     "justificacion": "Incorrecta. El art. 9 les reconoce esa facultad."
+    },
+    {
+     "texto": "Los árbitros la ejecutan directamente con la Policía, aunque no se haya pactado.",
+     "justificacion": "Incorrecta. El auxilio directo exige estipulación de las partes."
+    },
+    {
+     "texto": "Pedir la ejecución al juez implica renunciar al convenio arbitral.",
+     "justificacion": "Incorrecta. La ley aclara que no hay renuncia."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "LAM"
+   ]
+  },
+  {
+   "id": "RZ-MAS-05",
+   "area": 3,
+   "dificultad": 5,
+   "subarea": "Métodos Alternativos",
+   "tema": "Control de la justicia indígena",
+   "resultado": "Resuelve un caso de control de la justicia indígena razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Una autoridad indígena sanciona a un comunero con una medida que, según este, vulnera su integridad personal. El comunero quiere impugnarla. ¿Cuál es la vía adecuada?",
+   "opciones": [
+    {
+     "texto": "La acción extraordinaria de protección contra decisiones de la justicia indígena.",
+     "justificacion": "Correcta. Las decisiones de la jurisdicción indígena están sujetas al control de constitucionalidad (art. 171 de la Constitución), y la persona inconforme puede acudir a la Corte Constitucional mediante acción extraordinaria de protección (art. 65 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional)."
+    },
+    {
+     "texto": "La apelación ante la Corte Provincial, que revisa las decisiones indígenas.",
+     "justificacion": "Incorrecta. La justicia ordinaria no es instancia de revisión de la justicia indígena."
+    },
+    {
+     "texto": "Ninguna, porque las decisiones de la justicia indígena son inimpugnables.",
+     "justificacion": "Incorrecta. Están sujetas al control de constitucionalidad."
+    },
+    {
+     "texto": "Una nueva denuncia penal, porque la justicia ordinaria puede volver a juzgar el caso.",
+     "justificacion": "Incorrecta. Las decisiones indígenas deben ser respetadas por las instituciones públicas (art. 171), y un nuevo juzgamiento vulneraría el non bis in idem."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "LOGJCC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-01",
+   "area": 4,
+   "dificultad": 3,
+   "subarea": "Personas y Familia",
+   "tema": "Incapacidad relativa del menor adulto",
+   "resultado": "Resuelve un caso de incapacidad relativa del menor adulto razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Un joven de dieciséis años vende su motocicleta sin intervención de sus padres. Meses después, sus padres quieren dejar sin efecto la venta. ¿Qué sanción corresponde y quién puede alegarla?",
+   "opciones": [
+    {
+     "texto": "Nulidad relativa, alegable por el menor o sus representantes y saneable.",
+     "justificacion": "Correcta. Los menores adultos son relativamente incapaces (art. 1463 del Código Civil) y los actos que celebran sin cumplir las formalidades legales adolecen de nulidad relativa (art. 1698), que solo puede alegarse por aquellos en cuyo beneficio la establece la ley y puede sanearse (art. 1699)."
+    },
+    {
+     "texto": "Nulidad absoluta, que el juez puede declarar de oficio al conocer el contrato.",
+     "justificacion": "Incorrecta. La nulidad absoluta se reserva a los actos de los absolutamente incapaces y a otros vicios graves (art. 1698)."
+    },
+    {
+     "texto": "Inexistencia, porque un menor de edad no puede expresar consentimiento válido.",
+     "justificacion": "Incorrecta. El menor adulto tiene voluntad jurídicamente relevante; su acto es anulable."
+    },
+    {
+     "texto": "Validez plena, porque desde los dieciséis años se adquiere capacidad para contratar.",
+     "justificacion": "Incorrecta. La plena capacidad se adquiere a los dieciocho años."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-02",
+   "area": 4,
+   "dificultad": 3,
+   "subarea": "Personas y Familia",
+   "tema": "Incapacidad absoluta del impúber",
+   "resultado": "Resuelve un caso de incapacidad absoluta del impúber razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Un niño de once años \"vende\" a un vecino una consola que le regalaron. Años después se discute la validez del acto. ¿Qué razonamiento es correcto?",
+   "opciones": [
+    {
+     "texto": "Hay nulidad absoluta, porque el impúber es absolutamente incapaz.",
+     "justificacion": "Correcta. Los impúberes son absolutamente incapaces y sus actos no producen ni aun obligaciones naturales (art. 1463 del Código Civil); esos actos adolecen de nulidad absoluta (art. 1698)."
+    },
+    {
+     "texto": "Hay nulidad relativa, que se sanea si el niño la ratifica al cumplir dieciocho años.",
+     "justificacion": "Incorrecta. La nulidad absoluta no se sanea por ratificación (art. 1699)."
+    },
+    {
+     "texto": "El acto es válido, porque el niño era dueño de la consola que vendió.",
+     "justificacion": "Incorrecta. Ser dueño no suple la incapacidad absoluta."
+    },
+    {
+     "texto": "Hay nulidad relativa, porque los menores de edad son relativamente incapaces.",
+     "justificacion": "Incorrecta. Los impúberes son absolutamente incapaces; los menores adultos, relativamente."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-03",
+   "area": 4,
+   "dificultad": 3,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Error sustancial",
+   "resultado": "Resuelve un caso de error sustancial razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Una persona compra un anillo creyendo que es de oro, porque así lo entendió por su apariencia, pero resulta ser de bronce. El vendedor no afirmó nada sobre el material. ¿Puede pedir la nulidad?",
+   "opciones": [
+    {
+     "texto": "Sí, por error sustancial sobre la materia de la que está hecho el anillo.",
+     "justificacion": "Correcta. El error de hecho vicia el consentimiento cuando la sustancia o calidad esencial del objeto es diversa de lo que se cree (art. 1470 del Código Civil); produce nulidad relativa (art. 1698)."
+    },
+    {
+     "texto": "No, porque el vendedor no la engañó y por tanto no hubo vicio del consentimiento.",
+     "justificacion": "Incorrecta. El error es un vicio autónomo; no requiere engaño de la otra parte."
+    },
+    {
+     "texto": "No, porque el error sobre las cualidades del objeto es un error accidental.",
+     "justificacion": "Incorrecta. El error sobre la sustancia o calidad esencial sí lo vicia."
+    },
+    {
+     "texto": "Sí, por dolo, porque el vendedor debía advertirle sobre el material del anillo.",
+     "justificacion": "Incorrecta. No hay maquinación fraudulenta probada; el vicio es el error."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-04",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Fuerza y ejercicio legítimo de un derecho",
+   "resultado": "Resuelve un caso de fuerza y ejercicio legítimo de un derecho razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Un acreedor advierte a su deudor que, si no firma un pagaré por la deuda vencida, presentará una demanda judicial. El deudor firma y luego alega fuerza. ¿Prospera su alegación?",
+   "opciones": [
+    {
+     "texto": "No, porque anunciar el ejercicio legítimo de un derecho no es fuerza injusta.",
+     "justificacion": "Correcta. La fuerza vicia el consentimiento cuando es capaz de producir una impresión fuerte y es injusta (art. 1472 del Código Civil); amenazar con ejercer una acción judicial legítima no constituye fuerza ilícita."
+    },
+    {
+     "texto": "Sí, porque la amenaza fue la razón por la que el deudor firmó el pagaré.",
+     "justificacion": "Incorrecta. La amenaza debe ser injusta y grave."
+    },
+    {
+     "texto": "Sí, porque el deudor firmó por temor a perder un juicio.",
+     "justificacion": "Incorrecta. El temor a las consecuencias legítimas del incumplimiento no es fuerza."
+    },
+    {
+     "texto": "No, porque la fuerza solo vicia el consentimiento cuando hay violencia física.",
+     "justificacion": "Incorrecta. La fuerza también puede ser moral, siempre que sea grave e injusta."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-05",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Dolo de un tercero",
+   "resultado": "Resuelve un caso de dolo de un tercero razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Un tasador independiente, sin acuerdo con el vendedor, engaña al comprador sobre el valor de un terreno, y el comprador decide comprar por esa razón. ¿Puede el comprador anular la compraventa por dolo?",
+   "opciones": [
+    {
+     "texto": "No, porque el dolo no provino de una de las partes; cabe pedir perjuicios.",
+     "justificacion": "Correcta. El dolo no vicia el consentimiento sino cuando es obra de una de las partes y aparece claramente que sin él no se habría contratado; en los demás casos da lugar solo a la acción de perjuicios contra quien lo fraguó (art. 1474 del Código Civil)."
+    },
+    {
+     "texto": "Sí, porque el dolo fue determinante para que el comprador aceptara el contrato.",
+     "justificacion": "Incorrecta. Ser determinante no basta si el dolo proviene de un tercero."
+    },
+    {
+     "texto": "Sí, porque el vendedor se benefició del engaño aunque no participara en él.",
+     "justificacion": "Incorrecta. El beneficio no equivale a la autoría del dolo."
+    },
+    {
+     "texto": "No, porque el comprador debió verificar por sí mismo el valor del terreno.",
+     "justificacion": "Incorrecta. La diligencia del comprador no es el criterio; lo decisivo es que el dolo provino de un tercero."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-06",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Venta de cosa ajena",
+   "resultado": "Resuelve un caso de venta de cosa ajena razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Una persona vende un vehículo que pertenece a su hermano, sin poder ni autorización. El comprador pagó el precio. ¿Cuál es la situación del contrato?",
+   "opciones": [
+    {
+     "texto": "La venta vale entre las partes, sin perjuicio de los derechos del verdadero dueño.",
+     "justificacion": "Correcta. La venta de cosa ajena vale, sin perjuicio de los derechos del dueño de la cosa vendida, mientras no se extingan por el lapso de tiempo (art. 1754 del Código Civil); el dueño no queda obligado por ella."
+    },
+    {
+     "texto": "La venta es nula de nulidad absoluta, por recaer sobre una cosa que no es del vendedor.",
+     "justificacion": "Incorrecta. El Código Civil declara expresamente que la venta de cosa ajena vale."
+    },
+    {
+     "texto": "La venta transfiere el dominio al comprador, porque pagó el precio de buena fe.",
+     "justificacion": "Incorrecta. Nadie puede transferir más derechos de los que tiene."
+    },
+    {
+     "texto": "La venta es inexistente, porque falta el consentimiento del dueño del vehículo.",
+     "justificacion": "Incorrecta. El contrato existe entre vendedor y comprador; el dueño simplemente no queda obligado."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-07",
+   "area": 4,
+   "dificultad": 5,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Doble venta de inmueble e inscripción",
+   "resultado": "Resuelve un caso de doble venta de inmueble e inscripción razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Un propietario vende su casa a A por escritura pública, pero A no la inscribe. Luego vende la misma casa a B, quien inscribe su escritura de inmediato. ¿Quién es el dueño?",
+   "opciones": [
+    {
+     "texto": "B, porque la tradición de inmuebles se efectúa con la inscripción en el Registro.",
+     "justificacion": "Correcta. La tradición del dominio de bienes raíces se efectúa por la inscripción del título en el Registro de la Propiedad (art. 702 del Código Civil); A tiene un título, pero no adquirió el dominio, y puede reclamar al vendedor por el incumplimiento."
+    },
+    {
+     "texto": "A, porque su escritura es anterior y el primer contrato prevalece sobre el segundo.",
+     "justificacion": "Incorrecta. La escritura es título; el modo de adquirir el dominio es la inscripción."
+    },
+    {
+     "texto": "Ambos, en copropiedad, porque los dos pagaron el precio y tienen escritura.",
+     "justificacion": "Incorrecta. No hay copropiedad: el dominio lo adquiere quien inscribe."
+    },
+    {
+     "texto": "Ninguno, porque la segunda venta anula a la primera y viceversa.",
+     "justificacion": "Incorrecta. Ambas ventas son válidas como títulos; solo una se inscribió."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-08",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Bienes y Derechos Reales",
+   "tema": "Prescripción adquisitiva extraordinaria",
+   "resultado": "Resuelve un caso de prescripción adquisitiva extraordinaria razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Una persona ocupa un terreno ajeno desde hace dieciséis años, sin título alguno, comportándose públicamente como dueña y sin interrupciones. ¿Puede adquirirlo por prescripción?",
+   "opciones": [
+    {
+     "texto": "Sí, por prescripción extraordinaria, que no exige justo título.",
+     "justificacion": "Correcta. La prescripción adquisitiva extraordinaria no requiere título y opera con quince años de posesión (arts. 2410 y 2411 del Código Civil)."
+    },
+    {
+     "texto": "No, porque sin justo título solo procede la prescripción ordinaria.",
+     "justificacion": "Incorrecta. Es al revés: la ordinaria exige justo título y buena fe; la extraordinaria no."
+    },
+    {
+     "texto": "No, porque la prescripción de inmuebles exige un mínimo de veinte años.",
+     "justificacion": "Incorrecta. El plazo de la extraordinaria es de quince años."
+    },
+    {
+     "texto": "Sí, por prescripción ordinaria, porque superó el plazo de cinco años para inmuebles.",
+     "justificacion": "Incorrecta. Sin justo título ni buena fe no puede invocar la ordinaria."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-09",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Bienes y Derechos Reales",
+   "tema": "Mera tenencia y prescripción",
+   "resultado": "Resuelve un caso de mera tenencia y prescripción razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Un arrendatario ha ocupado un departamento durante veinte años pagando el canon, y ahora demanda la prescripción adquisitiva porque \"lleva más de quince años\". ¿Prospera?",
+   "opciones": [
+    {
+     "texto": "No, porque es mero tenedor: reconoce el dominio ajeno y no posee.",
+     "justificacion": "Correcta. Se llama mera tenencia la que se ejerce sobre una cosa no como dueño, sino en lugar o a nombre del dueño, como el arrendatario (art. 729 del Código Civil), y el mero tenedor no puede adquirir por prescripción mientras reconozca el dominio ajeno (art. 2410)."
+    },
+    {
+     "texto": "Sí, porque superó el plazo de quince años de la prescripción extraordinaria.",
+     "justificacion": "Incorrecta. El tiempo no basta: falta la posesión con ánimo de dueño."
+    },
+    {
+     "texto": "Sí, porque la ocupación fue pública, pacífica e ininterrumpida.",
+     "justificacion": "Incorrecta. Esas cualidades se predican de la posesión, que el arrendatario no tiene."
+    },
+    {
+     "texto": "No, porque los inmuebles urbanos no pueden adquirirse por prescripción.",
+     "justificacion": "Incorrecta. Los inmuebles urbanos sí son prescriptibles."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-10",
+   "area": 4,
+   "dificultad": 3,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Obligación solidaria",
+   "resultado": "Resuelve un caso de obligación solidaria razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Tres personas se obligaron solidariamente a pagar 9.000 dólares. El acreedor demanda solo a una de ellas por el total. ¿Qué razonamiento es correcto?",
+   "opciones": [
+    {
+     "texto": "Puede exigirle el total; quien paga puede luego repetir contra los demás por su parte.",
+     "justificacion": "Correcta. El acreedor puede dirigirse contra todos los deudores solidarios conjuntamente o contra cualquiera de ellos, a su arbitrio, por el total (art. 1530 del Código Civil); el que paga se subroga y puede reclamar a los codeudores su cuota."
+    },
+    {
+     "texto": "Solo puede exigirle 3.000 dólares, que es la cuota que le corresponde.",
+     "justificacion": "Incorrecta. Esa regla rige para las obligaciones simplemente conjuntas."
+    },
+    {
+     "texto": "Debe demandar a los tres a la vez, porque la solidaridad exige un litisconsorcio.",
+     "justificacion": "Incorrecta. El acreedor elige a quién demandar."
+    },
+    {
+     "texto": "Puede exigir el total, pero el deudor que paga no puede reclamar nada a los demás.",
+     "justificacion": "Incorrecta. El deudor que paga tiene acción contra los codeudores."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-11",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Obligación simplemente conjunta",
+   "resultado": "Resuelve un caso de obligación simplemente conjunta razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Tres hermanos firman un contrato en el que deben 9.000 dólares a un proveedor, sin pactar solidaridad. El proveedor demanda a uno de ellos por el total. ¿Qué defensa es procedente?",
+   "opciones": [
+    {
+     "texto": "Que debe únicamente su cuota, porque la solidaridad no se presume.",
+     "justificacion": "Correcta. En las obligaciones con pluralidad de deudores, cada uno está obligado solo a su parte, salvo que la solidaridad se haya pactado expresamente o la disponga la ley (art. 1527 del Código Civil)."
+    },
+    {
+     "texto": "Ninguna, porque entre parientes se presume que la deuda es solidaria.",
+     "justificacion": "Incorrecta. La solidaridad no se presume por el parentesco."
+    },
+    {
+     "texto": "Que el proveedor debió demandar a una sociedad de hecho formada por los tres.",
+     "justificacion": "Incorrecta. No existe base para presumir una sociedad entre los deudores."
+    },
+    {
+     "texto": "Que la obligación es nula por no haberse dividido el monto en el contrato.",
+     "justificacion": "Incorrecta. A falta de pacto, la ley divide la deuda en cuotas."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-12",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Excepción de contrato no cumplido",
+   "resultado": "Resuelve un caso de excepción de contrato no cumplido razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "En una compraventa, el vendedor demanda el pago del saldo del precio, pero aún no ha entregado la cosa vendida, que debía entregarse primero. ¿Qué puede oponer el comprador?",
+   "opciones": [
+    {
+     "texto": "La excepción de contrato no cumplido: no está en mora mientras el vendedor no cumpla.",
+     "justificacion": "Correcta. En los contratos bilaterales ninguno de los contratantes está en mora dejando de cumplir lo pactado, mientras el otro no lo cumple por su parte o no se allana a cumplirlo en la forma y tiempo debidos (art. 1568 del Código Civil)."
+    },
+    {
+     "texto": "La nulidad del contrato, porque el vendedor no puede exigir sin haber cumplido.",
+     "justificacion": "Incorrecta. El incumplimiento no anula el contrato; habilita la excepción o la resolución."
+    },
+    {
+     "texto": "Ninguna, porque la obligación de pagar el precio es independiente de la entrega.",
+     "justificacion": "Incorrecta. En los contratos bilaterales las obligaciones son recíprocas."
+    },
+    {
+     "texto": "La prescripción, porque el vendedor dejó pasar el plazo de entrega.",
+     "justificacion": "Incorrecta. El vencimiento del plazo no extingue la acción."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-13",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Condición resolutoria tácita",
+   "resultado": "Resuelve un caso de condición resolutoria tácita razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Un constructor incumple totalmente un contrato de obra. El dueño ya no quiere la obra, sino recuperar lo pagado y los daños. ¿Qué acción corresponde?",
+   "opciones": [
+    {
+     "texto": "La resolución del contrato por incumplimiento, con indemnización de perjuicios.",
+     "justificacion": "Correcta. En los contratos bilaterales va envuelta la condición resolutoria de no cumplirse por uno de los contratantes lo pactado; el otro puede pedir a su arbitrio la resolución o el cumplimiento, con indemnización de perjuicios (art. 1505 del Código Civil)."
+    },
+    {
+     "texto": "La nulidad del contrato, porque el incumplimiento lo vicia desde su origen.",
+     "justificacion": "Incorrecta. El incumplimiento es posterior a la formación del contrato y no es causa de nulidad."
+    },
+    {
+     "texto": "El cumplimiento forzoso, porque es la única acción ante el incumplimiento.",
+     "justificacion": "Incorrecta. El contratante cumplido puede elegir entre cumplimiento y resolución."
+    },
+    {
+     "texto": "La rescisión por lesión enorme, porque recibió menos de lo que pagó.",
+     "justificacion": "Incorrecta. La lesión enorme se refiere a la desproporción del precio en ciertas compraventas."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-14",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Requisitos de la compensación",
+   "resultado": "Resuelve un caso de requisitos de la compensación razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "A debe a B 2.000 dólares, exigibles hoy. B debe a A 2.000 dólares, pero con plazo que vence en seis meses. A alega que ambas deudas se compensaron. ¿Es correcto?",
+   "opciones": [
+    {
+     "texto": "No, porque la deuda de B aún no es actualmente exigible por el plazo pendiente.",
+     "justificacion": "Correcta. La compensación legal opera cuando ambas deudas son de dinero o de cosas fungibles de igual género, líquidas y actualmente exigibles (art. 1672 del Código Civil); la deuda con plazo pendiente no lo es."
+    },
+    {
+     "texto": "Sí, porque ambas deudas son de dinero y por el mismo monto.",
+     "justificacion": "Incorrecta. Falta el requisito de exigibilidad actual."
+    },
+    {
+     "texto": "Sí, porque la compensación opera por el hecho de existir deudas recíprocas.",
+     "justificacion": "Incorrecta. La compensación legal exige todos los requisitos del art. 1672."
+    },
+    {
+     "texto": "No, porque la compensación solo procede cuando lo declara un juez.",
+     "justificacion": "Incorrecta. La compensación legal opera por el solo ministerio de la ley, cumplidos sus requisitos."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-15",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Interrupción natural de la prescripción",
+   "resultado": "Resuelve un caso de interrupción natural de la prescripción razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Un deudor de una obligación ejecutiva hace un abono parcial en el cuarto año, reconociendo la deuda. En el séptimo año el acreedor demanda y el deudor alega prescripción de cinco años. ¿Prospera?",
+   "opciones": [
+    {
+     "texto": "No, porque el abono interrumpió la prescripción y el plazo volvió a correr desde entonces.",
+     "justificacion": "Correcta. La prescripción que extingue las obligaciones se interrumpe naturalmente por el hecho de reconocer el deudor la obligación, expresa o tácitamente (art. 2418 del Código Civil); desde el abono no han transcurrido cinco años (art. 2415)."
+    },
+    {
+     "texto": "Sí, porque el plazo de cinco años se cuenta desde que la obligación fue exigible.",
+     "justificacion": "Incorrecta. El reconocimiento interrumpe la prescripción y borra el tiempo anterior."
+    },
+    {
+     "texto": "Sí, porque el abono parcial solo interrumpe la prescripción de la parte pagada.",
+     "justificacion": "Incorrecta. El reconocimiento recae sobre la obligación en su conjunto."
+    },
+    {
+     "texto": "No, porque las obligaciones ejecutivas prescriben en quince años.",
+     "justificacion": "Incorrecta. Las ejecutivas prescriben en cinco años (art. 2415)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-16",
+   "area": 4,
+   "dificultad": 3,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Responsabilidad por el hecho ajeno",
+   "resultado": "Resuelve un caso de responsabilidad por el hecho ajeno razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Un adolescente de quince años que vive con sus padres raya y daña un vehículo estacionado. El dueño demanda a los padres. ¿Qué razonamiento es correcto?",
+   "opciones": [
+    {
+     "texto": "Responden los padres por el hijo que vive con ellos, salvo que prueben que no pudieron impedirlo.",
+     "justificacion": "Correcta. Toda persona es responsable no solo de sus propias acciones sino del hecho de quienes estuvieren a su cuidado; así, los padres responden del hecho de los hijos menores que habiten en la misma casa, salvo que con la autoridad y el cuidado debidos no hubieren podido impedir el hecho (art. 2220 del Código Civil)."
+    },
+    {
+     "texto": "Los padres no responden, porque la responsabilidad civil es estrictamente personal.",
+     "justificacion": "Incorrecta. El Código Civil establece la responsabilidad por el hecho ajeno."
+    },
+    {
+     "texto": "Solo responde el adolescente, porque a los quince años es plenamente capaz de delito civil.",
+     "justificacion": "Incorrecta. La eventual capacidad del menor no excluye la responsabilidad de quienes lo tienen a su cuidado."
+    },
+    {
+     "texto": "Los padres responden de forma absoluta, sin posibilidad de probar diligencia.",
+     "justificacion": "Incorrecta. Pueden exonerarse si prueban que no pudieron impedir el hecho."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-17",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Prescripción de la acción extracontractual",
+   "resultado": "Resuelve un caso de prescripción de la acción extracontractual razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Una persona sufrió daños en un accidente causado por la negligencia de otra hace cinco años y recién ahora demanda la indemnización. ¿Qué excepción puede oponer el demandado?",
+   "opciones": [
+    {
+     "texto": "Prescripción, por haber pasado más de cuatro años desde el hecho.",
+     "justificacion": "Correcta. Las acciones por daño o dolo en materia extracontractual prescriben en cuatro años contados desde la perpetración del acto (art. 2235 del Código Civil)."
+    },
+    {
+     "texto": "Ninguna, porque la acción ordinaria prescribe en diez años.",
+     "justificacion": "Incorrecta. La acción extracontractual tiene un plazo especial de cuatro años."
+    },
+    {
+     "texto": "Caducidad, porque la indemnización debía pedirse dentro de un año.",
+     "justificacion": "Incorrecta. No existe ese plazo de caducidad."
+    },
+    {
+     "texto": "Prescripción de cinco años, porque es el plazo de las acciones ejecutivas.",
+     "justificacion": "Incorrecta. No es una acción ejecutiva; rige el plazo especial del art. 2235."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-18",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Bienes propios en la sociedad conyugal",
+   "resultado": "Resuelve un caso de bienes propios en la sociedad conyugal razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Durante el matrimonio, la cónyuge hereda una casa de su padre. Al liquidar la sociedad conyugal, el otro cónyuge pide la mitad de la casa. ¿Qué razonamiento es correcto?",
+   "opciones": [
+    {
+     "texto": "La casa es un bien propio de la cónyuge, por haberla adquirido a título gratuito.",
+     "justificacion": "Correcta. Los bienes que los cónyuges adquieren durante el matrimonio a título gratuito, como la herencia, no ingresan al haber de la sociedad conyugal y son bienes propios del cónyuge adquirente (normas del haber social, arts. 157 y siguientes del Código Civil)."
+    },
+    {
+     "texto": "La casa es social, porque se adquirió durante la vigencia de la sociedad conyugal.",
+     "justificacion": "Incorrecta. Los bienes adquiridos a título gratuito no son sociales."
+    },
+    {
+     "texto": "La casa es social, pero la cónyuge tiene una preferencia para adjudicársela.",
+     "justificacion": "Incorrecta. No es un bien social que deba repartirse."
+    },
+    {
+     "texto": "La casa es de ambos solo si fue inscrita a nombre de los dos cónyuges.",
+     "justificacion": "Incorrecta. La calidad del bien depende del título de adquisición, no de una inscripción conjunta."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-19",
+   "area": 4,
+   "dificultad": 3,
+   "subarea": "Personas y Familia",
+   "tema": "Causal de abandono en el divorcio",
+   "resultado": "Resuelve un caso de causal de abandono en el divorcio razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Un cónyuge abandonó el hogar sin justificación hace ocho meses y no ha regresado. El otro cónyuge quiere el divorcio, pero no hay acuerdo. ¿Con qué fundamento puede demandar?",
+   "opciones": [
+    {
+     "texto": "Con la causal de abandono injustificado por más de seis meses.",
+     "justificacion": "Correcta. Es causal de divorcio el abandono injustificado de cualquiera de los cónyuges por más de seis meses ininterrumpidos (art. 110 num. 9 del Código Civil)."
+    },
+    {
+     "texto": "No puede divorciarse sin el consentimiento del otro cónyuge.",
+     "justificacion": "Incorrecta. El divorcio por causal no requiere consentimiento."
+    },
+    {
+     "texto": "Debe esperar a que el abandono cumpla tres años ininterrumpidos.",
+     "justificacion": "Incorrecta. El plazo vigente de la causal es de más de seis meses."
+    },
+    {
+     "texto": "Debe acudir a un notario, que es competente para el divorcio contencioso.",
+     "justificacion": "Incorrecta. El notario solo interviene en el divorcio por mutuo consentimiento sin hijos dependientes."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-20",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Alimentos desde la demanda",
+   "resultado": "Resuelve un caso de alimentos desde la demanda razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Un padre es condenado a pagar alimentos. Sostiene que solo debe pagarlos desde la resolución que los fijó, y no por los meses que duró el juicio. ¿Tiene razón?",
+   "opciones": [
+    {
+     "texto": "No, porque la pensión se debe desde la presentación de la demanda.",
+     "justificacion": "Correcta. La pensión de alimentos se debe desde la presentación de la demanda (art. innumerado 8 del Título V, Libro II del Código de la Niñez y Adolescencia)."
+    },
+    {
+     "texto": "Sí, porque las obligaciones nacen cuando el juez las declara en la resolución.",
+     "justificacion": "Incorrecta. La ley fija expresamente que se deben desde la demanda."
+    },
+    {
+     "texto": "Sí, salvo que la madre pruebe que el niño pasó necesidades durante el juicio.",
+     "justificacion": "Incorrecta. No se exige esa prueba; la regla es objetiva."
+    },
+    {
+     "texto": "No, porque la pensión se debe desde el nacimiento del niño.",
+     "justificacion": "Incorrecta. La regla general toma como punto de partida la presentación de la demanda."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CONA"
+   ]
+  },
+  {
+   "id": "RZ-CIV-21",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Personas y Familia",
+   "tema": "Obligados subsidiarios de alimentos",
+   "resultado": "Resuelve un caso de obligados subsidiarios de alimentos razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "El padre de un niño está desempleado, sin bienes y con una discapacidad que le impide trabajar, y la madre tampoco puede cubrir las necesidades. ¿A quién puede demandarse la pensión?",
+   "opciones": [
+    {
+     "texto": "A los obligados subsidiarios, como los abuelos, según su capacidad.",
+     "justificacion": "Correcta. En caso de ausencia, impedimento, insuficiencia de recursos o discapacidad de los obligados principales, la obligación se cumple por los obligados subsidiarios, en atención a su capacidad económica: los abuelos, los hermanos mayores de veintiún años y los tíos (art. innumerado 5 del Título V, Libro II del Código de la Niñez y Adolescencia)."
+    },
+    {
+     "texto": "A nadie, porque la obligación alimentaria se extingue si el padre no tiene recursos.",
+     "justificacion": "Incorrecta. La ley prevé obligados subsidiarios."
+    },
+    {
+     "texto": "Solo al Estado, que debe cubrir directamente la pensión de alimentos.",
+     "justificacion": "Incorrecta. Antes intervienen los obligados subsidiarios previstos en la ley."
+    },
+    {
+     "texto": "A los tíos en primer lugar, porque son los parientes más cercanos al niño.",
+     "justificacion": "Incorrecta. El orden comienza por los abuelos."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CONA"
+   ]
+  },
+  {
+   "id": "RZ-CIV-22",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Sucesiones",
+   "tema": "Derecho de representación",
+   "resultado": "Resuelve un caso de derecho de representación razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Un causante muere sin testamento y deja dos hijos vivos y dos nietos, hijos de un tercer hijo que falleció antes que él. ¿Cómo se reparte la herencia?",
+   "opciones": [
+    {
+     "texto": "En tres partes: una para cada hijo vivo y una para los nietos, por representación.",
+     "justificacion": "Correcta. Por el derecho de representación, los descendientes ocupan el lugar del ascendiente fallecido y heredan lo que a este le habría correspondido (arts. 1024 y 1025 del Código Civil); los nietos dividen entre ellos la cuota de su padre."
+    },
+    {
+     "texto": "En dos partes, solo para los hijos vivos, porque los nietos no heredan si hay hijos.",
+     "justificacion": "Incorrecta. La representación permite a los nietos ocupar el lugar del hijo premuerto."
+    },
+    {
+     "texto": "En cuatro partes iguales, entre los dos hijos y los dos nietos.",
+     "justificacion": "Incorrecta. Los nietos heredan por estirpes, no por cabezas."
+    },
+    {
+     "texto": "En dos partes, una para los hijos y otra para los nietos, por orden de grados.",
+     "justificacion": "Incorrecta. La división se hace por estirpes: una cuota por cada hijo."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-23",
+   "area": 4,
+   "dificultad": 5,
+   "subarea": "Sucesiones",
+   "tema": "Acción de reforma del testamento",
+   "resultado": "Resuelve un caso de acción de reforma del testamento razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Un testador con tres hijos deja todos sus bienes a dos de ellos y a una fundación, sin mencionar al tercero. El hijo omitido quiere anular todo el testamento. ¿Cuál es la acción adecuada?",
+   "opciones": [
+    {
+     "texto": "La acción de reforma del testamento, para que se le asigne su legítima.",
+     "justificacion": "Correcta. Los legitimarios a quienes el testador no ha dejado lo que por ley les corresponde tienen derecho a que se reforme el testamento a su favor (art. 1239 del Código Civil); la acción no anula el testamento, lo ajusta a las legítimas."
+    },
+    {
+     "texto": "La nulidad absoluta del testamento, porque vulnera normas de orden público.",
+     "justificacion": "Incorrecta. La lesión de la legítima no produce nulidad, sino reforma."
+    },
+    {
+     "texto": "La acción de indignidad contra sus hermanos, por haberlo excluido de la herencia.",
+     "justificacion": "Incorrecta. Los hermanos no incurrieron en causal de indignidad."
+    },
+    {
+     "texto": "Ninguna, porque el testador puede preferir a unos hijos sobre otros.",
+     "justificacion": "Incorrecta. Con legitimarios, la libertad de testar está limitada."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-CIV-24",
+   "area": 4,
+   "dificultad": 4,
+   "subarea": "Obligaciones y Contratos",
+   "tema": "Beneficio de excusión del fiador",
+   "resultado": "Resuelve un caso de beneficio de excusión del fiador razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Un banco demanda directamente al fiador de un crédito sin haber intentado cobrar al deudor principal, que tiene bienes suficientes. El fiador no renunció a ningún beneficio ni se obligó solidariamente. ¿Qué puede oponer?",
+   "opciones": [
+    {
+     "texto": "El beneficio de excusión, para que primero se persigan los bienes del deudor.",
+     "justificacion": "Correcta. El fiador reconvenido goza del beneficio de excusión, en virtud del cual puede exigir que antes de proceder contra él se persiga la deuda en los bienes del deudor principal, siempre que no lo haya renunciado ni se haya obligado como codeudor solidario (normas sobre el beneficio de excusión de la fianza del Código Civil)."
+    },
+    {
+     "texto": "La nulidad de la fianza, porque el banco no notificó primero al deudor principal.",
+     "justificacion": "Incorrecta. La falta de cobro previo no anula la fianza."
+    },
+    {
+     "texto": "Ninguna, porque el fiador responde de igual forma que el deudor principal.",
+     "justificacion": "Incorrecta. La fianza es una obligación accesoria y subsidiaria."
+    },
+    {
+     "texto": "La prescripción, porque la obligación del fiador se extingue antes que la principal.",
+     "justificacion": "Incorrecta. No hay datos que sustenten una prescripción."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-MER-01",
+   "area": 5,
+   "dificultad": 4,
+   "subarea": "Mercantil",
+   "tema": "Cesión de participaciones",
+   "resultado": "Resuelve un caso de cesión de participaciones razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Un socio de una compañía de responsabilidad limitada con cinco socios cede sus participaciones a un tercero con la aprobación de cuatro de ellos; el quinto se opuso. ¿Es eficaz la cesión?",
+   "opciones": [
+    {
+     "texto": "No, porque la cesión a un extraño requería la unanimidad del capital social.",
+     "justificacion": "Correcta. Las participaciones pueden cederse a terceros extraños a la compañía solo con el consentimiento unánime del capital social, y la cesión se instrumenta por escritura pública (art. 113 de la Ley de Compañías)."
+    },
+    {
+     "texto": "Sí, porque basta la aprobación de la mayoría del capital social.",
+     "justificacion": "Incorrecta. Para la cesión a terceros la ley exige unanimidad."
+    },
+    {
+     "texto": "Sí, porque las participaciones son libremente transferibles como las acciones.",
+     "justificacion": "Incorrecta. La libre transferencia es propia de las acciones de la compañía anónima."
+    },
+    {
+     "texto": "No, porque las participaciones de una limitada no pueden cederse a terceros.",
+     "justificacion": "Incorrecta. Pueden cederse, pero con el consentimiento unánime."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "LC"
+   ]
+  },
+  {
+   "id": "RZ-MER-02",
+   "area": 5,
+   "dificultad": 4,
+   "subarea": "Mercantil",
+   "tema": "Transferencia de acciones",
+   "resultado": "Resuelve un caso de transferencia de acciones razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Un accionista de una compañía anónima vende sus acciones a un tercero, pero la transferencia nunca se inscribe en el Libro de Acciones y Accionistas. El comprador quiere votar en la junta. ¿Puede hacerlo?",
+   "opciones": [
+    {
+     "texto": "No, porque la transferencia no surte efecto frente a la compañía sin la inscripción.",
+     "justificacion": "Correcta. Las acciones de la compañía anónima son libremente transferibles, pero la transferencia del dominio no surte efecto contra la compañía ni contra terceros sino desde su inscripción en el Libro de Acciones y Accionistas (normas sobre la transferencia de acciones de la Ley de Compañías)."
+    },
+    {
+     "texto": "Sí, porque la compraventa de acciones es válida desde el acuerdo de las partes.",
+     "justificacion": "Incorrecta. La validez entre las partes no equivale a su oponibilidad frente a la compañía."
+    },
+    {
+     "texto": "No, porque la venta de acciones requiere la aprobación unánime de la junta.",
+     "justificacion": "Incorrecta. En la anónima, las acciones son libremente transferibles."
+    },
+    {
+     "texto": "Sí, siempre que exhiba la escritura pública de compraventa de las acciones.",
+     "justificacion": "Incorrecta. Lo determinante es la inscripción en el libro, no el instrumento."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "LC"
+   ]
+  },
+  {
+   "id": "RZ-MER-03",
+   "area": 5,
+   "dificultad": 3,
+   "subarea": "Mercantil",
+   "tema": "Sociedad por acciones simplificada",
+   "resultado": "Resuelve un caso de sociedad por acciones simplificada razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Una emprendedora quiere constituir sola una sociedad con responsabilidad limitada, por documento privado y sin escritura pública. ¿Qué forma societaria se ajusta a su objetivo?",
+   "opciones": [
+    {
+     "texto": "La sociedad por acciones simplificada, que admite un único accionista.",
+     "justificacion": "Correcta. La sociedad por acciones simplificada puede constituirse por una o varias personas mediante trámite en línea o documento privado, con responsabilidad limitada a sus aportes (reformas a la Ley de Compañías introducidas por la Ley Orgánica de Emprendimiento e Innovación, 2020)."
+    },
+    {
+     "texto": "La compañía en nombre colectivo, que puede constituirse con un solo socio.",
+     "justificacion": "Incorrecta. Requiere dos o más socios y estos responden solidaria e ilimitadamente."
+    },
+    {
+     "texto": "La compañía anónima, que puede constituirse por documento privado.",
+     "justificacion": "Incorrecta. La anónima se constituye por escritura pública."
+    },
+    {
+     "texto": "La compañía de responsabilidad limitada, que admite un socio único.",
+     "justificacion": "Incorrecta. La limitada exige pluralidad de socios."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "LC"
+   ]
+  },
+  {
+   "id": "RZ-MER-04",
+   "area": 5,
+   "dificultad": 4,
+   "subarea": "Mercantil",
+   "tema": "Legitimación del tenedor de una letra",
+   "resultado": "Resuelve un caso de legitimación del tenedor de una letra razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Una letra de cambio llega a manos de su tenedor actual tras tres endosos sucesivos e ininterrumpidos, el último de ellos en blanco. El deudor se niega a pagar alegando que no conoce al tenedor. ¿Quién tiene razón?",
+   "opciones": [
+    {
+     "texto": "El tenedor, porque se legitima por una serie ininterrumpida de endosos.",
+     "justificacion": "Correcta. El tenedor de la letra se considera portador legítimo si justifica su derecho por una serie ininterrumpida de endosos, aun cuando el último sea en blanco (normas sobre el endoso de la letra de cambio del Código de Comercio de 2019)."
+    },
+    {
+     "texto": "El deudor, porque solo está obligado frente al beneficiario original de la letra.",
+     "justificacion": "Incorrecta. La letra es un título circulante; el endoso transmite los derechos."
+    },
+    {
+     "texto": "El deudor, porque el endoso en blanco carece de efectos jurídicos.",
+     "justificacion": "Incorrecta. El endoso en blanco es válido y transmite el título."
+    },
+    {
+     "texto": "El tenedor, pero solo si notifica cada endoso al deudor antes del vencimiento.",
+     "justificacion": "Incorrecta. El endoso no requiere notificación al deudor."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CCOM"
+   ]
+  },
+  {
+   "id": "RZ-TRI-01",
+   "area": 5,
+   "dificultad": 4,
+   "subarea": "Tributario",
+   "tema": "Calificación del hecho generador",
+   "resultado": "Resuelve un caso de calificación del hecho generador razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Dos partes celebran un contrato que denominan \"donación\", pero el \"donatario\" paga al \"donante\" un precio equivalente al valor comercial del bien. ¿Cómo debe calificarlo la administración tributaria?",
+   "opciones": [
+    {
+     "texto": "Como compraventa, porque se atiende a la esencia económica y no a la denominación.",
+     "justificacion": "Correcta. Cuando el hecho generador consista en un acto jurídico, se calificará conforme a su verdadera esencia y naturaleza jurídica, cualquiera que sea la forma elegida o la denominación utilizada por los interesados (art. 17 del Código Tributario)."
+    },
+    {
+     "texto": "Como donación, porque la administración debe respetar la voluntad declarada por las partes.",
+     "justificacion": "Incorrecta. La denominación no vincula a la administración tributaria."
+    },
+    {
+     "texto": "Como un contrato atípico, que no genera ninguna obligación tributaria.",
+     "justificacion": "Incorrecta. La administración califica según la realidad económica del acto."
+    },
+    {
+     "texto": "Como donación, salvo que un juez civil declare antes la simulación del contrato.",
+     "justificacion": "Incorrecta. La calificación tributaria no depende de una declaración judicial civil previa."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CTRIB"
+   ]
+  },
+  {
+   "id": "RZ-TRI-02",
+   "area": 5,
+   "dificultad": 4,
+   "subarea": "Tributario",
+   "tema": "Responsabilidad del agente de retención",
+   "resultado": "Resuelve un caso de responsabilidad del agente de retención razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Una empresa paga honorarios a un profesional y no efectúa la retención en la fuente que la ley le impone. El SRI le exige el valor no retenido. ¿Por qué responde la empresa?",
+   "opciones": [
+    {
+     "texto": "Como responsable del tributo, porque como agente debía retener y no lo hizo.",
+     "justificacion": "Correcta. Los agentes de retención son responsables del tributo que debieron retener; si no lo hacen, responden solidariamente con el contribuyente, sin perjuicio de su derecho de repetición (art. 29 num. 1 y art. 30 del Código Tributario)."
+    },
+    {
+     "texto": "No responde, porque el contribuyente es el único obligado al pago del impuesto.",
+     "justificacion": "Incorrecta. La ley establece la responsabilidad del agente de retención."
+    },
+    {
+     "texto": "Responde solo con una multa formal, sin obligación de pagar el impuesto.",
+     "justificacion": "Incorrecta. Responde también por el tributo no retenido."
+    },
+    {
+     "texto": "Responde si se prueba que actuó con dolo para favorecer al profesional.",
+     "justificacion": "Incorrecta. La responsabilidad no exige dolo."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CTRIB"
+   ]
+  },
+  {
+   "id": "RZ-TRI-03",
+   "area": 5,
+   "dificultad": 3,
+   "subarea": "Tributario",
+   "tema": "Término del reclamo administrativo",
+   "resultado": "Resuelve un caso de término del reclamo administrativo razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Un contribuyente recibe la notificación de un acta de determinación y presenta un reclamo administrativo treinta días hábiles después. ¿Qué ocurre?",
+   "opciones": [
+    {
+     "texto": "El reclamo es extemporáneo, porque el término para presentarlo es de veinte días.",
+     "justificacion": "Correcta. Los contribuyentes pueden presentar reclamo ante la autoridad tributaria dentro del plazo de veinte días contados desde el día hábil siguiente al de la notificación del acto (art. 115 del Código Tributario)."
+    },
+    {
+     "texto": "El reclamo es oportuno, porque el término para reclamar es de sesenta días.",
+     "justificacion": "Incorrecta. Sesenta días es el término para la acción contenciosa, no para el reclamo."
+    },
+    {
+     "texto": "El reclamo es oportuno, porque los términos tributarios se cuentan en meses.",
+     "justificacion": "Incorrecta. El reclamo tiene un término específico de veinte días."
+    },
+    {
+     "texto": "El reclamo es extemporáneo, porque el término es de diez días como en la apelación.",
+     "justificacion": "Incorrecta. El término del reclamo tributario es de veinte días."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CTRIB"
+   ]
+  },
+  {
+   "id": "RZ-TRI-04",
+   "area": 5,
+   "dificultad": 5,
+   "subarea": "Tributario",
+   "tema": "Vigencia de normas sobre impuestos anuales",
+   "resultado": "Resuelve un caso de vigencia de normas sobre impuestos anuales razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Una ley publicada en el mes de agosto eleva la tarifa del impuesto a la renta, que se liquida por períodos anuales. El SRI pretende aplicarla a todo el ejercicio fiscal en curso. ¿Es correcto?",
+   "opciones": [
+    {
+     "texto": "No, porque las normas sobre tributos anuales rigen desde el siguiente año calendario.",
+     "justificacion": "Correcta. Las normas que se refieren a tributos cuya determinación o liquidación deban realizarse por períodos anuales se aplican desde el primer día del siguiente año calendario (art. 11 del Código Tributario), lo que concreta la irretroactividad tributaria (art. 300 de la Constitución)."
+    },
+    {
+     "texto": "Sí, porque las leyes rigen desde su publicación en el Registro Oficial.",
+     "justificacion": "Incorrecta. La regla general cede ante la norma especial para tributos anuales."
+    },
+    {
+     "texto": "Sí, siempre que la ley declare expresamente su aplicación inmediata.",
+     "justificacion": "Incorrecta. La irretroactividad tributaria es un principio constitucional."
+    },
+    {
+     "texto": "No, porque la tarifa del impuesto a la renta exige consulta popular para elevarse.",
+     "justificacion": "Incorrecta. No existe ese requisito; basta una ley a iniciativa del Ejecutivo (art. 301 de la Constitución)."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CTRIB",
+    "CRE"
+   ]
+  },
+  {
+   "id": "RZ-LAB-01",
+   "area": 5,
+   "dificultad": 3,
+   "subarea": "Laboral",
+   "tema": "Período de prueba",
+   "resultado": "Resuelve un caso de período de prueba razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Un contrato de trabajo fija un período de prueba de seis meses. Al quinto mes, el empleador da por terminada la relación invocando ese período. ¿Qué razonamiento es correcto?",
+   "opciones": [
+    {
+     "texto": "El período de prueba no puede exceder de noventa días; ya había vencido.",
+     "justificacion": "Correcta. En todo contrato de plazo indefinido puede pactarse un período de prueba de duración máxima de noventa días (art. 15 del Código del Trabajo); vencido ese plazo, el contrato continúa y una terminación unilateral puede ser despido intempestivo."
+    },
+    {
+     "texto": "La terminación es válida, porque las partes pactaron libremente el período de prueba.",
+     "justificacion": "Incorrecta. El máximo legal es irrenunciable para el trabajador."
+    },
+    {
+     "texto": "La terminación es válida, porque el período de prueba puede durar hasta un año.",
+     "justificacion": "Incorrecta. El máximo es de noventa días."
+    },
+    {
+     "texto": "La terminación es nula, porque los contratos indefinidos no admiten período de prueba.",
+     "justificacion": "Incorrecta. La ley lo admite, con un máximo de noventa días."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CT"
+   ]
+  },
+  {
+   "id": "RZ-LAB-02",
+   "area": 5,
+   "dificultad": 3,
+   "subarea": "Laboral",
+   "tema": "Desahucio por el trabajador",
+   "resultado": "Resuelve un caso de desahucio por el trabajador razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Una trabajadora quiere dar por terminada su relación laboral de plazo indefinido para aceptar otra oferta. ¿Qué debe hacer?",
+   "opciones": [
+    {
+     "texto": "Notificar el desahucio con al menos quince días de anticipación.",
+     "justificacion": "Correcta. El desahucio es el aviso con el que el trabajador hace saber al empleador que pone fin al contrato, y debe darse con al menos quince días de anticipación (art. 184 del Código del Trabajo)."
+    },
+    {
+     "texto": "Solicitar el visto bueno ante el inspector del trabajo.",
+     "justificacion": "Incorrecta. El visto bueno es para la terminación por causas legales imputables a la otra parte."
+    },
+    {
+     "texto": "Abandonar el puesto, porque el contrato indefinido termina por la sola voluntad del trabajador.",
+     "justificacion": "Incorrecta. El abandono puede ser causal de visto bueno en su contra."
+    },
+    {
+     "texto": "Esperar el vencimiento del contrato, porque no puede terminarlo unilateralmente.",
+     "justificacion": "Incorrecta. El contrato indefinido no tiene vencimiento y puede terminarse por desahucio."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CT"
+   ]
+  },
+  {
+   "id": "RZ-LAB-03",
+   "area": 5,
+   "dificultad": 4,
+   "subarea": "Laboral",
+   "tema": "Prescripción de las acciones laborales",
+   "resultado": "Resuelve un caso de prescripción de las acciones laborales razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Un trabajador despedido en marzo de 2022 demanda en noviembre de 2026 el pago de la indemnización por despido intempestivo. ¿Qué excepción puede oponer el empleador?",
+   "opciones": [
+    {
+     "texto": "Prescripción, por haber pasado más de tres años desde la terminación laboral.",
+     "justificacion": "Correcta. Las acciones provenientes de actos o contratos de trabajo prescriben en tres años, contados desde la terminación de la relación laboral (art. 635 del Código del Trabajo)."
+    },
+    {
+     "texto": "Ninguna, porque los derechos laborales son imprescriptibles e irrenunciables.",
+     "justificacion": "Incorrecta. La irrenunciabilidad no impide la prescripción de las acciones."
+    },
+    {
+     "texto": "Prescripción, porque el trabajador tenía un año para reclamar la indemnización.",
+     "justificacion": "Incorrecta. El plazo general es de tres años."
+    },
+    {
+     "texto": "Caducidad, porque debía reclamar antes ante el Ministerio del Trabajo.",
+     "justificacion": "Incorrecta. El reclamo administrativo no es requisito previo de la acción judicial."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CT"
+   ]
+  },
+  {
+   "id": "RZ-LAB-04",
+   "area": 5,
+   "dificultad": 4,
+   "subarea": "Laboral",
+   "tema": "Irrenunciabilidad de derechos",
+   "resultado": "Resuelve un caso de irrenunciabilidad de derechos razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "En el acta de finiquito, un trabajador declara que \"renuncia a reclamar las horas extraordinarias\" que el empleador reconoce adeudarle. Luego las demanda. ¿Qué razonamiento es correcto?",
+   "opciones": [
+    {
+     "texto": "La renuncia es nula, porque los derechos laborales son irrenunciables e intangibles.",
+     "justificacion": "Correcta. Los derechos laborales son irrenunciables e intangibles, y es nula toda estipulación en contrario (art. 326 num. 2 de la Constitución; art. 4 del Código del Trabajo)."
+    },
+    {
+     "texto": "La renuncia es válida, porque el finiquito suscrito ante el inspector tiene valor de cosa juzgada.",
+     "justificacion": "Incorrecta. El finiquito no convalida la renuncia de derechos."
+    },
+    {
+     "texto": "La renuncia es válida, porque la firmó un trabajador mayor de edad y capaz.",
+     "justificacion": "Incorrecta. La capacidad no habilita a renunciar a derechos laborales."
+    },
+    {
+     "texto": "La renuncia es válida, pero el trabajador puede pedir una indemnización compensatoria.",
+     "justificacion": "Incorrecta. La renuncia es nula, por lo que conserva el derecho a las horas extraordinarias."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "CT"
+   ]
+  },
+  {
+   "id": "RZ-LAB-05",
+   "area": 5,
+   "dificultad": 4,
+   "subarea": "Laboral",
+   "tema": "In dubio pro operario",
+   "resultado": "Resuelve un caso de in dubio pro operario razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Una cláusula del contrato colectivo sobre un bono anual admite dos lecturas: una lo otorga a todos los trabajadores y otra solo a los sindicalizados. ¿Cómo debe interpretarla el juez?",
+   "opciones": [
+    {
+     "texto": "En el sentido más favorable a las personas trabajadoras, por la duda existente.",
+     "justificacion": "Correcta. En caso de duda sobre el alcance de las disposiciones legales, reglamentarias o contractuales en materia laboral, se aplican en el sentido más favorable a las personas trabajadoras (art. 326 num. 3 de la Constitución; art. 7 del Código del Trabajo)."
+    },
+    {
+     "texto": "Según la lectura que menos afecte la situación financiera de la empresa.",
+     "justificacion": "Incorrecta. La duda se resuelve a favor del trabajador."
+    },
+    {
+     "texto": "Según la intención del empleador que redactó el texto final de la cláusula.",
+     "justificacion": "Incorrecta. El contrato colectivo se interpreta conforme al principio pro operario."
+    },
+    {
+     "texto": "Debe declarar nula la cláusula, por ser ambigua e imprecisa.",
+     "justificacion": "Incorrecta. La ambigüedad se resuelve por interpretación favorable, no por nulidad."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CRE",
+    "CT"
+   ]
+  },
+  {
+   "id": "RZ-DIP-01",
+   "area": 5,
+   "dificultad": 3,
+   "subarea": "Internacional Privado",
+   "tema": "Ley aplicable a los bienes",
+   "resultado": "Resuelve un caso de ley aplicable a los bienes razonando desde la norma aplicable.",
+   "demanda": "Aplicar",
+   "enunciado": "Un ciudadano español que nunca residió en Ecuador es dueño de un terreno en Manabí. Se discute qué ley rige la propiedad y su transferencia. ¿Qué ley se aplica?",
+   "opciones": [
+    {
+     "texto": "La ley ecuatoriana, porque el bien está situado en Ecuador.",
+     "justificacion": "Correcta. Los bienes situados en el Ecuador están sujetos a las leyes ecuatorianas, aunque sus dueños sean extranjeros y no residan en el Ecuador (art. 15 del Código Civil)."
+    },
+    {
+     "texto": "La ley española, porque rige la nacionalidad del propietario.",
+     "justificacion": "Incorrecta. Para los bienes rige la ley del lugar de su situación."
+    },
+    {
+     "texto": "La ley del domicilio del propietario, sea cual sea el lugar del bien.",
+     "justificacion": "Incorrecta. El Código Civil adopta la regla de la ubicación del bien."
+    },
+    {
+     "texto": "La que elijan las partes en el contrato de compraventa del terreno.",
+     "justificacion": "Incorrecta. El régimen de los bienes inmuebles no es disponible por las partes."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-DIP-02",
+   "area": 5,
+   "dificultad": 4,
+   "subarea": "Internacional Privado",
+   "tema": "Forma de los instrumentos públicos",
+   "resultado": "Resuelve un caso de forma de los instrumentos públicos razonando desde la norma aplicable.",
+   "demanda": "Analizar",
+   "enunciado": "Dos ecuatorianos otorgan en Madrid, ante notario español y con las formalidades españolas, un poder que se usará en Ecuador. La contraparte alega que el poder debió seguir las solemnidades ecuatorianas. ¿Quién tiene razón?",
+   "opciones": [
+    {
+     "texto": "Los otorgantes, porque la forma se rige por la ley del lugar de otorgamiento.",
+     "justificacion": "Correcta. La forma de los instrumentos públicos se determina por la ley del lugar en que hayan sido otorgados (art. 16 del Código Civil), sin perjuicio de su apostilla o legalización para surtir efectos en el Ecuador."
+    },
+    {
+     "texto": "La contraparte, porque el instrumento se usará en Ecuador y debe seguir su ley.",
+     "justificacion": "Incorrecta. El Código Civil adopta la regla del lugar de celebración para la forma."
+    },
+    {
+     "texto": "La contraparte, porque los ecuatorianos deben otorgar sus poderes en un consulado.",
+     "justificacion": "Incorrecta. El otorgamiento consular es una alternativa, no una obligación."
+    },
+    {
+     "texto": "Ninguno, porque los poderes otorgados en el extranjero no tienen validez en Ecuador.",
+     "justificacion": "Incorrecta. Son válidos si cumplen la ley del lugar y los requisitos de autenticación."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  },
+  {
+   "id": "RZ-DIP-03",
+   "area": 5,
+   "dificultad": 5,
+   "subarea": "Internacional Privado",
+   "tema": "Ley personal de los ecuatorianos en el extranjero",
+   "resultado": "Resuelve un caso de ley personal de los ecuatorianos en el extranjero razonando desde la norma aplicable.",
+   "demanda": "Evaluar",
+   "enunciado": "Un ecuatoriano domiciliado desde hace años en Italia es demandado por su hijo, también ecuatoriano, por alimentos. Alega que, por su domicilio, la obligación debe regirse por la ley italiana. ¿Qué razonamiento es correcto?",
+   "opciones": [
+    {
+     "texto": "Rige la ley ecuatoriana, porque sigue a los ecuatorianos en sus relaciones de familia.",
+     "justificacion": "Correcta. Los ecuatorianos, aunque residan o estén domiciliados en el extranjero, permanecen sujetos a las leyes de su patria en las obligaciones y derechos que nacen de las relaciones de familia, respecto de su cónyuge y parientes ecuatorianos (art. 14 num. 2 del Código Civil)."
+    },
+    {
+     "texto": "Rige la ley italiana, porque las obligaciones se regulan por la ley del domicilio del deudor.",
+     "justificacion": "Incorrecta. Para las relaciones de familia entre ecuatorianos, el Código Civil adopta la ley de la nacionalidad."
+    },
+    {
+     "texto": "Rige la ley que elija el padre, porque es quien debe cumplir la obligación de alimentos.",
+     "justificacion": "Incorrecta. La ley aplicable no queda a elección del obligado."
+    },
+    {
+     "texto": "Ninguna ley ecuatoriana se aplica, porque los jueces del Ecuador no son competentes.",
+     "justificacion": "Incorrecta. La competencia judicial y la ley aplicable son cuestiones distintas; la ley de familia aplicable es la ecuatoriana."
+    }
+   ],
+   "correcta": 0,
+   "referencias": [
+    "CC"
+   ]
+  }
+ ]
+}

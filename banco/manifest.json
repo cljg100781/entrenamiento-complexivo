@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-06",
+ "actualizado": "2026-11-10",
  "paquetes": [
   {
    "id": "pack-001",
@@ -36,6 +36,20 @@
    "version": 1,
    "titulo": "Paquete 5 · 30 preguntas nuevas (Administrativo, Familia, Procesal)",
    "preguntas": 30
+  },
+  {
+   "id": "pack-006",
+   "archivo": "pack-006.json",
+   "version": 1,
+   "titulo": "Paquete 6 · 331 preguntas depuradas del archivo del estudiante",
+   "preguntas": 331
+  },
+  {
+   "id": "pack-007",
+   "archivo": "pack-007.json",
+   "version": 1,
+   "titulo": "Paquete 7 · 100 casos de razonamiento jurídico",
+   "preguntas": 100
   }
  ]
 }
