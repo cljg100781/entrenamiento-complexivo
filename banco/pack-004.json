@@ -830,19 +830,19 @@
    "opciones": [
     {
      "texto": "Ningún parentesco vigente; no existe impedimento para casarse.",
-     "justificacion": "Correcta. Según la retroalimentación del curso, el Código Civil vigente no incluye la afinidad entre los impedimentos del matrimonio, por lo que el vínculo previo no impide celebrarlo."
+     "justificacion": "Correcta. La afinidad por matrimonio cesa con el divorcio: la Corte Constitucional expulsó del art. 23 del Código Civil la frase \"o ha estado\" (Sentencia 0001-11-SIN-CC). Además, desde 2015 la afinidad no es impedimento dirimente, porque el art. 95 solo prohíbe el matrimonio entre consanguíneos en línea recta y colaterales en segundo grado."
     },
     {
      "texto": "Afinidad en línea recta de primer grado, que es impedimento dirimente.",
-     "justificacion": "Incorrecta. La afinidad no figura entre los impedimentos vigentes."
+     "justificacion": "Incorrecta. Tras el divorcio no hay afinidad vigente, y la afinidad no figura entre los impedimentos del art. 95 del Código Civil."
     },
     {
      "texto": "Afinidad en línea recta de primer grado, que no impide el matrimonio.",
-     "justificacion": "Incorrecta. La respuesta oficial descarta un parentesco vigente."
+     "justificacion": "Incorrecta. Disuelto el matrimonio sin hijos comunes, la afinidad no subsiste (Sentencia 0001-11-SIN-CC)."
     },
     {
      "texto": "Afinidad colateral de segundo grado, que no impide el matrimonio.",
-     "justificacion": "Incorrecta. Suegro y nuera no son colaterales."
+     "justificacion": "Incorrecta. Suegro y nuera serían afines en línea recta, no colateral; y tras el divorcio esa afinidad ya no existe."
     }
    ],
    "correcta": 0,

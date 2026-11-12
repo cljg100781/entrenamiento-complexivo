@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-11",
+ "actualizado": "2026-11-12",
  "paquetes": [
   {
    "id": "pack-001",
@@ -26,7 +26,7 @@
   {
    "id": "pack-004",
    "archivo": "pack-004.json",
-   "version": 2,
+   "version": 3,
    "titulo": "Paquete 4 · 50 preguntas de las evaluaciones UTE",
    "preguntas": 50
   },
@@ -40,7 +40,7 @@
   {
    "id": "pack-006",
    "archivo": "pack-006.json",
-   "version": 2,
+   "version": 3,
    "titulo": "Paquete 6 · 331 preguntas depuradas del archivo del estudiante",
    "preguntas": 331
   },
@@ -50,6 +50,13 @@
    "version": 2,
    "titulo": "Paquete 7 · 100 casos de razonamiento jurídico",
    "preguntas": 100
+  },
+  {
+   "id": "pack-008",
+   "archivo": "pack-008.json",
+   "version": 1,
+   "titulo": "Paquete 8 · Seminario de Integración Curricular, semanas 1 a 6 (145 preguntas)",
+   "preguntas": 145
   }
  ]
 }

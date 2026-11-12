@@ -1,0 +1,188 @@
+@ SIC5-01 | 4 | 2 | Derecho Civil (Personas y Familia) | Sujetos de derecho y objetos de protección | Comprender | CRE,CC
+Q: ¿Qué afirmación describe correctamente la situación jurídica del que está por nacer en el ordenamiento ecuatoriano?
++ Es objeto de protección con derechos suspensos. | Correcta. La ley protege la vida del que está por nacer (art. 45 de la Constitución; art. 61 del Código Civil), pero los derechos que le corresponderían quedan suspensos hasta el nacimiento; si nace vivo, entra en su goce como si hubiese existido al tiempo en que le correspondieron (art. 63 del Código Civil).
+- Es persona natural desde la concepción, con plenos derechos patrimoniales. | Incorrecta. La existencia legal principia con el nacimiento (art. 60 del Código Civil).
+- Carece de toda protección jurídica. | Incorrecta. El juez debe adoptar providencias para proteger su existencia (art. 61 del Código Civil).
+- Adquiere sus derechos patrimoniales aunque muera en el vientre materno. | Incorrecta. Si no nace con vida, se reputa no haber existido jamás y los derechos pasan a otros (arts. 60 y 63).
+
+@ SIC5-02 | 4 | 3 | Derecho Civil (Personas y Familia) | Principio de la existencia | Aplicar | CC
+Q: Un niño nace vivo, completamente separado de su madre, y muere a los diez minutos por una malformación que hacía imposible su supervivencia. Su padre había fallecido semanas antes, dejándole una herencia. ¿Fue persona y adquirió la herencia?
++ Sí: basta que haya nacido vivo, aunque muriera minutos después. | Correcta. La existencia legal principia con la separación completa de la madre y se presume que la criatura nace con vida (art. 60 del Código Civil); no se exige viabilidad. Al nacer vivo, adquirió los derechos suspensos (art. 63) y estos se transmiten a sus herederos.
+- No: el Código exige viabilidad. | Incorrecta. El Código ecuatoriano no adopta la teoría de la viabilidad.
+- No, porque debía sobrevivir al menos veinticuatro horas. | Incorrecta. La ley no fija un tiempo mínimo de vida.
+- Solo si su nacimiento se inscribió en el Registro Civil antes de morir. | Incorrecta. La inscripción prueba el hecho, pero no es condición de la personalidad.
+
+@ SIC5-03 | 4 | 3 | Derecho Civil (Personas y Familia) | Fin de la existencia: conmoriencia | Analizar | CC
+Q: Dos esposos mueren en un accidente aéreo. Una hija del primer matrimonio de él prueba con el registro de la caja negra y peritajes que el esposo murió veinte minutos después que su esposa. ¿Qué efecto tiene esa prueba?
++ Destruye la presunción de conmoriencia, porque es simplemente legal. | Correcta. Si no se sabe el orden de las muertes, se procede como si las personas hubiesen perecido en el mismo momento y ninguna sucede a la otra (art. 65 del Código Civil); es una presunción simplemente legal que admite prueba en contrario.
+- Ninguno, porque la conmoriencia es una presunción de derecho que no admite prueba. | Incorrecta. La ley admite probar el orden de las muertes.
+- Ninguno, porque la conmoriencia solo se destruye con confesión de los herederos. | Incorrecta. Se destruye por cualquier medio de prueba.
+- Obliga a repartir la herencia por mitades. | Incorrecta. Probado el orden, cada sucesión sigue sus reglas ordinarias.
+
+@ SIC5-04 | 4 | 4 | Derecho Civil (Personas y Familia) | Muerte presunta | Analizar | CC
+Q: Tras la desaparición de Jorge, se concede a sus herederos presuntivos la posesión provisional de sus bienes. Su cónyuge pregunta si ya está divorciada y si se disolvió la sociedad conyugal. ¿Qué responde?
++ La provisional disuelve la sociedad; la definitiva, el matrimonio. | Correcta. El decreto de posesión provisional disuelve la sociedad conyugal (art. 70 del Código Civil); el matrimonio termina por la sentencia que concede la posesión definitiva de los bienes del desaparecido (art. 105 del Código Civil).
+- Ambos efectos se producen con la sola declaración de muerte presunta. | Incorrecta. La ley gradúa los efectos según la etapa de la muerte presunta.
+- Ninguno se produce mientras no aparezca el cadáver. | Incorrecta. La muerte presunta produce efectos sin hallazgo del cuerpo.
+- El matrimonio termina con la posesión provisional y la sociedad conyugal con la definitiva. | Incorrecta. Se invierten los efectos de cada etapa.
+
+@ SIC5-05 | 4 | 3 | Derecho Civil (Personas y Familia) | Domicilio | Aplicar | CC
+Q: Carmen vive con su familia en Ibarra, pero abre en Otavalo una panadería que administra personalmente todos los días. ¿Qué efecto tiene ese hecho respecto de su domicilio?
++ Se presume su ánimo de avecindarse también en Otavalo, sin perder Ibarra. | Correcta. Se presume el ánimo de permanecer en un lugar por el hecho de abrir en él tienda, fábrica, taller u otro establecimiento durable para administrarlo en persona (art. 50 del Código Civil); si concurren circunstancias constitutivas de domicilio en dos lugares, se entiende que lo tiene en ambos (art. 52).
+- Ninguno, porque el domicilio solo lo determina el lugar donde vive su familia. | Incorrecta. El art. 50 del Código Civil presume el domicilio por el establecimiento.
+- Pierde su domicilio en Ibarra y lo adquiere únicamente en Otavalo. | Incorrecta. La ley admite la pluralidad de domicilios (art. 52).
+- Su domicilio será donde registró el RUC. | Incorrecta. El registro tributario no es el criterio del Código Civil.
+
+@ SIC5-06 | 4 | 3 | Derecho Civil (Personas y Familia) | Atributos: el nombre | Aplicar | LOGIDC
+Q: Mario, mayor de edad, usa desde hace cinco años un apellido distinto del que consta en su inscripción de nacimiento y quiere adoptarlo legalmente. Ya lo hizo una vez antes por la misma vía. ¿Puede volver a cambiar sus apellidos por posesión notoria?
++ No: ese cambio procede una sola vez. | Correcta. La persona mayor de edad puede cambiar sus apellidos por posesión notoria, acreditando el uso ininterrumpido de al menos dos años con dos medios documentales, por una sola vez (Ley Orgánica de Gestión de la Identidad y Datos Civiles).
+- Sí, porque basta acreditar más de dos años de uso del apellido. | Incorrecta. El tiempo de uso no supera el límite de una sola vez.
+- Sí, siempre que lo autorice un juez de lo civil. | Incorrecta. El trámite es administrativo y su límite es legal.
+- No, porque los apellidos son inmodificables una vez inscritos. | Incorrecta. La ley sí permite el cambio por posesión notoria, con sus límites.
+
+@ SIC5-07 | 4 | 3 | Derecho Civil (Personas y Familia) | Identidad de género | Comprender | LOGIDC,OC2417
+Q: Una persona mayor de edad pide al Registro Civil rectificar la mención de su sexo o género. El funcionario le exige un informe psicológico y un certificado médico. ¿Es procedente esa exigencia?
++ No: basta su sola declaración, sin informes médicos ni psicológicos. | Correcta. Al cumplir la mayoría de edad, la persona puede rectificar por una sola vez la mención de sexo o género por su sola declaración (art. 94 de la Ley Orgánica de Gestión de la Identidad y Datos Civiles); la Opinión Consultiva OC-24/17 de la Corte Interamericana exige que el trámite se base en el consentimiento libre e informado, sin certificaciones médicas.
+- Sí, porque se trata de un dato que afecta el estado civil. | Incorrecta. El estado civil no justifica exigir informes que la ley y los estándares interamericanos excluyen.
+- Sí, salvo que tenga sentencia judicial. | Incorrecta. El trámite es administrativo y no requiere sentencia.
+- No, pero solo si la persona acredita una modificación corporal. | Incorrecta. No puede exigirse modificación corporal.
+
+@ SIC5-08 | 4 | 4 | Derecho Civil (Personas y Familia) | Capacidad: edades del art. 21 | Aplicar | CC
+Q: En 2026, Tomás, de trece años, vende sin intervención de sus padres una consola de videojuegos de su propiedad. ¿Cómo se califica su capacidad y la sanción del acto?
++ Adolescente relativamente incapaz; nulidad relativa. | Correcta. Desde la reforma de 2024 al art. 21 del Código Civil, impúber es la niña o el niño hasta los doce años, sin distinción por sexo; a los trece Tomás es adolescente ("menor adulto" en el art. 1463) y relativamente incapaz, por lo que su acto adolece de nulidad relativa (art. 1698).
+- Es impúber, absolutamente incapaz; el acto es absolutamente nulo. | Incorrecta. Antes de 2024 el varón era impúber hasta los catorce años; hoy esa categoría termina a los doce para niñas y niños.
+- Es plenamente capaz para vender bienes muebles de su propiedad. | Incorrecta. La capacidad plena llega a los dieciocho años.
+- Relativamente incapaz; acto inexistente. | Incorrecta. El Código Civil sanciona con nulidad relativa los actos de los relativamente incapaces.
+
+@ SIC5-09 | 4 | 3 | Derecho Civil (Personas y Familia) | Incapacidad absoluta | Recordar | CC
+Q: Según el art. 1463 del Código Civil, ¿cuál de estas personas es absolutamente incapaz?
++ La persona sorda que no puede darse a entender de manera verbal, por escrito ni por lengua de señas. | Correcta. Son absolutamente incapaces las personas con demencia, los impúberes y la persona sorda que no pueda darse a entender de manera verbal, por escrito o por lengua de señas (art. 1463 del Código Civil).
+- La persona sorda que se comunica con fluidez en lengua de señas ecuatoriana. | Incorrecta. Quien puede darse a entender por lengua de señas no es incapaz.
+- El adolescente de dieciséis años. | Incorrecta. Es relativamente incapaz (art. 1463 del Código Civil).
+- La persona jurídica que actúa por su representante legal. | Incorrecta. La persona jurídica figura entre los relativamente incapaces.
+
+@ SIC5-10 | 4 | 4 | Derecho Civil (Personas y Familia) | Nulidad relativa | Analizar | CC
+Q: Laura, de dieciséis años, compró un vehículo sin autorización de sus padres. El vendedor, mayor de edad, demanda la nulidad del contrato porque ya no quiere vender. ¿Prospera su demanda?
++ No: solo puede alegarla la parte protegida. | Correcta. La nulidad relativa solo puede alegarse por aquellos en cuyo beneficio la han establecido las leyes, sus herederos o cesionarios (art. 1700 del Código Civil); el contratante capaz no puede invocarla.
+- Sí, porque cualquier interesado puede alegar la nulidad de un acto de un incapaz. | Incorrecta. Esa amplitud corresponde a la nulidad absoluta (art. 1699 del Código Civil).
+- Sí: el juez debe declararla de oficio. | Incorrecta. La declaración de oficio procede solo en la nulidad absoluta que aparece de manifiesto.
+- No, porque los contratos de adolescentes son plenamente válidos. | Incorrecta. Son relativamente nulos, pero solo los protegidos pueden alegarlo.
+
+@ SIC5-11 | 4 | 4 | Derecho Civil (Personas y Familia) | Interdicción | Aplicar | CC
+Q: Pedro fue declarado interdicto por demencia mediante sentencia. Un mes después firma una venta y su comprador alega que lo hizo en un intervalo lúcido, con certificado médico de ese día. ¿Qué vale ese acto?
++ Es nulo, aunque se alegue un intervalo lúcido. | Correcta. Los actos y contratos del demente posteriores al decreto de interdicción son nulos, aunque se alegue haberse ejecutado en un intervalo lúcido; los anteriores son válidos, salvo prueba de la demencia al tiempo del acto (art. 486 del Código Civil).
+- Es válido, porque el certificado médico prueba el intervalo lúcido. | Incorrecta. Tras la interdicción, la ley no admite esa prueba.
+- Es válido si el curador no se opone dentro de treinta días. | Incorrecta. El silencio del curador no convalida el acto.
+- Es anulable solo si el comprador conocía la interdicción. | Incorrecta. La nulidad no depende del conocimiento del comprador.
+
+@ SIC5-12 | 4 | 3 | Derecho Civil (Personas y Familia) | Emancipación | Recordar | CC
+Q: Los padres de Sofía, de diecisiete años, quieren emanciparla voluntariamente. ¿Qué requisitos exige el Código Civil?
++ Instrumento público de los padres y consentimiento de la hija. | Correcta. La emancipación voluntaria se efectúa por instrumento público en que los progenitores declaran emancipar al hijo adolescente y este consiente (art. 309 del Código Civil).
+- Sentencia judicial de madurez. | Incorrecta. Esa es la vía judicial, que procede por causas como el maltrato o el abandono (art. 311).
+- Basta la decisión unilateral de los padres, sin consentimiento de la hija. | Incorrecta. El consentimiento del hijo es requisito.
+- Inscripción de una declaración privada en el Registro Civil. | Incorrecta. Se exige instrumento público.
+
+@ SIC5-13 | 4 | 4 | Derecho Civil (Personas y Familia) | Parentesco por afinidad | Analizar | CC,CCE000111
+Q: Raúl y Elena se divorciaron; tienen un hijo en común. ¿Existe hoy parentesco por afinidad entre Raúl y la madre de Elena?
++ Sí, por el hijo común. | Correcta. El art. 23 del Código Civil reconoce dos fuentes de afinidad: el matrimonio vigente y la relación entre uno de los padres de un hijo y los consanguíneos del otro progenitor. Aunque la afinidad por matrimonio cesa con el divorcio (Sentencia 0001-11-SIN-CC, que expulsó la frase "o ha estado"), aquí subsiste por el hijo común.
+- No, porque toda afinidad se extingue con el divorcio. | Incorrecta. La afinidad que nace del hijo común no depende del matrimonio.
+- Sí, pero solo mientras el hijo sea menor de edad. | Incorrecta. La ley no limita esa afinidad a la minoría de edad del hijo.
+- No, porque la afinidad solo existe entre cónyuges. | Incorrecta. Los cónyuges no son parientes entre sí; la afinidad une a uno con los consanguíneos del otro.
+
+@ SIC5-14 | 4 | 3 | Derecho Civil (Personas y Familia) | Cómputo de grados | Aplicar | CC
+Q: ¿En qué línea y grado de afinidad se encuentra una persona casada respecto del hermano de su cónyuge?
++ Línea colateral, segundo grado. | Correcta. La línea y grado de afinidad se determinan por la línea y grado de consanguinidad del cónyuge con su pariente: entre hermanos hay segundo grado colateral, por lo que los cuñados son afines en segundo grado colateral (arts. 22 y 23 del Código Civil).
+- Línea recta, primer grado. | Incorrecta. Ese es el grado entre suegros y yernos o nueras.
+- Línea colateral, tercer grado. | Incorrecta. El tercer grado corresponde a tíos y sobrinos.
+- Ningún parentesco, porque los cuñados no son parientes. | Incorrecta. Los cuñados son parientes por afinidad mientras el matrimonio esté vigente.
+
+@ SIC5-15 | 4 | 3 | Derecho Civil (Personas y Familia) | Solemnidades del matrimonio | Recordar | CC
+Q: ¿Cuál de las siguientes es una solemnidad esencial para la validez del matrimonio según el art. 102 del Código Civil?
++ La determinación obligatoria de quién administrará la sociedad conyugal. | Correcta. Son solemnidades esenciales la comparecencia de las partes, la constancia de carecer de impedimentos dirimentes, la expresión libre del consentimiento con la determinación obligatoria de quién administrará la sociedad conyugal, la presencia de dos testigos hábiles y el otorgamiento y suscripción del acta (art. 102 del Código Civil).
+- La autorización de los padres si alguno de los contrayentes tiene diecisiete años. | Incorrecta. Desde 2015 no pueden casarse quienes no han cumplido dieciocho años (art. 83 del Código Civil).
+- La presencia de cuatro testigos, dos por cada contrayente. | Incorrecta. Se exigen dos testigos hábiles.
+- La celebración en el lugar de nacimiento de uno de los contrayentes. | Incorrecta. Se celebra en la cabecera cantonal del domicilio de cualquiera de ellos (art. 100).
+
+@ SIC5-16 | 4 | 4 | Derecho Civil (Personas y Familia) | Nulidad del matrimonio | Analizar | CC
+Q: En 2020 Diego se casó con Paula ocultando que seguía casado con otra mujer. Paula lo descubre en 2026 y demanda la nulidad. Diego alega que la acción prescribió a los dos años. ¿Tiene razón?
++ No: el vínculo no disuelto es imprescriptible. | Correcta. Es nulo el matrimonio de la persona ligada por vínculo no disuelto (art. 95 num. 3 del Código Civil); la acción prescribe en dos años, salvo en los casos de los numerales 1, 3, 5 y 6 del art. 95, que son imprescriptibles (art. 99).
+- Sí, porque toda acción de nulidad del matrimonio prescribe en dos años. | Incorrecta. El art. 99 exceptúa el vínculo no disuelto.
+- Sí: solo el primer cónyuge puede demandar. | Incorrecta. La nulidad por impedimento dirimente la puede demandar cualquiera de los cónyuges (art. 98).
+- No, porque el plazo de dos años se cuenta desde la muerte del primer cónyuge. | Incorrecta. No es la regla de cómputo; la acción es imprescriptible en este caso.
+
+@ SIC5-17 | 4 | 3 | Derecho Civil (Personas y Familia) | Unión de hecho | Aplicar | CC
+Q: Andrés, casado y separado de hecho de su esposa, convive desde hace seis años con Lucía en un hogar estable. Lucía pide que se reconozca la unión de hecho. ¿Procede?
++ No: Andrés no está libre de vínculo matrimonial. | Correcta. La unión de hecho es la unión estable y monogámica entre dos personas libres de vínculo matrimonial, mayores de edad, que formen un hogar de hecho (art. 222 del Código Civil); la separación de hecho no disuelve el matrimonio de Andrés.
+- Sí, porque la convivencia supera los dos años que presume la ley. | Incorrecta. La presunción de estabilidad no suple el requisito de estar libre de vínculo (art. 223).
+- Sí, porque la separación de hecho disuelve el matrimonio anterior. | Incorrecta. Los deberes conyugales subsisten mientras no se disuelva legalmente el matrimonio (art. 138).
+- Sí, pero solo para efectos sucesorios. | Incorrecta. Sin el requisito legal no hay unión de hecho para ningún efecto.
+
+@ SIC5-18 | 4 | 3 | Derecho Civil (Personas y Familia) | Unión de hecho | Comprender | CC
+Q: Dos convivientes quieren que su unión de hecho no genere sociedad de bienes, sino separación total. ¿Cómo deben pactarlo?
++ Por escritura pública. | Correcta. La unión de hecho da origen a una sociedad de bienes (art. 222 del Código Civil); la estipulación de otro régimen económico debe constar en escritura pública (art. 224).
+- Por documento privado reconocido ante notario. | Incorrecta. La ley exige escritura pública.
+- Por declaración verbal ante el Registro Civil. | Incorrecta. No es la forma prevista por el art. 224.
+- No pueden pactarlo, porque la sociedad de bienes es obligatoria. | Incorrecta. El art. 224 admite pactar otro régimen.
+
+@ SIC5-19 | 4 | 4 | Derecho Civil (Personas y Familia) | Administración de la sociedad conyugal | Aplicar | CC
+Q: El cónyuge administrador vende el automóvil del haber social sin autorización del otro cónyuge. ¿Qué sanción tiene la venta y quién puede alegarla?
++ Nulidad relativa, que puede alegar solo el cónyuge cuyo consentimiento faltó. | Correcta. El administrador necesita autorización expresa del otro cónyuge para disponer, limitar o gravar inmuebles, vehículos a motor y acciones o participaciones sociales (art. 181 del Código Civil); los actos realizados sin ese consentimiento son relativamente nulos y la nulidad la alega el cónyuge perjudicado (art. 1700).
+- Nulidad absoluta, que puede declarar el juez de oficio. | Incorrecta. La falta de consentimiento del otro cónyuge produce nulidad relativa.
+- Es válida, porque el administrador dispone libremente de los bienes muebles. | Incorrecta. Los vehículos a motor requieren autorización expresa.
+- Inoponibilidad, que puede alegar cualquier acreedor de la sociedad. | Incorrecta. La sanción es la nulidad relativa a favor del cónyuge cuyo consentimiento faltó.
+
+@ SIC5-20 | 4 | 4 | Derecho Civil (Personas y Familia) | Liquidación de la sociedad conyugal | Aplicar | CC
+Q: Durante la liquidación se prueba que Marcos ocultó dolosamente una cuenta de inversión de USD 20.000 que pertenecía al haber social. ¿Qué consecuencia prevé el Código Civil?
++ Pierde su porción en esos bienes y debe restituirlos doblados a la sociedad. | Correcta. El cónyuge que dolosamente oculta o distrae alguna cosa de la sociedad pierde su porción en ella y está obligado a restituirla doblada (art. 193 del Código Civil).
+- Solo debe devolver la cuenta para que se reparta por mitades. | Incorrecta. El dolo tiene una sanción civil específica.
+- Pierde todos sus gananciales en la liquidación. | Incorrecta. La sanción recae sobre lo ocultado, no sobre todos los gananciales.
+- Debe pagar intereses legales sobre la suma ocultada, sin otra sanción. | Incorrecta. La ley impone la pérdida de la porción y la restitución doblada.
+
+@ SIC5-21 | 4 | 3 | Derecho Civil (Personas y Familia) | Disolución de la sociedad conyugal | Comprender | CC
+Q: Unos cónyuges que siguen casados y conviven quieren disolver y liquidar su sociedad conyugal sin divorciarse. ¿Es posible?
++ Sí, por sentencia o, de consuno, ante notario. | Correcta. La sociedad conyugal se disuelve, entre otras causas, por sentencia a pedido de cualquiera de los cónyuges (art. 189 num. 3 del Código Civil); cualquiera de ellos puede demandarla en todo tiempo y, de consuno, solicitarla al notario (art. 217).
+- No, porque la sociedad conyugal solo se disuelve con el divorcio o la muerte. | Incorrecta. El art. 189 prevé también la disolución por sentencia a pedido de un cónyuge.
+- Solo si llevan más de diez años de matrimonio. | Incorrecta. La ley permite pedirla en todo tiempo.
+- Solo si uno de ellos está en interdicción. | Incorrecta. La interdicción no es requisito de la disolución.
+
+@ SIC5-22 | 4 | 3 | Derecho Civil (Personas y Familia) | Patria potestad y tenencia | Comprender | CONA
+Q: Tras el divorcio, la jueza confía la tenencia de Mateo a su madre. El padre pregunta si perdió la patria potestad. ¿Qué responde?
++ No: la tenencia confía el cuidado y la crianza sin alterar la patria potestad del padre. | Correcta. La patria potestad es el conjunto de derechos y obligaciones de los padres sobre sus hijos no emancipados (art. 105 del Código de la Niñez y Adolescencia); la tenencia solo confía el cuidado y crianza a uno de los progenitores, sin alterar el ejercicio conjunto de la patria potestad (art. 118).
+- Sí, porque la tenencia transfiere la patria potestad al progenitor que la recibe. | Incorrecta. Son instituciones distintas.
+- Sí, salvo que la recupere mediante un nuevo juicio. | Incorrecta. No la perdió; nada debe recuperar.
+- No, pero queda suspendida mientras dure la tenencia materna. | Incorrecta. La tenencia no es causa de suspensión.
+
+@ SIC5-23 | 4 | 4 | Derecho Civil (Personas y Familia) | Tenencia: criterios | Evaluar | CONA,CCE2815
+Q: En un juicio de tenencia de una niña de ocho años, la madre pide que se aplique la regla que prefiere a la madre para los hijos menores de doce años. ¿Cómo debe decidir la jueza?
++ Según el interés superior, con criterios neutrales al género y su opinión. | Correcta. La Sentencia 28-15-IN/21 declaró inconstitucional la preferencia materna del art. 106 del Código de la Niñez y Adolescencia por reproducir estereotipos de género, y ordenó valorar la opinión del niño, la disponibilidad del cuidador, la continuidad, los vínculos y la ausencia de violencia, motivando cada criterio.
+- Aplicando la preferencia materna, que sigue vigente para menores de doce años. | Incorrecta. Esa regla fue declarada inconstitucional.
+- Al progenitor con mayores ingresos. | Incorrecta. La capacidad económica no es el criterio rector.
+- Siguiendo únicamente el informe psicológico de la oficina técnica. | Incorrecta. Los informes técnicos no son el único elemento de valoración.
+
+@ SIC5-24 | 4 | 3 | Derecho Civil (Personas y Familia) | Patria potestad: privación | Aplicar | CONA
+Q: Una madre migró a España por necesidad económica, envía dinero mensualmente y mantiene comunicación con su hijo. El padre pide que se la prive de la patria potestad por "abandono". ¿Procede?
++ No: la migración económica no es causa de privación. | Correcta. La falta de recursos económicos y la migración por necesidad económica no justifican limitar, suspender o privar de la patria potestad (arts. 111 a 113 del Código de la Niñez y Adolescencia), y aquí no hay falta de interés ni incumplimiento de deberes.
+- Sí, porque la ausencia del país por más de seis meses es causa de privación. | Incorrecta. La ausencia con cuidado y comunicación no equivale a falta de interés.
+- Sí, porque solo puede ejercer la patria potestad el progenitor que reside en el Ecuador. | Incorrecta. La residencia en el exterior no excluye la patria potestad.
+- No, pero procede su suspensión hasta que regrese. | Incorrecta. La migración económica tampoco es causa de suspensión.
+
+@ SIC5-25 | 4 | 4 | Derecho Civil (Personas y Familia) | Alimentos: fijación de la pensión | Analizar | CONA,CCE04813
+Q: En un juicio de alimentos, el padre pide que de su ingreso se descuenten el impuesto a la renta, la cuota hipotecaria y sus gastos personales antes de aplicar la Tabla de pensiones. ¿Qué regla fijó la Corte Constitucional?
++ Solo el aporte personal al IESS; la Tabla es un piso. | Correcta. La Sentencia 048-13-SCN-CC estableció que la Tabla de pensiones alimenticias mínimas es norma jurídica y fija un mínimo; del ingreso del alimentante solo se descuenta el aporte personal a la seguridad social, y el juez puede fijar más según las necesidades probadas.
+- Se deducen todos los gastos acreditados del alimentante. | Incorrecta. Gastos personales, impuesto a la renta y la cuota hipotecaria total no se deducen.
+- La Tabla es un techo que el juez no puede superar. | Incorrecta. Es un piso; puede elevarse con prueba.
+- La Tabla es referencial y el juez puede fijar una pensión menor. | Incorrecta. La pensión no puede ser inferior al mínimo de la Tabla.
+
+@ SIC5-26 | 4 | 4 | Derecho Civil (Personas y Familia) | Alimentos: apremio | Analizar | COGEP,CCE01217
+Q: El padre no paga las pensiones y el juez llama a la abuela paterna como obligada subsidiaria. Ante su incumplimiento, la madre pide el apremio personal de la abuela. ¿Procede?
++ No, porque el apremio personal no procede contra los obligados subsidiarios de alimentos. | Correcta. El apremio personal por alimentos es la única prisión por deudas admitida (art. 66 num. 29 lit. c de la Constitución; art. 137 del Código Orgánico General de Procesos), no es una pena y debe ser idóneo, necesario y proporcional; según la Sentencia 012-17-SIN-CC no procede contra obligados subsidiarios, garantes ni personas con discapacidad o enfermedad catastrófica que impida trabajar.
+- Sí, porque la obligada subsidiaria responde en los mismos términos que el principal. | Incorrecta. La responsabilidad subsidiaria no habilita el apremio personal.
+- Sí, siempre que adeude dos o más pensiones. | Incorrecta. La mora no supera la prohibición respecto de subsidiarios.
+- Sí, pero solo apremio parcial de 22h00 a 06h00. | Incorrecta. Ninguna modalidad de apremio personal procede contra subsidiarios.
+
+@ SIC5-27 | 4 | 4 | Derecho Civil (Personas y Familia) | Régimen de visitas y retención indebida | Evaluar | CONA,CCE20012
+Q: La madre que tiene la tenencia impide las visitas fijadas al padre. Este pide de inmediato el apremio personal de la madre. Según la Sentencia 200-12-JH/21, ¿cómo debe actuar la jueza?
++ Requerir el cese y aplicar medidas graduales. | Correcta. Ante la obstaculización de visitas, la jueza debe verificar el régimen fijado, oír al niño y requerir el cese; luego aplicar medidas graduales como visitas dirigidas, modificación del régimen o terapia familiar. El apremio del art. 125 del Código de la Niñez y Adolescencia es excepcional, idóneo, necesario y proporcional (Sentencia 200-12-JH/21).
+- Ordenar de inmediato el apremio total de la madre por treinta días. | Incorrecta. El apremio no es la primera respuesta.
+- Cambiar la tenencia al padre. | Incorrecta. La tenencia se decide por el interés superior, no como sanción automática.
+- Archivar el pedido, porque la tenencia materna prevalece sobre las visitas. | Incorrecta. Las visitas son un derecho del niño y del progenitor que deben garantizarse.

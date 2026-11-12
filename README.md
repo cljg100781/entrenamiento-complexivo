@@ -1,4 +1,4 @@
-# Simulador Complexivo UTE · v3.0
+# Simulador Complexivo UTE · v3.7
 
 App web instalable (PWA) que funciona sin internet y descarga paquetes de preguntas nuevos cada vez que hay conexión.
 
@@ -17,3 +17,8 @@ Un paquete puede incluir `articulos` (síntesis de artículos clave, clave `"COI
 
 ## Aportes de compañeros
 Desde la app (Proponer pregunta › Compartir) llega una pregunta en JSON. Revísala, verifica la vigencia de la norma y agrégala al siguiente paquete.
+
+## Seminario de Integración Curricular (v3.7)
+`banco/pack-008.json` reúne 145 preguntas de las semanas 1 a 6 del seminario INTC-02004-J (identificadores `SIC<semana>-<n>`).
+La app las muestra en «Seminario de Integración Curricular»: práctica por semana, con cronómetro o mini simulacro de 30 preguntas.
+Para una semana nueva, agrega preguntas con identificador `SIC7-01`, `SIC8-01`, etc. en un paquete nuevo (`pack-009.json`) y súbelo al manifiesto: la app crea sola la tarjeta de esa semana.

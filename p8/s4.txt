@@ -1,0 +1,69 @@
+@ SIC4-01 | 1 | 2 | Derecho Administrativo | Acto administrativo: concepto | Comprender | COA
+Q: ¿Cuál de las siguientes actuaciones constituye un acto administrativo según el Código Orgánico Administrativo?
++ La resolución que multa a un comerciante por incumplir una ordenanza. | Correcta. Acto administrativo es la declaración unilateral de voluntad, efectuada en ejercicio de la función administrativa, que produce efectos jurídicos individuales o generales, siempre que se agote con su cumplimiento y de forma directa (art. 98 del Código Orgánico Administrativo).
+- El informe técnico no vinculante que prepara una dirección antes de resolver. | Incorrecta. Es un acto de simple administración: no produce por sí mismo efectos jurídicos directos sobre el administrado.
+- El contrato de obra que firma un ministerio. | Incorrecta. Es un contrato administrativo, que es bilateral.
+- El reglamento que regula de forma general y permanente un servicio público. | Incorrecta. Es un acto normativo de carácter administrativo, que no se agota con su cumplimiento.
+
+@ SIC4-02 | 1 | 3 | Derecho Administrativo | Requisitos de validez del acto administrativo | Aplicar | COA
+Q: Una resolución ordena a un administrado demoler en veinticuatro horas, con sus propios medios, un edificio de veinte pisos, algo materialmente imposible. ¿Qué requisito de validez del art. 99 del Código Orgánico Administrativo está comprometido?
++ El objeto, que debe ser lícito, determinado y posible. | Correcta. Los requisitos de validez del acto administrativo son competencia, objeto, voluntad, procedimiento y motivación (art. 99 del Código Orgánico Administrativo); un acto que determina actuaciones imposibles incurre en causal de nulidad (art. 105).
+- La competencia de la autoridad que dictó la resolución. | Incorrecta. Nada indica que la autoridad carezca de competencia; el vicio está en lo que se ordena.
+- El procedimiento, porque toda demolición exige un juicio previo. | Incorrecta. El problema no es la falta de un juicio, sino la imposibilidad material de lo ordenado.
+- La voluntad, porque el administrado no consintió en la demolición. | Incorrecta. El acto administrativo es unilateral y no requiere el consentimiento del administrado.
+
+@ SIC4-03 | 1 | 3 | Derecho Administrativo | Motivación del acto administrativo | Aplicar | CRE,COA
+Q: Una entidad niega una licencia con esta resolución: "Se niega lo solicitado por no cumplir la normativa vigente". ¿Qué requisito de validez falta?
++ La motivación. | Correcta. La motivación es requisito de validez (art. 99 del Código Orgánico Administrativo) y exige señalar las normas y principios en que se funda el acto y explicar la pertinencia de su aplicación a los hechos (art. 100; art. 76 num. 7 lit. l de la Constitución).
+- La competencia, porque toda negativa debe dictarla la máxima autoridad. | Incorrecta. Nada indica que la autoridad carezca de competencia.
+- El objeto, porque la licencia no puede negarse por escrito. | Incorrecta. El objeto es lícito y determinado: la negativa de la licencia.
+- Ninguno, porque basta remitir a la normativa vigente. | Incorrecta. La remisión genérica no satisface la motivación.
+
+@ SIC4-04 | 1 | 3 | Derecho Administrativo | Eficacia del acto administrativo | Analizar | COA
+Q: Un municipio dicta válidamente una resolución que ordena clausurar un local, pero nunca la notifica al propietario. Días después ejecuta la clausura. ¿Qué afirmación es correcta?
++ La resolución es válida, pero ineficaz: no podía ejecutarse sin haberla notificado. | Correcta. El acto administrativo es eficaz una vez notificado al administrado (art. 101 del Código Orgánico Administrativo); la validez (art. 99) y la eficacia son planos distintos, y ejecutar un acto no notificado vulnera el debido proceso.
+- La resolución es nula, porque la falta de notificación es causal de nulidad. | Incorrecta. La notificación afecta la eficacia, no la validez del acto.
+- La resolución es válida y eficaz desde que se dictó. | Incorrecta. La eficacia exige notificación (art. 101).
+- La resolución es ineficaz solo si el propietario la impugna dentro de diez días. | Incorrecta. La ineficacia deriva de la falta de notificación, no de la impugnación.
+
+@ SIC4-05 | 1 | 3 | Derecho Administrativo | Presunción de legitimidad | Comprender | COA
+Q: Un administrado sostiene que no debe cumplir una resolución sancionatoria mientras no se pruebe que es legal. ¿Qué regla del Código Orgánico Administrativo contradice su tesis?
++ La presunción de legitimidad del acto. | Correcta. El acto administrativo se presume legítimo y debe cumplirse desde que es eficaz, salvo que se suspenda su ejecución en los casos previstos (art. 229 del Código Orgánico Administrativo).
+- El principio de reserva de ley en materia sancionadora. | Incorrecta. La reserva de ley se refiere a la tipificación, no al cumplimiento del acto.
+- La regla de que el acto solo vale cuando queda firme en vía judicial. | Incorrecta. El acto se ejecuta sin esperar la vía judicial, salvo suspensión.
+- La buena fe del administrado. | Incorrecta. La buena fe no impide el cumplimiento del acto.
+
+@ SIC4-06 | 1 | 3 | Derecho Administrativo | Extinción del acto administrativo | Aplicar | COA
+Q: Un permiso para ocupar temporalmente la vía pública se otorgó por seis meses. Transcurrido ese plazo, ¿por qué causa se extingue el acto?
++ Por caducidad, al cumplirse el plazo previsto en el propio permiso otorgado. | Correcta. Entre las causas de extinción del acto administrativo están la nulidad, la revocatoria, el cumplimiento y la caducidad, que opera cuando se verifica la condición resolutoria o se cumple el plazo previsto en el acto o en su regulación (art. 103 del Código Orgánico Administrativo).
+- Por revocatoria, que la entidad debe declarar al vencer el plazo. | Incorrecta. No se requiere un nuevo acto: el plazo extingue el permiso.
+- Por nulidad, porque el permiso ya no tiene objeto. | Incorrecta. La nulidad responde a vicios de origen, no al paso del tiempo.
+- No se extingue hasta que el titular renuncie expresamente. | Incorrecta. La extinción opera por el vencimiento del plazo.
+
+@ SIC4-07 | 1 | 4 | Derecho Administrativo | Extinción: revocatoria y lesividad | Analizar | COA
+Q: Una entidad otorgó un permiso favorable con un vicio que no es causal de nulidad. Ahora quiere dejarlo sin efecto mediante una simple resolución de revocatoria. ¿Qué afirmación es correcta?
++ Debe declararlo lesivo e impugnarlo judicialmente. | Correcta. Los actos favorables no pueden revocarse libremente; si no son nulos, la administración debe declararlos lesivos para el interés público e impugnarlos en sede judicial (art. 115 del Código Orgánico Administrativo), mientras que la revisión de oficio se reserva a los actos nulos (art. 132).
+- Puede revocarlo en cualquier momento, porque toda licencia es precaria. | Incorrecta. La revocatoria libre es propia de los actos desfavorables, no de los que generan derechos.
+- Puede revocarlo previo aviso de diez días. | Incorrecta. La notificación no suple la vía de lesividad.
+- Debe declararlo nulo de oficio, porque todo vicio es causal de nulidad. | Incorrecta. Las causales de nulidad son taxativas (art. 105 del Código Orgánico Administrativo).
+
+@ SIC4-08 | 1 | 3 | Derecho Administrativo | Extinción: revocatoria de actos desfavorables | Comprender | COA
+Q: Una entidad advierte que impuso una multa excesiva a un administrado y decide dejarla sin efecto por sí misma. ¿Puede hacerlo?
++ Sí, porque los actos desfavorables pueden ser revocados por la propia administración. | Correcta. La revocatoria es una causa de extinción prevista para los actos desfavorables al administrado (art. 103 del Código Orgánico Administrativo), siempre que no constituya dispensa o exención no permitida ni sea contraria al ordenamiento.
+- No, porque toda revocatoria exige declaración judicial de lesividad. | Incorrecta. La lesividad se requiere para actos favorables no nulos, no para los desfavorables.
+- No, porque la multa solo puede extinguirse por pago. | Incorrecta. El cumplimiento es una causa de extinción, pero no la única.
+- Sí, pero solo si el administrado interpone antes un recurso extraordinario de revisión. | Incorrecta. La administración puede revocar de oficio el acto desfavorable.
+
+@ SIC4-09 | 1 | 4 | Derecho Administrativo | Nulidad del acto administrativo | Analizar | COA
+Q: Una jefatura municipal de tránsito dicta una resolución que ordena demoler un inmueble particular, materia ajena por completo a sus funciones. Meses después, la propia entidad pretende convalidarla. ¿Qué afirmación es correcta?
++ Es nula y no puede convalidarse. | Correcta. Es causal de nulidad que el acto se dicte por órgano manifiestamente incompetente por razón de la materia, el territorio o el tiempo (art. 105 num. 3 del Código Orgánico Administrativo); el acto nulo no puede convalidarse, a diferencia de los vicios subsanables.
+- Es anulable y puede convalidarse con una ratificación del alcalde. | Incorrecta. La incompetencia manifiesta por materia genera nulidad, no un vicio subsanable.
+- Es válida mientras no sea impugnada por el propietario. | Incorrecta. La nulidad puede declararse de oficio por la propia administración (art. 132).
+- Es inexistente y no requiere ninguna declaración formal. | Incorrecta. La nulidad debe declararse por los cauces previstos.
+
+@ SIC4-10 | 1 | 4 | Derecho Administrativo | Validez, eficacia y extinción | Evaluar | COA
+Q: Un acto administrativo cumple los cinco requisitos de validez, pero no ha sido notificado. Luego la entidad lo deja sin efecto porque los hechos que lo motivaron desaparecieron. ¿Cómo se ordenan correctamente estos planos?
++ Fue válido al dictarse, eficaz al notificarse y luego se extinguió. | Correcta. La validez depende de los requisitos del art. 99, la eficacia de la notificación (art. 101) y la extinción de las causas del art. 103 del Código Orgánico Administrativo; son tres planos distintos que no deben confundirse.
+- Fue nulo, porque un acto no notificado nunca llega a ser válido. | Incorrecta. La notificación no es requisito de validez.
+- Fue válido y eficaz desde su emisión, y su extinción requiere sentencia judicial. | Incorrecta. La eficacia exige notificación y la extinción no siempre requiere sentencia.
+- No llegó a existir, por lo que no hay nada que extinguir. | Incorrecta. El acto existe y es válido, aunque ineficaz hasta su notificación.

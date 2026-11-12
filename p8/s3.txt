@@ -1,0 +1,188 @@
+@ SIC3-01 | 3 | 2 | Derecho Procesal General | Organización de la Función Judicial | Recordar | CRE,COFJ
+Q: Según el art. 178 de la Constitución, ¿qué naturaleza tienen la Fiscalía General del Estado y la Defensoría Pública dentro de la Función Judicial?
++ Son órganos autónomos. | Correcta. La Función Judicial se integra por órganos jurisdiccionales, el órgano administrativo (Consejo de la Judicatura), órganos auxiliares (servicio notarial, martilladores, depositarios) y órganos autónomos: la Defensoría Pública y la Fiscalía General del Estado (art. 178 de la Constitución).
+- Son órganos jurisdiccionales. | Incorrecta. No administran justicia; los jurisdiccionales son la Corte Nacional, las Cortes Provinciales, los tribunales y juzgados y los jueces de paz.
+- Son órganos auxiliares, como el servicio notarial. | Incorrecta. El servicio notarial sí es auxiliar; la Fiscalía y la Defensoría son autónomos.
+- Son dependencias del Consejo de la Judicatura. | Incorrecta. El Consejo es el órgano de gobierno y administración, pero la Fiscalía y la Defensoría son autónomas.
+
+@ SIC3-02 | 3 | 3 | Derecho Procesal General | Organización de la Función Judicial | Comprender | CRE,COFJ
+Q: El Consejo de la Judicatura, en un sumario disciplinario, declara que un juez "resolvió mal" una causa civil y ordena dejar sin efecto su sentencia. ¿Es válida esa orden?
++ No: el Consejo no puede sustituir al juez en su función jurisdiccional. | Correcta. El Consejo de la Judicatura es el órgano de gobierno, administración, vigilancia y disciplina (art. 178 de la Constitución); una decisión administrativa suya no equivale a una sentencia ni puede revocar lo resuelto jurisdiccionalmente, por la independencia judicial (art. 8 del Código Orgánico de la Función Judicial).
+- Sí, porque el Consejo es el superior jerárquico de todos los jueces. | Incorrecta. La jerarquía administrativa no habilita revisar sentencias.
+- Sí, siempre que la sentencia aún no esté ejecutoriada. | Incorrecta. Las sentencias se impugnan por los recursos procesales, no por vía disciplinaria.
+- No, porque solo la Corte Constitucional puede dejar sin efecto sentencias civiles. | Incorrecta. También pueden hacerlo los tribunales superiores por los recursos legales.
+
+@ SIC3-03 | 3 | 3 | Derecho Procesal General | Jurisdicción y competencia | Comprender | COFJ
+Q: Una jueza de familia y un juez civil de la misma ciudad ¿qué tienen en común y en qué se diferencian, en términos procesales?
++ Ambos tienen jurisdicción, pero distinta competencia por materia. | Correcta. La jurisdicción es la potestad pública de juzgar y hacer ejecutar lo juzgado (art. 150 del Código Orgánico de la Función Judicial); la competencia es la medida dentro de la cual esa potestad está distribuida, entre otros criterios, por materia (art. 156).
+- Ambos tienen la misma competencia, pero distinta jurisdicción. | Incorrecta. Se invierten los conceptos: la jurisdicción es común y la competencia se distribuye.
+- Solo el juez civil tiene jurisdicción; la jueza de familia ejerce funciones administrativas. | Incorrecta. Los jueces de familia ejercen jurisdicción plena en su materia.
+- Ninguno tiene jurisdicción hasta que la causa sea sorteada. | Incorrecta. El sorteo radica la competencia (prevención); la jurisdicción nace con el nombramiento.
+
+@ SIC3-04 | 3 | 3 | Derecho Procesal General | Nacimiento de la jurisdicción | Aplicar | COFJ
+Q: Paula fue designada jueza por concurso, pero aún no se ha posesionado. Una parte le pide que resuelva una medida urgente. ¿Puede hacerlo?
++ No, porque aún no se ha posesionado. | Correcta. La jurisdicción nace con el nombramiento conforme a la Constitución y la ley, pero su ejercicio efectivo comienza con la posesión y la entrada en funciones (art. 152 del Código Orgánico de la Función Judicial).
+- Sí, porque la jurisdicción nace con el solo nombramiento. | Incorrecta. El nombramiento sin posesión no habilita a resolver causas.
+- Sí, por tratarse de una medida urgente que no admite espera. | Incorrecta. La urgencia no suple la falta de posesión.
+- Sí, si la otra parte consiente. | Incorrecta. El consentimiento de las partes no confiere jurisdicción.
+
+@ SIC3-05 | 3 | 4 | Derecho Procesal General | Suspensión y pérdida de la jurisdicción | Analizar | COFJ
+Q: Un juez obtiene una licencia de tres meses; otro juez es destituido mediante resolución firme. ¿Cómo se califica la situación de cada uno respecto de su jurisdicción?
++ El primero la tiene suspendida por la licencia; el segundo la pierde definitivamente. | Correcta. La licencia concedida suspende la jurisdicción mientras dura (art. 153 del Código Orgánico de la Función Judicial); la remoción o destitución mediante resolución firme es causa de pérdida (art. 154).
+- Ambos la pierden definitivamente. | Incorrecta. La licencia solo suspende temporalmente el ejercicio.
+- Ambos la tienen suspendida hasta que el Consejo de la Judicatura resuelva. | Incorrecta. La destitución firme no es una suspensión, sino una pérdida.
+- El primero la pierde y el segundo la tiene suspendida. | Incorrecta. Se invierten los efectos de los arts. 153 y 154.
+
+@ SIC3-06 | 3 | 3 | Derecho Procesal General | Pérdida de la competencia | Recordar | COFJ
+Q: ¿Cuál de las siguientes situaciones produce la pérdida de la competencia del juzgador respecto de una causa, según el art. 165 del Código Orgánico de la Función Judicial?
++ La admisión de la excusa o de la recusación. | Correcta. Se pierde la competencia por la declaratoria firme de incompetencia, por la admisión de la excusa o recusación y por la conclusión de la causa con sentencia íntegramente ejecutada (art. 165 del Código Orgánico de la Función Judicial).
+- La concesión de un recurso con efecto suspensivo. | Incorrecta. El efecto suspensivo suspende la competencia, no la pierde (art. 164).
+- La presentación de un escrito de recusación aún no resuelto. | Incorrecta. Solo la admisión de la recusación produce la pérdida.
+- El vencimiento del término para dictar sentencia. | Incorrecta. El retardo puede generar responsabilidad, pero no es causa de pérdida de competencia.
+
+@ SIC3-07 | 3 | 3 | Derecho Procesal General | Competencia territorial | Aplicar | COGEP
+Q: Una empresa de Guayaquil quiere demandar el pago de una deuda civil a Carlos, domiciliado en Quito. No hay fuero especial ni pacto. ¿Ante qué juez debe demandar, por regla general?
++ Ante el juez de Quito, domicilio de Carlos, el demandado. | Correcta. Por regla general es competente el juzgador del lugar donde tiene su domicilio la persona demandada (art. 9 del Código Orgánico General de Procesos), sin perjuicio de fueros concurrentes o excluyentes.
+- Ante el juez de Guayaquil, domicilio de la empresa actora. | Incorrecta. La regla general atiende al domicilio del demandado.
+- Ante cualquier juez del país, a elección del actor. | Incorrecta. La elección solo existe en los supuestos de competencia concurrente.
+- Ante el juez donde se firmó la factura. | Incorrecta. No es la regla general, salvo que la ley lo establezca como fuero concurrente.
+
+@ SIC3-08 | 3 | 4 | Derecho Procesal General | Competencia concurrente y excluyente | Analizar | COGEP
+Q: ¿Qué diferencia la competencia concurrente de la excluyente?
++ En la concurrente el actor elige el fuero; en la excluyente, no. | Correcta. La competencia concurrente permite escoger entre fueros legalmente habilitados, como el lugar de celebración o de cumplimiento del contrato o el lugar de los daños (art. 10 del Código Orgánico General de Procesos); la excluyente reserva el asunto a un juzgador determinado, como en sucesiones o tutelas (art. 11).
+- En la concurrente deciden varios jueces a la vez; en la excluyente, uno solo. | Incorrecta. La concurrencia es de fueros posibles, no de jueces que resuelven juntos.
+- La concurrente es la del domicilio del demandado; la excluyente, la del actor. | Incorrecta. El domicilio del demandado es la regla general, no la concurrente.
+- La concurrente es renunciable; la excluyente, no. | Incorrecta. Ninguna de las dos se define por esa renuncia.
+
+@ SIC3-09 | 3 | 3 | Derecho Procesal General | Prorrogación de la competencia | Aplicar | COFJ
+Q: Las partes de un contrato pactan que cualquier delito que surja de su ejecución sea juzgado por un juez civil de su elección. ¿Es válido ese pacto?
++ No: la competencia en razón de la materia no se prorroga. | Correcta. Las partes pueden someterse a otro juzgador solo en la competencia territorial, bajo condiciones legales; la competencia por materia no se prorroga por acuerdo entre particulares (Código Orgánico de la Función Judicial, normas sobre prorrogación, arts. 158 a 163).
+- Sí, por la autonomía de la voluntad. | Incorrecta. La competencia es de orden público y la autonomía de la voluntad no alcanza la materia.
+- Sí, siempre que el pacto conste en escritura pública. | Incorrecta. La forma del pacto no supera la prohibición.
+- Sí, si el juez civil acepta expresamente conocer el delito. | Incorrecta. La aceptación del juez no le confiere competencia penal.
+
+@ SIC3-10 | 3 | 3 | Derecho Procesal General | Capacidad procesal y legitimación | Comprender | COGEP
+Q: Ana, mayor de edad y plenamente capaz, demanda la resolución de un contrato celebrado entre su hermano y un tercero, en el que ella no fue parte ni tiene derecho alguno. ¿Qué excepción previa puede oponer el demandado?
++ Falta de legitimación en la causa de la actora. | Correcta. La capacidad procesal es la aptitud para comparecer; la legitimación es la relación entre quien interviene y el derecho controvertido. Ana es capaz, pero no está legitimada (art. 153 num. 3 del Código Orgánico General de Procesos).
+- Incapacidad procesal de la parte actora. | Incorrecta. Ana es plenamente capaz; su problema no es de capacidad.
+- Litispendencia. | Incorrecta. No existe otro proceso pendiente con identidad.
+- Falta de personería de su abogado. | Incorrecta. Nada indica un defecto de representación.
+
+@ SIC3-11 | 3 | 4 | Derecho Procesal General | Litisconsorcio | Analizar | COGEP
+Q: Un comprador demanda la nulidad de una compraventa de un inmueble que pertenecía en copropiedad a tres hermanos, pero solo cita a uno de ellos. ¿Qué excepción previa corresponde?
++ Incompleta conformación del litisconsorcio. | Correcta. La relación jurídica controvertida exige integrar a todos los copropietarios para decidir válidamente (litisconsorcio necesario); el COGEP prevé como excepción previa la falta de legitimación en la causa o la incompleta conformación del litisconsorcio (arts. 51, 52 y 153 num. 3 del Código Orgánico General de Procesos).
+- Indebida acumulación de pretensiones en la demanda. | Incorrecta. Se trata de una sola pretensión dirigida contra sujetos incompletos.
+- Incompetencia del juzgador. | Incorrecta. El defecto no es del juez, sino de la integración de las partes.
+- Cosa juzgada. | Incorrecta. No existe una sentencia previa sobre la misma controversia.
+
+@ SIC3-12 | 3 | 3 | Derecho Procesal General | Procuración común | Recordar | COGEP
+Q: Diez vecinos demandan conjuntamente la misma pretensión contra una constructora. El juez les pide designar un procurador común. ¿Qué requisito debe cumplir esa persona?
++ No necesita ser abogada. | Correcta. La procuración común ordena la intervención de varios litigantes con derechos o excepciones no contrapuestos, y no se requiere ser abogado para desempeñarla; si las partes no lo designan, puede hacerlo el juez (art. 37 del Código Orgánico General de Procesos).
+- Debe ser abogada en libre ejercicio, con poder especial notarial. | Incorrecta. Esa exigencia corresponde a la procuración judicial, no a la común.
+- Debe ser el vecino con mayor interés económico en el proceso. | Incorrecta. La ley no fija ese criterio.
+- Debe ser designada por la constructora demandada. | Incorrecta. La designan los litigantes o, en su defecto, el juez.
+
+@ SIC3-13 | 3 | 3 | Derecho Procesal General | Procuración judicial | Aplicar | COGEP
+Q: Un abogado con procuración judicial general firma, en nombre de su cliente, una transacción que pone fin al juicio. El poder no contiene ninguna cláusula especial. ¿Qué ocurre?
++ La transacción no obliga al cliente, porque transigir exige cláusula especial. | Correcta. Ciertas actuaciones, como transigir, desistir, allanarse o recibir valores, requieren cláusula especial en la procuración judicial (arts. 41 a 45 del Código Orgánico General de Procesos).
+- La transacción es válida, porque la procuración general comprende todos los actos del juicio. | Incorrecta. La ley exige facultad especial para los actos de disposición.
+- La transacción es válida si el juez la aprueba en audiencia. | Incorrecta. La aprobación judicial no suple la falta de facultad del procurador.
+- La transacción solo es válida si el abogado la ratifica por escrito. | Incorrecta. Es el mandante, no el procurador, quien debe conferir o ratificar la facultad.
+
+@ SIC3-14 | 3 | 3 | Derecho Procesal General | Tercerías | Aplicar | COGEP
+Q: En la ejecución de una sentencia, se embarga un vehículo que es de propiedad de Rosa, quien no es parte del proceso. ¿Qué figura le permite intervenir para defender su dominio?
++ La tercería excluyente de dominio. | Correcta. La tercería excluyente procede cuando el tercero pretende que se reconozca su titularidad sobre el bien o derecho discutido; debe acreditar un derecho y anunciar sus pruebas (arts. 46, 47 num. 1, 49 y 50 del Código Orgánico General de Procesos).
+- La tercería coadyuvante. | Incorrecta. La coadyuvante defiende el interés de una de las partes, no un derecho propio sobre el bien.
+- La reconvención conexa. | Incorrecta. La reconvención la propone el demandado contra el actor.
+- La excepción previa de falta de legitimación. | Incorrecta. Las excepciones las propone el demandado, no un tercero.
+
+@ SIC3-15 | 3 | 4 | Derecho Procesal General | Tercerías | Analizar | COGEP
+Q: En un juicio ejecutivo ya existe resolución de adjudicación en firme del inmueble embargado. Un tercero presenta en ese momento una tercería excluyente alegando que el inmueble es suyo. ¿Qué debe resolver el juez?
++ Inadmitirla, porque no proceden tercerías cuando ya existe adjudicación en firme. | Correcta. Las tercerías tienen oportunidades procesales precisas y no son admisibles cuando existe resolución de adjudicación en firme (arts. 46 a 50 del Código Orgánico General de Procesos); el tercero conserva las acciones ordinarias que le correspondan.
+- Admitirla y suspender la inscripción de la adjudicación. | Incorrecta. La firmeza de la adjudicación cierra la oportunidad de la tercería.
+- Admitirla, porque la tercería de dominio puede proponerse en cualquier momento. | Incorrecta. El COGEP fija momentos para cada procedimiento.
+- Remitirla al juez de lo penal por posible fraude procesal. | Incorrecta. Esa remisión no es la consecuencia procesal de la tercería tardía.
+
+@ SIC3-16 | 3 | 3 | Derecho Procesal General | Citación | Comprender | COGEP
+Q: El actor envía al demandado por WhatsApp una copia de la demanda y luego pide que se lo tenga por citado, porque "ya conoce el juicio". ¿Qué debe resolver la jueza?
++ Negar el pedido: un aviso informal no sustituye la citación practicada conforme a la ley. | Correcta. La citación es el acto por el cual se hace conocer al demandado la demanda y las providencias, en las modalidades que fija la ley (arts. 53 a 56 del Código Orgánico General de Procesos); un aviso informal no la reemplaza ni produce sus efectos (art. 64).
+- Tenerlo por citado, porque el conocimiento real suple cualquier formalidad. | Incorrecta. La citación tiene modalidades legales específicas.
+- Tenerlo por citado si el demandado respondió el mensaje. | Incorrecta. La respuesta privada no equivale a la citación legal.
+- Declarar la nulidad de todo lo actuado por intento de citación indebida. | Incorrecta. Lo procedente es ordenar la citación en forma legal.
+
+@ SIC3-17 | 3 | 3 | Derecho Procesal General | Citación | Aplicar | COGEP
+Q: El actor desconoce totalmente el domicilio del demandado y pide que se lo cite por la prensa. ¿Qué debe cumplir para que proceda esa modalidad?
++ Declarar bajo juramento que no puede determinar su domicilio. | Correcta. La citación por medios de comunicación procede respecto de la persona cuya individualidad, domicilio o residencia sea imposible determinar, previa declaración juramentada del actor sobre esa imposibilidad (art. 56 del Código Orgánico General de Procesos).
+- Basta afirmarlo en la demanda. | Incorrecta. La ley exige justificar la imposibilidad mediante declaración bajo juramento.
+- Debe demostrar que el demandado vive en el extranjero. | Incorrecta. El supuesto es la imposibilidad de determinar el domicilio, no la residencia en el exterior.
+- Debe obtener previamente un certificado de la Policía Nacional. | Incorrecta. No es requisito legal de esta modalidad.
+
+@ SIC3-18 | 3 | 3 | Derecho Procesal General | Calificación de la demanda | Aplicar | COGEP
+Q: La jueza ordena al actor aclarar la pretensión y numerar los hechos de su demanda. El actor deja pasar el término sin hacerlo. ¿Qué consecuencia se produce?
++ Se ordena archivar la demanda y devolver los documentos adjuntos. | Correcta. Si la demanda no cumple los requisitos, se ordena completarla o aclararla en el término de cinco días; si no se lo hace, se dispone el archivo y la devolución de los documentos, sin necesidad de dejar copias (art. 146 del Código Orgánico General de Procesos).
+- La demanda continúa y la jueza suple de oficio los defectos. | Incorrecta. La jueza no puede completar de oficio la pretensión del actor.
+- Se declara el abandono del proceso. | Incorrecta. El abandono exige inactividad de seis meses en un proceso ya iniciado (art. 245).
+- Se condena al actor en costas y se rechaza la demanda en sentencia. | Incorrecta. No hay sentencia de fondo; el efecto es el archivo.
+
+@ SIC3-19 | 3 | 4 | Derecho Procesal General | Contestación a la demanda | Analizar | COGEP
+Q: El demandado, debidamente citado, no contesta la demanda. El actor sostiene que, por ese hecho, todos sus hechos deben darse por probados. ¿Es correcta esa tesis?
++ No: se aprecia como negativa de los hechos. | Correcta. La falta de contestación y de pronunciamiento expreso sobre las pretensiones será apreciada como negativa de los hechos alegados, salvo los casos que la ley establezca (art. 157 del Código Orgánico General de Procesos); el actor conserva la carga de probar.
+- Sí: el silencio equivale a allanamiento. | Incorrecta. El allanamiento debe ser expreso; el silencio no lo es.
+- Sí, porque el demandado rebelde pierde el derecho a intervenir en el proceso. | Incorrecta. El demandado puede comparecer en cualquier estado del proceso, tomándolo en el estado en que se encuentre.
+- No, porque la falta de contestación obliga a archivar la causa. | Incorrecta. El proceso continúa; no se archiva por esa causa.
+
+@ SIC3-20 | 3 | 3 | Derecho Procesal General | Excepciones previas y de fondo | Analizar | COGEP
+Q: En un juicio de cobro de USD 5.000, el demandado alega dos defensas: que la acción está prescrita y que pagó la deuda. ¿Cómo se califica cada una según el COGEP?
++ Prescripción, excepción previa; pago, defensa de fondo. | Correcta. El art. 153 del Código Orgánico General de Procesos enumera taxativamente las excepciones previas, entre ellas la prescripción (num. 6); el pago controvierte la subsistencia del derecho material y es una defensa de fondo (art. 151).
+- Ambas son excepciones previas del art. 153. | Incorrecta. El pago no figura entre las excepciones previas.
+- Ambas son defensas de fondo, que se resuelven en sentencia. | Incorrecta. La prescripción tiene tratamiento expreso como excepción previa.
+- El pago es excepción previa; la prescripción, defensa de fondo. | Incorrecta. Se invierte la clasificación legal.
+
+@ SIC3-21 | 3 | 3 | Derecho Procesal General | Excepciones previas | Recordar | COGEP
+Q: ¿En qué momento procesal se resuelven las excepciones previas en el procedimiento ordinario?
++ En la audiencia preliminar. | Correcta. Las excepciones previas se resuelven en la audiencia preliminar o en la primera fase de la audiencia única, según el procedimiento (arts. 294 y 295 del Código Orgánico General de Procesos).
+- En la sentencia, junto con el fondo de la controversia. | Incorrecta. Se resuelven antes del fondo, en la audiencia preliminar.
+- En el auto de calificación de la demanda. | Incorrecta. La calificación examina la demanda; las excepciones se proponen al contestar.
+- En la audiencia de juicio, tras la práctica de la prueba. | Incorrecta. En el ordinario se resuelven en la audiencia preliminar.
+
+@ SIC3-22 | 3 | 3 | Derecho Procesal General | Reconvención | Aplicar | COGEP
+Q: En un juicio de alimentos, el padre demandado reconviene a la madre por el pago de un préstamo personal que le hizo años atrás. ¿Procede la reconvención?
++ No, porque la ley prohíbe expresamente la reconvención en materia de alimentos. | Correcta. El COGEP admite por regla la reconvención (art. 154), pero en el procedimiento sumario solo cabe la conexa y en materia de alimentos no procede (art. 333 num. 2 del Código Orgánico General de Procesos).
+- Sí, porque toda pretensión del demandado contra el actor puede reconvenirse. | Incorrecta. La ley establece prohibiciones expresas.
+- Sí, si se tramita como reconvención conexa por existir relación familiar. | Incorrecta. En alimentos no procede siquiera la conexa.
+- No, porque el préstamo debe reclamarse ante un juez penal. | Incorrecta. El préstamo es civil; puede reclamarse en un proceso independiente.
+
+@ SIC3-23 | 3 | 4 | Derecho Procesal General | Reconvención | Analizar | COGEP
+Q: En un juicio laboral por despido intempestivo, el empleador reconviene al trabajador por el valor de un vehículo que este le compró en un negocio ajeno a la relación laboral. ¿Qué afirmación es correcta?
++ No procede, porque en materia laboral solo cabe la reconvención conexa. | Correcta. En materia laboral solo procede la reconvención conexa; una pretensión sobre una relación jurídica distinta, sin conexión con la demanda, es inconexa y no se admite (arts. 154 y 333 del Código Orgánico General de Procesos).
+- Procede, porque el COGEP admite la reconvención inconexa en todas las materias. | Incorrecta. Hay materias en las que solo se admite la conexa.
+- Procede solo si el vehículo vale más que la indemnización reclamada. | Incorrecta. La cuantía no determina la procedencia.
+- No procede, porque en materia laboral la reconvención está prohibida en todos los casos. | Incorrecta. La conexa sí procede.
+
+@ SIC3-24 | 3 | 3 | Derecho Procesal General | Medios de impugnación | Comprender | COGEP
+Q: Una sentencia resolvió la demanda principal, pero omitió pronunciarse sobre la pretensión de intereses. ¿Qué recurso horizontal corresponde?
++ Recurso de ampliación. | Correcta. La ampliación procede cuando no se resolvió alguno de los puntos controvertidos o se omitió decidir sobre frutos, intereses o costas (art. 253 del Código Orgánico General de Procesos).
+- Aclaración. | Incorrecta. La aclaración procede cuando la sentencia es oscura, no cuando omite un punto.
+- Revocatoria. | Incorrecta. La revocatoria no procede contra sentencias.
+- De hecho. | Incorrecta. El recurso de hecho se interpone contra la negativa de conceder un recurso.
+
+@ SIC3-25 | 3 | 3 | Derecho Procesal General | Medios de impugnación | Recordar | COGEP
+Q: Un juez de niñez y adolescencia dicta sentencia escrita en un juicio de tenencia. ¿En qué término debe fundamentarse la apelación?
++ Cinco días, por ser materia de niñez. | Correcta. La apelación de sentencias y autos escritos se fundamenta, por regla, en el término de diez días; en materia de niñez y adolescencia, el término es de cinco días (art. 257 del Código Orgánico General de Procesos).
+- Diez días. | Incorrecta. Es la regla general, que no rige en niñez y adolescencia.
+- Tres días. | Incorrecta. No es el término legal.
+- Veinte días. | Incorrecta. Es el término de la acción extraordinaria de protección, no de la apelación.
+
+@ SIC3-26 | 3 | 4 | Derecho Procesal General | Derecho a recurrir y casación | Evaluar | CRE,COGEP
+Q: Una parte interpone casación para que la Corte Nacional vuelva a valorar libremente toda la prueba y "dicte la sentencia justa". ¿Qué razonamiento es correcto?
++ Es improcedente: la casación no es una tercera instancia. | Correcta. El derecho a recurrir se ejerce por los recursos que la ley habilita y con sus requisitos (art. 76 num. 7 lit. m de la Constitución); la casación procede únicamente por las causales del art. 268 del Código Orgánico General de Procesos y no permite reabrir el debate probatorio.
+- Procede, porque el derecho a recurrir garantiza una revisión integral en todas las instancias. | Incorrecta. El derecho a recurrir no convierte la casación en instancia ordinaria.
+- Procede, siempre que se presente dentro del término de treinta días. | Incorrecta. El término no salva la improcedencia del fundamento.
+- No: la casación solo cabe en lo penal. | Incorrecta. La casación procede también en las materias del COGEP.
+
+@ SIC3-27 | 3 | 3 | Derecho Procesal General | Principios procesales | Aplicar | COFJ,COGEP
+Q: Un abogado solicita repetidamente diligencias que sabe innecesarias, con el único propósito de retrasar la audiencia de juicio. ¿Qué principio vulnera principalmente?
++ La buena fe y la lealtad procesal de las partes. | Correcta. Las partes deben actuar con buena fe y lealtad, sin abusar del proceso ni usar mecanismos dilatorios o fraudulentos (art. 26 del Código Orgánico de la Función Judicial).
+- El principio dispositivo de las partes. | Incorrecta. El dispositivo se refiere a la iniciativa de las partes, no a la conducta dilatoria.
+- La inmediación. | Incorrecta. La inmediación exige la intervención directa del juzgador en los actos fundamentales.
+- La especialidad. | Incorrecta. La especialidad se refiere a la distribución de materias entre juzgadores.

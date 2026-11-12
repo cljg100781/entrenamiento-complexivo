@@ -1,0 +1,202 @@
+@ SIC1-01 | 1 | 2 | Procesal Constitucional | Garantías normativas | Comprender | CRE
+Q: La Asamblea Nacional aprueba una ley que reduce, sin justificación, el contenido de un derecho reconocido en la Constitución. ¿Qué garantía constitucional ha fallado en primer término?
++ La garantía normativa, que obliga a adecuar las normas a los derechos. | Correcta. Todo órgano con potestad normativa debe adecuar formal y materialmente las leyes a los derechos, y ninguna reforma puede atentar contra ellos (art. 84 de la Constitución); su control corresponde a la Corte Constitucional por la vía abstracta (art. 436 num. 2).
+- La garantía de políticas públicas, porque la ley afecta a un servicio público. | Incorrecta. La garantía de políticas públicas (art. 85 de la Constitución) rige la formulación y ejecución de políticas y servicios, no la producción legislativa.
+- La garantía jurisdiccional, porque la Asamblea ejerce una función de juzgamiento. | Incorrecta. La Asamblea no juzga; las garantías jurisdiccionales (arts. 86 a 94 de la Constitución) son mecanismos judiciales de tutela.
+- Ninguna: la ley puede regular libremente los derechos. | Incorrecta. La potestad normativa está limitada por los derechos (art. 84 de la Constitución).
+
+@ SIC1-02 | 1 | 2 | Procesal Constitucional | Garantías de políticas públicas | Comprender | CRE
+Q: Un programa estatal de vivienda, en su ejecución, termina excluyendo a personas con discapacidad. Según la Constitución, ¿qué consecuencia prevé la garantía de políticas públicas?
++ Debe reformularse la política o adoptarse medidas alternativas. | Correcta. Cuando los efectos de una política pública o de la prestación de un servicio vulneren o amenacen derechos, deben reformularse o adoptarse medidas alternativas que concilien los derechos en conflicto (art. 85 num. 2 de la Constitución).
+- La política queda automáticamente derogada desde la fecha de su aprobación. | Incorrecta. El art. 85 de la Constitución no prevé una derogatoria automática, sino la reformulación de la política.
+- Solo cabe pedir a la Asamblea que dicte una ley que sustituya el programa. | Incorrecta. La reformulación corresponde a quien formula y ejecuta la política, con participación ciudadana (art. 85 de la Constitución).
+- La exclusión es válida si la dictó autoridad competente. | Incorrecta. La competencia no legitima efectos que vulneren derechos (art. 85 de la Constitución).
+
+@ SIC1-03 | 1 | 3 | Procesal Constitucional | Normas comunes de las garantías jurisdiccionales | Aplicar | CRE,LOGJCC
+Q: Un comunero presenta, sin firma de abogado y sin citar la norma infringida, una acción de protección por la suspensión del agua potable de su comunidad. El juez la rechaza por "falta de patrocinio y de fundamento jurídico". ¿Es correcta esa decisión?
++ No: no se exige patrocinio ni citar la norma infringida. | Correcta. Las acciones constitucionales pueden proponerse oralmente o por escrito, sin formalidades y sin necesidad de citar la norma infringida, y no es indispensable el patrocinio de un abogado (art. 86 num. 2 lit. c de la Constitución; art. 4 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- Sí, porque toda demanda judicial requiere patrocinio de un profesional del derecho. | Incorrecta. La regla general del patrocinio no rige en las garantías jurisdiccionales (art. 86 num. 2 lit. c de la Constitución).
+- Sí: solo una persona jurídica reclama por la comunidad. | Incorrecta. La legitimación es amplia: cualquier persona, grupo, comunidad, pueblo o nacionalidad (art. 86 num. 1 de la Constitución).
+- No, aunque el juez debía ordenar completar la demanda con firma de abogado. | Incorrecta. No puede exigirse ese requisito, porque la Constitución lo excluye expresamente (art. 86 num. 2 lit. c).
+
+@ SIC1-04 | 1 | 2 | Procesal Constitucional | Competencia en garantías jurisdiccionales | Recordar | CRE,LOGJCC
+Q: Una resolución dictada en Quito por un ministerio produce sus efectos en Loja, donde vive la afectada. ¿Ante qué juez puede presentar la acción de protección?
++ Ante el juez de Quito o el de Loja, a elección de la afectada. | Correcta. Es competente el juez del lugar en el que se origina el acto u omisión o donde se producen sus efectos (art. 86 num. 2 de la Constitución; art. 7 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- Solo ante el juez de Quito, sede del ministerio. | Incorrecta. La ley también habilita al juez del lugar donde se producen los efectos (art. 7 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- Solo ante la Corte Constitucional, por tratarse de un ministerio. | Incorrecta. La acción de protección se presenta ante jueces de primer nivel, no ante la Corte (art. 86 num. 2 de la Constitución).
+- Ante el Tribunal Contencioso Administrativo de Quito. | Incorrecta. Ese tribunal conoce la vía ordinaria, no las garantías jurisdiccionales.
+
+@ SIC1-05 | 1 | 3 | Procesal Constitucional | Medidas cautelares | Aplicar | CRE,LOGJCC
+Q: Una persona pide como medida cautelar constitucional autónoma que se suspenda una orden judicial de desalojo dictada en un juicio de inquilinato. ¿Qué debe resolver el juez?
++ Negarla: no proceden frente a la ejecución de órdenes judiciales. | Correcta. Las medidas cautelares no proceden cuando existan medidas en la vía administrativa u ordinaria, cuando se trate de la ejecución de órdenes judiciales o cuando se interpongan en la acción extraordinaria de protección (art. 27 inciso tercero de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- Concederla, porque la amenaza a la vivienda es inminente. | Incorrecta. La inminencia no supera la prohibición expresa del art. 27 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional.
+- Concederla, pero solo si se presenta de forma conjunta con una acción de protección. | Incorrecta. La prohibición rige tanto para medidas autónomas como conjuntas (art. 27 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- Remitirla a la Corte Constitucional, única competente frente a órdenes judiciales. | Incorrecta. No existe esa remisión; la medida simplemente no procede.
+
+@ SIC1-06 | 1 | 4 | Procesal Constitucional | Medidas cautelares | Analizar | LOGJCC,CCE6615
+Q: Una comunidad pide una medida cautelar para detener una tala que ya comenzó en el bosque del que se abastece de agua. Presenta fotografías recientes y un informe técnico. ¿Qué requisitos debe verificar el juez para concederla?
++ Verosimilitud, inminencia, gravedad y derechos identificables. | Correcta. Las medidas proceden ante una amenaza o violación inminente y grave de derechos (art. 27 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional); la Corte sistematizó como requisitos la verosimilitud fundada, la inminencia, la gravedad y la identificación de derechos (Sentencia 66-15-JC/19).
+- La prueba plena de la vulneración, practicada en audiencia con contradicción. | Incorrecta. Basta la verosimilitud; las medidas no constituyen prejuzgamiento (art. 28 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- El agotamiento previo de la vía administrativa ante la autoridad ambiental. | Incorrecta. Las medidas son inmediatas y urgentes y no exigen agotar vías previas (art. 29 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- Una caución que cubra los perjuicios a la empresa. | Incorrecta. La ley no condiciona la medida cautelar constitucional a una caución.
+
+@ SIC1-07 | 1 | 2 | Procesal Constitucional | Medidas cautelares | Comprender | LOGJCC
+Q: ¿Cuál de las siguientes afirmaciones sobre las medidas cautelares constitucionales es correcta?
++ Pueden revocarse si cesan los presupuestos que las justificaron. | Correcta. La revocatoria procede cuando se haya evitado o cesado la amenaza o la violación, o se demuestre que no tenían fundamento (art. 35 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- Pueden consistir en la privación de libertad de quien amenaza el derecho. | Incorrecta. Las medidas cautelares no pueden ser privativas de la libertad (art. 26 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- Su concesión constituye un pronunciamiento anticipado sobre el fondo. | Incorrecta. El otorgamiento no constituye prejuzgamiento (art. 28 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- Solo pueden solicitarse junto con una acción de protección ya admitida. | Incorrecta. Pueden solicitarse de forma autónoma o conjunta (art. 87 de la Constitución).
+
+@ SIC1-08 | 1 | 3 | Procesal Constitucional | Acción de protección | Aplicar | CRE,LOGJCC
+Q: Un colegio particular niega la matrícula a una estudiante por ser hija de padres del mismo sexo. ¿Procede la acción de protección contra el colegio?
++ Sí, porque la acción procede contra particulares que cometen actos discriminatorios. | Correcta. La acción de protección procede contra particulares cuando la persona afectada se encuentra en estado de subordinación, indefensión o discriminación, o el particular presta servicios públicos (art. 88 de la Constitución; art. 41 num. 4 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- No, porque la acción de protección procede solo contra autoridades públicas. | Incorrecta. La Constitución la extiende a particulares en los supuestos del art. 88.
+- No: la matrícula es un asunto contractual civil. | Incorrecta. La discriminación configura una vulneración directa de derechos tutelable por esta vía (art. 41 num. 4 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- Sí, pero solo si antes se agotó el reclamo ante el Ministerio de Educación. | Incorrecta. La acción de protección no exige agotar la vía administrativa (art. 40 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+
+@ SIC1-09 | 1 | 4 | Procesal Constitucional | Acción de protección: improcedencia e inadmisión | Analizar | LOGJCC,CCE10213
+Q: Al calificar una acción de protección contra un acto administrativo, la jueza la inadmite por auto, sin audiencia, porque "existe la vía contencioso administrativa". Según la jurisprudencia de la Corte Constitucional, ¿qué error cometió?
++ Esa causal solo puede declararse en sentencia, después de sustanciar el proceso con audiencia. | Correcta. Las causales de los numerales 1 a 5 del art. 42 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional son de improcedencia y se declaran en sentencia, con audiencia y prueba; solo los numerales 6 y 7 permiten inadmitir al calificar (Sentencia 102-13-SEP-CC, interpretación conforme del art. 42).
+- Ninguno, porque toda causal del art. 42 permite inadmitir al calificar la demanda. | Incorrecta. La Corte limitó la inadmisión por auto a los numerales 6 y 7 del art. 42 (Sentencia 102-13-SEP-CC).
+- Debía remitir el expediente al Tribunal Contencioso Administrativo. | Incorrecta. El juez constitucional no remite la causa; resuelve sobre la procedencia de la garantía.
+- Debía exigir al accionante que primero agotara la vía administrativa. | Incorrecta. La acción de protección no exige agotar la vía administrativa (art. 40 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+
+@ SIC1-10 | 1 | 3 | Procesal Constitucional | Acción de protección: improcedencia e inadmisión | Recordar | LOGJCC
+Q: Según el art. 42 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional, ¿en cuál de estos casos la acción de protección puede inadmitirse por auto al calificarla?
++ Cuando se impugna una providencia judicial. | Correcta. La acción de protección no procede contra providencias judiciales (art. 42 num. 6), y esta causal, junto con la del num. 7, puede declararse al calificar mediante auto de inadmisión.
+- Cuando el acto impugnado ya fue revocado sin dejar daños. | Incorrecta. Es causal de improcedencia (num. 2) que se declara en sentencia.
+- Cuando la pretensión es la declaración de un derecho. | Incorrecta. Es causal de improcedencia (num. 5) que se declara en sentencia.
+- Cuando solo se discute la legalidad del acto impugnado. | Incorrecta. Es causal de improcedencia (num. 3) que se declara en sentencia.
+
+@ SIC1-11 | 1 | 4 | Procesal Constitucional | Acción de protección y vía ordinaria | Evaluar | LOGJCC,CCE00116
+Q: En una acción de protección, el juez declara improcedente la demanda con una sola frase: "el accionante puede acudir a la justicia ordinaria", sin examinar si hubo vulneración de derechos. ¿Qué regla fijó la Sentencia 001-16-PJO-CC frente a esa forma de decidir?
++ Debe analizar si hubo vulneración antes de remitir a otra vía. | Correcta. La Sentencia 001-16-PJO-CC (22 de marzo de 2016) estableció, como jurisprudencia vinculante, que el juez solo puede considerar que existe otra vía adecuada tras un análisis profundo que descarte la vulneración de derechos constitucionales.
+- La sola existencia de una vía ordinaria basta para declarar improcedente la acción. | Incorrecta. Es precisamente la práctica que la Sentencia 001-16-PJO-CC rechazó.
+- Debe inadmitir la demanda al calificarla. | Incorrecta. La remisión a otra vía no es causal de inadmisión por auto (art. 42 nums. 6 y 7 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- El juez debe sustanciar el caso como si fuera un juicio contencioso administrativo. | Incorrecta. El juez constitucional no cambia la vía; decide sobre la garantía.
+
+@ SIC1-12 | 1 | 5 | Procesal Constitucional | Acción de protección y vía ordinaria | Evaluar | LOGJCC,CCE00116,CCE172525
+Q: En 2026 la Corte Constitucional dictó la Sentencia 1725-25-JP/26 sobre la relación entre la acción de protección y las vías ordinarias. ¿Qué cambio introduce, según se discute en el seminario?
++ Permite declarar improcedente por existir vía ordinaria eficaz, sin examinar la vulneración. | Correcta. La sentencia permite al juez analizar en primer lugar la idoneidad y eficacia de la vía ordinaria y, si existe, declarar improcedente la acción sin examinar la vulneración; se discute si invierte la regla de la Sentencia 001-16-PJO-CC sin un alejamiento expreso y motivado del precedente (art. 2 num. 3 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- Elimina la acción de protección contra actos administrativos y la reserva a actos de particulares. | Incorrecta. La sentencia no suprime la procedencia contra actos administrativos; regula el orden del análisis.
+- Ratifica sin cambios que el juez debe descartar primero la vulneración antes de remitir a la vía ordinaria. | Incorrecta. Esa es la regla de 2016; la sentencia de 2026 permite empezar por el análisis de la vía ordinaria.
+- Autoriza inadmitir por auto cualquier acción de protección cuando exista otra vía judicial. | Incorrecta. Se trata de un análisis de procedencia en el proceso, no de una nueva causal de inadmisión en la calificación.
+
+@ SIC1-13 | 1 | 3 | Procesal Constitucional | Acción extraordinaria de protección | Aplicar | CRE,LOGJCC
+Q: Una sentencia de casación se notificó el 2 de junio. La parte vencida, que considera vulnerado su derecho a la defensa, presenta la acción extraordinaria de protección treinta días hábiles después. ¿Qué ocurre?
++ Es extemporánea, porque el término es de veinte días desde la notificación del fallo. | Correcta. La acción extraordinaria de protección se presenta en el término de veinte días desde la notificación de la decisión judicial; para quien debió ser parte, desde que conoció la decisión (art. 60 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional). La presentación oportuna es requisito de admisión (art. 62 num. 6).
+- Es oportuna, porque el término es de sesenta días desde la ejecutoria. | Incorrecta. El art. 60 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional fija veinte días.
+- Es oportuna, porque las garantías no están sujetas a término alguno. | Incorrecta. La acción extraordinaria de protección sí tiene término legal (art. 60).
+- Es extemporánea, porque debía presentarse dentro de los tres días siguientes. | Incorrecta. Tres días no es el término previsto en la ley.
+
+@ SIC1-14 | 1 | 4 | Procesal Constitucional | Acción extraordinaria de protección | Analizar | LOGJCC
+Q: En una acción extraordinaria de protección, la demanda sostiene únicamente que el tribunal valoró mal los testimonios y que, por eso, la sentencia es injusta. ¿Qué debe resolver la sala de admisión?
++ Inadmitirla, porque cuestiona la valoración de la prueba. | Correcta. Son requisitos de admisión que el fundamento no se agote en lo injusto o equivocado de la sentencia y que no se refiera a la apreciación de la prueba por parte del juez (art. 62 nums. 3 y 5 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional); la Corte no es una cuarta instancia.
+- Admitirla: la prueba integra el debido proceso. | Incorrecta. La mera discrepancia con la valoración probatoria está excluida expresamente (art. 62 num. 5).
+- Admitirla y ordenar la repetición de la prueba testimonial ante la Corte. | Incorrecta. La Corte no practica ni revalora la prueba del proceso de origen.
+- Remitirla al tribunal de origen para que valore de nuevo los testimonios. | Incorrecta. No existe esa remisión; la consecuencia es la inadmisión.
+
+@ SIC1-15 | 1 | 4 | Procesal Constitucional | Garantía de la motivación | Analizar | CRE,CCE115817
+Q: Una Corte Provincial confirma una sentencia transcribiendo varios artículos, sin conectarlos con los hechos ni responder a los argumentos de la apelación. Según la Sentencia 1158-17-EP/21, ¿qué deficiencia presenta?
++ Motivación aparente o insuficiente. | Correcta. La garantía de la motivación exige una fundamentación normativa y fáctica suficientes (art. 76 num. 7 lit. l de la Constitución); la Sentencia 1158-17-EP/21 identifica como deficiencias la inexistencia, la insuficiencia y la apariencia (incoherencia, inatinencia, incongruencia o incomprensibilidad).
+- Ninguna, porque citar las normas aplicables satisface por sí solo la motivación. | Incorrecta. Enunciar normas sin explicar su pertinencia frente a los hechos no es motivar (art. 76 num. 7 lit. l de la Constitución).
+- Un error de valoración probatoria, ajeno al control constitucional. | Incorrecta. El defecto es de argumentación, controlable por la garantía de la motivación.
+- Una falta de congruencia que solo puede corregirse con recurso de aclaración. | Incorrecta. La aclaración no remedia la ausencia de una estructura argumentativa mínima.
+
+@ SIC1-16 | 1 | 4 | Procesal Constitucional | Desnaturalización de las garantías | Evaluar | LOGJCC,CCE223122
+Q: Un juez de primer nivel concede una acción de protección que deja sin efecto una sentencia de un juicio de alimentos. Según la Sentencia 2231-22-JP/23, ¿cómo debe calificarse esa actuación?
++ Desnaturaliza la garantía y puede constituir abuso del derecho. | Correcta. Los jueces tienen prohibido conceder acciones de protección contra decisiones jurisdiccionales (art. 42 num. 6 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional); hacerlo desnaturaliza la garantía y puede generar responsabilidad (Sentencia 2231-22-JP/23).
+- Es válida si se vulneraron derechos del niño. | Incorrecta. Contra decisiones judiciales la vía es la acción extraordinaria de protección (art. 94 de la Constitución).
+- Es válida porque el juez constitucional tiene jerarquía sobre el juez de familia. | Incorrecta. No existe esa jerarquía; la garantía no habilita revisar sentencias.
+- Es un simple error de forma que se corrige con la apelación ante la Corte Provincial. | Incorrecta. La Corte calificó esta práctica como desnaturalización de la garantía, no como un defecto formal.
+
+@ SIC1-17 | 1 | 3 | Procesal Constitucional | Hábeas corpus | Aplicar | CRE,LOGJCC
+Q: Marco es aprehendido en una protesta sin orden judicial ni flagrancia y lleva treinta y seis horas incomunicado. En la audiencia de hábeas corpus, la Policía no exhibe ninguna orden de privación de libertad. ¿Qué debe resolver la jueza?
++ Su libertad inmediata, porque la privación se presume ilegítima. | Correcta. Se presume ilegítima la privación de libertad cuando no se exhibe la orden o esta no cumple los requisitos legales; la orden de libertad se cumple de inmediato (art. 89 de la Constitución; art. 45 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- Suspender la audiencia hasta oír a la Fiscalía. | Incorrecta. La audiencia se realiza dentro de las veinticuatro horas y la decisión se dicta en ella (art. 44 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- Ordenar que Marco sea puesto a órdenes de un juez penal para su formulación de cargos. | Incorrecta. Sin orden válida ni flagrancia, la privación es ilegítima y procede la libertad.
+- Declarar improcedente la acción porque Marco debió interponer una acción de protección. | Incorrecta. La privación ilegal de libertad y la incomunicación se tutelan por hábeas corpus (art. 43 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+
+@ SIC1-18 | 1 | 3 | Procesal Constitucional | Hábeas corpus | Recordar | CRE,LOGJCC
+Q: Una persona está detenida por una orden de prisión preventiva dictada en un proceso penal y considera que esa privación es ilegal. ¿Ante quién se interpone el hábeas corpus?
++ Ante la Corte Provincial de Justicia. | Correcta. Cuando la orden de privación de libertad ha sido dispuesta en un proceso penal, el hábeas corpus se interpone ante la Corte Provincial de Justicia (art. 89 de la Constitución; art. 44 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- Ante el mismo juez penal que dictó la orden. | Incorrecta. La ley desplaza la competencia a un órgano distinto del que ordenó la privación.
+- Ante la Corte Constitucional, en única instancia. | Incorrecta. La Corte Constitucional no conoce el hábeas corpus en primera instancia.
+- Ante cualquier juez de primer nivel del país. | Incorrecta. Esa regla general no rige cuando la orden proviene de un proceso penal.
+
+@ SIC1-19 | 1 | 4 | Procesal Constitucional | Hábeas corpus correctivo | Analizar | CRE,LOGJCC,CCE36518
+Q: Una persona condenada por sentencia firme cumple su pena en un centro de rehabilitación, donde recibe golpes reiterados de los guías. Su familia presenta hábeas corpus. ¿Procede, aunque la privación de libertad es legítima?
++ Sí: procede el hábeas corpus correctivo. | Correcta. El hábeas corpus protege también la vida, la integridad física y otros derechos conexos de la persona privada de libertad (art. 89 de la Constitución; art. 43 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional); la Sentencia 365-18-JH/21 desarrolló el hábeas corpus correctivo frente a tortura y tratos crueles.
+- No, porque el hábeas corpus solo procede contra privaciones de libertad ilegales. | Incorrecta. La garantía no se limita a la legalidad de la detención; alcanza las condiciones de la privación (Sentencia 365-18-JH/21).
+- No: la vía es la denuncia penal. | Incorrecta. La vía penal no excluye la tutela inmediata de la integridad mediante hábeas corpus.
+- Sí, y su efecto necesario es dejar sin efecto la condena y ordenar la libertad. | Incorrecta. El hábeas corpus correctivo busca hacer cesar los malos tratos y reparar; no anula la condena.
+
+@ SIC1-20 | 1 | 3 | Procesal Constitucional | Hábeas data y acceso a la información | Aplicar | CRE,LOGJCC,CCE83914
+Q: Un periodista pide a un hospital público la historia clínica de un paciente conocido, alegando interés público. El hospital la niega y el periodista presenta acción de acceso a la información pública. ¿Procede?
++ No, porque los datos personales de un tercero no se obtienen mediante esta acción. | Correcta. La acción de acceso a la información pública tutela información pública (art. 91 de la Constitución; art. 47 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional); los datos personales de un tercero, en principio, solo los obtiene su titular mediante hábeas data (Sentencia 839-14-EP/21).
+- Sí, porque toda información en poder de una entidad pública es pública. | Incorrecta. La regla de publicidad no alcanza los datos personales de terceros, protegidos por el art. 92 de la Constitución.
+- Sí, porque el periodista puede presentar hábeas data por cualquier persona. | Incorrecta. El hábeas data corresponde al titular de los datos o a su representante legitimado (art. 51 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- No, porque la acción de acceso a la información solo procede contra particulares. | Incorrecta. Procede contra entidades públicas y personas privadas con participación estatal o que manejan fondos públicos (art. 47).
+
+@ SIC1-21 | 1 | 3 | Procesal Constitucional | Hábeas data | Aplicar | CRE,LOGJCC,CCE206414
+Q: Una empresa privada de seguridad guarda la fotografía y el domicilio de un dirigente con la etiqueta "agitador" y los comparte con terceros. El dirigente pidió por escrito conocer y eliminar esos datos, sin respuesta. ¿Qué garantía procede y contra quién?
++ Hábeas data contra la empresa privada. | Correcta. El hábeas data procede frente a entidades públicas o privadas que tengan datos sobre la persona, cuando se niega el acceso o la eliminación, o se usa la información en violación de derechos (art. 92 de la Constitución; art. 50 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional). La fotografía que identifica a una persona es un dato personal (Sentencia 2064-14-EP/21).
+- Acción de acceso a la información pública contra la empresa. | Incorrecta. No se trata de información pública, sino de datos personales del propio titular.
+- Hábeas data, pero solo contra el Estado, que regula a las empresas de seguridad. | Incorrecta. El hábeas data procede también contra personas privadas (art. 92 de la Constitución).
+- Acción por incumplimiento ante la Corte Constitucional. | Incorrecta. Esa garantía busca la aplicación de normas o decisiones internacionales, no la tutela de datos personales.
+
+@ SIC1-22 | 1 | 3 | Procesal Constitucional | Acceso a la información pública | Aplicar | CRE,LOGJCC,CCE2921
+Q: Una comuna pide al ministerio del ramo la licencia ambiental de una concesión minera. El ministerio responde en una línea que la información "es reservada", sin citar norma ni acto previo de reserva. ¿Qué afirmación es correcta?
++ Procede la acción: la reserva no fue declarada antes ni conforme a la ley. | Correcta. La acción procede aun si se alega reserva, salvo que esta haya sido declarada con anterioridad a la petición, por autoridad competente y de acuerdo con la ley (art. 91 de la Constitución); la entidad debe demostrar y motivar la excepcionalidad de la reserva (Sentencia 29-21-JI y acumulado/21).
+- No procede, porque la sola invocación de reserva impide el acceso. | Incorrecta. La reserva no se presume; debe ser previa, legal y motivada (art. 91 de la Constitución).
+- Procede el hábeas data, porque la comuna es titular de la información ambiental. | Incorrecta. La licencia es información pública, no datos personales de la comuna.
+- No procede, porque solo los afectados directos por la concesión pueden pedir esa información. | Incorrecta. La información pública puede pedirla cualquier persona, sin acreditar interés.
+
+@ SIC1-23 | 1 | 2 | Procesal Constitucional | Acceso a la información pública | Recordar | LOGJCC
+Q: Según la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional, ¿dónde se entiende ocurrida la vulneración del derecho de acceso a la información pública, para fijar la competencia?
++ Donde se encuentra la información. | Correcta. La violación se entiende ocurrida en el lugar donde real o presuntamente se encuentra la información requerida (art. 48 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- En el domicilio de quien solicitó la información. | Incorrecta. La ley no toma como referencia el domicilio del solicitante.
+- En la sede de la Corte Constitucional, en Quito. | Incorrecta. La acción se presenta ante jueces de primer nivel.
+- En el lugar donde se publicó la negativa de la entidad. | Incorrecta. No es el criterio legal.
+
+@ SIC1-24 | 1 | 4 | Procesal Constitucional | Acción por incumplimiento | Aplicar | CRE,LOGJCC,CCE4618
+Q: Una ordenanza obliga al municipio a instalar en un plazo ya vencido un sistema de monitoreo de la calidad del agua del río. Hace tres meses la comuna presentó al alcalde un reclamo escrito que identifica la obligación y pide su cumplimiento, sin respuesta. ¿Qué garantía procede y ante quién?
++ Acción por incumplimiento ante la Corte Constitucional. | Correcta. La acción por incumplimiento garantiza la aplicación de normas que contienen una obligación de hacer clara, expresa y exigible (art. 93 de la Constitución; art. 52 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional); el incumplimiento se configura si no hay respuesta en cuarenta días tras el reclamo previo (art. 54), que debe identificar la obligación y pedir su cumplimiento (Sentencia 46-18-AN/22).
+- Acción de incumplimiento ante el juez local. | Incorrecta. Lo incumplido es una norma, no una sentencia constitucional.
+- Acción de protección ante el juez del cantón, por omisión de autoridad pública. | Incorrecta. Cuando se exige la aplicación de una norma con obligación clara, expresa y exigible, la garantía específica es la acción por incumplimiento.
+- Acción por incumplimiento ante la Corte Provincial, previo reclamo de diez días. | Incorrecta. Se presenta ante la Corte Constitucional y el término del reclamo es de cuarenta días.
+
+@ SIC1-25 | 1 | 4 | Procesal Constitucional | Acción por incumplimiento | Analizar | LOGJCC
+Q: Un colectivo presenta una acción por incumplimiento para que la Asamblea Nacional expida una ley que la Constitución ordena dictar. ¿Procede?
++ No, porque la acción no procede frente a omisiones de mandatos constitucionales. | Correcta. La acción por incumplimiento no procede si se interpone para proteger derechos tutelables por otra garantía ni frente a omisiones de mandatos constitucionales (art. 56 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional); estas se controlan por la vía de la inconstitucionalidad por omisión (art. 436 num. 10 de la Constitución).
+- Sí, porque toda omisión de autoridad pública es exigible por esta vía. | Incorrecta. La ley excluye expresamente las omisiones de mandatos constitucionales (art. 56).
+- Sí, si el colectivo presentó un reclamo previo a la Asamblea con cuarenta días de anticipación. | Incorrecta. El reclamo previo no supera la causal de improcedencia del art. 56.
+- No, porque solo puede presentarla el Defensor del Pueblo. | Incorrecta. La legitimación activa es amplia (art. 53 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+
+@ SIC1-26 | 1 | 4 | Procesal Constitucional | Acción de incumplimiento de sentencias | Aplicar | CRE,LOGJCC,CCE10321
+Q: En 2025 una jueza aceptó una acción de protección y ordenó al municipio restituir el agua potable en sesenta días. Diez meses después nada se ha cumplido y la jueza no ha dictado medidas de ejecución. ¿Cuál es el camino procesal correcto?
++ Requerir primero a la jueza que ejecute o remita el expediente. | Correcta. La acción de incumplimiento es subsidiaria: se pide primero al juez ejecutor, quien remite el expediente con su informe en cinco días; si se niega o se demora, el afectado acude directamente a la Corte dentro de los diez días siguientes (art. 436 num. 9 de la Constitución; art. 164 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional; Sentencia 103-21-IS/22).
+- Presentar de inmediato la acción de incumplimiento directamente ante la Corte Constitucional. | Incorrecta. La Corte exige el requerimiento previo al juez ejecutor (Sentencia 103-21-IS/22).
+- Una acción por incumplimiento contra el alcalde. | Incorrecta. Lo incumplido es una sentencia constitucional, no una norma.
+- Presentar una nueva acción de protección contra el municipio por la misma omisión. | Incorrecta. La sentencia ya existe; lo que se exige es su ejecución.
+
+@ SIC1-27 | 1 | 3 | Procesal Constitucional | Acción por incumplimiento | Analizar | CRE,LOGJCC,CCE1321
+Q: El Estado ecuatoriano no cumple las recomendaciones de un informe de fondo definitivo de la Comisión Interamericana de Derechos Humanos. ¿Qué garantía permite exigir su cumplimiento en el ámbito interno?
++ La acción por incumplimiento, ante la Corte Constitucional. | Correcta. La acción por incumplimiento garantiza también el cumplimiento de sentencias, decisiones o informes de organismos internacionales de derechos humanos (art. 93 de la Constitución; art. 52 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional); la Corte reconoció que las recomendaciones de informes de fondo definitivos de la Comisión son exigibles por esta vía (Sentencia 13-21-AN/23).
+- La acción de incumplimiento de sentencias. | Incorrecta. Esa acción se refiere a decisiones de la justicia constitucional ecuatoriana (art. 436 num. 9 de la Constitución).
+- La acción extraordinaria de protección contra el informe de la Comisión. | Incorrecta. La acción extraordinaria procede contra decisiones judiciales internas.
+- Ninguna, porque los informes de la Comisión carecen de efectos jurídicos internos. | Incorrecta. La Corte Constitucional los ha declarado exigibles por la acción por incumplimiento.
+
+@ SIC1-28 | 1 | 3 | Procesal Constitucional | Acción extraordinaria de protección contra decisiones indígenas | Comprender | CRE,LOGJCC
+Q: Una autoridad indígena sanciona a una comunera, quien considera que la decisión la discrimina por su condición de mujer. ¿Qué afirmación es correcta sobre la acción extraordinaria de protección contra esa decisión?
++ Cualquier persona inconforme puede presentarla en el término de veinte días. | Correcta. Las decisiones de la jurisdicción indígena están sujetas al control de constitucionalidad (art. 171 de la Constitución); la acción procede cuando violan derechos o discriminan a la mujer por su condición, y se presenta dentro de los veinte días desde que se conoció la decisión (art. 65 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- Solo procede si antes se apeló la decisión ante un juez penal ordinario. | Incorrecta. La justicia ordinaria no revisa en apelación las decisiones indígenas.
+- No procede: las decisiones indígenas son inimpugnables. | Incorrecta. Están sujetas al control de constitucionalidad (art. 171 de la Constitución).
+- Se presenta ante la Corte Provincial, que resuelve con las reglas del COGEP. | Incorrecta. La conoce la Corte Constitucional, con enfoque intercultural (art. 66 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+
+@ SIC1-29 | 1 | 2 | Procesal Constitucional | Normas comunes: apelación y reparación | Recordar | CRE,LOGJCC
+Q: En una acción de protección, la sentencia de primer nivel declara la vulneración y ordena medidas de reparación. ¿Ante quién se apela esa sentencia?
++ Ante la Corte Provincial de Justicia. | Correcta. Las sentencias de primera instancia en garantías jurisdiccionales son apelables ante la Corte Provincial (art. 86 num. 3 de la Constitución; art. 24 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional).
+- Ante la Corte Constitucional, en segunda instancia. | Incorrecta. La Corte Constitucional selecciona y revisa sentencias, no las conoce en apelación.
+- Ante la Corte Nacional de Justicia, mediante casación. | Incorrecta. La casación no procede en garantías jurisdiccionales.
+- Ante el mismo juez, mediante recurso de revocatoria. | Incorrecta. La ley prevé apelación ante el superior.

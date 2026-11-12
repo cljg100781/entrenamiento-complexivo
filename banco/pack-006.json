@@ -9676,23 +9676,23 @@
    "tema": "Aval cambiario",
    "resultado": "Distingue aval de fianza cambiaria.",
    "demanda": "Evaluar",
-   "enunciado": "Una persona firma como aval en una letra de cambio, sin indicar por quién avala. ¿Por quién se entiende que avala?",
+   "enunciado": "Una persona firma una letra de cambio con la fórmula \"por aval\", sin indicar a quién garantiza. Según el Código de Comercio vigente, ¿a quién se entiende que avala?",
    "opciones": [
     {
-     "texto": "Por el girador, porque a falta de indicación se presume que avala a este.",
-     "justificacion": "Correcta. A falta de indicación, el aval se entiende otorgado por el girador. Base legal: normas sobre el aval de la letra de cambio del Código de Comercio de 2019."
+     "texto": "A todos los signatarios de la letra.",
+     "justificacion": "Correcta. El aval debe indicar por cuenta de quién se otorga; a falta de esa indicación, garantiza a todos los signatarios (art. 144 del Código de Comercio). Esta regla difiere de la Ley Uniforme de Ginebra, que presumía el aval a favor del girador."
     },
     {
-     "texto": "Por el beneficiario, porque el aval siempre garantiza al beneficiario.",
-     "justificacion": "Incorrecta. A falta de indicación, se entiende por el girador, no por el beneficiario."
+     "texto": "Solo al girador, por presunción legal.",
+     "justificacion": "Incorrecta. Esa presunción no es la del art. 144 del Código de Comercio ecuatoriano, que extiende la garantía a todos los signatarios."
     },
     {
-     "texto": "Por nadie, porque sin indicación el aval es nulo.",
-     "justificacion": "Incorrecta. Sin indicación no es nulo; se presume por el girador."
+     "texto": "Solo al beneficiario, porque el aval siempre lo protege a él.",
+     "justificacion": "Incorrecta. El aval garantiza a los obligados de la letra; a falta de indicación, a todos los signatarios (art. 144)."
     },
     {
-     "texto": "Por el endosante, porque el aval garantiza a quien endosó el título.",
-     "justificacion": "Incorrecta. La presunción legal es por el girador."
+     "texto": "A nadie, porque el aval sin indicación es nulo.",
+     "justificacion": "Incorrecta. El aval es válido y la ley suple la omisión (art. 144 del Código de Comercio)."
     }
    ],
    "correcta": 0,
@@ -9707,23 +9707,23 @@
    "tema": "Protesto",
    "resultado": "Aplica el protesto en letra de cambio.",
    "demanda": "Analizar",
-   "enunciado": "Una letra de cambio no es pagada a su vencimiento y el tenedor no levanta protesto en el plazo legal. ¿Qué pierde el tenedor?",
+   "enunciado": "Una letra de cambio lleva en el anverso la cláusula \"con protesto\". No es pagada a su vencimiento y el tenedor no la protesta. ¿Qué pierde el tenedor?",
    "opciones": [
     {
      "texto": "Las acciones de regreso contra endosantes y avalistas.",
-     "justificacion": "Correcta. La falta de protesto hace perder las acciones de regreso. Base legal: normas sobre el protesto de la letra de cambio del Código de Comercio de 2019."
+     "justificacion": "Correcta. Bajo el Código de Comercio de 2019 el protesto solo se practica si se inserta la cláusula \"con protesto\"; si se omite cuando es exigible, caducan las acciones de regreso (art. 149 del Código de Comercio). La acción directa contra el aceptante se conserva (art. 160)."
     },
     {
-     "texto": "Nada, porque el protesto es facultativo y no afecta las acciones cambiarias.",
-     "justificacion": "Incorrecta. La falta de protesto hace perder acciones de regreso contra endosantes y avalistas."
+     "texto": "Nada, porque el protesto nunca afecta las acciones cambiarias.",
+     "justificacion": "Incorrecta. Si la letra lleva la cláusula \"con protesto\", omitirlo hace caducar las acciones de regreso (art. 149 del Código de Comercio)."
     },
     {
      "texto": "La acción directa, porque sin protesto se pierde toda acción cambiaria.",
-     "justificacion": "Incorrecta. La acción directa contra el aceptante se conserva."
+     "justificacion": "Incorrecta. La acción directa contra el aceptante no depende del protesto (art. 160 del Código de Comercio)."
     },
     {
      "texto": "El título, porque sin protesto la letra se anula.",
-     "justificacion": "Incorrecta. La letra no se anula; se pierden acciones de regreso."
+     "justificacion": "Incorrecta. La letra no se anula; se pierden las acciones de regreso (art. 149 del Código de Comercio)."
     }
    ],
    "correcta": 0,
@@ -9742,7 +9742,7 @@
    "opciones": [
     {
      "texto": "No: el endoso en procuración solo faculta para cobrar.",
-     "justificacion": "Correcta. El endoso en procuración solo faculta para cobrar, no transmite propiedad. Base legal: normas sobre el endoso de la letra de cambio del Código de Comercio de 2019."
+     "justificacion": "Correcta. El endoso con la cláusula \"valor en cobro\", \"en procuración\" u otra que implique un simple mandato solo faculta al portador para ejercer los derechos de la letra, y solo puede endosarla a su vez en procuración (art. 131 del Código de Comercio)."
     },
     {
      "texto": "Sí, porque todo endoso transmite la propiedad del título al endosatario.",

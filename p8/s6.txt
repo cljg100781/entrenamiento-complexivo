@@ -1,0 +1,223 @@
+@ SIC6-01 | 5 | 2 | Derecho Mercantil y Societario | Capacidad mercantil | Comprender | CCOM
+Q: Un comerciante fue declarado en quiebra hace dos años y no ha sido rehabilitado. Quiere abrir una nueva tienda a su nombre. ¿Qué afirmación es correcta según el Código de Comercio?
++ Está prohibido de ejercer el comercio mientras no obtenga su rehabilitación. | Correcta. Puede ejercer la actividad mercantil toda persona capaz para contratar, pero la ley prohíbe ejercerla, entre otros, a los quebrados e insolventes no rehabilitados (arts. 39 y 40 del Código de Comercio); es una prohibición, no una incapacidad.
+- Es absolutamente incapaz para todo acto civil y mercantil. | Incorrecta. La quiebra genera una prohibición mercantil, no una incapacidad absoluta.
+- Puede ejercer el comercio, porque la quiebra no afecta la capacidad para contratar. | Incorrecta. Aunque conserve su capacidad civil, la ley le prohíbe comerciar (art. 40).
+- Solo puede comerciar mediante una sociedad por acciones simplificada. | Incorrecta. La ley no prevé esa excepción.
+
+@ SIC6-02 | 5 | 3 | Derecho Mercantil y Societario | Establecimiento de comercio | Comprender | CCOM
+Q: Marta vende su restaurante "como negocio en marcha": el local arrendado, el mobiliario, la cocina y el inventario. ¿Qué se transfiere jurídicamente y qué formalidad de publicidad exige el Código de Comercio?
++ El establecimiento de comercio, con inscripción en el Registro Mercantil. | Correcta. El establecimiento es el conjunto de bienes organizados por el empresario, en un lugar determinado, para los fines de la empresa (art. 14 del Código de Comercio); comprende el inmueble o los derechos sobre él, el inventario y el mobiliario (art. 16), puede transferirse (art. 17) y su apertura, cierre y transferencia se inscriben en el libro de actos y objetos mercantiles (art. 24).
+- Solo los bienes muebles, porque el establecimiento no puede transferirse como unidad. | Incorrecta. El Código permite transferir el establecimiento como conjunto (art. 17).
+- La empresa entera, sin formalidad alguna. | Incorrecta. Se transfiere el establecimiento y la ley exige su inscripción.
+- Una cuota de una sociedad de hecho, que se inscribe en el Registro de la Propiedad. | Incorrecta. No hay sociedad y el registro competente es el mercantil.
+
+@ SIC6-03 | 5 | 3 | Derecho Mercantil y Societario | Registro mercantil | Aplicar | CCOM
+Q: Una compañía revocó el poder general de su apoderado, pero no inscribió la revocatoria. Después, el exapoderado firma un contrato con un proveedor que desconocía la revocatoria. ¿Puede la compañía oponer la revocatoria al proveedor?
++ No: el acto no inscrito es inoponible al tercero. | Correcta. Los mandatos y su revocatoria se inscriben en el libro de sujetos mercantiles (arts. 22 y 51 del Código de Comercio); el acto no inscrito es inoponible a terceros, salvo que lo conocieran, y la omisión que cause daño obliga a repararlo (art. 26).
+- Sí, porque la revocatoria surte efectos desde que se otorgó. | Incorrecta. Frente a terceros, la oponibilidad depende de la inscripción.
+- Sí, porque la inscripción mercantil es constitutiva del acto. | Incorrecta. Por regla, la inscripción no es constitutiva, sino de oponibilidad.
+- No: los poderes generales son irrevocables. | Incorrecta. Los poderes son revocables; el problema es la falta de inscripción.
+
+@ SIC6-04 | 5 | 2 | Derecho Mercantil y Societario | Registro mercantil | Recordar | CCOM
+Q: Según el Código de Comercio, ¿en qué plazo deben inscribirse en el Registro Mercantil los actos sujetos a inscripción?
++ Treinta días desde que se genera el acto. | Correcta. El plazo para inscribir es de treinta días desde que se genera el acto, y el mismo plazo rige para comunicar cambios (arts. 23 y 25 del Código de Comercio).
+- Noventa días desde la celebración del acto. | Incorrecta. No es el plazo previsto por el Código de Comercio.
+- Ocho días hábiles desde la notificación de la Superintendencia. | Incorrecta. El plazo se cuenta desde que se genera el acto.
+- No hay plazo; puede inscribirse en cualquier tiempo sin consecuencias. | Incorrecta. La ley fija un plazo y la omisión puede generar responsabilidad (art. 26).
+
+@ SIC6-05 | 5 | 3 | Derecho Mercantil y Societario | Letra de cambio: requisitos | Aplicar | CCOM
+Q: Una letra de cambio cumple todos los requisitos, pero no indica el vencimiento ni el lugar de pago. ¿Es válida?
++ Sí: la ley suple ambas omisiones. | Correcta. La letra que no indica vencimiento se considera pagadera a la vista; a falta de lugar de pago, se paga en el lugar indicado junto al nombre del girado (art. 115 del Código de Comercio). Solo esas omisiones, y la del lugar de emisión, son suplidas por la ley.
+- No, porque el vencimiento es un requisito esencial insubsanable. | Incorrecta. La ley suple expresamente la omisión del vencimiento.
+- Sí, pero solo vale como pagaré a la orden. | Incorrecta. La letra no se convierte en pagaré; conserva su naturaleza.
+- No, porque toda omisión de un requisito del art. 114 anula la letra. | Incorrecta. El art. 115 suple tres omisiones concretas.
+
+@ SIC6-06 | 5 | 3 | Derecho Mercantil y Societario | Letra de cambio: requisitos | Analizar | CCOM
+Q: ¿Cuál de las siguientes omisiones impide que un documento valga como letra de cambio?
++ La falta de firma del girador. | Correcta. La firma del girador es requisito esencial (art. 114 lit. h del Código de Comercio) y su falta no es suplida por la ley: el documento no vale como letra de cambio (art. 115).
+- La falta de indicación del vencimiento. | Incorrecta. Se entiende pagadera a la vista (art. 115).
+- La falta del lugar de emisión. | Incorrecta. Se entiende suscrita en el lugar indicado junto al nombre del girador (art. 115).
+- La falta del número de control de la letra. | Incorrecta. El número no es requisito legal.
+
+@ SIC6-07 | 5 | 3 | Derecho Mercantil y Societario | Letra de cambio: monto | Aplicar | CCOM
+Q: Una letra dice en cifras "US$ 1.200" y en letras "mil dólares de los Estados Unidos de América". ¿Por qué monto vale?
++ Por US$ 1.000, lo escrito en letras. | Correcta. Si el monto está escrito en letras y en cifras y hay diferencia, vale lo escrito en letras; si aparece varias veces en letras o en cifras, vale la suma menor (art. 120 del Código de Comercio).
+- Por US$ 1.200, lo escrito en cifras. | Incorrecta. La ley da prevalencia a la cantidad en letras.
+- Por el promedio de ambas. | Incorrecta. La ley no prevé ese cálculo.
+- Por ninguna, porque la diferencia anula la letra. | Incorrecta. La discrepancia se resuelve por el art. 120, sin anular el título.
+
+@ SIC6-08 | 5 | 4 | Derecho Mercantil y Societario | Letra de cambio: vencimiento | Analizar | CCOM
+Q: Una letra de cambio dice: "Pagaré cuando termine la obra de la casa". ¿Qué efecto tiene esa forma de vencimiento?
++ Es nula: es una forma de vencimiento no permitida. | Correcta. La letra solo puede girarse a día fijo, a cierto plazo de fecha, a la vista o a cierto plazo de vista, con posibles vencimientos sucesivos; las letras con otros vencimientos son nulas (art. 146 del Código de Comercio).
+- Se entiende pagadera a la vista, como si no indicara vencimiento. | Incorrecta. Esa regla rige cuando falta el vencimiento, no cuando se pone uno prohibido.
+- Vale como letra a cierto plazo de fecha, desde el inicio de la obra. | Incorrecta. La ley no convierte un vencimiento indeterminado en otro permitido.
+- La cláusula se tiene por no escrita. | Incorrecta. La consecuencia legal es la nulidad, no un vencimiento supletorio.
+
+@ SIC6-09 | 5 | 4 | Derecho Mercantil y Societario | Letra de cambio: intereses | Aplicar | CCOM
+Q: En una letra de cambio "a día fijo, el 30 de marzo de 2027", el girador agrega: "con un interés del 2 % mensual". ¿Qué efecto tiene esa cláusula?
++ Se tiene por no escrita. | Correcta. El interés convencional solo puede estipularse en letras pagaderas a la vista o a cierto plazo de vista; en las demás, la cláusula se tiene por no escrita (art. 119 del Código de Comercio). Distinto es el recargo de mora, que toda letra devenga (art. 166).
+- Es válida, porque las partes pueden pactar intereses en cualquier letra. | Incorrecta. El art. 119 restringe el interés según la forma de vencimiento.
+- Anula la letra entera, por contener una cláusula prohibida. | Incorrecta. La sanción es tener la cláusula por no escrita.
+- Es válida solo si el interés no supera la tasa máxima convencional. | Incorrecta. El problema no es la tasa, sino la forma de vencimiento.
+
+@ SIC6-10 | 5 | 3 | Derecho Mercantil y Societario | Letra de cambio: representación | Aplicar | CCOM
+Q: Juan firma una letra de cambio "por la empresa Comercial XYZ S.A.", pero no tiene poder de la compañía. ¿Quién queda obligado?
++ Juan, personalmente, en los mismos términos de la letra firmada. | Correcta. Quien firma una letra en representación de otro sin tener poder queda obligado personalmente como si hubiera firmado en su propio nombre; lo mismo el representante que excede sus poderes (art. 122 del Código de Comercio).
+- La compañía, porque Juan actuó en su nombre. | Incorrecta. Sin poder, la representación no obliga a la compañía.
+- Nadie, porque la letra es nula por falta de poder. | Incorrecta. La letra vale y obliga a quien firmó sin poder.
+- La compañía y Juan solidariamente, en partes iguales. | Incorrecta. La ley obliga a quien firmó sin poder, no a la compañía.
+
+@ SIC6-11 | 5 | 3 | Derecho Mercantil y Societario | Endoso | Aplicar | CCOM
+Q: La beneficiaria de una letra de US$ 6.000 escribe al reverso: "Endoso la mitad a favor de Pedro Ruiz" y firma. ¿Qué efecto tiene ese endoso?
++ Es nulo, porque el endoso parcial está prohibido. | Correcta. El endoso debe ser puro y simple; las condiciones se tienen por no escritas, y son nulos el endoso parcial y el endoso "al portador" (art. 125 del Código de Comercio).
+- Transmite a Pedro los derechos sobre US$ 3.000. | Incorrecta. La ley no admite el endoso parcial.
+- Vale como endoso en procuración por la totalidad. | Incorrecta. No hay recalificación legal de un endoso parcial.
+- Es válido, pero obliga a emitir una nueva letra por el saldo. | Incorrecta. La ley no prevé esa solución.
+
+@ SIC6-12 | 5 | 4 | Derecho Mercantil y Societario | Aval | Analizar | CCOM
+Q: Luis escribe en una letra de cambio "por aval" y firma, sin indicar a quién garantiza. ¿Por quién se entiende otorgado el aval según el Código de Comercio vigente?
++ Por todos los signatarios de la letra. | Correcta. El aval debe indicar por cuenta de quién se otorga; a falta de esa indicación, garantiza a todos los signatarios (art. 144 del Código de Comercio). El avalista se obliga en los mismos términos que el avalado (art. 145).
+- Solo por el girador. | Incorrecta. Esa era la presunción de otros regímenes; el art. 144 del Código de Comercio dispone que garantiza a todos.
+- Solo por el girado aceptante. | Incorrecta. La ley no limita la garantía al aceptante.
+- Por nadie, porque el aval sin indicación es nulo. | Incorrecta. El aval vale y la ley suple la omisión.
+
+@ SIC6-13 | 5 | 4 | Derecho Mercantil y Societario | Protesto | Analizar | CCOM
+Q: Una letra de cambio contiene en el anverso, con caracteres visibles, la cláusula "con protesto". Al vencimiento no se paga y el portador no la protesta. ¿Qué consecuencia se produce?
++ Caducan las acciones de regreso. | Correcta. El protesto solo se practica si se inserta la cláusula "con protesto"; si se omite cuando es exigible, caducan las acciones de regreso (art. 149 del Código de Comercio). La acción directa contra el aceptante y sus avalistas no depende del protesto (art. 160).
+- Se pierden todas las acciones cambiarias, incluida la directa contra el aceptante. | Incorrecta. La caducidad alcanza las acciones de regreso.
+- Ninguna, porque el protesto es siempre facultativo. | Incorrecta. Con la cláusula "con protesto", omitirlo hace caducar las acciones de regreso.
+- La letra se convierte en un documento privado sin valor cambiario. | Incorrecta. La letra no pierde su naturaleza.
+
+@ SIC6-14 | 5 | 4 | Derecho Mercantil y Societario | Acción cambiaria | Aplicar | CCOM
+Q: Vencida e impaga una letra de cambio, el portador legítimo quiere demandar solo al segundo endosante, que tiene más bienes, sin demandar antes al aceptante. ¿Puede hacerlo?
++ Sí: todos responden solidariamente, sin orden. | Correcta. Todos los que giran, aceptan, endosan o avalan una letra son garantes solidarios frente al portador, quien puede demandar a uno, a varios o a todos, sin seguir el orden en que se obligaron (art. 165 del Código de Comercio).
+- No, porque primero debe demandar al aceptante, obligado principal. | Incorrecta. La ley no impone un beneficio de excusión.
+- No, porque los endosantes solo responden si el girador es insolvente. | Incorrecta. Los endosantes son garantes solidarios.
+- Sí, pero solo por la mitad. | Incorrecta. Cada obligado responde por el total.
+
+@ SIC6-15 | 5 | 4 | Derecho Mercantil y Societario | Prescripción cambiaria | Analizar | CCOM
+Q: Una letra venció el 10 de marzo de 2021. El portador interrumpió la prescripción demandando al aceptante en 2025, y en noviembre de 2026 demanda también al avalista del aceptante. ¿Qué puede oponer el avalista?
++ La prescripción, porque la interrupción solo produce efecto contra aquel contra quien se hizo. | Correcta. Las acciones contra el aceptante prescriben en cinco años desde el vencimiento (art. 179 del Código de Comercio), y la interrupción de la prescripción solo produce efecto contra la persona respecto de la cual se efectuó (art. 180). Respecto del avalista, los cinco años vencieron en marzo de 2026.
+- Nada, porque la demanda contra el aceptante interrumpió la prescripción frente a todos. | Incorrecta. La interrupción es personal (art. 180).
+- Nada, porque las acciones cambiarias prescriben en diez años. | Incorrecta. El plazo es de cinco años (art. 179).
+- La caducidad, porque el aval solo dura un año desde el vencimiento. | Incorrecta. No existe esa regla para el aval.
+
+@ SIC6-16 | 5 | 5 | Derecho Mercantil y Societario | Cómputo del vencimiento | Aplicar | CCOM
+Q: Una letra se giró el 31 de enero de 2027 "a un mes de fecha". ¿Cuándo vence?
++ El 28 de febrero de 2027, que es el último día de ese mes. | Correcta. Si la letra se gira a uno o varios meses, vence en la fecha correspondiente del mes de pago; si esa fecha no existe, vence el último día del mes (art. 153 del Código de Comercio). Si ese día fuera feriado, el pago solo podría exigirse el primer día hábil siguiente (art. 181).
+- El 3 de marzo de 2027, sumando treinta días calendario. | Incorrecta. El plazo en meses se computa por meses, no por días.
+- El 1 de marzo de 2027, primer día del mes siguiente. | Incorrecta. Vence el último día de febrero, no el primero de marzo.
+- Es nula, porque el 31 de febrero no existe. | Incorrecta. La ley resuelve el caso con el último día del mes.
+
+@ SIC6-17 | 5 | 3 | Derecho Mercantil y Societario | Pagaré a la orden | Comprender | CCOM,COGEP
+Q: ¿Qué diferencia esencial existe entre la letra de cambio y el pagaré a la orden?
++ La letra es una orden de pago; el pagaré, una promesa. | Correcta. En la letra el girador ordena al girado pagar (art. 113 del Código de Comercio) y el girado se obliga al aceptar; en el pagaré el suscriptor promete pagar, por lo que no hay aceptación y él es el obligado principal (arts. 187 y 190). Ambos son títulos ejecutivos (art. 347 del Código Orgánico General de Procesos).
+- Solo la letra es título ejecutivo; el pagaré se cobra en procedimiento ordinario. | Incorrecta. Ambos son títulos ejecutivos.
+- El pagaré requiere aceptación. | Incorrecta. El pagaré no requiere aceptación: el suscriptor ya está obligado.
+- La letra solo puede girarse a la vista y el pagaré solo a día fijo. | Incorrecta. Ambos admiten distintas formas de vencimiento.
+
+@ SIC6-18 | 5 | 4 | Derecho Mercantil y Societario | Prenda comercial ordinaria | Analizar | CCOM
+Q: Un contrato de prenda comercial ordinaria dispone que, si el deudor no paga, el acreedor se quedará con el bien prendado sin más trámite. ¿Es válida esa cláusula?
++ No: es un pacto comisorio nulo. | Correcta. Es nula la cláusula que autorice al acreedor a apropiarse de la prenda o a disponer de ella fuera del procedimiento legal (art. 636 del Código de Comercio); la prenda se ejecuta por la vía de títulos de ejecución del COGEP y subasta judicial (arts. 632 y 633).
+- Sí, por la libertad contractual propia de los contratos mercantiles. | Incorrecta. La prohibición del pacto comisorio es expresa.
+- Sí, siempre que el valor del bien no supere la deuda. | Incorrecta. La proporción entre bien y deuda no salva el pacto.
+- No, porque la prenda comercial ordinaria nunca puede ejecutarse judicialmente. | Incorrecta. Se ejecuta judicialmente con subasta.
+
+@ SIC6-19 | 5 | 3 | Derecho Mercantil y Societario | Prenda comercial | Comprender | CCOM
+Q: ¿Qué distingue la prenda comercial ordinaria de la prenda agrícola e industrial?
++ En la ordinaria se entrega la cosa al acreedor; en la otra, el deudor la conserva. | Correcta. El Código de Comercio regula la prenda ordinaria, con entrega de la cosa al acreedor o a un tercero elegido, y la prenda agrícola e industrial, en la que el deudor conserva el bien y se requiere inscripción (arts. 623 y 626 del Código de Comercio).
+- La ordinaria recae sobre inmuebles; la agrícola, sobre muebles. | Incorrecta. Ambas recaen sobre bienes muebles.
+- La ordinaria es verbal; la agrícola e industrial, por escritura pública. | Incorrecta. La ordinaria debe constar por escrito para surtir efecto frente a terceros (arts. 623 y 624).
+- Solo la agrícola e industrial otorga privilegio al acreedor. | Incorrecta. La ordinaria también otorga preferencia mientras la cosa esté en poder del acreedor (art. 626).
+
+@ SIC6-20 | 5 | 3 | Derecho Mercantil y Societario | Capital y patrimonio | Comprender | LC
+Q: Una compañía tiene un capital social de USD 800 y un patrimonio neto de USD 2.000.000. Un acreedor pregunta cuál es su garantía real. ¿Qué responde?
++ El patrimonio, no la cifra del capital. | Correcta. El capital social es la cifra fija que suma los aportes y solo cambia por aumento o disminución acordados por la junta; el patrimonio (activo menos pasivo) es la realidad económica que garantiza a los acreedores (Ley de Compañías).
+- El capital de USD 800, porque es lo único que los socios aportaron. | Incorrecta. El capital no mide la solvencia de la compañía.
+- Los bienes personales de los socios, por el monto del patrimonio. | Incorrecta. Rige la separación patrimonial; los socios responden hasta sus aportes.
+- La reserva legal acumulada. | Incorrecta. La reserva legal es solo una parte de las utilidades retenidas.
+
+@ SIC6-21 | 5 | 3 | Derecho Mercantil y Societario | Reserva legal | Recordar | LC
+Q: ¿Qué reserva legal deben formar, respectivamente, la compañía de responsabilidad limitada y la sociedad anónima?
++ Limitada: 5 % hasta el 20 % del capital; anónima: 10 % hasta el 50 %. | Correcta. La compañía de responsabilidad limitada destina el 5 % de sus utilidades líquidas hasta formar un fondo del 20 % del capital (art. 109 de la Ley de Compañías); la anónima, el 10 % hasta el 50 % del capital (art. 297).
+- Ambas: 10 % hasta el 50 %. | Incorrecta. La limitada tiene un régimen distinto (art. 109).
+- Limitada: 10 % hasta el 50 %; anónima: 5 % hasta el 20 %. | Incorrecta. Se invierten los porcentajes legales.
+- Ninguna está obligada a formar reserva legal desde la reforma de 2023. | Incorrecta. La reserva legal sigue vigente.
+
+@ SIC6-22 | 5 | 3 | Derecho Mercantil y Societario | Compañía de responsabilidad limitada | Aplicar | LC
+Q: Una compañía de responsabilidad limitada pasa a tener dieciocho socios por cesiones entre ellos y a terceros. ¿Qué exige la Ley de Compañías?
++ Transformarse o disolverse: el máximo es de quince socios. | Correcta. La compañía de responsabilidad limitada puede constituirse por contrato o acto unilateral (art. 92 de la Ley de Compañías), pero no puede funcionar como tal si sus socios exceden de quince; en ese caso debe transformarse o disolverse (art. 95).
+- Nada, porque desde 2023 la limitada no tiene número máximo de socios. | Incorrecta. La reforma admitió la unipersonalidad, pero mantuvo el máximo de quince socios.
+- Solo debe aumentar su capital. | Incorrecta. El aumento de capital no resuelve el exceso de socios.
+- Debe expulsar a los socios que ingresaron después del décimo quinto. | Incorrecta. La ley prevé transformación o disolución, no expulsión.
+
+@ SIC6-23 | 5 | 3 | Derecho Mercantil y Societario | Compañía de responsabilidad limitada | Recordar | LC
+Q: Al constituir una compañía de responsabilidad limitada, ¿qué parte del capital debe estar pagada?
++ Al menos el 50 % de cada participación; el saldo, en doce meses. | Correcta. El capital debe estar íntegramente suscrito y pagado al menos en el 50 % de cada participación, y el saldo debe cubrirse en un plazo máximo de doce meses (art. 102 de la Ley de Compañías).
+- El 25 % de cada participación, con el saldo en dos años. | Incorrecta. El 25 % corresponde a la sociedad anónima (art. 147).
+- El 100 % del capital, sin plazo para el saldo. | Incorrecta. La ley admite el pago parcial con plazo.
+- No se exige pago alguno al constituirla. | Incorrecta. Ese régimen flexible no rige para la limitada.
+
+@ SIC6-24 | 5 | 3 | Derecho Mercantil y Societario | Junta general universal | Aplicar | LC
+Q: Sin convocatoria previa, todos los accionistas que representan el 100 % del capital se reúnen en un hotel fuera del domicilio social. Uno de ellos no acepta celebrar la junta. ¿Puede celebrarse como junta universal?
++ No: falta la aceptación unánime. | Correcta. La junta universal se celebra sin convocatoria, en cualquier tiempo y lugar del territorio nacional, si concurre todo el capital y los asistentes aceptan por unanimidad constituirse en junta y el orden del día (art. 238 de la Ley de Compañías).
+- Sí, porque basta la presencia de todo el capital. | Incorrecta. Además de la presencia, se exige la aceptación unánime.
+- Sí, siempre que se reúna en el domicilio principal de la compañía. | Incorrecta. La junta universal puede celebrarse en cualquier lugar del territorio nacional; el problema es la falta de unanimidad.
+- No, porque toda junta exige convocatoria por la prensa con ocho días de anticipación. | Incorrecta. La universal no requiere convocatoria.
+
+@ SIC6-25 | 5 | 4 | Derecho Mercantil y Societario | Juntas generales | Analizar | LC
+Q: En una junta ordinaria convocada para aprobar los estados financieros, un accionista propone remover al gerente, punto que no consta en el orden del día. En otra junta extraordinaria se pretende hacer lo mismo. ¿Qué afirmación es correcta?
++ Solo la ordinaria puede remover al gerente sin que conste en el orden del día. | Correcta. La junta ordinaria, que se reúne al menos una vez al año dentro de los tres meses siguientes al cierre del ejercicio, puede tratar la remoción de administradores aunque no conste en el orden del día (art. 234 de la Ley de Compañías); la extraordinaria solo trata los asuntos puntualizados en la convocatoria.
+- Ninguna de las dos puede tratar asuntos ajenos al orden del día. | Incorrecta. La ley exceptúa la remoción de administradores en la ordinaria.
+- Ambas pueden tratar cualquier asunto propuesto por un accionista. | Incorrecta. La extraordinaria está limitada a los asuntos convocados.
+- Solo la extraordinaria puede remover administradores. | Incorrecta. La ordinaria también puede hacerlo.
+
+@ SIC6-26 | 5 | 3 | Derecho Mercantil y Societario | Representación de la compañía | Aplicar | LC,CCOM
+Q: Un gerente general firma un contrato dentro del objeto social, pero su nombramiento no estaba inscrito en el Registro Mercantil. La compañía pretende desconocer el contrato frente al tercero alegando la falta de inscripción. ¿Qué regla orienta la solución?
++ La compañía no puede oponer su propia omisión al tercero de buena fe. | Correcta. El nombramiento de los representantes se inscribe en el Registro Mercantil para su oponibilidad frente a terceros (arts. 22, 26 y 51 del Código de Comercio); la falta de inscripción no puede ser invocada por quien estaba obligado a inscribir para perjudicar al tercero de buena fe, y la omisión que cause daño obliga a repararlo (art. 26).
+- El contrato es inexistente, porque sin inscripción el gerente no tenía representación. | Incorrecta. La inscripción no es constitutiva de la representación.
+- El contrato obliga solo al gerente, personalmente. | Incorrecta. Si actuó dentro del objeto y sus facultades, actúa como órgano de la compañía.
+- El contrato es nulo por falta de autorización de la Superintendencia. | Incorrecta. La Superintendencia no autoriza los contratos de la compañía.
+
+@ SIC6-27 | 5 | 2 | Derecho Mercantil y Societario | Órganos de la compañía | Recordar | LC
+Q: Tras la reforma de 2023, ¿qué carácter tiene el comisario en las compañías de responsabilidad limitada y anónimas?
++ Es facultativo: solo existe si el estatuto lo prevé. | Correcta. La fiscalización mediante comisario es facultativa y procede si el estatuto lo prevé (art. 274 de la Ley de Compañías).
+- Es obligatorio en todas las sociedades anónimas. | Incorrecta. La reforma lo convirtió en facultativo.
+- Es obligatorio solo si la compañía tiene más de quince socios. | Incorrecta. La ley no lo condiciona al número de socios.
+- Lo designa siempre la Superintendencia de Compañías. | Incorrecta. Si existe, lo designa la junta conforme al estatuto.
+
+@ SIC6-28 | 5 | 3 | Derecho Mercantil y Societario | Sociedad por acciones simplificada | Comprender | LC,LOEI
+Q: Una emprendedora constituye sola una S.A.S. por documento privado, sin fijar capital mínimo ni delimitar el objeto social. ¿Qué afirmación es correcta?
++ Es válida: no exige capital mínimo ni objeto delimitado. | Correcta. La S.A.S. puede constituirse por una o varias personas mediante documento privado inscrito en el Registro de Sociedades de la Superintendencia, sin capital mínimo legal; si no se expresa el objeto ni el plazo, puede realizar cualquier actividad lícita y su plazo es indefinido (Ley de Compañías, sección de la S.A.S., incorporada por la Ley Orgánica de Emprendimiento e Innovación de 2020).
+- Es nula, porque toda sociedad requiere un objeto social determinado. | Incorrecta. La S.A.S. admite objeto indeterminado.
+- Es válida, con USD 800 de capital. | Incorrecta. La S.A.S. no tiene capital mínimo legal.
+- Es nula, porque la S.A.S. exige escritura pública y dos accionistas. | Incorrecta. Basta documento privado y un solo accionista.
+
+@ SIC6-29 | 5 | 3 | Derecho Mercantil y Societario | Sociedad anónima | Aplicar | LC
+Q: Tres socios constituyen una sociedad anónima por documento privado sin diligencia notarial, y uno de ellos aporta un inmueble. ¿Qué formalidad deben observar?
++ Escritura pública para el aporte del inmueble. | Correcta. Tras la reforma de 2023, la compañía limitada y la anónima pueden constituirse por escritura pública o por documento privado sin diligencia notarial; pero si se aportan bienes cuya transferencia requiere escritura pública, debe observarse esa solemnidad (Ley de Compañías, disposición general tercera de la ley reformatoria de 2023).
+- Ninguna, porque el documento privado basta para todo aporte. | Incorrecta. El aporte de inmuebles exige su solemnidad propia.
+- Constituirse como S.A.S. | Incorrecta. La anónima puede constituirse por documento privado; la salvedad es el aporte del inmueble.
+- Deben obtener autorización previa del Registro de la Propiedad. | Incorrecta. No existe esa autorización previa.
+
+@ SIC6-30 | 5 | 4 | Derecho Mercantil y Societario | Fusión | Aplicar | LC
+Q: La compañía A absorbe a la compañía B, que se disuelve sin liquidarse; A aumenta su capital y recibe en bloque el patrimonio de B. ¿Qué figura se configura?
++ Fusión por absorción. | Correcta. La fusión se produce por la unión de dos o más compañías en una nueva (por creación) o cuando una existente absorbe a otra u otras (por absorción); implica la disolución de las absorbidas y el traspaso en bloque de sus patrimonios (arts. 337 y 338 de la Ley de Compañías).
+- Fusión por creación de una nueva compañía. | Incorrecta. En la creación surge una compañía nueva; aquí subsiste A.
+- Escisión parcial. | Incorrecta. En la escisión una compañía divide su patrimonio, no lo une con otra.
+- Transformación. | Incorrecta. La transformación cambia la especie de una misma compañía.
+
+@ SIC6-31 | 5 | 4 | Derecho Mercantil y Societario | Escisión | Analizar | LC
+Q: Una sociedad anónima quiere separar su negocio inmobiliario del comercial. Traspasa en bloque el negocio inmobiliario a una nueva sociedad, sigue existiendo, reduce su capital, y sus accionistas reciben las acciones de la nueva. ¿Qué modalidad de escisión es?
++ Escisión parcial de la sociedad anónima. | Correcta. En la escisión parcial la sociedad escindida subsiste y reduce su capital, y sus socios reciben acciones o participaciones de la beneficiaria (art. 345.3 de la Ley de Compañías, reformada en 2023).
+- Escisión total. | Incorrecta. En la total la escindida se extingue (art. 345.2).
+- Segregación. | Incorrecta. En la segregación es la propia sociedad, no sus socios, quien recibe las acciones de la beneficiaria (art. 345.4).
+- Fusión por creación. | Incorrecta. La fusión une patrimonios; aquí se divide uno.
+
+@ SIC6-32 | 5 | 4 | Derecho Mercantil y Societario | Escisión | Analizar | LC
+Q: Tras una escisión, una obligación de la sociedad escindida queda impaga. El acreedor demanda a una de las beneficiarias. ¿Hasta dónde responde esta?
++ Solidariamente, pero solo hasta el monto de los activos netos que recibió. | Correcta. Todas las sociedades participantes responden solidariamente por las obligaciones incumplidas, y las beneficiarias hasta el monto de los activos netos recibidos (art. 351 de la Ley de Compañías).
+- No responde, porque solo la escindida es deudora. | Incorrecta. La ley establece solidaridad para proteger a los acreedores.
+- Responde ilimitadamente con todo su patrimonio. | Incorrecta. Su responsabilidad se limita a los activos netos recibidos.
+- Responde solo si la obligación constaba en la escritura de escisión. | Incorrecta. La solidaridad no depende de esa mención.

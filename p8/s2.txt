@@ -1,0 +1,139 @@
+@ SIC2-01 | 4 | 2 | Derecho Civil (Sucesiones) | Modos de adquirir y sucesión | Comprender | CC
+Q: Al morir Rosa, su hijo Daniel quiere saber a qué título adquiere el departamento de su madre. Según el Código Civil, ¿qué es la sucesión por causa de muerte?
++ Un modo de adquirir el dominio, distinto de la tradición entre vivos. | Correcta. Los modos de adquirir el dominio son la ocupación, la accesión, la tradición, la sucesión por causa de muerte, la prescripción y la sentencia de extinción de dominio a favor del Estado (art. 603 del Código Civil).
+- Un título traslaticio que exige, además, la tradición del inmueble. | Incorrecta. La sucesión es por sí misma un modo de adquirir; no requiere tradición posterior (art. 603 del Código Civil).
+- Una donación del causante a sus herederos. | Incorrecta. La donación es un acto entre vivos; la sucesión opera por causa de muerte.
+- Un contrato entre el causante y sus herederos que se perfecciona al morir. | Incorrecta. La sucesión no es un contrato; proviene del testamento o de la ley.
+
+@ SIC2-02 | 4 | 3 | Derecho Civil (Sucesiones) | Apertura de la sucesión | Aplicar | CC
+Q: Luis vivía y tenía sus negocios en Cuenca. Viajó a Guayaquil para una cirugía y murió en un hospital de esa ciudad. ¿Dónde se abre su sucesión?
++ En Cuenca, su último domicilio. | Correcta. La sucesión se abre al momento de la muerte en el último domicilio del causante, y se rige por la ley de ese domicilio (art. 997 del Código Civil); el lugar del fallecimiento es irrelevante. La residencia accidental no crea domicilio (art. 49 del Código Civil).
+- En Guayaquil, donde ocurrió la muerte. | Incorrecta. El Código Civil atiende al último domicilio, no al lugar del fallecimiento (art. 997).
+- En el lugar donde se encuentre la mayor parte de sus bienes. | Incorrecta. La ubicación de los bienes no fija el lugar de apertura.
+- En el lugar que elijan de común acuerdo los herederos. | Incorrecta. El lugar lo fija la ley, no la voluntad de los herederos.
+
+@ SIC2-03 | 4 | 3 | Derecho Civil (Sucesiones) | Apertura de la sucesión | Comprender | CC,COGEP
+Q: ¿Por qué tiene importancia práctica fijar el lugar de la apertura de la sucesión?
++ Fija el juez competente y la ley que rige la sucesión. | Correcta. El último domicilio del causante determina la ley que rige la sucesión (art. 997 del Código Civil) y, por regla, la competencia para la apertura del testamento, el inventario, la posesión efectiva y la partición; en materia de sucesiones la competencia es excluyente (art. 11 del Código Orgánico General de Procesos).
+- Determina qué herederos pueden aceptar y cuáles quedan excluidos. | Incorrecta. La calidad de heredero depende del testamento o de la ley, no del lugar de apertura.
+- Fija el impuesto municipal que se rebaja. | Incorrecta. Solo los impuestos fiscales son rebaja del acervo (art. 1001 del Código Civil).
+- Determina el notario que debe protocolizar cualquier testamento. | Incorrecta. La protocolización no está atada al lugar de apertura en esos términos.
+
+@ SIC2-04 | 4 | 4 | Derecho Civil (Sucesiones) | Delación de las asignaciones | Aplicar | CC
+Q: El testamento de Andrés dice: "Dejo mi yegua Rumbera a mi hija Cristina, si gana el Concurso Hípico Internacional de Quito". Andrés muere en marzo y Cristina gana el concurso en octubre. ¿Cuándo se defiere la asignación?
++ En octubre, al cumplirse la condición suspensiva del legado. | Correcta. Si la asignación es condicional, la delación (actual llamamiento a aceptarla o repudiarla) se produce al cumplirse la condición (art. 998 del Código Civil).
+- En marzo, al morir el causante. | Incorrecta. Esa es la regla de la asignación pura y simple; la condicional se defiere al cumplirse la condición (art. 998).
+- Cuando el juez conceda la posesión efectiva de la herencia. | Incorrecta. La posesión efectiva no determina la delación.
+- Nunca, porque las asignaciones condicionales están prohibidas. | Incorrecta. El Código Civil admite las asignaciones condicionales (art. 998).
+
+@ SIC2-05 | 4 | 4 | Derecho Civil (Sucesiones) | Delación de las asignaciones | Analizar | CC
+Q: El testamento dice: "Será la yegua Rumbera de mi hija Cristina, con la condición de que no la haga participar en el Concurso Hípico de Quito". ¿Cuándo se defiere esta asignación?
++ Al morir el causante, con caución de restituir si se contraviene. | Correcta. Si la condición consiste en no hacer algo que depende de la sola voluntad del asignatario, la asignación se defiere al abrirse la sucesión, dando caución suficiente de restituir la cosa si se contraviniere la condición (art. 998 del Código Civil).
+- Cuando termine el concurso sin que Cristina haya participado. | Incorrecta. En la condición negativa potestativa el llamamiento no espera al hecho; opera a la muerte (art. 998).
+- Solo después de que Cristina renuncie por escritura a participar en el concurso. | Incorrecta. La ley no exige esa renuncia, sino caución de restitución.
+- Nunca, porque las condiciones que dependen del asignatario son nulas. | Incorrecta. El Código Civil regula expresamente este tipo de condición (art. 998).
+
+@ SIC2-06 | 4 | 3 | Derecho Civil (Sucesiones) | Aceptación de la herencia | Aplicar | CC
+Q: Elena hereda de su padre bienes por USD 40.000 y deudas por USD 70.000. Aceptó la herencia con beneficio de inventario. Un acreedor del padre le reclama los USD 70.000. ¿Hasta qué monto responde Elena?
++ Hasta USD 40.000, el valor de los bienes heredados. | Correcta. El beneficio de inventario permite al heredero responder de las obligaciones hereditarias y testamentarias solo hasta el valor de los bienes que hereda (Código Civil, normas sobre el beneficio de inventario).
+- Por los USD 70.000, con su propio patrimonio. | Incorrecta. Esa sería la consecuencia de la aceptación pura y simple, no del beneficio de inventario.
+- Por la mitad de la deuda, USD 35.000. | Incorrecta. El límite es el valor de los bienes heredados, no una proporción de la deuda.
+- Por nada, porque el beneficio de inventario extingue las deudas del causante. | Incorrecta. Las deudas no se extinguen; se limitan al valor de lo heredado.
+
+@ SIC2-07 | 4 | 3 | Derecho Civil (Sucesiones) | Beneficio de separación | Comprender | CC
+Q: Los acreedores de un causante temen que su heredero, muy endeudado, confunda los bienes de la herencia con los suyos y sus propios acreedores se cobren primero. ¿Qué institución los protege?
++ El beneficio de separación de patrimonios. | Correcta. El beneficio de separación permite a los acreedores del causante pedir que no se confundan los bienes del difunto con los del heredero, para pagarse primero con aquellos (Código Civil, normas sobre el beneficio de separación).
+- El beneficio de inventario. | Incorrecta. El beneficio de inventario protege al heredero, no a los acreedores del causante.
+- La porción conyugal. | Incorrecta. Es una asignación forzosa a favor del cónyuge, no un mecanismo de los acreedores.
+- La acción de petición de herencia. | Incorrecta. Esa acción la ejerce quien se pretende heredero, no un acreedor.
+
+@ SIC2-08 | 4 | 3 | Derecho Civil (Sucesiones) | Caracteres del testamento | Analizar | CC
+Q: Un testamento contiene una cláusula que dice: "Declaro que este testamento es irrevocable y que cualquier testamento posterior será nulo". Años después el testador otorga un nuevo testamento. ¿Qué efecto tiene aquella cláusula?
++ Ninguno: el testamento es esencialmente revocable. | Correcta. El testamento es un acto más o menos solemne en que una persona dispone de sus bienes para que tenga pleno efecto después de sus días, conservando la facultad de revocar sus disposiciones mientras viva (art. 1037 del Código Civil); la revocabilidad no puede renunciarse.
+- Hace nulo el testamento posterior, por respeto a la voluntad del testador. | Incorrecta. La voluntad del testador no puede suprimir la revocabilidad, que es de la esencia del testamento.
+- Obliga a los herederos a cumplir ambos testamentos en partes iguales. | Incorrecta. No existe esa regla de reparto.
+- Hace irrevocables solo los legados. | Incorrecta. La revocabilidad alcanza todas las disposiciones testamentarias.
+
+@ SIC2-09 | 4 | 3 | Derecho Civil (Sucesiones) | Testamentos solemnes | Recordar | CC
+Q: ¿Qué solemnidades exige el Código Civil para el testamento solemne abierto otorgado en el Ecuador?
++ Notario y tres testigos, o cinco testigos sin notario. | Correcta. El testamento solemne abierto se otorga ante notario y tres testigos o, excepcionalmente, ante cinco testigos (art. 1052 del Código Civil); siempre debe constar por escrito.
+- Ante notario y dos testigos, en todos los casos. | Incorrecta. El número de testigos no es dos (art. 1052 del Código Civil).
+- Basta un documento privado firmado por el testador, sin testigos. | Incorrecta. El testamento solemne se perfecciona siempre ante testigos y, en el abierto, por regla ante notario (art. 1052 del Código Civil).
+- Ante un juez de lo civil y el secretario del juzgado. | Incorrecta. El juez interviene después, en el reconocimiento del testamento otorgado sin notario, no como solemnidad del otorgamiento.
+
+@ SIC2-10 | 4 | 4 | Derecho Civil (Sucesiones) | Testamento cerrado | Comprender | CC
+Q: ¿Qué constituye esencialmente el testamento cerrado según el Código Civil?
++ Declarar de viva voz, ante notario y testigos, que el pliego cerrado es su testamento. | Correcta. En el testamento cerrado no es necesario que el notario ni los testigos conozcan sus disposiciones (art. 1046 del Código Civil); lo esencial es el acto en que el testador presenta la escritura cerrada y declara, de modo que lo vean, oigan y entiendan, que contiene su testamento (art. 1061 del Código Civil).
+- Que el notario lea en voz alta las disposiciones ante los testigos. | Incorrecta. Eso corresponde al testamento abierto; el cerrado es secreto.
+- Que el testamento se otorgue de forma oral en caso de peligro inminente. | Incorrecta. El testamento solemne siempre es escrito (art. 1049 del Código Civil).
+- Que se deposite en el Registro de la Propiedad. | Incorrecta. El Código no exige ese depósito.
+
+@ SIC2-11 | 4 | 4 | Derecho Civil (Sucesiones) | Testamento otorgado en el exterior | Aplicar | CC
+Q: Marta, colombiana domiciliada en Bogotá, quiere otorgar testamento ante el cónsul ecuatoriano en esa ciudad, según la forma del art. 1066 del Código Civil ecuatoriano. ¿Puede hacerlo?
++ No: esa forma solo puede usarla un ecuatoriano o un extranjero domiciliado aquí. | Correcta. El testamento ante funcionario consular o diplomático solo puede otorgarlo un ecuatoriano o un extranjero que tenga su domicilio en el Ecuador, con testigos ecuatorianos o extranjeros domiciliados en la ciudad del otorgamiento y el sello de la legación o consulado (art. 1066 del Código Civil).
+- Sí, porque cualquier persona puede testar ante un cónsul ecuatoriano. | Incorrecta. El art. 1066 limita quiénes pueden testar de esa forma.
+- Sí, siempre que el testamento se apostille en Colombia. | Incorrecta. La apostilla se relaciona con el testamento otorgado según la ley extranjera (art. 1065), no habilita la forma consular.
+- No, porque ningún testamento otorgado en el exterior vale en el Ecuador. | Incorrecta. Valen tanto el otorgado conforme a la ley extranjera (art. 1065) como el consular (art. 1066).
+
+@ SIC2-12 | 4 | 3 | Derecho Civil (Sucesiones) | Sucesión mixta | Aplicar | CC
+Q: Julio dispuso por testamento solo de un terreno a favor de su amigo Raúl, y nada dijo del resto de sus bienes. Muere sin cónyuge, con dos hijos. ¿Cómo se sucede?
++ Se cumple el legado y el remanente se reparte abintestato. | Correcta. Cuando en un mismo patrimonio se sucede por testamento y abintestato, se cumplen primero las disposiciones testamentarias y el remanente se adjudica a los herederos abintestato (art. 1034 del Código Civil), sin perjuicio de las asignaciones forzosas.
+- El testamento es nulo por incompleto. | Incorrecta. El testamento puede disponer de parte del patrimonio; el resto se rige por la ley.
+- Todo el patrimonio, incluido el terreno, se reparte abintestato. | Incorrecta. La disposición testamentaria válida se cumple primero (art. 1034).
+- Raúl hereda todos los bienes, por ser el único asignatario testamentario. | Incorrecta. Su asignación se limita al terreno.
+
+@ SIC2-13 | 4 | 4 | Derecho Civil (Sucesiones) | Órdenes de sucesión intestada | Aplicar | CC
+Q: Gerardo muere sin descendientes, ascendientes ni cónyuge. Le sobreviven Teresa, su hermana carnal, y Beto, su medio hermano por parte de padre. ¿Cómo se reparte la herencia?
++ Dos tercios para Teresa y el tercio restante para Beto. | Correcta. En el orden de los hermanos, los medio hermanos reciben la mitad de lo que corresponde a los carnales (art. 1031 del Código Civil); por eso la cuota de Teresa es el doble de la de Beto.
+- La mitad para cada uno. | Incorrecta. La ley distingue entre hermanos carnales y medios hermanos (art. 1031).
+- Todo para Teresa, porque los medios hermanos están excluidos. | Incorrecta. Los medios hermanos heredan, aunque con una cuota menor.
+- Tres cuartos para Teresa y un cuarto para Beto. | Incorrecta. La cuota del medio hermano es la mitad de la del carnal, no la tercera parte.
+
+@ SIC2-14 | 4 | 3 | Derecho Civil (Sucesiones) | Acervos y rebajas | Recordar | CC
+Q: Según el art. 1001 del Código Civil, ¿cuál de los siguientes rubros NO es una de las rebajas que se deducen del acervo para obtener el acervo líquido?
++ El impuesto a las herencias, legados y donaciones de cada heredero. | Correcta. Las rebajas son, en este orden, los gastos de última enfermedad, funerales y judiciales; las deudas hereditarias; los impuestos fiscales que gravan toda la masa hereditaria; y la porción conyugal (art. 1001 del Código Civil). El impuesto a las herencias es imputable a cada heredero, no a la masa.
+- Los gastos de la última enfermedad y del funeral. | Incorrecta. Es la primera rebaja del art. 1001.
+- Las deudas hereditarias contraídas por el causante. | Incorrecta. Es la segunda rebaja del art. 1001.
+- La porción conyugal del cónyuge sobreviviente. | Incorrecta. Es la cuarta rebaja del art. 1001.
+
+@ SIC2-15 | 4 | 4 | Derecho Civil (Sucesiones) | Porción conyugal | Aplicar | CC
+Q: Al morir su esposo, Lucía carecía de bienes y tenía derecho a porción conyugal. Dos años después gana una lotería. Los herederos piden que se le quite la porción conyugal. ¿Tienen razón?
++ No: se determina al tiempo del fallecimiento y no caduca después. | Correcta. El derecho a la porción conyugal se entiende existir al tiempo del fallecimiento del otro cónyuge y no caduca por adquirir después bienes (art. 1197 del Código Civil); a la inversa, quien tenía bienes suficientes al tiempo de la muerte no lo adquiere por empobrecer después (art. 1198).
+- Sí, porque la porción conyugal exige que la necesidad subsista toda la vida. | Incorrecta. El momento relevante es el de la muerte del causante (art. 1197).
+- Sí: la lotería obliga a restituirla. | Incorrecta. La ley no prevé esa restitución.
+- No, porque la porción conyugal se debe aunque el cónyuge siempre haya tenido bienes suficientes. | Incorrecta. Solo corresponde al cónyuge que carece de lo necesario para su congrua subsistencia; si tiene bienes suficientes, no hay derecho.
+
+@ SIC2-16 | 4 | 4 | Derecho Civil (Sucesiones) | Porción conyugal | Analizar | CC
+Q: Al morir el causante, su cónyuge tiene bienes propios, pero de un valor inferior a la cuarta parte del patrimonio del difunto, que es la medida de la porción conyugal en ese caso. ¿Qué le corresponde?
++ Solo la diferencia: la porción conyugal complementaria. | Correcta. Si el cónyuge tiene bienes, pero no de tanto valor como la porción conyugal, solo tiene derecho al complemento (Código Civil, normas sobre la porción conyugal, arts. 1196 y siguientes).
+- La porción conyugal íntegra, sin descontar sus bienes propios. | Incorrecta. Sus bienes propios se imputan; solo recibe la diferencia.
+- Nada, porque tener algún bien propio excluye la porción conyugal. | Incorrecta. La ley prevé el complemento cuando los bienes son insuficientes.
+- La mitad de la herencia, en concurrencia con los hijos. | Incorrecta. No es la medida legal de la porción conyugal.
+
+@ SIC2-17 | 4 | 4 | Derecho Civil (Sucesiones) | Asignaciones forzosas: mejoras | Analizar | CC
+Q: El testador deja la cuarta de mejoras a su hija Ana, pero la grava con la obligación de entregar una renta vitalicia a su amigo Pedro, ajeno a la familia. ¿Es válido ese gravamen?
++ No: solo pueden imponerse a favor de descendientes. | Correcta. Los gravámenes que se impongan a los partícipes de la cuarta de mejoras deben ser siempre a favor de uno o más descendientes (art. 1218 del Código Civil); de lo contrario se burlarían las reglas de esta asignación forzosa.
+- Sí: el testador dispone libremente de ella. | Incorrecta. La libre disposición recae sobre la cuarta de libre disposición, no sobre las mejoras.
+- Sí, siempre que la renta no supere la mitad de la cuarta de mejoras. | Incorrecta. La ley no fija ese límite cuantitativo; prohíbe el gravamen a favor de extraños.
+- No, porque la cuarta de mejoras no admite ninguna clase de gravamen. | Incorrecta. Admite gravámenes, pero solo a favor de descendientes.
+
+@ SIC2-18 | 4 | 3 | Derecho Civil (Sucesiones) | Asignaciones forzosas: mejoras | Comprender | CC
+Q: Un padre donó en vida un vehículo a uno de sus hijos sin decir nada más. Al abrirse la sucesión, el donatario sostiene que esa donación fue una mejora. ¿Qué regla aplica?
++ La mejora no se presume; se imputa a la legítima. | Correcta. La mejora no se presume; el causante debe otorgarla expresamente, y de lo contrario los legados o donaciones a legitimarios se imputan a su legítima (art. 1221 del Código Civil).
+- Toda donación a un hijo se presume mejora, salvo prueba en contrario. | Incorrecta. La regla es la contraria: la mejora no se presume.
+- La donación se imputa a la cuarta de libre disposición, sin afectar la legítima. | Incorrecta. A falta de declaración expresa, se imputa a la legítima.
+- La donación es nula por ser a un legitimario. | Incorrecta. Las donaciones a legitimarios son válidas; lo que se discute es su imputación.
+
+@ SIC2-19 | 4 | 3 | Derecho Civil (Sucesiones) | Herencia y sociedad conyugal | Aplicar | CC
+Q: Durante su matrimonio, Sofía y su esposo reciben por testamento de una tía de ella un departamento, en partes iguales para ambos. Al liquidarse la sociedad conyugal, ¿cómo se clasifica el departamento?
++ Cada mitad es bien propio de cada cónyuge y no ingresa al haber social. | Correcta. Las adquisiciones por donación, herencia o legado se agregan a los bienes del cónyuge asignatario, y las hechas por ambos cónyuges simultáneamente a esos títulos no aumentan el haber social, sino el de cada cónyuge (art. 158 del Código Civil); lo gratuito pertenece exclusivamente al asignatario (art. 164).
+- Es bien social, porque lo adquirieron ambos durante el matrimonio. | Incorrecta. Solo lo adquirido a título oneroso durante el matrimonio ingresa al haber social (art. 157 num. 5 del Código Civil).
+- Es bien propio solo de Sofía, por ser pariente de la tía. | Incorrecta. La asignación se hizo a ambos; cada uno adquiere su parte como bien propio (art. 158).
+- Es bien social, con recompensa a favor de los herederos de la tía. | Incorrecta. No ingresa al haber social ni genera recompensa a favor de terceros.
+
+@ SIC2-20 | 4 | 3 | Derecho Civil (Sucesiones) | Asignaciones testamentarias | Aplicar | CC
+Q: En su testamento, Hugo deja un legado de USD 10.000 a su amigo Iván. Iván muere un año antes que Hugo. ¿Qué ocurre con el legado al abrirse la sucesión de Hugo?
++ Queda sin efecto, porque Iván ya no existía cuando se abrió la sucesión. | Correcta. En la sucesión testamentaria los asignatarios son llamados solo por derecho personal; si el asignatario fallece antes que el causante, la asignación queda sin efecto, salvo las reglas de representación de los legitimarios (arts. 1205 y 1206 del Código Civil).
+- Lo reciben los herederos de Iván, por derecho de transmisión. | Incorrecta. La transmisión opera cuando el asignatario muere después del causante sin haber aceptado; aquí murió antes.
+- Lo reciben los hijos de Iván, por derecho de representación. | Incorrecta. La representación no opera en las asignaciones testamentarias a un extraño.
+- El legado se distribuye entre todos los herederos de Hugo como mejora. | Incorrecta. No existe esa regla; el legado simplemente falla.
