@@ -3,15 +3,15 @@
  "titulo": "Paquete 2 · 40 preguntas de alta dificultad",
  "bibliografia": {
   "CADH": "Organización de los Estados Americanos. (1969). Convención Americana sobre Derechos Humanos. https://www.oas.org/dil/esp/tratados_b-32_convencion_americana_sobre_derechos_humanos.htm",
-  "CC": "Congreso Nacional del Ecuador. (2005). Código Civil (Codificación). Registro Oficial Suplemento 46, 24 de junio de 2005. https://www.registroficial.gob.ec/",
-  "COGEP": "Asamblea Nacional del Ecuador. (2015). Código Orgánico General de Procesos. Registro Oficial Suplemento 506, 22 de mayo de 2015. https://www.funcionjudicial.gob.ec/",
-  "COIP": "Asamblea Nacional del Ecuador. (2014). Código Orgánico Integral Penal. Registro Oficial Suplemento 180, 10 de febrero de 2014. https://www.registroficial.gob.ec/",
-  "CONA": "Congreso Nacional del Ecuador. (2003). Código de la Niñez y Adolescencia. Registro Oficial 737, 3 de enero de 2003. https://www.registroficial.gob.ec/",
-  "CRE": "Asamblea Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449, 20 de octubre de 2008. https://www.asambleanacional.gob.ec/",
-  "CT": "Congreso Nacional del Ecuador. (2005). Código del Trabajo (Codificación). Registro Oficial Suplemento 167, 16 de diciembre de 2005. https://www.trabajo.gob.ec/",
-  "CTRIB": "Congreso Nacional del Ecuador. (2005). Código Tributario (Codificación). Registro Oficial Suplemento 38, 14 de junio de 2005. https://www.sri.gob.ec/",
-  "LAM": "Congreso Nacional del Ecuador. (2006). Ley de Arbitraje y Mediación (Codificación). Registro Oficial 417, 14 de diciembre de 2006. https://www.registroficial.gob.ec/",
-  "LOGJCC": "Asamblea Nacional del Ecuador. (2009). Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional. Registro Oficial Segundo Suplemento 52, 22 de octubre de 2009. https://www.corteconstitucional.gob.ec/"
+  "CC": "Congreso Nacional del Ecuador. (2005). Código Civil (Codificación 2005-010). Registro Oficial Suplemento 46, 24 de junio de 2005. Texto vigente con sus reformas, entre ellas la Ley Reformatoria de 2015 (R.O. 526-2S, 19 de junio de 2015); última actualización: Segundo Suplemento del R.O. 61, 17 de junio de 2025. https://www.gob.ec/regulaciones/codigo-civil-codificacion-no-2005-010",
+  "COGEP": "Asamblea Nacional del Ecuador. (2015). Código Orgánico General de Procesos. Registro Oficial Suplemento 506, 22 de mayo de 2015. Reformado, entre otras, por la Ley Orgánica Reformatoria del COGEP (R.O. Suplemento 517, 26 de junio de 2019); última reforma consultada: Cuarto Suplemento del R.O. 140, 7 de octubre de 2025. https://portal.compraspublicas.gob.ec/sercop/wp-content/uploads/2025/11/CODIGO-ORGANICO-GENERAL-DE-PROCESOS-COGEP.pdf",
+  "COIP": "Asamblea Nacional del Ecuador. (2014). Código Orgánico Integral Penal. Registro Oficial Suplemento 180, 10 de febrero de 2014. Texto actualizado al 13 de octubre de 2025 (última reforma incorporada: Tercer Suplemento del R.O. 68, 26 de junio de 2025). https://legalcloud.ec/wp-content/uploads/2025/10/COIP-13102025-Digital.pdf",
+  "CONA": "Congreso Nacional del Ecuador. (2003). Código de la Niñez y Adolescencia (Ley 100). Registro Oficial 737, 3 de enero de 2003. Última reforma: Ley Orgánica Reformatoria de Varios Cuerpos Legales para la Agilización de la Adopción, R.O. 347, 14 de agosto de 2026. https://www.registroficial.gob.ec/",
+  "CRE": "Asamblea Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449, 20 de octubre de 2008 (con las enmiendas posteriores, incluidas las aprobadas en el referéndum de 2024). https://www.asambleanacional.gob.ec/",
+  "CT": "Congreso Nacional del Ecuador. (2005). Código del Trabajo (Codificación 2005-017). Registro Oficial Suplemento 167, 16 de diciembre de 2005. Texto vigente con sus reformas; última reforma: 9 de abril de 2026. https://portal.compraspublicas.gob.ec/sercop/wp-content/uploads/2026/08/CODIGO-DEL-TRABAJO.pdf",
+  "CTRIB": "Congreso Nacional del Ecuador. (2005). Código Orgánico Tributario (antes Código Tributario, Codificación 2005-09). Registro Oficial Suplemento 38, 14 de junio de 2005; reformado y renombrado por la Ley Orgánica Reformatoria al Código Tributario, Noveno Suplemento del R.O. 392, 19 de octubre de 2026. https://www.gob.ec/regulaciones/codigo-organico-tributario",
+  "LAM": "Congreso Nacional del Ecuador. (2006). Ley de Arbitraje y Mediación (Codificación 2006-014). Registro Oficial 417, 14 de diciembre de 2006, con sus reformas. https://oas.org/es/sla/ddi/docs/Ecuador%20-%20Ley%20de%20Arbitraje%20y%20Mediaci%C3%B3n.pdf",
+  "LOGJCC": "Asamblea Nacional del Ecuador. (2009). Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional. Registro Oficial Segundo Suplemento 52, 22 de octubre de 2009. Última reforma: R.O. Suplemento 245, 7 de febrero de 2023. https://lotaip.bomberosquito.gob.ec/transparencia/2026/archivos/logjcc26.pdf"
  },
  "articulos": {
   "CADH 2": "Deber de adoptar disposiciones de derecho interno: los Estados se comprometen a adoptar las medidas legislativas o de otro carácter necesarias para hacer efectivos los derechos de la Convención.",
@@ -328,7 +328,7 @@
     },
     {
      "texto": "Sí, y además excluye a los hijos del primer orden.",
-     "justificacion": "Incorrecta. La porción conyugal no excluye a los hijos (art. 1023 del Código Civil)."
+     "justificacion": "Incorrecta. La porción conyugal no excluye a los hijos (art. 1028 del Código Civil)."
     },
     {
      "texto": "Solo si Ramiro lo dispuso así en su testamento.",
@@ -1412,11 +1412,11 @@
    "tema": "Responsabilidad del adquirente",
    "resultado": "Aplica la responsabilidad tributaria de los adquirentes de empresas.",
    "demanda": "Analizar",
-   "enunciado": "Una persona compra un negocio en marcha. El anterior propietario adeudaba tributos. Según el Código Tributario, el adquirente:",
+   "enunciado": "Una persona compra un negocio en marcha. El anterior propietario adeudaba tributos. Según el Código Orgánico Tributario, el adquirente:",
    "opciones": [
     {
      "texto": "Responde por el año en curso y los dos anteriores, hasta lo adquirido.",
-     "justificacion": "Correcta. El art. 28 del Código Tributario establece esta responsabilidad de los adquirentes y sucesores."
+     "justificacion": "Correcta. El art. 28 del Código Orgánico Tributario establece esta responsabilidad de los adquirentes y sucesores."
     },
     {
      "texto": "No responde, porque la deuda es personal del vendedor.",

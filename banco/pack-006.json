@@ -4,21 +4,22 @@
  "bibliografia": {
   "BUST": "Convención de Derecho Internacional Privado [Código de Bustamante]. (1928). La Habana. https://www.oas.org/juridico/spanish/tratados/a-31.html",
   "CADH": "Organización de los Estados Americanos. (1969). Convención Americana sobre Derechos Humanos. https://www.oas.org/dil/esp/tratados_b-32_convencion_americana_sobre_derechos_humanos.htm",
-  "CC": "Congreso Nacional del Ecuador. (2005). Código Civil (Codificación). Registro Oficial Suplemento 46, 24 de junio de 2005 (última reforma: Registro Oficial Segundo Suplemento 61, 17 de junio de 2025). https://www.registroficial.gob.ec/",
-  "CCOM": "Asamblea Nacional del Ecuador. (2019). Código de Comercio. Registro Oficial Suplemento 497, 29 de mayo de 2019. https://www.registroficial.gob.ec/",
-  "COA": "Asamblea Nacional del Ecuador. (2017). Código Orgánico Administrativo. Registro Oficial Segundo Suplemento 31, 7 de julio de 2017. https://www.registroficial.gob.ec/",
-  "COFJ": "Asamblea Nacional del Ecuador. (2009). Código Orgánico de la Función Judicial. Registro Oficial Suplemento 544, 9 de marzo de 2009. https://www.funcionjudicial.gob.ec/",
-  "COGEP": "Asamblea Nacional del Ecuador. (2015). Código Orgánico General de Procesos. Registro Oficial Suplemento 506, 22 de mayo de 2015. https://www.funcionjudicial.gob.ec/",
-  "COIP": "Asamblea Nacional del Ecuador. (2014). Código Orgánico Integral Penal. Registro Oficial Suplemento 180, 10 de febrero de 2014. https://www.registroficial.gob.ec/",
-  "CONA": "Congreso Nacional del Ecuador. (2003). Código de la Niñez y Adolescencia. Registro Oficial 737, 3 de enero de 2003. https://www.registroficial.gob.ec/",
-  "CRE": "Asamblea Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449, 20 de octubre de 2008. https://www.asambleanacional.gob.ec/",
-  "CT": "Congreso Nacional del Ecuador. (2005). Código del Trabajo (Codificación). Registro Oficial Suplemento 167, 16 de diciembre de 2005. https://www.trabajo.gob.ec/",
-  "CTRIB": "Congreso Nacional del Ecuador. (2005). Código Tributario (Codificación). Registro Oficial Suplemento 38, 14 de junio de 2005. https://www.sri.gob.ec/",
-  "LAM": "Congreso Nacional del Ecuador. (2006). Ley de Arbitraje y Mediación (Codificación). Registro Oficial 417, 14 de diciembre de 2006. https://www.registroficial.gob.ec/",
-  "LC": "Congreso Nacional del Ecuador. (1999). Ley de Compañías (Codificación). Registro Oficial 312, 5 de noviembre de 1999. https://www.supercias.gob.ec/",
-  "LOGJCC": "Asamblea Nacional del Ecuador. (2009). Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional. Registro Oficial Segundo Suplemento 52, 22 de octubre de 2009. https://www.corteconstitucional.gob.ec/",
-  "LORTI": "Congreso Nacional del Ecuador. (2004). Ley de Régimen Tributario Interno (Codificación). Registro Oficial Suplemento 463, 17 de noviembre de 2004. https://www.sri.gob.ec/",
-  "LOSNCP": "Asamblea Nacional del Ecuador. (2008). Ley Orgánica del Sistema Nacional de Contratación Pública. Registro Oficial Suplemento 395, 4 de agosto de 2008. https://portal.compraspublicas.gob.ec/"
+  "CC": "Congreso Nacional del Ecuador. (2005). Código Civil (Codificación 2005-010). Registro Oficial Suplemento 46, 24 de junio de 2005. Texto vigente con sus reformas, entre ellas la Ley Reformatoria de 2015 (R.O. 526-2S, 19 de junio de 2015); última actualización: Segundo Suplemento del R.O. 61, 17 de junio de 2025. https://www.gob.ec/regulaciones/codigo-civil-codificacion-no-2005-010",
+  "CCOM": "Asamblea Nacional del Ecuador. (2019). Código de Comercio. Registro Oficial Suplemento 497, 29 de mayo de 2019. Última reforma: Tercer Suplemento del R.O. 245, 7 de febrero de 2023. https://www.supercias.gob.ec/bd_supercias/descargas/lotaip/a2/2019/JUNIO/C%C3%B3digo_de_Comercio.pdf",
+  "COA": "Asamblea Nacional del Ecuador. (2017). Código Orgánico Administrativo. Registro Oficial Segundo Suplemento 31, 7 de julio de 2017. Última reforma: 13 de octubre de 2025. https://lotaip.bomberosquito.gob.ec/transparencia/2026/archivos/coa26.pdf",
+  "COFJ": "Asamblea Nacional del Ecuador. (2009). Código Orgánico de la Función Judicial. Registro Oficial Suplemento 544, 9 de marzo de 2009. Reformado, entre otras, por la Ley Orgánica Reformatoria de Varios Cuerpos Legales para la Agilización de la Adopción (R.O. 347, 14 de agosto de 2026). https://www.funcionjudicial.gob.ec/",
+  "COGEP": "Asamblea Nacional del Ecuador. (2015). Código Orgánico General de Procesos. Registro Oficial Suplemento 506, 22 de mayo de 2015. Reformado, entre otras, por la Ley Orgánica Reformatoria del COGEP (R.O. Suplemento 517, 26 de junio de 2019); última reforma consultada: Cuarto Suplemento del R.O. 140, 7 de octubre de 2025. https://portal.compraspublicas.gob.ec/sercop/wp-content/uploads/2025/11/CODIGO-ORGANICO-GENERAL-DE-PROCESOS-COGEP.pdf",
+  "COIP": "Asamblea Nacional del Ecuador. (2014). Código Orgánico Integral Penal. Registro Oficial Suplemento 180, 10 de febrero de 2014. Texto actualizado al 13 de octubre de 2025 (última reforma incorporada: Tercer Suplemento del R.O. 68, 26 de junio de 2025). https://legalcloud.ec/wp-content/uploads/2025/10/COIP-13102025-Digital.pdf",
+  "CONA": "Congreso Nacional del Ecuador. (2003). Código de la Niñez y Adolescencia (Ley 100). Registro Oficial 737, 3 de enero de 2003. Última reforma: Ley Orgánica Reformatoria de Varios Cuerpos Legales para la Agilización de la Adopción, R.O. 347, 14 de agosto de 2026. https://www.registroficial.gob.ec/",
+  "CRE": "Asamblea Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449, 20 de octubre de 2008 (con las enmiendas posteriores, incluidas las aprobadas en el referéndum de 2024). https://www.asambleanacional.gob.ec/",
+  "CT": "Congreso Nacional del Ecuador. (2005). Código del Trabajo (Codificación 2005-017). Registro Oficial Suplemento 167, 16 de diciembre de 2005. Texto vigente con sus reformas; última reforma: 9 de abril de 2026. https://portal.compraspublicas.gob.ec/sercop/wp-content/uploads/2026/08/CODIGO-DEL-TRABAJO.pdf",
+  "CTRIB": "Congreso Nacional del Ecuador. (2005). Código Orgánico Tributario (antes Código Tributario, Codificación 2005-09). Registro Oficial Suplemento 38, 14 de junio de 2005; reformado y renombrado por la Ley Orgánica Reformatoria al Código Tributario, Noveno Suplemento del R.O. 392, 19 de octubre de 2026. https://www.gob.ec/regulaciones/codigo-organico-tributario",
+  "LAM": "Congreso Nacional del Ecuador. (2006). Ley de Arbitraje y Mediación (Codificación 2006-014). Registro Oficial 417, 14 de diciembre de 2006, con sus reformas. https://oas.org/es/sla/ddi/docs/Ecuador%20-%20Ley%20de%20Arbitraje%20y%20Mediaci%C3%B3n.pdf",
+  "LC": "Congreso Nacional del Ecuador. (1999). Ley de Compañías (Codificación 1999-031). Registro Oficial 312, 5 de noviembre de 1999. Reformada por la Ley Reformatoria a la Ley de Compañías para la Optimización e Impulso Empresarial y para el Fomento del Gobierno Corporativo (R.O. Suplemento 269, 15 de marzo de 2023); última reforma: 3 de octubre de 2025. https://www.eeasa.com.ec/content/uploads/2025/12/LEY-DE-COMPANIAS.pdf",
+  "LOGJCC": "Asamblea Nacional del Ecuador. (2009). Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional. Registro Oficial Segundo Suplemento 52, 22 de octubre de 2009. Última reforma: R.O. Suplemento 245, 7 de febrero de 2023. https://lotaip.bomberosquito.gob.ec/transparencia/2026/archivos/logjcc26.pdf",
+  "LORTI": "Congreso Nacional del Ecuador. (2004). Ley de Régimen Tributario Interno (Codificación 2004-026). Registro Oficial Suplemento 463, 17 de noviembre de 2004, con sus reformas. https://www.sri.gob.ec/",
+  "LOSNCP": "Asamblea Nacional del Ecuador. (2008). Ley Orgánica del Sistema Nacional de Contratación Pública. Registro Oficial Suplemento 395, 4 de agosto de 2008. Reformada integralmente; última reforma: Cuarto Suplemento del R.O. 140, 7 de octubre de 2025. https://usgn.espe.edu.ec/wp-content/uploads/2026/01/1.-Ley-Organica-del-Sistema-Nacional-de-Contratacion-Publica.pdf",
+  "LCH": "Ecuador. (s. f.). Ley de Cheques. Texto vigente con sus reformas; no fue derogada por el Código de Comercio de 2019 (cuyas disposiciones derogatorias no la incluyen). https://www.supercias.gob.ec/bd_supercias/descargas/lotaip/a2/2019/JUNIO/C%C3%B3digo_de_Comercio.pdf"
  },
  "preguntas": [
   {
@@ -655,8 +656,8 @@
    "enunciado": "En un proceso de contratación, la entidad elige al oferente sin publicar los pliegos ni permitir la participación de otros interesados. ¿Qué principio se vulnera principalmente?",
    "opciones": [
     {
-     "texto": "Principio de publicidad y concurrencia, porque debe garantizar acceso e igualdad de los oferentes.",
-     "justificacion": "Correcta. La contratación pública exige publicidad y concurrencia para garantizar igualdad y transparencia. Base legal: art. 4 de la Ley Orgánica del Sistema Nacional de Contratación Pública."
+     "texto": "Principios de concurrencia y transparencia, porque debe garantizar acceso e igualdad a los oferentes.",
+     "justificacion": "Correcta. La contratación pública exige publicidad y concurrencia para garantizar igualdad y transparencia. Base legal: art. 3 de la Ley Orgánica del Sistema Nacional de Contratación Pública (texto reformado en 2025)."
     },
     {
      "texto": "Principio de legalidad, porque la entidad actuó sin una ley que le permita contratar obras.",
@@ -2059,7 +2060,7 @@
    "opciones": [
     {
      "texto": "Las necesidades del niño y la capacidad del alimentante, según la tabla.",
-     "justificacion": "Correcta. Los alimentos se fijan según necesidades del alimentado y capacidad del alimentante. Base legal: art. 351 del Código Civil."
+     "justificacion": "Correcta. Los alimentos se fijan según necesidades del alimentado y capacidad del alimentante. Base legal: normas sobre el derecho de alimentos del Título V del Libro II del Código de la Niñez y Adolescencia (tabla de pensiones mínimas)."
     },
     {
      "texto": "Solo los ingresos del padre, sin considerar las necesidades del hijo.",
@@ -2123,7 +2124,7 @@
    "opciones": [
     {
      "texto": "Bien propio, porque los bienes adquiridos por herencia o donación son propios del cónyuge.",
-     "justificacion": "Correcta. Los bienes adquiridos por herencia, donación o legado son bienes propios, no sociales. Base legal: arts. 157 y siguientes del Código Civil."
+     "justificacion": "Correcta. Los bienes adquiridos por herencia, donación o legado son bienes propios, no sociales. Base legal: arts. 158 y 164 del Código Civil."
     },
     {
      "texto": "Bien social, porque todo bien adquirido durante el matrimonio ingresa a la sociedad conyugal.",
@@ -2278,7 +2279,7 @@
    "opciones": [
     {
      "texto": "La obligación de saneamiento, porque debe garantizar que el bien no tenga vicios ocultos.",
-     "justificacion": "Correcta. El vendedor responde por saneamiento por vicios redhibitorios que afectan el bien. Base legal: art. 1736 y 1796 del Código Civil."
+     "justificacion": "Correcta. El vendedor responde por saneamiento por vicios redhibitorios que afectan el bien. Base legal: normas sobre el saneamiento por vicios redhibitorios del Código Civil."
     },
     {
      "texto": "La obligación de pagar el precio, porque el vendedor debe pagar el precio del bien vendido.",
@@ -2309,7 +2310,7 @@
    "opciones": [
     {
      "texto": "La terminación del contrato o la rebaja de la renta, por el mal estado del local.",
-     "justificacion": "Correcta. El arrendador debe entregar el bien en buen estado y hacer reparaciones necesarias. Base legal: art. 1864-1870 del Código Civil."
+     "justificacion": "Correcta. El arrendador debe entregar el bien en buen estado y hacer reparaciones necesarias. Base legal: normas sobre las obligaciones del arrendador del Código Civil."
     },
     {
      "texto": "Solo el pago de daños, porque el arrendatario no puede pedir terminación ni rebaja de renta.",
@@ -2371,7 +2372,7 @@
    "opciones": [
     {
      "texto": "Su legítima, porque los hijos son legitimarios y el testador debía respetarla.",
-     "justificacion": "Correcta. Los legitimarios tienen derecho a la legítima, que limita la libre disposición del testador. Base legal: art. 1194-1207 del Código Civil."
+     "justificacion": "Correcta. Los legitimarios tienen derecho a la legítima, que limita la libre disposición del testador. Base legal: arts. 1205 y 1207 del Código Civil."
     },
     {
      "texto": "Nada, porque el testador puede disponer libremente de todos sus bienes.",
@@ -2464,7 +2465,7 @@
    "opciones": [
     {
      "texto": "Aceptación tácita, porque ejecutó un acto que supone voluntad de aceptar la herencia.",
-     "justificacion": "Correcta. La aceptación tácita se configura con actos que suponen voluntad de aceptar, como disponer del bien. Base legal: art. 1249-1255 del Código Civil."
+     "justificacion": "Correcta. La aceptación tácita se configura con actos que suponen voluntad de aceptar, como disponer del bien. Base legal: normas sobre la aceptación y repudiación de asignaciones del Código Civil."
     },
     {
      "texto": "Repudiación, porque al vender el bien demuestra que no quiere la herencia.",
@@ -2495,7 +2496,7 @@
    "opciones": [
     {
      "texto": "Partición, porque permite dividir los bienes hereditarios y adjudicar a cada heredero su cuota.",
-     "justificacion": "Correcta. La partición divide la masa hereditaria y adjudica a cada heredero lo que le corresponde. Base legal: art. 1335-1340 del Código Civil."
+     "justificacion": "Correcta. La partición divide la masa hereditaria y adjudica a cada heredero lo que le corresponde. Base legal: art. 1338 y siguientes del Código Civil."
     },
     {
      "texto": "Inventario, porque solo con inventario se puede dividir la herencia sin adjudicar bienes.",
@@ -2530,7 +2531,7 @@
     },
     {
      "texto": "Es nula, porque sin esos datos no existe letra de cambio válida.",
-     "justificacion": "Incorrecta. La falta de esos datos se suple por presunciones legales de la ley de títulos valores."
+     "justificacion": "Incorrecta. La falta de esos datos se suple por presunciones legales del Código de Comercio."
     },
     {
      "texto": "Se convierte en cheque, pagadero a la vista contra un banco.",
@@ -2931,7 +2932,7 @@
    "opciones": [
     {
      "texto": "El hecho previsto en la ley cuya realización genera la obligación de pagar el tributo.",
-     "justificacion": "Correcta. El hecho generador es el supuesto legal cuya realización hace nacer la obligación tributaria. Base legal: art. 15-16 del Código Tributario."
+     "justificacion": "Correcta. El hecho generador es el supuesto legal cuya realización hace nacer la obligación tributaria. Base legal: art. 15-16 del Código Orgánico Tributario."
     },
     {
      "texto": "El pago del tributo, porque sin pago no existe hecho generador alguno.",
@@ -2994,7 +2995,7 @@
    "opciones": [
     {
      "texto": "El Estado es sujeto activo y el contribuyente, sujeto pasivo de la obligación.",
-     "justificacion": "Correcta. El sujeto activo es el acreedor del tributo; el pasivo es quien debe pagarlo. Base legal: art. 23-24 del Código Tributario."
+     "justificacion": "Correcta. El sujeto activo es el acreedor del tributo; el pasivo es quien debe pagarlo. Base legal: art. 23-24 del Código Orgánico Tributario."
     },
     {
      "texto": "El Estado es sujeto pasivo, porque es quien paga el impuesto al contribuyente.",
@@ -3583,7 +3584,7 @@
    "opciones": [
     {
      "texto": "Error de tipo, porque recae sobre un elemento del tipo.",
-     "justificacion": "Correcta. El error de tipo excluye el dolo cuando recae sobre elementos objetivos. Base legal: art. 28 del Código Orgánico Integral Penal."
+     "justificacion": "Correcta. El error de tipo excluye el dolo cuando recae sobre elementos objetivos. Base legal: art. 28.1 del Código Orgánico Integral Penal."
     },
     {
      "texto": "Error de prohibición porque desconoce la ilicitud de su conducta.",
@@ -4451,7 +4452,7 @@
    "opciones": [
     {
      "texto": "Responde de las deudas hereditarias con su propio patrimonio de manera ilimitada.",
-     "justificacion": "Correcta. La aceptación pura y simple genera responsabilidad ultra vires hereditatis. Base legal: art. 1252 del Código Civil."
+     "justificacion": "Correcta. La aceptación pura y simple genera responsabilidad ultra vires hereditatis. Base legal: normas sobre la aceptación pura y simple y el beneficio de inventario del Código Civil."
     },
     {
      "texto": "Responde solo hasta el monto de los bienes heredados y nunca con su patrimonio personal.",
@@ -4760,8 +4761,8 @@
    "enunciado": "Los cónyuges pretenden divorciarse por mutuo consentimiento. ¿Cuál es el régimen aplicable?",
    "opciones": [
     {
-     "texto": "Ante juez o, sin hijos dependientes, ante notario.",
-     "justificacion": "Correcta. El Código Civil admite el divorcio por mutuo consentimiento; puede tramitarse judicialmente o, cuando no hay hijos menores de edad o bajo dependencia, ante notario."
+     "texto": "Ante juez o ante notario, aun con hijos, si su situación ya está resuelta.",
+     "justificacion": "Correcta. El divorcio por mutuo consentimiento se tramita en procedimiento voluntario (art. 107 del Código Civil) o ante notario (art. 18 num. 22 de la Ley Notarial); desde la reforma de 2019 la vía notarial procede aun con hijos menores o dependientes, si su tenencia, alimentos y visitas ya se resolvieron judicialmente o por acta de mediación."
     },
     {
      "texto": "Deben invocar una causal de divorcio y probarla en juicio.",
@@ -4773,7 +4774,7 @@
     },
     {
      "texto": "Solo pueden divorciarse si nunca tuvieron hijos en común.",
-     "justificacion": "Incorrecta. Con hijos dependientes procede por vía judicial."
+     "justificacion": "Incorrecta. Los hijos no impiden el divorcio por mutuo consentimiento."
     }
    ],
    "correcta": 0,
@@ -4823,7 +4824,7 @@
    "opciones": [
     {
      "texto": "Cinco años desde que la obligación fue exigible.",
-     "justificacion": "Correcta. La acción de cobro prescribe en cinco años desde la fecha en que la obligación fue exigible, y en siete si no se presentó la declaración debida (art. 55 del Código Tributario)."
+     "justificacion": "Correcta. La acción de cobro prescribe en cinco años desde la fecha en que la obligación fue exigible, y en siete si no se presentó la declaración debida (art. 55 del Código Orgánico Tributario)."
     },
     {
      "texto": "Cinco años desde que se notificó el título de crédito.",
@@ -4854,7 +4855,7 @@
    "opciones": [
     {
      "texto": "Determinación por el sujeto pasivo, mediante su declaración.",
-     "justificacion": "Correcta. La determinación por el sujeto pasivo se efectúa mediante la declaración que presenta el propio contribuyente; la determinación mixta es la que realiza la administración con datos que exige al contribuyente (normas sobre formas de determinación del Código Tributario). Base legal: arts. 87 a 93 del Código Tributario."
+     "justificacion": "Correcta. La determinación por el sujeto pasivo se efectúa mediante la declaración que presenta el propio contribuyente; la determinación mixta es la que realiza la administración con datos que exige al contribuyente (normas sobre formas de determinación del Código Orgánico Tributario). Base legal: arts. 87 a 93 del Código Orgánico Tributario."
     },
     {
      "texto": "Determinación mixta, por intervenir el contribuyente y el SRI.",
@@ -4916,7 +4917,7 @@
    "opciones": [
     {
      "texto": "Es una excepción a la obligación tributaria que debe interpretarse de manera restrictiva.",
-     "justificacion": "Correcta. Las exenciones son de interpretación restrictiva. Base legal: art. 35 del Código Tributario."
+     "justificacion": "Correcta. Las exenciones son de interpretación restrictiva. Base legal: art. 35 del Código Orgánico Tributario."
     },
     {
      "texto": "Es un beneficio de carácter general que se aplica a todos los contribuyentes por igual.",
@@ -4978,7 +4979,7 @@
    "opciones": [
     {
      "texto": "Pueden responder de manera solidaria por los tributos adeudados por la sociedad.",
-     "justificacion": "Correcta. El Código Tributario establece supuestos de responsabilidad solidaria de los representantes. Base legal: art. 26 y 27 del Código Tributario."
+     "justificacion": "Correcta. El Código Orgánico Tributario establece supuestos de responsabilidad solidaria de los representantes. Base legal: art. 26 y 27 del Código Orgánico Tributario."
     },
     {
      "texto": "Responden solo de manera subsidiaria después de agotar los bienes de la sociedad.",
@@ -5289,7 +5290,7 @@
    "opciones": [
     {
      "texto": "Transparencia, que exige publicidad y control social de los procedimientos.",
-     "justificacion": "Correcta. La transparencia es un principio fundamental consagrado en el Art. 4 de la LOSNCP. Base legal: art. 4 de la Ley Orgánica del Sistema Nacional de Contratación Pública."
+     "justificacion": "Correcta. La transparencia es un principio fundamental consagrado en el art. 3 de la LOSNCP. Base legal: art. 3 de la Ley Orgánica del Sistema Nacional de Contratación Pública."
     },
     {
      "texto": "Reserva, que impone mantener en secreto los procesos hasta su adjudicación.",
@@ -5506,8 +5507,8 @@
    "enunciado": "¿Cuál de los siguientes supuestos constituye flagrancia según el COIP?",
    "opciones": [
     {
-     "texto": "Aprehensión al cometer el delito o tras persecución de hasta 24 horas.",
-     "justificacion": "Correcta. El Art. 527 del COIP establece los supuestos de flagrancia, incluyendo la aprehensión inmediata y la identificación posterior. Base legal: art. 527 del Código Orgánico Integral Penal."
+     "texto": "Aprehensión al cometer el delito o tras persecución de hasta 48 horas.",
+     "justificacion": "Correcta. Hay flagrancia cuando se sorprende a la persona cometiendo la infracción o inmediatamente después, o tras una persecución ininterrumpida que no supere las cuarenta y ocho horas (art. 527 del COIP). Base legal: art. 527 del Código Orgánico Integral Penal."
     },
     {
      "texto": "Detención basada solo en una denuncia anónima recibida por la policía.",
@@ -6844,7 +6845,7 @@
    "opciones": [
     {
      "texto": "Título valor con una orden incondicional de pagar dinero.",
-     "justificacion": "Correcta. La letra de cambio es un título valor que incorpora una orden de pago (Ley de Cheques y Títulos Valores). Base legal: normas sobre la letra de cambio del Código de Comercio de 2019."
+     "justificacion": "Correcta. La letra de cambio es un título valor que incorpora una orden de pago (Código de Comercio). Base legal: normas sobre la letra de cambio del Código de Comercio de 2019."
     },
     {
      "texto": "Contrato de compraventa en el que se difiere el pago del precio.",
@@ -7141,7 +7142,7 @@
    ],
    "correcta": 0,
    "referencias": [
-    "CCOM"
+    "LCH"
    ]
   },
   {
@@ -7997,7 +7998,7 @@
    "opciones": [
     {
      "texto": "Motivar y garantizar debido proceso antes de terminar unilateralmente por incumplimiento.",
-     "justificacion": "Correcta. La terminación unilateral exige motivación, debido proceso y verificación del incumplimiento. Base legal: arts. 94 y 95 de la Ley Orgánica del Sistema Nacional de Contratación Pública."
+     "justificacion": "Correcta. La terminación unilateral exige motivación, debido proceso y verificación del incumplimiento. Base legal: arts. 108 y 109 de la Ley Orgánica del Sistema Nacional de Contratación Pública (numeración vigente tras la reforma de octubre de 2025)."
     },
     {
      "texto": "Terminar sin escuchar, porque la terminación unilateral no exige debido proceso.",
@@ -8215,7 +8216,7 @@
    "opciones": [
     {
      "texto": "Error de tipo invencible, porque desconocía un elemento del tipo y elimina el dolo y la culpa.",
-     "justificacion": "Correcta. El error sobre un elemento del tipo, invencible, excluye dolo y culpa. Base legal: art. 28 del Código Orgánico Integral Penal."
+     "justificacion": "Correcta. El error sobre un elemento del tipo, invencible, excluye dolo y culpa. Base legal: art. 28.1 del Código Orgánico Integral Penal."
     },
     {
      "texto": "Error de prohibición invencible, porque desconocía que matar estaba prohibido por la ley penal.",
@@ -8648,15 +8649,15 @@
    "tema": "Detención y flagrancia",
    "resultado": "Evalúa la legalidad de la detención en flagrancia.",
    "demanda": "Evaluar",
-   "enunciado": "Una persona es detenida 30 horas después del delito, sin orden, porque la policía alega flagrancia por haber encontrado el objeto robado en su poder. ¿Es legal la detención?",
+   "enunciado": "Una persona es detenida tres días después del delito, sin orden, porque la policía alega flagrancia por haber encontrado el objeto robado en su poder. ¿Es legal la detención?",
    "opciones": [
     {
      "texto": "No, porque no hay flagrancia por falta de inmediatez y se requería orden judicial.",
-     "justificacion": "Correcta. La flagrancia exige inmediatez; sin ella, la detención requiere orden judicial. Base legal: art. 77 num. 1 de la Constitución; art. 527 del Código Orgánico Integral Penal."
+     "justificacion": "Correcta. La flagrancia exige inmediatez o persecución ininterrumpida de máximo cuarenta y ocho horas; sin ella, la detención requiere orden judicial. Base legal: art. 77 num. 1 de la Constitución; art. 527 del Código Orgánico Integral Penal."
     },
     {
      "texto": "Sí, porque el hallazgo del objeto robado configura flagrancia en cualquier momento.",
-     "justificacion": "Incorrecta. La flagrancia exige inmediatez; 30 horas después no hay flagrancia."
+     "justificacion": "Incorrecta. La flagrancia exige inmediatez; tres días después no hay flagrancia."
     },
     {
      "texto": "Sí, porque la policía puede detener sin orden cuando hay sospecha de delito.",
@@ -9244,7 +9245,7 @@
    "opciones": [
     {
      "texto": "Impugnar el reconocimiento por vicio del consentimiento y por no ser padre biológico.",
-     "justificacion": "Correcta. El reconocimiento puede impugnarse por error o dolo y por falta de vínculo biológico. Base legal: art. 249-253 del Código Civil; art. 106 del Código de la Niñez y Adolescencia."
+     "justificacion": "Correcta. El reconocimiento puede impugnarse por error o dolo y por falta de vínculo biológico. Base legal: arts. 249 y 250 del Código Civil; art. 106 del Código de la Niñez y Adolescencia."
     },
     {
      "texto": "Nada, porque el reconocimiento es irrevocable aunque haya engaño y no sea padre biológico.",
@@ -9789,7 +9790,7 @@
    ],
    "correcta": 0,
    "referencias": [
-    "CCOM"
+    "LCH"
    ]
   },
   {
@@ -10085,7 +10086,7 @@
    "opciones": [
     {
      "texto": "Elusión, por usar formas artificiosas sin sustancia económica.",
-     "justificacion": "Correcta. La elusión usa artificios sin sustancia para eludir, sin engaño directo. Base legal: art. 17 del Código Tributario."
+     "justificacion": "Correcta. La elusión usa artificios sin sustancia para eludir, sin engaño directo. Base legal: art. 17 del Código Orgánico Tributario."
     },
     {
      "texto": "Evasión, porque toda reducción del impuesto a pagar lo es.",
@@ -10116,7 +10117,7 @@
    "opciones": [
     {
      "texto": "Caducidad de la facultad determinadora.",
-     "justificacion": "Correcta. La caducidad extingue la facultad de determinar si no se ejerce en plazo. Base legal: art. 94 del Código Tributario."
+     "justificacion": "Correcta. La caducidad extingue la facultad de determinar si no se ejerce en plazo. Base legal: art. 94 del Código Orgánico Tributario."
     },
     {
      "texto": "Prescripción de la acción de cobro.",
@@ -10147,7 +10148,7 @@
    "opciones": [
     {
      "texto": "Sí, porque sin contabilidad ni declaraciones procede la vía presuntiva.",
-     "justificacion": "Correcta. La determinación presuntiva se aplica cuando no hay elementos para determinación directa. Base legal: art. 92 del Código Tributario."
+     "justificacion": "Correcta. La determinación presuntiva se aplica cuando no hay elementos para determinación directa. Base legal: art. 92 del Código Orgánico Tributario."
     },
     {
      "texto": "No, porque sin contabilidad no puede determinarse impuesto alguno.",
@@ -10155,7 +10156,7 @@
     },
     {
      "texto": "No, porque la determinación presuntiva es inconstitucional.",
-     "justificacion": "Incorrecta. La determinación presuntiva es legal y tiene base en el Código Tributario."
+     "justificacion": "Incorrecta. La determinación presuntiva es legal y tiene base en el Código Orgánico Tributario."
     },
     {
      "texto": "Sí, pero solo si el contribuyente acepta la presunción.",
@@ -10178,7 +10179,7 @@
    "opciones": [
     {
      "texto": "Devolver lo pagado, porque el pago indebido genera derecho a devolución.",
-     "justificacion": "Correcta. El pago indebido da derecho a devolución. Base legal: arts. 122 y 123 del Código Tributario."
+     "justificacion": "Correcta. El pago indebido da derecho a devolución. Base legal: arts. 122 y 123 del Código Orgánico Tributario."
     },
     {
      "texto": "Negarla, porque todo pago tributario es definitivo e irrevocable.",

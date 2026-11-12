@@ -3,19 +3,19 @@
  "titulo": "Paquete 7 · 100 casos de razonamiento jurídico",
  "bibliografia": {
   "CADH": "Organización de los Estados Americanos. (1969). Convención Americana sobre Derechos Humanos. https://www.oas.org/dil/esp/tratados_b-32_convencion_americana_sobre_derechos_humanos.htm",
-  "CC": "Congreso Nacional del Ecuador. (2005). Código Civil (Codificación). Registro Oficial Suplemento 46, 24 de junio de 2005 (última reforma: Registro Oficial Segundo Suplemento 61, 17 de junio de 2025). https://www.registroficial.gob.ec/",
-  "CCOM": "Asamblea Nacional del Ecuador. (2019). Código de Comercio. Registro Oficial Suplemento 497, 29 de mayo de 2019. https://www.registroficial.gob.ec/",
-  "COA": "Asamblea Nacional del Ecuador. (2017). Código Orgánico Administrativo. Registro Oficial Segundo Suplemento 31, 7 de julio de 2017. https://www.registroficial.gob.ec/",
-  "COGEP": "Asamblea Nacional del Ecuador. (2015). Código Orgánico General de Procesos. Registro Oficial Suplemento 506, 22 de mayo de 2015. https://www.funcionjudicial.gob.ec/",
-  "COIP": "Asamblea Nacional del Ecuador. (2014). Código Orgánico Integral Penal. Registro Oficial Suplemento 180, 10 de febrero de 2014. https://www.registroficial.gob.ec/",
-  "CONA": "Congreso Nacional del Ecuador. (2003). Código de la Niñez y Adolescencia. Registro Oficial 737, 3 de enero de 2003. https://www.registroficial.gob.ec/",
-  "CRE": "Asamblea Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449, 20 de octubre de 2008. https://www.asambleanacional.gob.ec/",
-  "CT": "Congreso Nacional del Ecuador. (2005). Código del Trabajo (Codificación). Registro Oficial Suplemento 167, 16 de diciembre de 2005. https://www.trabajo.gob.ec/",
-  "CTRIB": "Congreso Nacional del Ecuador. (2005). Código Tributario (Codificación). Registro Oficial Suplemento 38, 14 de junio de 2005. https://www.sri.gob.ec/",
-  "LAM": "Congreso Nacional del Ecuador. (2006). Ley de Arbitraje y Mediación (Codificación). Registro Oficial 417, 14 de diciembre de 2006. https://www.registroficial.gob.ec/",
-  "LC": "Congreso Nacional del Ecuador. (1999). Ley de Compañías (Codificación). Registro Oficial 312, 5 de noviembre de 1999. https://www.supercias.gob.ec/",
-  "LOGJCC": "Asamblea Nacional del Ecuador. (2009). Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional. Registro Oficial Segundo Suplemento 52, 22 de octubre de 2009. https://www.corteconstitucional.gob.ec/",
-  "LOSNCP": "Asamblea Nacional del Ecuador. (2008). Ley Orgánica del Sistema Nacional de Contratación Pública. Registro Oficial Suplemento 395, 4 de agosto de 2008. https://portal.compraspublicas.gob.ec/"
+  "CC": "Congreso Nacional del Ecuador. (2005). Código Civil (Codificación 2005-010). Registro Oficial Suplemento 46, 24 de junio de 2005. Texto vigente con sus reformas, entre ellas la Ley Reformatoria de 2015 (R.O. 526-2S, 19 de junio de 2015); última actualización: Segundo Suplemento del R.O. 61, 17 de junio de 2025. https://www.gob.ec/regulaciones/codigo-civil-codificacion-no-2005-010",
+  "CCOM": "Asamblea Nacional del Ecuador. (2019). Código de Comercio. Registro Oficial Suplemento 497, 29 de mayo de 2019. Última reforma: Tercer Suplemento del R.O. 245, 7 de febrero de 2023. https://www.supercias.gob.ec/bd_supercias/descargas/lotaip/a2/2019/JUNIO/C%C3%B3digo_de_Comercio.pdf",
+  "COA": "Asamblea Nacional del Ecuador. (2017). Código Orgánico Administrativo. Registro Oficial Segundo Suplemento 31, 7 de julio de 2017. Última reforma: 13 de octubre de 2025. https://lotaip.bomberosquito.gob.ec/transparencia/2026/archivos/coa26.pdf",
+  "COGEP": "Asamblea Nacional del Ecuador. (2015). Código Orgánico General de Procesos. Registro Oficial Suplemento 506, 22 de mayo de 2015. Reformado, entre otras, por la Ley Orgánica Reformatoria del COGEP (R.O. Suplemento 517, 26 de junio de 2019); última reforma consultada: Cuarto Suplemento del R.O. 140, 7 de octubre de 2025. https://portal.compraspublicas.gob.ec/sercop/wp-content/uploads/2025/11/CODIGO-ORGANICO-GENERAL-DE-PROCESOS-COGEP.pdf",
+  "COIP": "Asamblea Nacional del Ecuador. (2014). Código Orgánico Integral Penal. Registro Oficial Suplemento 180, 10 de febrero de 2014. Texto actualizado al 13 de octubre de 2025 (última reforma incorporada: Tercer Suplemento del R.O. 68, 26 de junio de 2025). https://legalcloud.ec/wp-content/uploads/2025/10/COIP-13102025-Digital.pdf",
+  "CONA": "Congreso Nacional del Ecuador. (2003). Código de la Niñez y Adolescencia (Ley 100). Registro Oficial 737, 3 de enero de 2003. Última reforma: Ley Orgánica Reformatoria de Varios Cuerpos Legales para la Agilización de la Adopción, R.O. 347, 14 de agosto de 2026. https://www.registroficial.gob.ec/",
+  "CRE": "Asamblea Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449, 20 de octubre de 2008 (con las enmiendas posteriores, incluidas las aprobadas en el referéndum de 2024). https://www.asambleanacional.gob.ec/",
+  "CT": "Congreso Nacional del Ecuador. (2005). Código del Trabajo (Codificación 2005-017). Registro Oficial Suplemento 167, 16 de diciembre de 2005. Texto vigente con sus reformas; última reforma: 9 de abril de 2026. https://portal.compraspublicas.gob.ec/sercop/wp-content/uploads/2026/08/CODIGO-DEL-TRABAJO.pdf",
+  "CTRIB": "Congreso Nacional del Ecuador. (2005). Código Orgánico Tributario (antes Código Tributario, Codificación 2005-09). Registro Oficial Suplemento 38, 14 de junio de 2005; reformado y renombrado por la Ley Orgánica Reformatoria al Código Tributario, Noveno Suplemento del R.O. 392, 19 de octubre de 2026. https://www.gob.ec/regulaciones/codigo-organico-tributario",
+  "LAM": "Congreso Nacional del Ecuador. (2006). Ley de Arbitraje y Mediación (Codificación 2006-014). Registro Oficial 417, 14 de diciembre de 2006, con sus reformas. https://oas.org/es/sla/ddi/docs/Ecuador%20-%20Ley%20de%20Arbitraje%20y%20Mediaci%C3%B3n.pdf",
+  "LC": "Congreso Nacional del Ecuador. (1999). Ley de Compañías (Codificación 1999-031). Registro Oficial 312, 5 de noviembre de 1999. Reformada por la Ley Reformatoria a la Ley de Compañías para la Optimización e Impulso Empresarial y para el Fomento del Gobierno Corporativo (R.O. Suplemento 269, 15 de marzo de 2023); última reforma: 3 de octubre de 2025. https://www.eeasa.com.ec/content/uploads/2025/12/LEY-DE-COMPANIAS.pdf",
+  "LOGJCC": "Asamblea Nacional del Ecuador. (2009). Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional. Registro Oficial Segundo Suplemento 52, 22 de octubre de 2009. Última reforma: R.O. Suplemento 245, 7 de febrero de 2023. https://lotaip.bomberosquito.gob.ec/transparencia/2026/archivos/logjcc26.pdf",
+  "LOSNCP": "Asamblea Nacional del Ecuador. (2008). Ley Orgánica del Sistema Nacional de Contratación Pública. Registro Oficial Suplemento 395, 4 de agosto de 2008. Reformada integralmente; última reforma: Cuarto Suplemento del R.O. 140, 7 de octubre de 2025. https://usgn.espe.edu.ec/wp-content/uploads/2026/01/1.-Ley-Organica-del-Sistema-Nacional-de-Contratacion-Publica.pdf"
  },
  "preguntas": [
   {
@@ -516,19 +516,19 @@
    "opciones": [
     {
      "texto": "Omitió notificar la decisión y conceder el término para justificar o remediar.",
-     "justificacion": "Correcta. Antes de terminar unilateralmente, la entidad debe notificar al contratista su decisión, con el informe técnico y económico, y concederle un término de diez días para justificar la mora o remediar el incumplimiento (art. 95 de la Ley Orgánica del Sistema Nacional de Contratación Pública)."
+     "justificacion": "Correcta. Antes de terminar unilateralmente, la entidad debe notificar al contratista su decisión, con el informe técnico y económico, y concederle un término de diez días para justificar la mora o remediar el incumplimiento (art. 109 de la Ley Orgánica del Sistema Nacional de Contratación Pública, numeración vigente tras la reforma de octubre de 2025)."
     },
     {
      "texto": "Ninguno, porque el incumplimiento de plazo habilita la terminación inmediata y automática.",
-     "justificacion": "Incorrecta. La ley exige un procedimiento previo con notificación (art. 95)."
+     "justificacion": "Incorrecta. La ley exige un procedimiento previo con notificación (art. 109)."
     },
     {
      "texto": "La terminación unilateral exige sentencia del Tribunal Contencioso Administrativo.",
-     "justificacion": "Incorrecta. Es una potestad de la entidad, sujeta al procedimiento del art. 95."
+     "justificacion": "Incorrecta. Es una potestad de la entidad, sujeta al procedimiento del art. 109."
     },
     {
      "texto": "El incumplimiento de plazo autoriza multas, pero no la terminación del contrato.",
-     "justificacion": "Incorrecta. El incumplimiento es causal de terminación unilateral (art. 94 num. 1 de la misma ley)."
+     "justificacion": "Incorrecta. El incumplimiento es causal de terminación unilateral (art. 108 num. 1 de la misma ley)."
     }
    ],
    "correcta": 0,
@@ -644,7 +644,7 @@
    "opciones": [
     {
      "texto": "Por homicidio culposo, porque su error sobre la víctima era vencible.",
-     "justificacion": "Correcta. El error de tipo vencible excluye el dolo, pero subsiste la responsabilidad por la modalidad culposa si está tipificada (art. 28 del Código Orgánico Integral Penal); el homicidio culposo está previsto en el art. 145."
+     "justificacion": "Correcta. El error de tipo vencible excluye el dolo, pero subsiste la responsabilidad por la modalidad culposa si está tipificada (art. 28.1 del Código Orgánico Integral Penal); el homicidio culposo está previsto en el art. 145."
     },
     {
      "texto": "Por homicidio doloso, porque disparó voluntariamente y causó la muerte.",
@@ -676,11 +676,11 @@
    "opciones": [
     {
      "texto": "Error de prohibición, porque conoce los hechos pero ignora su ilicitud.",
-     "justificacion": "Correcta. Conoce todos los elementos del tipo (sabe qué planta cultiva); lo que desconoce es la prohibición. Ese error recae sobre la conciencia de antijuridicidad, componente de la culpabilidad (art. 34 del Código Orgánico Integral Penal), y si es invencible la excluye."
+     "justificacion": "Correcta. Conoce todos los elementos del tipo (sabe qué planta cultiva); lo que desconoce es la prohibición. Ese error recae sobre la conciencia de antijuridicidad, componente de la culpabilidad (art. 34 del Código Orgánico Integral Penal), y si es invencible la excluye (art. 35.1 del mismo código)."
     },
     {
      "texto": "Error de tipo, porque desconoce un elemento objetivo de la conducta.",
-     "justificacion": "Incorrecta. Conoce el objeto y la acción; no hay error sobre elementos del tipo (art. 28)."
+     "justificacion": "Incorrecta. Conoce el objeto y la acción; no hay error sobre elementos del tipo (art. 28.1)."
     },
     {
      "texto": "Ninguno, porque la ignorancia de la ley no puede alegarse bajo ninguna circunstancia.",
@@ -868,7 +868,7 @@
    "opciones": [
     {
      "texto": "Por las lesiones causadas, si el desistimiento evitó voluntariamente la muerte.",
-     "justificacion": "Correcta. Quien desiste voluntariamente e impide la consumación no responde por la tentativa, pero sí por los actos ya ejecutados que constituyan por sí mismos un delito (desistimiento, art. 39.1 del Código Orgánico Integral Penal); aquí, las lesiones (art. 152)."
+     "justificacion": "Correcta. Quien desiste voluntariamente e impide la consumación no responde por la tentativa, pero sí por los actos ya ejecutados que constituyan por sí mismos un delito (desistimiento, art. 40 del Código Orgánico Integral Penal); aquí, las lesiones (art. 152)."
     },
     {
      "texto": "Por tentativa de homicidio, porque ya había ejecutado todos los actos para matar.",
@@ -1363,7 +1363,7 @@
     },
     {
      "texto": "Diferirla al juez de garantías penitenciarias, que es el competente para otorgarla.",
-     "justificacion": "Incorrecta. Se solicita y resuelve en la audiencia de juicio o dentro de las veinticuatro horas siguientes (art. 630)."
+     "justificacion": "Incorrecta. Se solicita y resuelve en la audiencia de juicio o dentro de las setenta y dos horas desde que se dio la decisión oral (art. 630)."
     }
    ],
    "correcta": 0,
@@ -1448,7 +1448,7 @@
    "opciones": [
     {
      "texto": "Declarar que no es penalmente responsable y dictar una medida de seguridad.",
-     "justificacion": "Correcta. No es penalmente responsable quien, al cometer la infracción, no tiene capacidad de comprender la ilicitud de su conducta o de determinarse por ella debido a un trastorno mental; en ese caso se dicta una medida de seguridad (art. 35 del Código Orgánico Integral Penal)."
+     "justificacion": "Correcta. No es penalmente responsable quien, al cometer la infracción, no tiene capacidad de comprender la ilicitud de su conducta o de determinarse por ella debido a un trastorno mental; en ese caso se dicta una medida de seguridad (arts. 35 y 36 del Código Orgánico Integral Penal)."
     },
     {
      "texto": "Imponer la pena mínima, porque el trastorno mental solo atenúa la responsabilidad.",
@@ -1511,8 +1511,8 @@
    "enunciado": "Una demanda de daños no indica la cuantía ni anuncia los medios de prueba. ¿Qué debe hacer el juez en su primera providencia?",
    "opciones": [
     {
-     "texto": "Disponer que el actor la complete o aclare en el término de tres días.",
-     "justificacion": "Correcta. Si la demanda no cumple los requisitos legales, la o el juzgador dispone que la o el actor la complete o aclare en el término de tres días; si no lo hace, ordena su archivo (art. 146 del Código Orgánico General de Procesos)."
+     "texto": "Disponer que el actor la complete o aclare en el término de cinco días.",
+     "justificacion": "Correcta. Si la demanda no cumple los requisitos legales, la o el juzgador dispone que la o el actor la complete o aclare en el término de cinco días; si no lo hace, ordena su archivo (art. 146 del Código Orgánico General de Procesos)."
     },
     {
      "texto": "Rechazarla de plano y ordenar su archivo, sin conceder ningún término.",
@@ -1540,15 +1540,15 @@
    "tema": "Término de contestación según procedimiento",
    "resultado": "Resuelve un caso de término de contestación según procedimiento razonando desde la norma aplicable.",
    "demanda": "Aplicar",
-   "enunciado": "En un juicio de alimentos, que se tramita por procedimiento sumario, el demandado contesta a los veinticinco días de citado, alegando el término de treinta días. ¿Es oportuna la contestación?",
+   "enunciado": "En un juicio de alimentos a favor de un niño, que se tramita por procedimiento sumario, el demandado contesta a los doce días de citado, alegando que el sumario concede quince días. ¿Es oportuna la contestación?",
    "opciones": [
     {
-     "texto": "No, porque en el sumario el término para contestar es de quince días.",
-     "justificacion": "Correcta. En el procedimiento sumario, el término para contestar la demanda es de quince días (art. 333 del Código Orgánico General de Procesos); los treinta días corresponden al procedimiento ordinario (art. 291)."
+     "texto": "No, porque en materia de niñez y adolescencia el término es de diez días.",
+     "justificacion": "Correcta. En el procedimiento sumario el término para contestar es de quince días, salvo en materia de niñez y adolescencia y en los despidos de mujeres embarazadas, en período de lactancia y de dirigentes sindicales, en que es de diez días (art. 333 num. 3 del Código Orgánico General de Procesos)."
     },
     {
-     "texto": "Sí, porque el término de treinta días rige también en el procedimiento sumario.",
-     "justificacion": "Incorrecta. Cada procedimiento tiene su propio término."
+     "texto": "Sí, porque el término de quince días del sumario rige para todas las materias.",
+     "justificacion": "Incorrecta. El art. 333 num. 3 establece una excepción de diez días para la materia de niñez y adolescencia."
     },
     {
      "texto": "Sí, porque en materia de alimentos no existen términos preclusivos.",
@@ -1572,11 +1572,11 @@
    "tema": "Abandono y derechos de niños",
    "resultado": "Resuelve un caso de abandono y derechos de niños razonando desde la norma aplicable.",
    "demanda": "Evaluar",
-   "enunciado": "En un juicio de alimentos a favor de una niña, ninguna de las partes impulsa el proceso durante noventa días. El demandado pide que se declare el abandono. ¿Qué debe resolver el juez?",
+   "enunciado": "En un juicio de alimentos a favor de una niña, ninguna de las partes impulsa el proceso durante siete meses. El demandado pide que se declare el abandono. ¿Qué debe resolver el juez?",
    "opciones": [
     {
      "texto": "Negarlo, porque no cabe abandono en causas que involucran derechos de niñas y niños.",
-     "justificacion": "Correcta. Aunque el abandono procede por la inactividad de las partes durante ochenta días (art. 245 del Código Orgánico General de Procesos), no cabe en las causas en que estén involucrados derechos de niñas, niños y adolescentes (art. 247 del mismo código)."
+     "justificacion": "Correcta. Aunque el abandono procede por la inactividad de las partes durante seis meses (art. 245 del Código Orgánico General de Procesos), no cabe en las causas en que estén involucrados derechos de niñas, niños y adolescentes (art. 247 del mismo código)."
     },
     {
      "texto": "Declararlo, porque transcurrió el término de ochenta días sin impulso procesal.",
@@ -2507,7 +2507,7 @@
    "opciones": [
     {
      "texto": "La casa es un bien propio de la cónyuge, por haberla adquirido a título gratuito.",
-     "justificacion": "Correcta. Los bienes que los cónyuges adquieren durante el matrimonio a título gratuito, como la herencia, no ingresan al haber de la sociedad conyugal y son bienes propios del cónyuge adquirente (normas del haber social, arts. 157 y siguientes del Código Civil)."
+     "justificacion": "Correcta. Los bienes que los cónyuges adquieren durante el matrimonio a título gratuito, como la herencia, no ingresan al haber de la sociedad conyugal y son bienes propios del cónyuge adquirente (arts. 158 y 164 del Código Civil)."
     },
     {
      "texto": "La casa es social, porque se adquirió durante la vigencia de la sociedad conyugal.",
@@ -2551,7 +2551,7 @@
     },
     {
      "texto": "Debe acudir a un notario, que es competente para el divorcio contencioso.",
-     "justificacion": "Incorrecta. El notario solo interviene en el divorcio por mutuo consentimiento sin hijos dependientes."
+     "justificacion": "Incorrecta. El notario interviene en el divorcio por mutuo consentimiento, no en el divorcio contencioso por causal."
     }
    ],
    "correcta": 0,
@@ -2699,7 +2699,7 @@
    "opciones": [
     {
      "texto": "El beneficio de excusión, para que primero se persigan los bienes del deudor.",
-     "justificacion": "Correcta. El fiador reconvenido goza del beneficio de excusión, en virtud del cual puede exigir que antes de proceder contra él se persiga la deuda en los bienes del deudor principal, siempre que no lo haya renunciado ni se haya obligado como codeudor solidario (normas sobre el beneficio de excusión de la fianza del Código Civil)."
+     "justificacion": "Correcta. El fiador reconvenido goza del beneficio de excusión, en virtud del cual puede exigir que antes de proceder contra él se persiga la deuda en los bienes del deudor principal, siempre que no lo haya renunciado ni se haya obligado como codeudor solidario (arts. 2259 y 2260 del Código Civil)."
     },
     {
      "texto": "La nulidad de la fianza, porque el banco no notificó primero al deudor principal.",
@@ -2731,7 +2731,7 @@
    "opciones": [
     {
      "texto": "No, porque la cesión a un extraño requería la unanimidad del capital social.",
-     "justificacion": "Correcta. Las participaciones pueden cederse a terceros extraños a la compañía solo con el consentimiento unánime del capital social, y la cesión se instrumenta por escritura pública (art. 113 de la Ley de Compañías)."
+     "justificacion": "Correcta. Las participaciones pueden cederse a terceros extraños a la compañía solo con el consentimiento unánime del capital social, expresado en junta general o por otro medio fehaciente; desde la reforma de 2023 la cesión puede instrumentarse por documento privado (art. 113 de la Ley de Compañías)."
     },
     {
      "texto": "Sí, porque basta la aprobación de la mayoría del capital social.",
@@ -2791,23 +2791,23 @@
    "tema": "Sociedad por acciones simplificada",
    "resultado": "Resuelve un caso de sociedad por acciones simplificada razonando desde la norma aplicable.",
    "demanda": "Aplicar",
-   "enunciado": "Una emprendedora quiere constituir sola una sociedad con responsabilidad limitada, por documento privado y sin escritura pública. ¿Qué forma societaria se ajusta a su objetivo?",
+   "enunciado": "Una emprendedora quiere constituir, ella sola, una compañía de responsabilidad limitada. Un asesor le dice que la ley exige al menos dos socios. ¿Tiene razón el asesor?",
    "opciones": [
     {
-     "texto": "La sociedad por acciones simplificada, que admite un único accionista.",
-     "justificacion": "Correcta. La sociedad por acciones simplificada puede constituirse por una o varias personas mediante trámite en línea o documento privado, con responsabilidad limitada a sus aportes (reformas a la Ley de Compañías introducidas por la Ley Orgánica de Emprendimiento e Innovación, 2020)."
+     "texto": "No: desde 2023 la limitada puede constituirse por acto unilateral.",
+     "justificacion": "Correcta. La compañía de responsabilidad limitada se puede constituir mediante contrato o acto unilateral y puede subsistir con un solo socio (art. 92 de la Ley de Compañías, reformado por la Ley Reformatoria a la Ley de Compañías para la Optimización e Impulso Empresarial y para el Fomento del Gobierno Corporativo, R.O. Suplemento 269, 15 de marzo de 2023)."
     },
     {
-     "texto": "La compañía en nombre colectivo, que puede constituirse con un solo socio.",
-     "justificacion": "Incorrecta. Requiere dos o más socios y estos responden solidaria e ilimitadamente."
+     "texto": "Sí: la limitada exige pluralidad de socios desde su constitución.",
+     "justificacion": "Incorrecta. La reforma de 2023 admite la constitución unipersonal (art. 92)."
     },
     {
-     "texto": "La compañía anónima, que puede constituirse por documento privado.",
-     "justificacion": "Incorrecta. La anónima se constituye por escritura pública."
+     "texto": "Sí, aunque puede quedar con un solo socio después de constituida.",
+     "justificacion": "Incorrecta. No solo puede subsistir con un socio: también puede constituirse con uno solo (art. 92)."
     },
     {
-     "texto": "La compañía de responsabilidad limitada, que admite un socio único.",
-     "justificacion": "Incorrecta. La limitada exige pluralidad de socios."
+     "texto": "No, pero solo si la constituye como sociedad por acciones simplificada.",
+     "justificacion": "Incorrecta. La SAS no es la única opción unipersonal; la limitada también la admite (art. 92)."
     }
    ],
    "correcta": 0,
@@ -2859,7 +2859,7 @@
    "opciones": [
     {
      "texto": "Como compraventa, porque se atiende a la esencia económica y no a la denominación.",
-     "justificacion": "Correcta. Cuando el hecho generador consista en un acto jurídico, se calificará conforme a su verdadera esencia y naturaleza jurídica, cualquiera que sea la forma elegida o la denominación utilizada por los interesados (art. 17 del Código Tributario)."
+     "justificacion": "Correcta. Cuando el hecho generador consista en un acto jurídico, se calificará conforme a su verdadera esencia y naturaleza jurídica, cualquiera que sea la forma elegida o la denominación utilizada por los interesados (art. 17 del Código Orgánico Tributario)."
     },
     {
      "texto": "Como donación, porque la administración debe respetar la voluntad declarada por las partes.",
@@ -2891,7 +2891,7 @@
    "opciones": [
     {
      "texto": "Como responsable del tributo, porque como agente debía retener y no lo hizo.",
-     "justificacion": "Correcta. Los agentes de retención son responsables del tributo que debieron retener; si no lo hacen, responden solidariamente con el contribuyente, sin perjuicio de su derecho de repetición (art. 29 num. 1 y art. 30 del Código Tributario)."
+     "justificacion": "Correcta. Los agentes de retención son responsables del tributo que debieron retener; si no lo hacen, responden solidariamente con el contribuyente, sin perjuicio de su derecho de repetición (art. 29 num. 1 y art. 30 del Código Orgánico Tributario)."
     },
     {
      "texto": "No responde, porque el contribuyente es el único obligado al pago del impuesto.",
@@ -2923,7 +2923,7 @@
    "opciones": [
     {
      "texto": "El reclamo es extemporáneo, porque el término para presentarlo es de veinte días.",
-     "justificacion": "Correcta. Los contribuyentes pueden presentar reclamo ante la autoridad tributaria dentro del plazo de veinte días contados desde el día hábil siguiente al de la notificación del acto (art. 115 del Código Tributario)."
+     "justificacion": "Correcta. Los contribuyentes pueden presentar reclamo ante la autoridad tributaria dentro del plazo de veinte días contados desde el día hábil siguiente al de la notificación del acto (art. 115 del Código Orgánico Tributario)."
     },
     {
      "texto": "El reclamo es oportuno, porque el término para reclamar es de sesenta días.",
@@ -2955,7 +2955,7 @@
    "opciones": [
     {
      "texto": "No, porque las normas sobre tributos anuales rigen desde el siguiente año calendario.",
-     "justificacion": "Correcta. Las normas que se refieren a tributos cuya determinación o liquidación deban realizarse por períodos anuales se aplican desde el primer día del siguiente año calendario (art. 11 del Código Tributario), lo que concreta la irretroactividad tributaria (art. 300 de la Constitución)."
+     "justificacion": "Correcta. Las normas que se refieren a tributos cuya determinación o liquidación deban realizarse por períodos anuales se aplican desde el primer día del siguiente año calendario (art. 11 del Código Orgánico Tributario), lo que concreta la irretroactividad tributaria (art. 300 de la Constitución)."
     },
     {
      "texto": "Sí, porque las leyes rigen desde su publicación en el Registro Oficial.",

@@ -2,13 +2,13 @@
  "id": "pack-005",
  "titulo": "Paquete 5 · 30 preguntas nuevas (Administrativo, Familia, Procesal)",
  "bibliografia": {
-  "CC": "Congreso Nacional del Ecuador. (2005). Código Civil (Codificación). Registro Oficial Suplemento 46, 24 de junio de 2005. https://www.registroficial.gob.ec/",
+  "CC": "Congreso Nacional del Ecuador. (2005). Código Civil (Codificación 2005-010). Registro Oficial Suplemento 46, 24 de junio de 2005. Texto vigente con sus reformas, entre ellas la Ley Reformatoria de 2015 (R.O. 526-2S, 19 de junio de 2015); última actualización: Segundo Suplemento del R.O. 61, 17 de junio de 2025. https://www.gob.ec/regulaciones/codigo-civil-codificacion-no-2005-010",
   "CCE2815": "Corte Constitucional del Ecuador. (2021). Sentencia No. 28-15-IN/21 (preferencia materna en la tenencia). https://www.corteconstitucional.gob.ec/",
-  "COA": "Asamblea Nacional del Ecuador. (2017). Código Orgánico Administrativo. Registro Oficial Segundo Suplemento 31, 7 de julio de 2017. https://www.registroficial.gob.ec/",
-  "COFJ": "Asamblea Nacional del Ecuador. (2009). Código Orgánico de la Función Judicial. Registro Oficial Suplemento 544, 9 de marzo de 2009. https://www.funcionjudicial.gob.ec/",
-  "COGEP": "Asamblea Nacional del Ecuador. (2015). Código Orgánico General de Procesos. Registro Oficial Suplemento 506, 22 de mayo de 2015. https://www.funcionjudicial.gob.ec/",
-  "CONA": "Congreso Nacional del Ecuador. (2003). Código de la Niñez y Adolescencia. Registro Oficial 737, 3 de enero de 2003. https://www.registroficial.gob.ec/",
-  "CRE": "Asamblea Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449, 20 de octubre de 2008. https://www.asambleanacional.gob.ec/"
+  "COA": "Asamblea Nacional del Ecuador. (2017). Código Orgánico Administrativo. Registro Oficial Segundo Suplemento 31, 7 de julio de 2017. Última reforma: 13 de octubre de 2025. https://lotaip.bomberosquito.gob.ec/transparencia/2026/archivos/coa26.pdf",
+  "COFJ": "Asamblea Nacional del Ecuador. (2009). Código Orgánico de la Función Judicial. Registro Oficial Suplemento 544, 9 de marzo de 2009. Reformado, entre otras, por la Ley Orgánica Reformatoria de Varios Cuerpos Legales para la Agilización de la Adopción (R.O. 347, 14 de agosto de 2026). https://www.funcionjudicial.gob.ec/",
+  "COGEP": "Asamblea Nacional del Ecuador. (2015). Código Orgánico General de Procesos. Registro Oficial Suplemento 506, 22 de mayo de 2015. Reformado, entre otras, por la Ley Orgánica Reformatoria del COGEP (R.O. Suplemento 517, 26 de junio de 2019); última reforma consultada: Cuarto Suplemento del R.O. 140, 7 de octubre de 2025. https://portal.compraspublicas.gob.ec/sercop/wp-content/uploads/2025/11/CODIGO-ORGANICO-GENERAL-DE-PROCESOS-COGEP.pdf",
+  "CONA": "Congreso Nacional del Ecuador. (2003). Código de la Niñez y Adolescencia (Ley 100). Registro Oficial 737, 3 de enero de 2003. Última reforma: Ley Orgánica Reformatoria de Varios Cuerpos Legales para la Agilización de la Adopción, R.O. 347, 14 de agosto de 2026. https://www.registroficial.gob.ec/",
+  "CRE": "Asamblea Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449, 20 de octubre de 2008 (con las enmiendas posteriores, incluidas las aprobadas en el referéndum de 2024). https://www.asambleanacional.gob.ec/"
  },
  "preguntas": [
   {
@@ -471,8 +471,8 @@
    "enunciado": "Ana y Jorge, sin hijos menores ni dependientes, deciden divorciarse de mutuo acuerdo. ¿Ante quién pueden tramitarlo?",
    "opciones": [
     {
-     "texto": "Ante notario, por no tener hijos menores ni dependientes.",
-     "justificacion": "Correcta. El divorcio por mutuo consentimiento de cónyuges sin hijos menores de edad o bajo su dependencia puede tramitarse ante notario (Ley Notarial), además de la vía judicial."
+     "texto": "Ante notario, mediante el trámite notarial de mutuo acuerdo.",
+     "justificacion": "Correcta. El divorcio por mutuo consentimiento puede tramitarse ante notario (art. 18 num. 22 de la Ley Notarial), además de la vía judicial; desde la reforma de 2019 procede incluso con hijos menores o dependientes, si su tenencia, alimentos y visitas ya se resolvieron judicialmente o por acta de mediación."
     },
     {
      "texto": "Solo ante la jueza o el juez de familia del domicilio de cualquiera de ellos.",

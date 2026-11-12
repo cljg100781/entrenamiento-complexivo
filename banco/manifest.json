@@ -1,53 +1,53 @@
 {
  "version": 1,
- "actualizado": "2026-11-10",
+ "actualizado": "2026-11-11",
  "paquetes": [
   {
    "id": "pack-001",
    "archivo": "pack-001.json",
-   "version": 2,
+   "version": 3,
    "titulo": "Paquete 1 · 42 preguntas (octubre 2026)",
    "preguntas": 42
   },
   {
    "id": "pack-002",
    "archivo": "pack-002.json",
-   "version": 2,
+   "version": 3,
    "titulo": "Paquete 2 · 40 preguntas de alta dificultad",
    "preguntas": 40
   },
   {
    "id": "pack-003",
    "archivo": "pack-003.json",
-   "version": 1,
+   "version": 2,
    "titulo": "Paquete 3 · 53 preguntas de Derecho Procesal General",
    "preguntas": 53
   },
   {
    "id": "pack-004",
    "archivo": "pack-004.json",
-   "version": 1,
+   "version": 2,
    "titulo": "Paquete 4 · 50 preguntas de las evaluaciones UTE",
    "preguntas": 50
   },
   {
    "id": "pack-005",
    "archivo": "pack-005.json",
-   "version": 1,
+   "version": 2,
    "titulo": "Paquete 5 · 30 preguntas nuevas (Administrativo, Familia, Procesal)",
    "preguntas": 30
   },
   {
    "id": "pack-006",
    "archivo": "pack-006.json",
-   "version": 1,
+   "version": 2,
    "titulo": "Paquete 6 · 331 preguntas depuradas del archivo del estudiante",
    "preguntas": 331
   },
   {
    "id": "pack-007",
    "archivo": "pack-007.json",
-   "version": 1,
+   "version": 2,
    "titulo": "Paquete 7 · 100 casos de razonamiento jurídico",
    "preguntas": 100
   }

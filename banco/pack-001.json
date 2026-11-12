@@ -2,16 +2,16 @@
  "id": "pack-001",
  "titulo": "Paquete 1 · 42 preguntas (octubre 2026)",
  "bibliografia": {
-  "CC": "Congreso Nacional del Ecuador. (2005). Código Civil (Codificación). Registro Oficial Suplemento 46, 24 de junio de 2005. https://www.registroficial.gob.ec/",
-  "COGEP": "Asamblea Nacional del Ecuador. (2015). Código Orgánico General de Procesos. Registro Oficial Suplemento 506, 22 de mayo de 2015. https://www.funcionjudicial.gob.ec/",
-  "COIP": "Asamblea Nacional del Ecuador. (2014). Código Orgánico Integral Penal. Registro Oficial Suplemento 180, 10 de febrero de 2014. https://www.registroficial.gob.ec/",
-  "CRE": "Asamblea Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449, 20 de octubre de 2008. https://www.asambleanacional.gob.ec/",
-  "CT": "Congreso Nacional del Ecuador. (2005). Código del Trabajo (Codificación). Registro Oficial Suplemento 167, 16 de diciembre de 2005. https://www.trabajo.gob.ec/",
-  "CTRIB": "Congreso Nacional del Ecuador. (2005). Código Tributario (Codificación). Registro Oficial Suplemento 38, 14 de junio de 2005. https://www.sri.gob.ec/",
+  "CC": "Congreso Nacional del Ecuador. (2005). Código Civil (Codificación 2005-010). Registro Oficial Suplemento 46, 24 de junio de 2005. Texto vigente con sus reformas, entre ellas la Ley Reformatoria de 2015 (R.O. 526-2S, 19 de junio de 2015); última actualización: Segundo Suplemento del R.O. 61, 17 de junio de 2025. https://www.gob.ec/regulaciones/codigo-civil-codificacion-no-2005-010",
+  "COGEP": "Asamblea Nacional del Ecuador. (2015). Código Orgánico General de Procesos. Registro Oficial Suplemento 506, 22 de mayo de 2015. Reformado, entre otras, por la Ley Orgánica Reformatoria del COGEP (R.O. Suplemento 517, 26 de junio de 2019); última reforma consultada: Cuarto Suplemento del R.O. 140, 7 de octubre de 2025. https://portal.compraspublicas.gob.ec/sercop/wp-content/uploads/2025/11/CODIGO-ORGANICO-GENERAL-DE-PROCESOS-COGEP.pdf",
+  "COIP": "Asamblea Nacional del Ecuador. (2014). Código Orgánico Integral Penal. Registro Oficial Suplemento 180, 10 de febrero de 2014. Texto actualizado al 13 de octubre de 2025 (última reforma incorporada: Tercer Suplemento del R.O. 68, 26 de junio de 2025). https://legalcloud.ec/wp-content/uploads/2025/10/COIP-13102025-Digital.pdf",
+  "CRE": "Asamblea Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449, 20 de octubre de 2008 (con las enmiendas posteriores, incluidas las aprobadas en el referéndum de 2024). https://www.asambleanacional.gob.ec/",
+  "CT": "Congreso Nacional del Ecuador. (2005). Código del Trabajo (Codificación 2005-017). Registro Oficial Suplemento 167, 16 de diciembre de 2005. Texto vigente con sus reformas; última reforma: 9 de abril de 2026. https://portal.compraspublicas.gob.ec/sercop/wp-content/uploads/2026/08/CODIGO-DEL-TRABAJO.pdf",
+  "CTRIB": "Congreso Nacional del Ecuador. (2005). Código Orgánico Tributario (antes Código Tributario, Codificación 2005-09). Registro Oficial Suplemento 38, 14 de junio de 2005; reformado y renombrado por la Ley Orgánica Reformatoria al Código Tributario, Noveno Suplemento del R.O. 392, 19 de octubre de 2026. https://www.gob.ec/regulaciones/codigo-organico-tributario",
   "HCCH": "Conferencia de La Haya de Derecho Internacional Privado. (1961). Convenio por el que se suprime el requisito de legalización de los documentos públicos extranjeros. https://www.hcch.net/es/instruments/conventions/full-text/?cid=41",
-  "LAM": "Congreso Nacional del Ecuador. (2006). Ley de Arbitraje y Mediación (Codificación). Registro Oficial 417, 14 de diciembre de 2006. https://www.registroficial.gob.ec/",
-  "LC": "Congreso Nacional del Ecuador. (1999). Ley de Compañías (Codificación). Registro Oficial 312, 5 de noviembre de 1999. https://www.supercias.gob.ec/",
-  "LOGJCC": "Asamblea Nacional del Ecuador. (2009). Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional. Registro Oficial Segundo Suplemento 52, 22 de octubre de 2009. https://www.corteconstitucional.gob.ec/"
+  "LAM": "Congreso Nacional del Ecuador. (2006). Ley de Arbitraje y Mediación (Codificación 2006-014). Registro Oficial 417, 14 de diciembre de 2006, con sus reformas. https://oas.org/es/sla/ddi/docs/Ecuador%20-%20Ley%20de%20Arbitraje%20y%20Mediaci%C3%B3n.pdf",
+  "LC": "Congreso Nacional del Ecuador. (1999). Ley de Compañías (Codificación 1999-031). Registro Oficial 312, 5 de noviembre de 1999. Reformada por la Ley Reformatoria a la Ley de Compañías para la Optimización e Impulso Empresarial y para el Fomento del Gobierno Corporativo (R.O. Suplemento 269, 15 de marzo de 2023); última reforma: 3 de octubre de 2025. https://www.eeasa.com.ec/content/uploads/2025/12/LEY-DE-COMPANIAS.pdf",
+  "LOGJCC": "Asamblea Nacional del Ecuador. (2009). Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional. Registro Oficial Segundo Suplemento 52, 22 de octubre de 2009. Última reforma: R.O. Suplemento 245, 7 de febrero de 2023. https://lotaip.bomberosquito.gob.ec/transparencia/2026/archivos/logjcc26.pdf"
  },
  "preguntas": [
   {
@@ -1207,11 +1207,11 @@
    "tema": "Sujeto pasivo",
    "resultado": "Distingue contribuyente y responsable.",
    "demanda": "Comprender",
-   "enunciado": "Una empresa retiene el impuesto a la renta de sus proveedores y lo deposita al fisco. Según el Código Tributario, la empresa es:",
+   "enunciado": "Una empresa retiene el impuesto a la renta de sus proveedores y lo deposita al fisco. Según el Código Orgánico Tributario, la empresa es:",
    "opciones": [
     {
      "texto": "Responsable, como agente de retención.",
-     "justificacion": "Correcta. Los agentes de retención son responsables (arts. 24 y 29 del Código Tributario)."
+     "justificacion": "Correcta. Los agentes de retención son responsables (arts. 24 y 29 del Código Orgánico Tributario)."
     },
     {
      "texto": "Contribuyente del impuesto retenido.",
@@ -1238,11 +1238,11 @@
    "tema": "Reclamo administrativo",
    "resultado": "Aplica los plazos del reclamo tributario.",
    "demanda": "Recordar",
-   "enunciado": "Un contribuyente quiere impugnar un acto de determinación tributaria. Según el Código Tributario, el reclamo administrativo debe presentarse dentro de:",
+   "enunciado": "Un contribuyente quiere impugnar un acto de determinación tributaria. Según el Código Orgánico Tributario, el reclamo administrativo debe presentarse dentro de:",
    "opciones": [
     {
      "texto": "Veinte días desde la notificación.",
-     "justificacion": "Correcta. Es el plazo del art. 115 del Código Tributario."
+     "justificacion": "Correcta. Es el plazo del art. 115 del Código Orgánico Tributario."
     },
     {
      "texto": "Cinco años desde la notificación del acto.",
